@@ -1,0 +1,58 @@
+{
+  "Metadata": "value",
+  "Caller": "William Chapin",
+  "Receiver": "Carl from Family Practice (Kumar)",
+  "Timestamp": "2023-11-01 13:38:59",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hello, my name is William Chapin. I called in for a prescription refill and I got a call back from your office saying that they can't refill it because I haven't been there in about a year. So I need, I guess, to schedule an appointment because I need to get that prescription filled.",
+      "ReceiverContent": "Good afternoon, this is Carl from Family Practice. How may I assist you today?",
+      "Timestamp": "2023-11-01 13:38:59"
+    },
+    "Seq2": {
+      "CallerContent": "Yes, please.",
+      "ReceiverContent": "Okay, sure. So would you like to make an appointment?",
+      "Timestamp": "2023-11-01 13:39:18"
+    },
+    "Seq3": {
+      "CallerContent": "In person, please.",
+      "ReceiverContent": "Okay, one moment. Let me check on the next available slot for you. Would you like to meet the doctor in person or would you like to make a tele-visit?",
+      "Timestamp": "2023-11-01 13:39:35"
+    },
+    "Seq4": {
+      "CallerContent": "Yeah, that should work. That's your soonest available?",
+      "ReceiverContent": "Okay, sure. One moment. We do have a slot available on 7th of November at 10 a.m. Will that be okay with you?",
+      "Timestamp": "2023-11-01 13:39:59"
+    },
+    "Seq5": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Could I take your appointment? On the date of birth?",
+      "Timestamp": "2023-11-01 13:41:26"
+    },
+    "Seq6": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Your first name is William, am I correct?",
+      "Timestamp": "2023-11-01 13:41:25"
+    },
+    "Seq7": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Okay. So just to confirm, I have fixed an appointment on 7th of November at 10 a.m. to meet the doctor in person.",
+      "Timestamp": "2023-11-01 13:41:26"
+    },
+    "Seq8": {
+      "CallerContent": "No, that should be good for now. Thanks.",
+      "ReceiverContent": "Is there anything else that I can answer to it?",
+      "Timestamp": "2023-11-01 13:45:37"
+    },
+    "Seq9": {
+      "CallerContent": "All right. Thank you. Goodbye.",
+      "ReceiverContent": "Thank you for calling. Good luck with your appointment at Family Practice. You have a great day.",
+      "Timestamp": "2023-11-01 13:49:49"
+    },
+    "Seq10": {
+      "CallerContent": "Bye.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2023-11-01 13:51:51"
+    }
+  }
+}

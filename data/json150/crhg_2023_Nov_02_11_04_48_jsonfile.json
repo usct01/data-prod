@@ -1,0 +1,87 @@
+{
+  "Metadata": "value",
+  "Receiver": "Dominic at Crofton Family Practice",
+  "Timestamp": "2023-11-02 11:04:48",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. Thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-11-02 11:04:48"
+    },
+    "Seq2": {
+      "CallerContent": "Can I make an appointment, please?",
+      "Timestamp": "2023-11-02 11:04:53"
+    },
+    "Seq3": {
+      "ReceiverContent": "Yeah, sure. Kindly give me a minute. Let me check the next available slot for you.",
+      "Timestamp": "2023-11-02 11:04:57"
+    },
+    "Seq4": {
+      "CallerContent": "Okay.",
+      "Timestamp": "2023-11-02 11:05:02"
+    },
+    "Seq5": {
+      "CallerContent": "And it can be a tele-visit too, but just as quick as soon as possible is what I prefer.",
+      "Timestamp": "2023-11-02 11:05:09"
+    },
+    "Seq6": {
+      "ReceiverContent": "Yeah, I got it. Kindly give me a minute.",
+      "Timestamp": "2023-11-02 11:05:18"
+    },
+    "Seq7": {
+      "ReceiverContent": "I think we do have a slot by 30th of November at 2:45 p.m.",
+      "Timestamp": "2023-11-02 11:05:27"
+    },
+    "Seq8": {
+      "CallerContent": "Yeah, the phone's breaking up so bad. I don't know what's going on. I'm sorry. Can you say that again?",
+      "Timestamp": "2023-11-02 11:05:36"
+    },
+    "Seq9": {
+      "ReceiverContent": "Yep. We have a slot by 30th of November at 2:45 p.m.",
+      "Timestamp": "2023-11-02 11:05:45"
+    },
+    "Seq10": {
+      "CallerContent": "Can you just make the appointment, and I'll look online to see what it says. I don't know why the phone is not working. Hello?",
+      "Timestamp": "2023-11-02 11:05:52"
+    },
+    "Seq11": {
+      "CallerContent": "Yeah, can you hear me now? I can hear every now and then. Okay, now I feel like I can kind of hear now maybe.",
+      "Timestamp": "2023-11-02 11:06:07"
+    },
+    "Seq12": {
+      "ReceiverContent": "Yes, may I have your data first, please?",
+      "Timestamp": "2023-11-02 11:06:18"
+    },
+    "Seq13": {
+      "CallerContent": "Jen, can you hear me?",
+      "Timestamp": "2023-11-02 11:06:27"
+    },
+    "Seq14": {
+      "ReceiverContent": "Yeah, it's working. Yeah, it's Tiffany Melanie. Okay, Watson. Yes.",
+      "Timestamp": "2023-11-02 11:06:36"
+    },
+    "Seq15": {
+      "ReceiverContent": "Melanie Watson. Yeah, I got it. So just to confirm, I fixed an appointment on Thursday, which is 30th of November at 2:45 p.m. for a virtual visit appointment.",
+      "Timestamp": "2023-11-02 11:06:46"
+    },
+    "Seq16": {
+      "ReceiverContent": "May I know the reason for the visit? Maybe discuss lab results?",
+      "Timestamp": "2023-11-02 11:06:56"
+    },
+    "Seq17": {
+      "CallerContent": "Yep, it's a follow-up for a lab.",
+      "Timestamp": "2023-11-02 11:07:05"
+    },
+    "Seq18": {
+      "ReceiverContent": "Okay, is there anything else that I missed?",
+      "Timestamp": "2023-11-02 11:07:16"
+    },
+    "Seq19": {
+      "CallerContent": "Nope, that's it. Thank you for calling Crofton Family Practice, and you have a great day.",
+      "Timestamp": "2023-11-02 11:07:25"
+    },
+    "Seq20": {
+      "ReceiverContent": "Hi, yeah.",
+      "Timestamp": "2023-11-02 11:07:30"
+    }
+  }
+}

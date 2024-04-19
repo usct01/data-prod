@@ -1,0 +1,48 @@
+{
+  "Metadata": "value",
+  "Caller": "Perreault",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-11-01 11:03:05",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Good morning, this is Dr. Perreault. I have an appointment. I wanted to confirm it. Is it for this Friday or next Monday?",
+      "ReceiverContent": "Good morning, thanks for calling Carole from Family Practice. How may I assist you today?",
+      "Timestamp": "2023-11-01 11:03:05"
+    },
+    "Seq2": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Sure, one moment. Let me check on it.",
+      "Timestamp": "2023-11-01 11:03:14"
+    },
+    "Seq3": {
+      "CallerContent": "3-15-80.",
+      "ReceiverContent": "Could I take your date of birth?",
+      "Timestamp": "2023-11-01 11:03:18"
+    },
+    "Seq4": {
+      "CallerContent": "Oh, 6th of November?",
+      "ReceiverContent": "Your next appointment is going to be on 6th of November at 9 a.m.",
+      "Timestamp": "2023-11-01 11:03:37"
+    },
+    "Seq5": {
+      "CallerContent": "Okay, great. And what do you have listed for the purpose of the visit?",
+      "ReceiverContent": "This is for meet the doctor in person.",
+      "Timestamp": "2023-11-01 11:00:53"
+    },
+    "Seq6": {
+      "CallerContent": "Not a tele-visit, in person.",
+      "ReceiverContent": "This is going to be meet the doctor in person. Yes, only in person, not for television. Yes, it's for an office visit.",
+      "Timestamp": "2023-11-01 11:01:03"
+    },
+    "Seq7": {
+      "CallerContent": "Okay, great. Thank you. 9 a.m. Okay, bye-bye. Yes, correct.",
+      "ReceiverContent": "In person.",
+      "Timestamp": "2023-11-01 11:01:15"
+    },
+    "Seq8": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Thank you.",
+      "Timestamp": "2023-11-01 11:01:20"
+    }
+  }
+}

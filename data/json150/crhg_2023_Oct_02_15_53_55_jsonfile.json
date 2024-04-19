@@ -1,0 +1,76 @@
+{
+  "Metadata": "value",
+  "Receiver": "Dominic from Crofton Family Practice",
+  "Timestamp": "2023-10-02 15:53:55",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon, thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-10-02 15:54:05"
+    },
+    "Seq2": {
+      "CallerContent": "Yes, good afternoon, Dominic. I'd like to schedule an appointment with Dr. Williams for my annual physical.",
+      "ReceiverContent": "For a physical? I got you, ma'am. Kindly give me a minute. I think we do have a slot available by 23rd of October at 11 a.m. Is it okay with you, ma'am?",
+      "Timestamp": "2023-10-02 15:54:20"
+    },
+    "Seq3": {
+      "CallerContent": "23rd? What day of the week is that? Monday?",
+      "ReceiverContent": "Yes, that's correct.",
+      "Timestamp": "2023-10-02 15:54:32"
+    },
+    "Seq4": {
+      "CallerContent": "Okay, the 23rd at 11 a.m.",
+      "ReceiverContent": "May I know your date of birth, please?",
+      "Timestamp": "2023-10-02 15:54:44"
+    },
+    "Seq5": {
+      "CallerContent": "4-16-60.",
+      "ReceiverContent": "Okay, Lola Ferguson, is that correct?",
+      "Timestamp": "2023-10-02 15:54:57"
+    },
+    "Seq6": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "I got you, it's for a physical, is that correct, ma'am?",
+      "Timestamp": "2023-10-02 15:55:10"
+    },
+    "Seq7": {
+      "CallerContent": "Yes, for a physical, yeah, physical.",
+      "ReceiverContent": "So just to confirm, I fixed an appointment on Monday, which is 23rd of October at 11 a.m. for a physical. Is that okay with you, ma'am?",
+      "Timestamp": "2023-10-02 15:55:25"
+    },
+    "Seq8": {
+      "CallerContent": "Yes, it is.",
+      "ReceiverContent": "Is there anything else that I missed you with, ma'am?",
+      "Timestamp": "2023-10-02 15:55:38"
+    },
+    "Seq9": {
+      "CallerContent": "No, that's it, thank you.",
+      "ReceiverContent": "Thank you for calling from Family Breakfast, may I have a great day.",
+      "Timestamp": "2023-10-02 15:55:50"
+    },
+    "Seq10": {
+      "CallerContent": "Okay, quick question, quick question, quick question, quick question.",
+      "ReceiverContent": "Yeah, yeah.",
+      "Timestamp": "2023-10-02 15:56:02"
+    },
+    "Seq11": {
+      "CallerContent": "Because it's a physical, she normally does blood work.",
+      "ReceiverContent": "Yeah, and the same day, it's on Monday, and the lab is also open.",
+      "Timestamp": "2023-10-02 15:56:15"
+    },
+    "Seq12": {
+      "CallerContent": "So I should be fasting?",
+      "ReceiverContent": "Yes, that's correct.",
+      "Timestamp": "2023-10-02 15:56:28"
+    },
+    "Seq13": {
+      "CallerContent": "Okay, all right, thank you.",
+      "ReceiverContent": "Yeah, bye-bye.",
+      "Timestamp": "2023-10-02 15:56:42"
+    },
+    "Seq14": {
+      "CallerContent": "All right, bye-bye. Bye-bye.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2023-10-02 15:56:55"
+    }
+  }
+}

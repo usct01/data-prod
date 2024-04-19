@@ -1,0 +1,53 @@
+{
+  "Metadata": "value",
+  "Caller": "Kort",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-10-02 10:06:19",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hello, I have to reschedule an appointment I have for tomorrow.",
+      "ReceiverContent": "Good morning, this is Kroff from Family Practice. How may I assist you today?",
+      "Timestamp": "2023-10-02 10:06:19"
+    },
+    "Seq2": {
+      "CallerContent": "At 4-2 of 81.",
+      "ReceiverContent": "Tomorrow, one moment. Could you help me, one moment please. Could you help me with your date of birth, please?",
+      "Timestamp": "2023-10-02 10:06:34"
+    },
+    "Seq3": {
+      "CallerContent": "Christopher? Yep, that's correct.",
+      "ReceiverContent": "Your last name is Kort and your first name is Chris or Christopher?",
+      "Timestamp": "2023-10-02 10:06:36"
+    },
+    "Seq4": {
+      "CallerContent": "Okay, one moment. Christopher Scott.",
+      "ReceiverContent": "No, no, your first name is Chris or Christopher?",
+      "Timestamp": "2023-10-02 10:06:50"
+    },
+    "Seq5": {
+      "CallerContent": "Yeah, I'd like to just do a rescheduling. I'd like to change it to a virtual visit, if possible, at some point.",
+      "ReceiverContent": "So, for an office visit, you have made an appointment tomorrow at 2.15 p.m. and the reason is going to be follow-up and flu shot, am I correct?",
+      "Timestamp": "2023-10-02 10:06:54"
+    },
+    "Seq6": {
+      "CallerContent": "No, no, no, I've already got my flu shot, so I'm good on that.",
+      "ReceiverContent": "Yes, one moment. Yes, I can change it to a tele-visit, but for the flu shot, we cannot make it for a virtual and you know why.",
+      "Timestamp": "2023-10-02 10:07:31"
+    },
+    "Seq7": {
+      "CallerContent": "Yeah, we can keep it as a tele-visit. That's fine. Yeah, if she can do that, sure.",
+      "ReceiverContent": "If you want to change it, I can change it for you.",
+      "Timestamp": "2023-10-02 10:07:24"
+    },
+    "Seq8": {
+      "CallerContent": "No, I think that's it.",
+      "ReceiverContent": "Yeah, thanks for calling Crofton Family Practice. You have a great day.",
+      "Timestamp": "2023-10-02 10:07:43"
+    },
+    "Seq9": {
+      "CallerContent": "Thank you, you too.",
+      "ReceiverContent": "Yeah, thanks for calling Crofton Family Practice. You have a great day.",
+      "Timestamp": "2023-10-02 10:07:47"
+    }
+  }
+}

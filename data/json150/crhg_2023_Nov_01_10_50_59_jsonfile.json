@@ -1,0 +1,43 @@
+{
+  "Metadata": "value",
+  "Caller": "Bethany Blato",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-11-01 10:50:59",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Good morning. My name is Bethany Blato. I want to say at the end of August, beginning of September, I submitted the new patient paperwork. I knew that I had to wait a bit.",
+      "ReceiverContent": "Good morning. Thanks for calling to our family practice. How may I assist you today?",
+      "Timestamp": "2023-11-01 10:50:59"
+    },
+    "Seq2": {
+      "CallerContent": "Sure. One moment. I can check it for you. Could you take your date of birth?",
+      "ReceiverContent": "Your first name is Bethany, am I correct? Correct. Okay. One moment.",
+      "Timestamp": "2023-11-01 10:51:23"
+    },
+    "Seq3": {
+      "CallerContent": "Let's see here. Absolutely. Yep. It works for me.",
+      "ReceiverContent": "We do have a slot available on 13th of November at 9.30 a.m. Will that be okay with you?",
+      "Timestamp": "2023-11-01 10:52:57"
+    },
+    "Seq4": {
+      "CallerContent": "9.30 a.m. on 13th, correct?",
+      "ReceiverContent": "Yes, correct. It's Monday.",
+      "Timestamp": "2023-11-01 10:54:30"
+    },
+    "Seq5": {
+      "CallerContent": "Nope. Just that.",
+      "ReceiverContent": "Thanks for calling to our family practice. You have a great day.",
+      "Timestamp": "2023-11-01 10:55:40"
+    },
+    "Seq6": {
+      "CallerContent": "Thank you. You too.",
+      "ReceiverContent": "Thank you. Bye-bye.",
+      "Timestamp": "2023-11-01 10:56:43"
+    },
+    "Seq7": {
+      "CallerContent": "Bye-bye.",
+      "ReceiverContent": "Bye.",
+      "Timestamp": "2023-11-01 10:57:46"
+    }
+  }
+}

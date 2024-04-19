@@ -1,0 +1,43 @@
+{
+  "Metadata": "value",
+  "Caller": "Mr. Jones",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-11-01 14:29:13",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hey, Dominic. This is Mr. Jones calling. I have an appointment tomorrow with Dr. Williams for my annual physical.",
+      "ReceiverContent": "Good morning. Thanks for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-11-01 14:29:13"
+    },
+    "Seq2": {
+      "CallerContent": "I wanted to find out if I needed, if she was going to do any blood work when I came in and if I needed to fast.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-11-01 14:29:21"
+    },
+    "Seq3": {
+      "CallerContent": "My name is what?",
+      "ReceiverContent": "I'm sorry.",
+      "Timestamp": "2023-11-01 14:29:31"
+    },
+    "Seq4": {
+      "CallerContent": "Mr. Jones.",
+      "ReceiverContent": "Yeah. Can you give me a minute? Okay. Jones John. Correct. You need to fast, sir. Your appointment is on 11 a.m. If you want to take a blood work, you need to fast.",
+      "Timestamp": "2023-11-01 14:29:36"
+    },
+    "Seq5": {
+      "CallerContent": "Okay. Is she going to do blood work? That's my question.",
+      "ReceiverContent": "Yes.",
+      "Timestamp": "2023-11-01 14:29:52"
+    },
+    "Seq6": {
+      "CallerContent": "Okay. All right. All right. When I made the appointment the first time, nobody said anything about fasting, so I thought I'd double check. All right. So, I'll fast and I'll see you at 11 o'clock.",
+      "ReceiverContent": "Yeah, sure. Thanks for calling Crofton Family Practice and have a great day, sir.",
+      "Timestamp": "2023-11-01 14:29:58"
+    },
+    "Seq7": {
+      "CallerContent": "Bye-bye. Take care. Bye-bye.",
+      "ReceiverContent": "Yeah. Bye-bye.",
+      "Timestamp": "2023-11-01 14:30:11"
+    }
+  }
+}

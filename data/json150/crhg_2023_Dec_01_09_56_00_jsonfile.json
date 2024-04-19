@@ -1,0 +1,58 @@
+{
+  "Metadata": "value",
+  "Caller": "Bob Dart",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-01-12 09:56:00",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hey, good morning. It's Bob Dart calling for my wife, Penny Dart.",
+      "ReceiverContent": "Sure, one moment. For a televisit, you have to wait for more than 20 days. So for COVID, I can transfer you to the nurse and she could help you out with this.",
+      "Timestamp": "2023-01-12 09:56:05"
+    },
+    "Seq2": {
+      "CallerContent": "Sure. Thank you very much, Kumar.",
+      "ReceiverContent": "Stay online. Bye-bye.",
+      "Timestamp": "2023-01-12 09:56:50"
+    },
+    "Seq3": {
+      "CallerContent": "Your conversation is being recorded.",
+      "ReceiverContent": "This has been our same. How can I help you?",
+      "Timestamp": "2023-01-12 09:57:19"
+    },
+    "Seq4": {
+      "CallerContent": "Hey, good morning. It's Bob Dart calling for my wife, Penny, Penelope Dart. She's patient Dr. Williams.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-01-12 09:57:24"
+    },
+    "Seq5": {
+      "CallerContent": "Okay. She's not short of breath, but I'm just wondering if she needs a telehealth visit to get a prescription for Paxlovid.",
+      "ReceiverContent": "Okay. And she's not on any kind of blood thinner, is she?",
+      "Timestamp": "2023-01-12 09:58:07"
+    },
+    "Seq6": {
+      "CallerContent": "She is not. Okay. All right.",
+      "ReceiverContent": "So, yeah. We could just do a quick little nurse visit here with me and you and you kind of give me all the information I needed so there's no really need to see a doctor.",
+      "Timestamp": "2023-01-12 09:58:15"
+    },
+    "Seq7": {
+      "CallerContent": "Oh, great.",
+      "ReceiverContent": "So, yeah, Dr. Williams will agree with that. So, all right. And you said her oxygen. And I know for, you know, the oxygen level gets too low, you know, to take her. Right. To ER and all that. Okay. All right.",
+      "Timestamp": "2023-01-12 09:58:38"
+    },
+    "Seq8": {
+      "CallerContent": "CVS in Odenton.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-01-12 09:59:00"
+    },
+    "Seq9": {
+      "CallerContent": "Well, I tested my, I have a little bit of a scratchy throat. I tested myself just a little while ago. Why don't I go ahead and...",
+      "ReceiverContent": "A while ago with the weekend coming, why don't I go ahead and call in one for you as well just to have it on hand? Does that sound like a good... Okay.",
+      "Timestamp": "2023-01-12 09:59:10"
+    },
+    "Seq10": {
+      "CallerContent": "You're very welcome. You're very welcome. Bye-bye.",
+      "ReceiverContent": "Okay. Bye. Bye-bye.",
+      "Timestamp": "2023-01-12 09:59:19"
+    }
+  }
+}

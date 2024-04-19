@@ -1,0 +1,23 @@
+{
+  "Metadata": "value",
+  "Caller": "Shirley Jacobus",
+  "Receiver": "Crofton Family Practice (Dominic)",
+  "Timestamp": "2023-12-01 09:53:06",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes. Could I speak to Brandy, please?",
+      "ReceiverContent": "Sure. Kindly give me a minute. Let me transfer the call. Honey, have a great day.",
+      "Timestamp": "2023-12-01 09:53:08"
+    },
+    "Seq2": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Hello. You have reached the receptionist at Crofton Family Practice. Please leave your name, reason for calling, and your number so we can call you back as soon as we can.",
+      "Timestamp": "2023-12-01 09:53:57"
+    },
+    "Seq3": {
+      "CallerContent": "Yeah, this message is for Brandy. This is Shirley Jacobus, and I was in the other day and asked if you could ask Dr. Williams for the name of another...",
+      "ReceiverContent": "If you are experiencing a medical emergency, please hang up and dial 911. If you are calling after hours or on weekends, we have an answering service that you can call",
+      "Timestamp": "2023-12-01 09:54:30"
+    }
+  }
+}

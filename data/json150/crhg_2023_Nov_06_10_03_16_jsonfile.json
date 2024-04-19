@@ -1,0 +1,109 @@
+{
+  "Metadata": "value",
+  "Receiver": "Crawford Family Practice (Kumar)",
+  "Timestamp": "2023-11-06 10:03:16",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. Thanks for calling Crawford Family Practice. This is Kumar. How may I assist you today?",
+      "Timestamp": "2023-11-06 10:03:16"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, Kumar. May I speak to Brandy?",
+      "ReceiverContent": "Sure. One moment. Let me shout out to you to Brandy, and she could help you out with this. Please stay online.",
+      "Timestamp": "2023-11-06 10:04:25"
+    },
+    "Seq3": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "And if the call is not answered, kindly leave a voice message. They'll get back to you as soon as possible. Please stay online. You have a great day.",
+      "Timestamp": "2023-11-06 10:05:15"
+    },
+    "Seq4": {
+      "ReceiverContent": "Mm-hmm.",
+      "Timestamp": "2023-11-06 10:05:30"
+    },
+    "Seq5": {
+      "ReceiverContent": "Your conversation is being recorded. Hi, Van. Thank you for contacting Crawford Family Practice. Can you please hold for a few moments? I'm just with a patient. Sure. Okay. Thank you. I'll be right back on the line in just a moment or so.",
+      "Timestamp": "2023-11-06 10:06:10"
+    },
+    "Seq6": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Thank you so much, Van.",
+      "Timestamp": "2023-11-06 10:06:35"
+    },
+    "Seq7": {
+      "ReceiverContent": "Hi, Van. Thank you so much for holding. I do greatly apologize. How can I help you today?",
+      "Timestamp": "2023-11-06 10:07:02"
+    },
+    "Seq8": {
+      "CallerContent": "Hi, Brandy. This is Denise Banks. How you doing?",
+      "ReceiverContent": "Hi there to you, Ms. Banks. I'm so very happy to hear from you. How can I help you today, ma'am?",
+      "Timestamp": "2023-11-06 10:07:42"
+    },
+    "Seq9": {
+      "CallerContent": "Yeah, I've never got an email or anything.",
+      "ReceiverContent": "I'm sorry, Ms. Banks. Bear with me. What? Yes, ma'am? Oh, I apologize. Yes, ma'am. I have not had a chance to call her. Yeah, I'm sorry. I have four calls on hold. Yeah. Thank you, Ms. Cascade, and I'll be right there with you.",
+      "Timestamp": "2023-11-06 10:08:20"
+    },
+    "Seq10": {
+      "CallerContent": "Sorry about that, Ms. Banks. How can I help you today?",
+      "ReceiverContent": "Yeah, I have not gotten an email or anything. As far as the sedative for the MRI?",
+      "Timestamp": "2023-11-06 10:08:50"
+    },
+    "Seq11": {
+      "ReceiverContent": "I don't understand. Do you mean you haven't gotten anything for the sedative for the MRI?",
+      "Timestamp": "2023-11-06 10:09:25"
+    },
+    "Seq12": {
+      "ReceiverContent": "Okay, so I have, honestly, I have no other parts of that. I have already spoken to Dr. Williams about that as well as given her the email. I actually printed it out, highlighted it, and gave that to her.",
+      "Timestamp": "2023-11-06 10:09:45"
+    },
+    "Seq13": {
+      "ReceiverContent": "I do greatly apologize, ma'am, but there's not much more that I could do at this point. It would have to come strictly. Okay, so I have not gotten anything from the doctor.",
+      "Timestamp": "2023-11-06 10:10:10"
+    },
+    "Seq14": {
+      "ReceiverContent": "So the only thing I could do is give her a message, again, asking if there was something that, you know, she would prefer at this point to do.",
+      "Timestamp": "2023-11-06 10:10:40"
+    },
+    "Seq15": {
+      "CallerContent": "Yeah, I went yesterday. I couldn't do it. So I got another appointment tomorrow.",
+      "ReceiverContent": "Yes, ma'am. That's why I said I'm very sorry. I mean, I printed out the email. I've spoken with her about it already. You know, I've already given her the heads up, more or less. I think we're just kind of waiting on an answer back.",
+      "Timestamp": "2023-11-06 10:11:15"
+    },
+    "Seq16": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "I don't really know. She hasn't said anything to me about that quite yet.",
+      "Timestamp": "2023-11-06 10:11:35"
+    },
+    "Seq17": {
+      "ReceiverContent": "But, again, the only thing I would be able to do at this point is I can send you on in to our nurse, Amy, to see if maybe there's anything Amy was able to do instead.",
+      "Timestamp": "2023-11-06 10:12:00"
+    },
+    "Seq18": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Okay, honey. Thank you. I'm sorry. I know. I'm sorry. We'll do here what we can, okay?",
+      "Timestamp": "2023-11-06 10:12:20"
+    },
+    "Seq19": {
+      "CallerContent": "It's MRI, and it's not. Send me to Amy.",
+      "ReceiverContent": "Yes, ma'am. No problem. Thanks. Have a good day, though.",
+      "Timestamp": "2023-11-06 10:12:40"
+    },
+    "Seq20": {
+      "ReceiverContent": "Hello.",
+      "Timestamp": "2023-11-06 10:12:55"
+    },
+    "Seq21": {
+      "ReceiverContent": "You have reached the nurse line. If this is an emergency, please hang up and dial 911.",
+      "Timestamp": "2023-11-06 10:13:15"
+    },
+    "Seq22": {
+      "ReceiverContent": "If you're calling for a prescription refill, please leave a detailed message with the drug name, the milligrams, and your pharmacy information. Please allow 72 hours.",
+      "Timestamp": "2023-11-06 10:13:30"
+    },
+    "Seq23": {
+      "ReceiverContent": "Leave us a message, and we'll get back to you as soon as we can. Thank you, and have a good day.",
+      "Timestamp": "2023-11-06 10:13:45"
+    }
+  }
+}

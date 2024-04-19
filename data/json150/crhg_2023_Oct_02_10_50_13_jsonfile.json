@@ -1,0 +1,83 @@
+{
+  "Metadata": "value",
+  "Caller": "Mitch Foe",
+  "Receiver": "Nurse Amy",
+  "Timestamp": "2023-10-02 10:50:13",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, I'm calling in regards to a prescription.",
+      "ReceiverContent": "Your conversation is being recorded. Hi, this is the nurse. Amy, how can I help you?",
+      "Timestamp": "2023-10-02 10:50:13"
+    },
+    "Seq2": {
+      "CallerContent": "I'm a patient of Dr. Williams and I called into Walgreens on Wednesday to have it filled",
+      "ReceiverContent": "Was that the Simivastatin?",
+      "Timestamp": "2023-10-02 10:50:22"
+    },
+    "Seq3": {
+      "CallerContent": "and I couldn't get through, but they're still working on it, which means there was no prescriptions left.",
+      "ReceiverContent": "Yeah, they requested the Simivastatin 20 milligrams on September 28th. Okay. Okay. So you sent that over for them. This was to the Walgreens.",
+      "Timestamp": "2023-10-02 10:50:40"
+    },
+    "Seq4": {
+      "CallerContent": "So they had to call you guys, so normally that's the holdup. I wanted to know if you guys have gotten a request.",
+      "ReceiverContent": "That was last. Yep, that was Thursday. Yep, so that was the day that, have you talked to them, sent to them, and they don't have it ready?",
+      "Timestamp": "2023-10-02 10:50:55"
+    },
+    "Seq5": {
+      "CallerContent": "28th was what, Thursday?",
+      "ReceiverContent": "Yep, and you never get through. Right, you are. I also have pharmacy through them and a couple patients here and apparently they have been so, so very busy. It's taken weeks and weeks and weeks.",
+      "Timestamp": "2023-10-02 10:51:17"
+    },
+    "Seq6": {
+      "CallerContent": "They put me on hold and I'm with like three people in the queue.",
+      "ReceiverContent": "So I'm going to resend it for you. Okay.",
+      "Timestamp": "2023-10-02 10:51:29"
+    },
+    "Seq7": {
+      "CallerContent": "So that's five days. And there's no excuse for that, but it, I don't know why, but every one of my prescriptions",
+      "ReceiverContent": "So normally she does a 90 days with one refill is how they should be done. So you'd have, you should have a six month refill and then she'd like to see you every six months.",
+      "Timestamp": "2023-10-02 10:51:46"
+    },
+    "Seq8": {
+      "CallerContent": "have no, they only, when Dr. Williams prescribes it, it's only good for one subscription.",
+      "ReceiverContent": "I called up to talk to them like last week or a week before last. And they said, yeah, you're good.",
+      "Timestamp": "2023-10-02 10:51:58"
+    },
+    "Seq9": {
+      "CallerContent": "So I leave for Florida and the 1st of January and yeah, so just come see us before you leave",
+      "ReceiverContent": "in January and she'll want to do some blood work and all of that. So yeah.",
+      "Timestamp": "2023-10-02 10:52:15"
+    },
+    "Seq10": {
+      "CallerContent": "Yeah, well, I mean, I called it in, you know how you call it in, I called it in on Wednesday.",
+      "ReceiverContent": "But again, if you can't get ahold of them and they're not feeling it and you're not getting those messages, just go out there because this, yeah, this is the second time we sent it over.",
+      "Timestamp": "2023-10-02 10:52:29"
+    },
+    "Seq11": {
+      "CallerContent": "So you should be good. But again, if you can't get ahold of them and they're not feeling it and you're not getting those messages, just go out there because this, yeah, this is the second time we sent it over.",
+      "ReceiverContent": "So you should be good. But again, if you can't get ahold of them and they're not feeling it and you're not getting those messages, just go out there because this, yeah, this is the second time we sent it over.",
+      "Timestamp": "2023-10-02 10:52:46"
+    },
+    "Seq12": {
+      "CallerContent": "Yeah, well, I mean, I called it in, you know how you call it in, I called it in on Wednesday.",
+      "ReceiverContent": "So I'm assuming they have not filled it. I see it with Giant all the time. And Walgreens is doing better.",
+      "Timestamp": "2023-10-02 10:53:03"
+    },
+    "Seq13": {
+      "CallerContent": "I know.",
+      "ReceiverContent": "So I have to go to Walgreens. Yeah, yeah. Yeah, that would be my suggestion is just take your behind out there and say, hey, my doctor sent it twice. Can you please fill this for me?",
+      "Timestamp": "2023-10-02 10:53:17"
+    },
+    "Seq14": {
+      "CallerContent": "Exactly, exactly. So I'm just assuming they have not filled it. I see it with Giant all the time. And Walgreens is doing better.",
+      "ReceiverContent": "Or please give me an answer. But I just did resend it that way. There's no, you know, just in case they say, oh, we didn't get it on the 28th. Okay, good luck. Thank you. All right, bye-bye.",
+      "Timestamp": "2023-10-02 10:53:29"
+    },
+    "Seq15": {
+      "CallerContent": "I go to Florida in the winter, and they don't have Giant down there.",
+      "ReceiverContent": "Bye.",
+      "Timestamp": "2023-10-02 10:53:51"
+    }
+  }
+}

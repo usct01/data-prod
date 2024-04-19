@@ -1,0 +1,153 @@
+```json
+{
+  "Conversation": {
+    "Participants": [
+      {
+        "Role": "Receiver",
+        "Name": "Kumaran",
+        "Position": "Front Office Staff",
+        "Organization": "Crawford Family Practice"
+      },
+      {
+        "Role": "Caller",
+        "Name": "Rebecca",
+        "Gender": "Male",
+        "Position": "Patient",
+        "Organization": "N/A"
+      }
+    ],
+    "Messages": [
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "Good morning. Thanks for calling Crawford Family Practice. How may I assist you today?"
+      },
+      {
+        "Sender": "Rebecca",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "This is Mr. Rebecca calling. I'd like to make an appointment for the wife and I, both, to have flu shots, please."
+      },
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "Sure. One moment. Let me check on the next available slot for you. When would you like to make it?"
+      },
+      {
+        "Sender": "Rebecca",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "What about tomorrow?"
+      },
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "Yes. We do have a slot available tomorrow at 10.30 a.m. Will that be okay with you?"
+      },
+      {
+        "Sender": "Rebecca",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "Yes, ma'am. That's for the wife and I, both."
+      },
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "Yes, for you, both. One moment."
+      },
+      {
+        "Sender": "Rebecca",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "Would you say it was 10.30?"
+      },
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "Yes, correct. 10.30."
+      },
+      {
+        "Sender": "Rebecca",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "Okay. That sounds good."
+      },
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "Could I take your wife's date of birth?"
+      },
+      {
+        "Sender": "Rebecca",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "December the 5th, 38."
+      },
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "The last name is Rebecca, am I correct?"
+      },
+      {
+        "Sender": "Rebecca",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "Yes. R-E-B-E-C-H-I."
+      },
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "Yes. I got you. So, just to confirm, I have an appointment for flu shot tomorrow at 10.30 a.m. for your wife. So, now, one moment."
+      },
+      {
+        "Sender": "Rebecca",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "Could I take your date of birth?"
+      },
+      {
+        "Sender": "Rebecca",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "December, I'm sorry. March 1st, 38. I'm sorry. I'm getting mixed up by hers. It's March 1st, 35. ... Bye."
+      },
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "Your first name is Joseph, am I correct?"
+      },
+      {
+        "Sender": "Rebecca",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "Yes, ma'am."
+      },
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "So, just to confirm, I have an appointment. Tomorrow at 10.30 a.m. for flu shot for Maria Rebecca and Joseph Rebecca."
+      },
+      {
+        "Sender": "Rebecca",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "That's correct, yes."
+      },
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "Is there anything else that I may ask the stewards?"
+      },
+      {
+        "Sender": "Rebecca",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "No, that's it."
+      },
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "Yes. Thank you for calling Crawford Family Practice. You have a great day."
+      },
+      {
+        "Sender": "Rebecca",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "Do the same."
+      },
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "2023_Nov_01_09:43:44",
+        "Content": "Thank you. Bye-bye."
+      }
+    ]
+  }
+}
+```

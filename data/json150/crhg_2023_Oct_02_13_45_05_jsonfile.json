@@ -1,0 +1,93 @@
+{
+  "Metadata": "value",
+  "Caller": "Nathaniel James",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-10-02 13:45:05",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi. I'm trying to get a referral to a sleep clinic.",
+      "ReceiverContent": "Good morning. Thanks for calling Crofton Family Practice. This is Dominic. I'll assist you for the day.",
+      "Timestamp": "2023-10-02 13:45:05"
+    },
+    "Seq2": {
+      "CallerContent": "Thanks.",
+      "ReceiverContent": "Okay. For the referral, I got you. Can you give me a minute? Let me transfer the call to the nurse. She'll help you out with this. Can you stay online? Let me transfer the call and you have a great day.",
+      "Timestamp": "2023-10-02 13:45:20"
+    },
+    "Seq3": {
+      "CallerContent": "Hi. They transferred me to you for getting a referral.",
+      "ReceiverContent": "Your conversation is being recorded. Good afternoon. This is the nurse. Amy, how can I help you?",
+      "Timestamp": "2023-10-02 13:45:39"
+    },
+    "Seq4": {
+      "CallerContent": "Nathaniel James.",
+      "ReceiverContent": "Okay. Hold on one second. Who's the patient?",
+      "Timestamp": "2023-10-02 13:45:43"
+    },
+    "Seq5": {
+      "CallerContent": "July 10, 1991.",
+      "ReceiverContent": "And your patient here?",
+      "Timestamp": "2023-10-02 13:46:01"
+    },
+    "Seq6": {
+      "CallerContent": "Maybe I haven't been seen yet, but I have you listed as my primary.",
+      "ReceiverContent": "Yeah. So you have to be seen.",
+      "Timestamp": "2023-10-02 13:46:18"
+    },
+    "Seq7": {
+      "CallerContent": "We are currently in the middle of a crisis.",
+      "ReceiverContent": "We are currently taking new patients, but we aren't taking new patients for at least a month or two. So at that time, she could do the referrals, but she can't do the referrals until you're an actual patient here and she sees you. And there's a whole process how to get into our system to become a patient. So you would be considered a new patient. So we couldn't do those referrals yet.",
+      "Timestamp": "2023-10-02 13:46:25"
+    },
+    "Seq8": {
+      "CallerContent": "Is there anything you can do to help me get it done faster? Because my license expires October 19th if I don't get a referral to a sleep study. And show that I don't have to go back.",
+      "ReceiverContent": "Yeah. Unfortunately, I mean, we can get you registered as a new patient and we can, you know, I'm just a nurse here, so I don't make the appointments. I could transfer you back to our system. But yeah, unfortunately, we're just a really busy practice. We only have one doctor. So, yeah, you just have to be a patient. We can't, you know, we can't give referrals without seeing you. If you had a practitioner prior to this, you could reach out to them and see if they could do some referrals. Or you can call me. I'll try to hear and find out what they want you to do. But unfortunately, yeah, until we see you, there's nothing we can do.",
+      "Timestamp": "2023-10-02 13:46:58"
+    },
+    "Seq9": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Okay. Do you want to go ahead and be transferred to get into our system?",
+      "Timestamp": "2023-10-02 13:47:32"
+    },
+    "Seq10": {
+      "CallerContent": "Please.",
+      "ReceiverContent": "Okay. Hold on one second.",
+      "Timestamp": "2023-10-02 13:47:38"
+    },
+    "Seq11": {
+      "CallerContent": "Mr. James, can I just have your email address?",
+      "ReceiverContent": "What we'll do is we'll get your email address and they'll send you a link how to get registered into our system. Okay. What's your email address?",
+      "Timestamp": "2023-10-02 13:48:42"
+    },
+    "Seq12": {
+      "CallerContent": "Ntjames at gmail.com.",
+      "ReceiverContent": "One more time. In.",
+      "Timestamp": "2023-10-02 13:49:23"
+    },
+    "Seq13": {
+      "CallerContent": "T as in Tom.",
+      "ReceiverContent": "Uh-huh.",
+      "Timestamp": "2023-10-02 13:49:28"
+    },
+    "Seq14": {
+      "CallerContent": "James, J-A-N-E-S.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-10-02 13:49:31"
+    },
+    "Seq15": {
+      "CallerContent": "At gmail.com.",
+      "ReceiverContent": "Okay. T as in Tom. James, your last name, J-A-N-E-S at gmail.com.",
+      "Timestamp": "2023-10-02 13:49:34"
+    },
+    "Seq16": {
+      "CallerContent": "My first initial as well, too. N-T-J-A-M-E.",
+      "ReceiverContent": "Oh, N-T. Okay. N-T-J-A-M-E at gmail.com. Correct. Okay. All right. So you'll get a link and then you go ahead and get registered that way. And then in 24 to 72 hours, someone will call you back.",
+      "Timestamp": "2023-10-02 13:49:45"
+    },
+    "Seq17": {
+      "CallerContent": "Okay. Thank you.",
+      "ReceiverContent": "You're welcome.",
+      "Timestamp": "2023-10-02 13:50:08"
+    }
+  }
+}

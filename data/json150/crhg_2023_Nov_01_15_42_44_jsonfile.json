@@ -1,0 +1,158 @@
+{
+  "Metadata": "value",
+  "Caller": "Ronald",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-11-01 15:42:44",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Oh, yes. I'd like to make a couple of appointments, please.",
+      "ReceiverContent": "Good afternoon. This is Carl from Family Practice. How may I assist you today?",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq2": {
+      "CallerContent": "We need to have our annual check-ups that we need to come in.",
+      "ReceiverContent": "Okay. One moment. May I know when did you make your last annual visit?",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq3": {
+      "CallerContent": "It was in November, December of last year. Let me find my calendar and I can look it up.",
+      "ReceiverContent": "Okay. One moment. May I know when did you make your last annual visit?",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq4": {
+      "CallerContent": "His date of birth is 3-9-49.",
+      "ReceiverContent": "Can I get a ticket for you? Could they take your date of birth?",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq5": {
+      "CallerContent": "Yes. Ronald.",
+      "ReceiverContent": "His first name is Ronald, am I correct?",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq6": {
+      "CallerContent": "Yes. That's good.",
+      "ReceiverContent": "His last appointment, previous appointment was on November 23, 2022. So he's now able to make an appointment. That's the same day, am I correct?",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq7": {
+      "CallerContent": "No. We can't. No. We can't. Yeah. We can't do it. We can't do it that week.",
+      "ReceiverContent": "Would that be okay for you? For your Boze?",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq8": {
+      "CallerContent": "You don't have anything in November?",
+      "ReceiverContent": "When would you like to make it?",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq9": {
+      "CallerContent": "What about the 13th or the 14th, the Wednesday or Thursday of that week, the 13th or the 14th? Sure.",
+      "ReceiverContent": "Sure. All those slots are available on 13th of December at 10.30 a.m. and 11 a.m. Would that be okay with you?",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq10": {
+      "CallerContent": "10.30 and 11, we can do that.",
+      "ReceiverContent": "Okay. One moment. Just confirm. I have an appointment on 13th of December at 10.30 a.m. for physical for Ronald Rater. So now...",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq11": {
+      "CallerContent": "May I know your last name, please?",
+      "ReceiverContent": "Could I take your date of birth?",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq12": {
+      "CallerContent": "Wade, W-A-D-E.",
+      "ReceiverContent": "May I know your last name, please?",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq13": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Yes, your first name is Wanda, am I correct?",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq14": {
+      "CallerContent": "So just to confirm, I have fixed an appointment on 13th of December at 11 a.m. for Wanda Wade. And 10-30 a.m. for Ronald Wager.",
+      "ReceiverContent": "So just to confirm, I have fixed an appointment on 13th of December at 11 a.m. for Wanda Wade. And 10-30 a.m. for Ronald Wager.",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq15": {
+      "CallerContent": "I'm so sorry.",
+      "ReceiverContent": "What did you say? Walker. Yeah, Walker.",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq16": {
+      "CallerContent": "Yes. Yes, yes. He got a letter from Blue Cross Blue Shield, the mail order medicines, and I need to get a prior approval for a medicine of his.",
+      "ReceiverContent": "Yes, for the prescription, I need to transfer you to the nurse. She could help me out with this. Yes. Stay online.",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq17": {
+      "CallerContent": "Thank you. You have a great day.",
+      "ReceiverContent": "Yes, for the prescription, I need to transfer you to the nurse. She could help me out with this. Yes. Stay online.",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq18": {
+      "CallerContent": "Bye-bye.",
+      "ReceiverContent": "Yes, for the prescription, I need to transfer you to the nurse. She could help me out with this. Yes. Stay online.",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq19": {
+      "CallerContent": "You too. Bye-bye. Thank you.",
+      "ReceiverContent": "Yes, for the prescription, I need to transfer you to the nurse. She could help me out with this. Yes. Stay online.",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq20": {
+      "CallerContent": "Bye.",
+      "ReceiverContent": "Yes, for the prescription, I need to transfer you to the nurse. She could help me out with this. Yes. Stay online.",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq21": {
+      "CallerContent": "Hello, you have reached the nurse line.",
+      "ReceiverContent": "Yes, for the prescription, I need to transfer you to the nurse. She could help me out with this. Yes. Stay online.",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq22": {
+      "CallerContent": "If this is an emergency, please hang up and dial 911. If you're calling for a prescription refill, please leave a detailed message with the drug name,",
+      "ReceiverContent": "Yes, for the prescription, I need to transfer you to the nurse. She could help me out with this. Yes. Stay online.",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq23": {
+      "CallerContent": "the milligrams, and your pharmacy information. Please allow 72 hours for your refills to be processed.",
+      "ReceiverContent": "Yes, for the prescription, I need to transfer you to the nurse. She could help me out with this. Yes. Stay online.",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq24": {
+      "CallerContent": "Leave us a message and we'll get back to you as soon as we can. Thank you and have a good day.",
+      "ReceiverContent": "Yes, for the prescription, I need to transfer you to the nurse. She could help me out with this. Yes. Stay online.",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq25": {
+      "CallerContent": "This is Wanda Wade. I'm calling about a letter Ronald Wachter got from the Blue Cross Blue Shield federal mail order prescription line, and this says that your prior approval will expire,",
+      "ReceiverContent": "Yes, for the prescription, I need to transfer you to the nurse. She could help me out with this. Yes. Stay online.",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq26": {
+      "CallerContent": "and 11-4 for Lansoprazole, L-A-N-S-O-P-R-A-Z-O-L-E, 30 milligrams. And it says if you are to continue therapy with this medication,",
+      "ReceiverContent": "Yes, for the prescription, I need to transfer you to the nurse. She could help me out with this. Yes. Stay online.",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq27": {
+      "CallerContent": "have your physician go online and fill out an electronic prior authorization at www.caremark.com slash EPA, or you can call them,",
+      "ReceiverContent": "Yes, for the prescription, I need to transfer you to the nurse. She could help me out with this. Yes. Stay online.",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq28": {
+      "CallerContent": "but it might be easier just to go online. So if you could either do that, or call me back so we can talk about it, that would be great.",
+      "ReceiverContent": "Yes, for the prescription, I need to transfer you to the nurse. She could help me out with this. Yes. Stay online.",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq29": {
+      "CallerContent": "I am Wanda Wade, his wife, 301-888-2191, or 301-908-2295. Thank you.",
+      "ReceiverContent": "Yes, for the prescription, I need to transfer you to the nurse. She could help me out with this. Yes. Stay online.",
+      "Timestamp": "2023-11-01 15:42:44"
+    },
+    "Seq30": {
+      "CallerContent": "Bye.",
+      "ReceiverContent": "Yes, for the prescription, I need to transfer you to the nurse. She could help me out with this. Yes. Stay online.",
+      "Timestamp": "2023-11-01 15:42:44"
+    }
+  }
+}

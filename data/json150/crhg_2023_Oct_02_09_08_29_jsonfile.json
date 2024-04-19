@@ -1,0 +1,68 @@
+{
+  "Metadata": "value",
+  "Caller": "Murray",
+  "Receiver": "Crosswind Family Practice (Dominic)",
+  "Timestamp": "2023-10-02 09:08:29",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, I'm returning the call. I think they were just reminding me about a virtual appointment tomorrow. My last name is Murray. M-U-R-R-A-Y",
+      "ReceiverContent": "Good morning, thank you for calling Crosswind Family Practice. This is Dominic, how may I assist you for the day?",
+      "Timestamp": "2023-10-02 09:08:29"
+    },
+    "Seq2": {
+      "CallerContent": "I think it's tomorrow, but if it's today, thank you for calling today, but I thought it was tomorrow.",
+      "ReceiverContent": "Yes, Carnegie, may I assist you? Let me check that for you. So you have an appointment by today, is that correct?",
+      "Timestamp": "2023-10-02 09:08:45"
+    },
+    "Seq3": {
+      "CallerContent": "Yes, yes.",
+      "ReceiverContent": "You do have a slot available by 1.45 p.m. tomorrow. It's 1.45 p.m. tomorrow? Yes, sir, that's correct.",
+      "Timestamp": "2023-10-02 09:09:12"
+    },
+    "Seq4": {
+      "CallerContent": "All right, and do I have to do anything but answer the phone, or what do I have to do?",
+      "ReceiverContent": "Okay, I think you have an office visit tomorrow. It's not a tele-visit.",
+      "Timestamp": "2023-10-02 09:09:49"
+    },
+    "Seq5": {
+      "CallerContent": "Oh, it's not, I thought it was a television.",
+      "ReceiverContent": "You want to make it as a tele-visit, sir, is that correct?",
+      "Timestamp": "2023-10-02 09:10:03"
+    },
+    "Seq6": {
+      "CallerContent": "No, no, no. I thought it was tele-visit, is what I'm going to set it up for.",
+      "ReceiverContent": "Yes, it's an office visit tomorrow at 1.45 p.m.",
+      "Timestamp": "2023-10-02 09:10:07"
+    },
+    "Seq7": {
+      "CallerContent": "Can they do a tele-visit?",
+      "ReceiverContent": "Yeah, if you can, I can do that for you, sir.",
+      "Timestamp": "2023-10-02 09:10:24"
+    },
+    "Seq8": {
+      "CallerContent": "But she has paperwork that I need, though. No, no, no, no, let's do a television, television, television, television. Sorry, television.",
+      "ReceiverContent": "Okay, yeah. Yeah, so just to confirm, I rescheduled the appointment on Tuesday, which is 3rd of October, at 1.45 p.m. as a tele-visit. Is that okay with you, sir?",
+      "Timestamp": "2023-10-02 09:10:59"
+    },
+    "Seq9": {
+      "CallerContent": "Yes, thank you.",
+      "ReceiverContent": "Okay, is there anything else that I missed you with, sir?",
+      "Timestamp": "2023-10-02 09:11:54"
+    },
+    "Seq10": {
+      "CallerContent": "So for the tele-visit, is it done on the computer, like is there a link that you send, or is it done over the phone?",
+      "ReceiverContent": "Yeah, it's the link that we need to send, sir. Just click on the link and you can join.",
+      "Timestamp": "2023-10-02 09:12:08"
+    },
+    "Seq11": {
+      "CallerContent": "Okay, all right, you'll send the link to me, okay, thank you.",
+      "ReceiverContent": "Yeah, thank you for calling Croxon Family Practice, and have a great day, sir, bye-bye.",
+      "Timestamp": "2023-10-02 09:12:25"
+    },
+    "Seq12": {
+      "CallerContent": "All right, you too.",
+      "ReceiverContent": null,
+      "Timestamp": "2023-10-02 09:12:29"
+    }
+  }
+}

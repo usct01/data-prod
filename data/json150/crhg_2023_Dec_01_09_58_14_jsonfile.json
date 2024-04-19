@@ -1,0 +1,43 @@
+{
+  "Metadata": "value",
+  "Caller": "Mitchie",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-12-01 09:58:14",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, Brandy at the front desk, please.",
+      "ReceiverContent": "Okay, kindly stay online. I'm going to transfer your call.",
+      "Timestamp": "2023-12-01 09:58:14"
+    },
+    "Seq2": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Hey, Ms. Mitchie, how you doing?",
+      "Timestamp": "2023-12-01 09:58:47"
+    },
+    "Seq3": {
+      "CallerContent": "I'm good, thank you.",
+      "ReceiverContent": "Yes, ma'am. Hey, so Amy is here today. So I was just, that's funny, I was actually just thinking of you when my other patient walked in. And I was going to call you. But, yeah, Amy is here today.",
+      "Timestamp": "2023-12-01 09:58:50"
+    },
+    "Seq4": {
+      "CallerContent": "Awesome. When should he come?",
+      "ReceiverContent": "Well, he can come at any point in time, you know, up until 1230. So if he wants to do anything at like 1130 or even before, you know, that works for me.",
+      "Timestamp": "2023-12-01 09:59:05"
+    },
+    "Seq5": {
+      "CallerContent": "Okay, well, I will let him know that and he will be down there.",
+      "ReceiverContent": "That's perfectly no problem. Thank you, thank you.",
+      "Timestamp": "2023-12-01 09:59:17"
+    },
+    "Seq6": {
+      "CallerContent": "Thank you very much.",
+      "ReceiverContent": "Yes, ma'am. Bye.",
+      "Timestamp": "2023-12-01 09:59:22"
+    },
+    "Seq7": {
+      "CallerContent": "Bye-bye.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2023-12-01 09:59:25"
+    }
+  }
+}

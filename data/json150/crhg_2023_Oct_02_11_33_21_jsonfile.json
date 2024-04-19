@@ -1,0 +1,58 @@
+{
+  "Metadata": "value",
+  "Caller": "Mia P. Curvin",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-10-02 11:33:21",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, my name is Mia P. Curvin. I was just there for a physical a few minutes ago, and I picked up a referral while I was there, and the referral is for a practice that, it's not for the practice that I am going to, so I wonder if I can get an amended referral.",
+      "ReceiverContent": "Good morning, this is Carl from Stanley Practice. How may I assist you today?",
+      "Timestamp": "2023-10-02 11:33:21"
+    },
+    "Seq2": {
+      "CallerContent": "Your conversation is being recorded. Thank you for contacting Carlson's Family Practice. This is Brandy here in the front office. How can we help you today?",
+      "ReceiverContent": "Yeah, sure. Let me transfer you to reception, and they could help you out with this. Please stay online. If they don't pick the call, or if you don't receive any call back after some time, you can call me back again. Okay, thank you. Please stay online. You have a great day. Okay, thanks.",
+      "Timestamp": "2023-10-02 11:33:34"
+    },
+    "Seq3": {
+      "CallerContent": "Hi, this is Nancy Curvin. I was just there a half hour or so ago for, I got a physical this morning.",
+      "ReceiverContent": "Absolutely, Nancy Curvin. What can I help you with?",
+      "Timestamp": "2023-10-02 11:33:55"
+    },
+    "Seq4": {
+      "CallerContent": "You ran after me because I left my referral.",
+      "ReceiverContent": "Oh, yes, ma'am. Absolutely. You can't forget that one there. You already know it.",
+      "Timestamp": "2023-10-02 11:34:11"
+    },
+    "Seq5": {
+      "CallerContent": "So, and of course, I screwed that up too, because it's a referral to get a DEXA scan, but it's not a practice that I go to for the DEXA scan.",
+      "ReceiverContent": "Okay. Where do you usually go to?",
+      "Timestamp": "2023-10-02 11:34:23"
+    },
+    "Seq6": {
+      "CallerContent": "I go to a... Advanced Radiology.",
+      "ReceiverContent": "Radiology. Okay. Not Chesapeake Medical Imaging. Okay.",
+      "Timestamp": "2023-10-02 11:34:28"
+    },
+    "Seq7": {
+      "CallerContent": "Yeah, exactly. I'm sorry about that.",
+      "ReceiverContent": "No, that's quite okay. Thank you very much, nurse. Okay, no problem there. And there we go, Ms. Levinson. Then let me go ahead and let me just tell her here. So you go to, bear with me, let me see, Advanced Radiology and not Chesapeake. Okay, Medical Imaging.",
+      "Timestamp": "2023-10-02 11:34:35"
+    },
+    "Seq8": {
+      "CallerContent": "Medical Imaging.",
+      "ReceiverContent": "Yeah. Which is what the original adult form is. Okay. Alrighty. No problem. There we go, my dear. So I will go ahead. Yep, I'm going to send this over there to Amy.",
+      "Timestamp": "2023-10-02 11:35:56"
+    },
+    "Seq9": {
+      "CallerContent": "Okay. Terrific. Thank you very much. Oh, thank you as well. Have a great one, ma'am.",
+      "ReceiverContent": "And then, of course, if she tries to get in touch with the doctor, then we'll just kind of roll from there. Okay?",
+      "Timestamp": "2023-10-02 11:36:26"
+    },
+    "Seq10": {
+      "CallerContent": "Bye-bye.",
+      "ReceiverContent": "Bye-bye. Bye-bye now.",
+      "Timestamp": "2023-10-02 11:36:32"
+    }
+  }
+}

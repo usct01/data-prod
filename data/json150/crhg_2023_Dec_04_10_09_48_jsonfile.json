@@ -1,0 +1,68 @@
+{
+  "Metadata": "value",
+  "Caller": "Brenna McCarver",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-12-04 10:09:48",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi there. I just missed a call from you guys. My name is Brenna McCarver.",
+      "ReceiverContent": "Good morning. Thanks for calling Crofton Family Practice. This is Dominic from SS2 for the day.",
+      "Timestamp": "2023-12-04 10:09:48"
+    },
+    "Seq2": {
+      "CallerContent": "Okay. Thank you.",
+      "ReceiverContent": "I think it's from the friend desk. Can you give me a minute? Let me transfer the call and you have a great day.",
+      "Timestamp": "2023-12-04 10:09:55"
+    },
+    "Seq3": {
+      "CallerContent": "Hi there. My name is Brenna.",
+      "ReceiverContent": "I think it's from the friend desk. Can you give me a minute? Let me transfer the call and you have a great day.",
+      "Timestamp": "2023-12-04 10:10:50"
+    },
+    "Seq4": {
+      "CallerContent": "Yeah, so they told me that I should probably have a follow-up within the next five to six days, but, you know, it's not always possible. But if we can schedule something sometime soon, that'd be great.",
+      "ReceiverContent": "Yes ma'am, Ms. McCarver. Yes ma'am, Ms. McCarver. I was actually doing a quick follow-up call with you. I've seen the notification that you were recently in the emergency room department. This is Brandy calling from Crofton Family Practice here at Dr. Allison Williams' office. I basically just wanted to follow up with you to see how you were feeling, make sure you know you're doing a little bit better than before, and of course to see if by any chance you needed to schedule a primary care physician's appointment.",
+      "Timestamp": "2023-12-04 10:11:01"
+    },
+    "Seq5": {
+      "CallerContent": "Yes, so they told me that I should probably have a follow-up within the next five to six days, but, you know, it's not always possible. But if we can schedule something sometime soon, that'd be great.",
+      "ReceiverContent": "Yeah, so they told me that I should probably have a follow-up within the next five to six days, but, you know, it's not always possible. But if we can schedule something sometime soon, that'd be great.",
+      "Timestamp": "2023-12-04 10:13:28"
+    },
+    "Seq6": {
+      "CallerContent": "If you aren't able to get me in, that's okay. It's just what the hospital recommended. My husband and I are military, so we're gonna be moving at the moment. And then I'm gonna get you scheduled. And then I'm gonna ask you to do a follow-up as soon as possible. December 23rd. We're just cutting it kind of close if you guys are so booked.",
+      "ReceiverContent": "No, that's actually, it's quite okay. I was able to get you in here. I do have a Wednesday the 13th, a telehealth visit available at 3.15 p.m. And that's a televisit chat, so it'd be a video chat. Basically, all you would do is get an email 15 minutes prior to this. And then, of course, or 15 minutes prior to your appointment, and then you would click on the link and open it up and",
+      "Timestamp": "2023-12-04 10:14:05"
+    },
+    "Seq7": {
+      "CallerContent": "Okay. What's your phone number?",
+      "ReceiverContent": "Hi there, honey. I do apologize for keeping you waiting. Are you still there with me?",
+      "Timestamp": "2023-12-04 10:12:36"
+    },
+    "Seq8": {
+      "CallerContent": "864.",
+      "ReceiverContent": "Hi there, honey. I do apologize for keeping you waiting. Are you still there with me?",
+      "Timestamp": "2023-12-04 10:12:50"
+    },
+    "Seq9": {
+      "CallerContent": "238.",
+      "ReceiverContent": "Hi there, honey. I do apologize for keeping you waiting. Are you still there with me?",
+      "Timestamp": "2023-12-04 10:12:56"
+    },
+    "Seq10": {
+      "CallerContent": "6474.",
+      "ReceiverContent": "Hi there, honey. I do apologize for keeping you waiting. Are you still there with me?",
+      "Timestamp": "2023-12-04 10:12:59"
+    },
+    "Seq11": {
+      "CallerContent": "Brenna McCarver. B-R-Y-N-N-A.",
+      "ReceiverContent": "Hi there, honey. I do apologize for keeping you waiting. Are you still there with me?",
+      "Timestamp": "2023-12-04 10:13:04"
+    },
+    "Seq12": {
+      "CallerContent": "Got it, Ms. McCarver. No problem.",
+      "ReceiverContent": "Hi there, honey. I do apologize for keeping you waiting. Are you still there with me?",
+      "Timestamp": "2023-12-04 10:13:09"
+    }
+  }
+}

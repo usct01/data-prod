@@ -1,0 +1,63 @@
+{
+  "Metadata": "value",
+  "Caller": "Ken Brown",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-11-01 14:38:27",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, this is Ken Brown calling. And I was just, I want to check with you. I'm not sure what the hiccup was, but you guys had me calling in for a doctor's appointment with Dr. Williams, and it was my son.",
+      "ReceiverContent": "Good afternoon, this is Carl from Family Practice. How may I assist you today?",
+      "Timestamp": "2023-11-01 14:38:27"
+    },
+    "Seq2": {
+      "CallerContent": "Would you like to make up an appointment?",
+      "ReceiverContent": "Okay, yes. I can take it for you. Could I take your date of birth?",
+      "Timestamp": "2023-11-01 14:38:46"
+    },
+    "Seq3": {
+      "CallerContent": "My birth is 7-17-1948.",
+      "ReceiverContent": "Ken Brown, one moment. Let me check on it. I don't see any upcoming appointments for you.",
+      "Timestamp": "2023-11-01 14:39:46"
+    },
+    "Seq4": {
+      "CallerContent": "Well, I am well aware of that, but you sent me an email. I sent you an email about a teleconference today at 2.15.",
+      "ReceiverContent": "At 2.15, one moment.",
+      "Timestamp": "2023-11-01 14:41:29"
+    },
+    "Seq5": {
+      "CallerContent": "And Amy called me twice today.",
+      "ReceiverContent": "Yes, yes, correct. Just to verify the appointment. Yes, correct. You have made an appointment at 2.15 today. Yes, for a tele-visit.",
+      "Timestamp": "2023-11-01 14:41:50"
+    },
+    "Seq6": {
+      "CallerContent": "All right, but that's not me, is what I'm keep telling you. That is my son. That's not me.",
+      "ReceiverContent": "Yes, one moment. Please stay online.",
+      "Timestamp": "2023-11-01 14:43:00"
+    },
+    "Seq7": {
+      "CallerContent": "Well, I didn't. I didn't. The way I did it is sometimes, you know, it's like I figured it was a follow-up because of my Lyme disease.",
+      "ReceiverContent": "I know, and that's okay.",
+      "Timestamp": "2023-11-01 14:45:01"
+    },
+    "Seq8": {
+      "CallerContent": "Because I tried, you know, from my perspective. Okay. Okay. Maybe it was just a quick follow-up appointment. Yeah. So I'm just like, you know.",
+      "ReceiverContent": "Yeah, we're good to go. Yeah, no problems at all. So I'm glad you and I were able to touch base and all that, and it kind of worked out. So I will discuss with Dr. Williams, but if we can get some more information.",
+      "Timestamp": "2023-11-01 14:49:00"
+    },
+    "Seq9": {
+      "CallerContent": "Is that the direction she thinks I should look at right now?",
+      "ReceiverContent": "Yeah, just to be on the safe side. She said it could be some lingering Lyme stuff, but we need to rule out other things to sense it's still pretty prominent. Okay? She just wants to make sure that, you know.",
+      "Timestamp": "2023-11-01 14:49:49"
+    },
+    "Seq10": {
+      "CallerContent": "Okay. As long as my son was taken care of, that's all.",
+      "ReceiverContent": "He was.",
+      "Timestamp": "2023-11-01 14:50:41"
+    },
+    "Seq11": {
+      "CallerContent": "All right, bye.",
+      "ReceiverContent": "I promise he was. All right, take care. Bye-bye.",
+      "Timestamp": "2023-11-01 14:46:46"
+    }
+  }
+}

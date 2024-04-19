@@ -1,0 +1,18 @@
+{
+  "Metadata": "value",
+  "Caller": "No Name",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-12-01 10:31:30",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, hi. Somehow I got disconnected, but I already spoke to a representative, and he was transferring me to the front desk. So are you able to do that?",
+      "ReceiverContent": "Yes, sure. Can I give you a minute? Let me transfer the call once again, and you have a great day.",
+      "Timestamp": "2023-12-01 10:31:05"
+    },
+    "Seq2": {
+      "CallerContent": "You too. Thank you.",
+      "ReceiverContent": null,
+      "Timestamp": "2023-12-01 10:31:18"
+    }
+  }
+}

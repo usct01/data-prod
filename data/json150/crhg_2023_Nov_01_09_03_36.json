@@ -1,0 +1,65 @@
+```json
+{
+  "Metadata": "value",
+  "Caller": "McKay Godwin",
+  "Receiver": "Dominic (Crofton Family Practice)",
+  "Timestamp": "2023-Nov-01 09:03:36",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi. Good morning, Dominic. I just got a call reminder that I have an appointment with Dr. Williams tomorrow, but I'm not sure that it's necessary, so I just wanted to cancel it.",
+      "ReceiverContent": "Good morning. Thanks for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-Nov-01 09:03:36"
+    },
+    "Seq2": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Okay. So you want to cancel the appointment, ma'am?",
+      "Timestamp": "2023-Nov-01 09:03:36"
+    },
+    "Seq3": {
+      "CallerContent": "Godwin. G-O-D-W-I-N.",
+      "ReceiverContent": "May I know your last name, please?",
+      "Timestamp": "2023-Nov-01 09:03:36"
+    },
+    "Seq4": {
+      "CallerContent": "McKay, yes.",
+      "ReceiverContent": "Okay. It's Godwin McKay.",
+      "Timestamp": "2023-Nov-01 09:03:36"
+    },
+    "Seq5": {
+      "CallerContent": "Yeah, I can cancel it. If you can look, I believe I have another in-person appointment for a physical later.",
+      "ReceiverContent": "Great. Kindly give me a minute.",
+      "Timestamp": "2023-Nov-01 09:03:36"
+    },
+    "Seq6": {
+      "CallerContent": "Um, yeah. I don't know why I had it scheduled anyway because I just met with her a couple weeks ago.",
+      "ReceiverContent": "Yeah. So you have a television appointment by 3.15 p.m. Do you want to cancel the appointment, ma'am?",
+      "Timestamp": "2023-Nov-01 09:03:36"
+    },
+    "Seq7": {
+      "CallerContent": "For a physical. Yep. Okay.",
+      "ReceiverContent": "So, just to confirm, I've canceled your appointment on 2nd of November at 3.15 p.m. Is it okay with you, ma'am?",
+      "Timestamp": "2023-Nov-01 09:03:36"
+    },
+    "Seq8": {
+      "CallerContent": "Yes, ma'am. I've canceled already. Is there anything else that I missed to do with ma'am?",
+      "ReceiverContent": "So, you want the blood work results?",
+      "Timestamp": "2023-Nov-01 09:03:36"
+    },
+    "Seq9": {
+      "CallerContent": "No. I've had results from some blood work that I've already had done. Dr. Williams wanted me to have some more blood work done, but I never received the lab order for that.",
+      "ReceiverContent": "Okay. For that kind of details, let me transfer the call to the concerned person who can help you out with that.",
+      "Timestamp": "2023-Nov-01 09:03:36"
+    },
+    "Seq10": {
+      "CallerContent": "Yep. Let me transfer the call, and you have a great day, ma'am.",
+      "ReceiverContent": "Hello. You have reached the nurse line. If this is an emergency, please hang up and dial 9-1-1. If you're calling for a prescription refill, please leave a detailed message with the drug name, the milligrams, and your pharmacy information.",
+      "Timestamp": "2023-Nov-01 09:03:36"
+    },
+    "Seq11": {
+      "CallerContent": "Hi there. My name is Michelle Godwin, and I'm a patient of Dr. Williams. My phone number is 301-520-3565. My birth date is June 30th, 1981. I was supposed to receive a lab form to get some additional blood work done, but I have not received that. I think it was some blood work to check my kidney levels on top of some blood work that I had done earlier in October. So if someone can call me back and just confirm or send over that additional lab work that I need to have done, and I'll get that taken care of. Again, my name is Michelle Godwin, 301-520-3565. Thank you. Bye-bye.",
+      "ReceiverContent": null,
+      "Timestamp": "2023-Nov-01 09:03:36"
+    }
+  }
+}
+```

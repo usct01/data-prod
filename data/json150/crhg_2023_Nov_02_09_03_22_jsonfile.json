@@ -1,0 +1,30 @@
+{
+  "Timestamp": "2023-11-02 09:03:22",
+  "Caller": "Iron Name (calling on behalf of his wife, Cheryl)",
+  "Receiver": "David from Carol Family Practice",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "My name is Iron Name. I'm calling on behalf of my wife, Cheryl. She had a meeting with Dr. Williams on Tuesday to diagnose her bronchitis. She's been on several medications.",
+      "ReceiverContent": "Good morning. Thanks for calling Carol from Family Practice. Call me, SSG3.",
+      "Timestamp": "2023-11-02 09:03:29"
+    },
+    "Seq2": {
+      "CallerContent": "She has been experiencing severe coughing and mucus, and she's been vomiting, and she's also dizzy. I'm not sure what to do at this point. I was hoping to speak with the nurse or the doctor.",
+      "ReceiverContent": "Sure. Let me transfer you to the nurse, and she could help you out with this. Please stay online.",
+      "Timestamp": "2023-11-02 09:03:47"
+    },
+    "Seq3": {
+      "CallerContent": "Okay. Thank you.",
+      "ReceiverContent": "Thank you. Bye-bye.",
+      "Timestamp": "2023-11-02 09:04:15"
+    },
+    "Seq4": {
+      "ReceiverContent": "Hello.",
+      "Timestamp": "2023-11-02 09:04:19"
+    },
+    "Seq5": {
+      "BotContent": "You have reached the nurse line. If this is an emergency, please hang up and dial 911. If you're calling for a prescription refill, please leave a detailed message with the drug name, the milligrams, and your pharmacy information. Please allow 72 hours for your refills to be processed. Leave us a message, and we'll get back to you as soon as we can. Thank you, and have a good day.",
+      "Timestamp": "2023-11-02 09:04:50"
+    }
+  }
+}

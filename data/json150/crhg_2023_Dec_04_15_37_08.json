@@ -1,0 +1,38 @@
+{
+  "Metadata": "value",
+  "Caller": "Stephen Chapman",
+  "Receiver": "Kumaran (Carlston Family Practice)",
+  "Timestamp": "2023_Dec_04_15:37:08",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, I had a 315 tele-visit with Dr. Williams.",
+      "ReceiverContent": "Good afternoon. Thank you for calling Carlston Family Practice. How many is this to you today?",
+      "Timestamp": "2023_Dec_04_15:37:08"
+    },
+    "Seq2": {
+      "CallerContent": "No, it's Stephen Chapman. It's a tele-visit.",
+      "ReceiverContent": "Okay, let me check on it. One moment. 315 appointment is Christopher D'Amelio, am I correct?",
+      "Timestamp": "2023_Dec_04_15:37:08"
+    },
+    "Seq3": {
+      "CallerContent": "Okay, thank you.",
+      "ReceiverContent": "If she doesn't pick the call, you can call me back again. Stay online.",
+      "Timestamp": "2023_Dec_04_15:37:08"
+    },
+    "Seq4": {
+      "CallerContent": "Yes, I had a 315 tele-visit.",
+      "ReceiverContent": "Hi there. Thank you for contacting Carlston Family Practice. This is Brandy here in the front office. How can we help you today?",
+      "Timestamp": "2023_Dec_04_15:37:08"
+    },
+    "Seq5": {
+      "CallerContent": "Right now I'm online and no one's come on yet.",
+      "ReceiverContent": "Yes, sir.",
+      "Timestamp": "2023_Dec_04_15:37:08"
+    },
+    "Seq6": {
+      "CallerContent": "Okay, thank you.",
+      "ReceiverContent": "Absolutely. Thank you for calling. I'm sorry about that. Bye-bye.",
+      "Timestamp": "2023_Dec_04_15:37:08"
+    }
+  }
+}

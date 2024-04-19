@@ -1,0 +1,48 @@
+{
+  "Metadata": "value",
+  "Caller": "Marlene Delaney",
+  "Receiver": "Crosstown Family Practice (Kumar)",
+  "Timestamp": "2023-12-02 09:00:00",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Good morning. My name is Marlene Delaney, and I had left a message for Brandy yesterday. And I was, she never returned my phone call, but I had asked for some paperwork that I had left in the office Wednesday when I had an appointment with Dr. Williams. And I wanted to pick it up this morning, but I have an emergency, and I need to be able to, I want to see if I can pick it up around 1 o'clock today.",
+      "ReceiverContent": "Sure. For paperwork, I can transfer you to Brandy, and she could help you out with this.",
+      "Timestamp": "2023-12-02 09:00:06"
+    },
+    "Seq2": {
+      "CallerContent": "I repeat that again. I'm driving. I can't hear you very well.",
+      "ReceiverContent": "Okay. Can you hear me now clearly?",
+      "Timestamp": "2023-12-02 09:00:46"
+    },
+    "Seq3": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Yes. For paperwork, I can transfer you to Brandy, and she could help you out.",
+      "Timestamp": "2023-12-02 09:00:52"
+    },
+    "Seq4": {
+      "CallerContent": "Okay. All right.",
+      "ReceiverContent": "Kindly stay online. Apart from this, is there anything else that I may assist you with?",
+      "Timestamp": "2023-12-02 09:01:01"
+    },
+    "Seq5": {
+      "CallerContent": "No. I just need to know about the paperwork. I need to know if I can pick the paperwork up.",
+      "ReceiverContent": "Okay. Kindly stay online. I'm going to transfer your call, and you have a great day.",
+      "Timestamp": "2023-12-02 09:01:08"
+    },
+    "Seq6": {
+      "CallerContent": "All right. You do the same. Thank you so much.",
+      "ReceiverContent": "Thank you. Bye-bye.",
+      "Timestamp": "2023-12-02 09:01:19"
+    },
+    "Seq7": {
+      "CallerContent": "Good morning, Brandi. This is Marlene Delaney. I was calling because I left a message for you yesterday, and I had wanted to pick the paperwork up that I left, that I forgot and left in Dr. Williams' office to be picked up this morning. But I have a family emergency, and I'm calling to see would it be okay if I could pick that paperwork up sometime this afternoon around 1 or 2 o'clock. If it's any way possible, and it was my last work that I had bought in, and you all had made a copy out of, and Dr. Williams had given me a name of an endocrinologist, and I thought I had picked it up, but I picked up something that I already had in my hand, and I need to know if I can come and pick the paper for the endocrinologist and that last paperwork back up today. I'd really appreciate it if you could get that with me.",
+      "ReceiverContent": "My number is 301-523-6016, and it's Friday around 9.05.",
+      "Timestamp": "2023-12-02 09:02:40"
+    },
+    "Seq8": {
+      "CallerContent": "Thanks. Bye.",
+      "ReceiverContent": null,
+      "Timestamp": "2023-12-02 09:03:45"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Metadata": "value",
+  "Caller": "No Name",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-01-01 11:30:07",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "I was going to have my medical record faxed over, and I just needed your fax number.",
+      "ReceiverContent": "Okay. Kindly give me a minute, ma'am.",
+      "Timestamp": "2023-01-01 11:30:09"
+    },
+    "Seq2": {
+      "ReceiverContent": "Yeah. Kindly make a note of it. It's 410-451-0960.",
+      "CallerContent": "Okay. 410-451-0960. 410-451-0960.",
+      "Timestamp": "2023-01-01 11:30:22"
+    },
+    "Seq3": {
+      "ReceiverContent": "Yeah. That's correct.",
+      "CallerContent": "Okay. Thank you so much.",
+      "Timestamp": "2023-01-01 11:30:33"
+    },
+    "Seq4": {
+      "ReceiverContent": "Yep. Thank you for calling Crofton Family Practice, and you have a great day, ma'am. Bye-bye.",
+      "CallerContent": "You too. Bye.",
+      "Timestamp": "2023-01-01 11:30:40"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Metadata": "value",
+  "Caller": "Gennard",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-11-01 15:07:30",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, Dominic. I'd like to pay a bill.",
+      "ReceiverContent": "Good afternoon. Thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-11-01 15:07:30"
+    },
+    "Seq2": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Yeah.",
+      "Timestamp": "2023-11-01 15:07:30"
+    },
+    "Seq3": {
+      "CallerContent": "Hi there. Thank you for contacting Crofton Family Practice. Is this Mr. Gennard?",
+      "ReceiverContent": "This is Brandy. Yes, ma'am.",
+      "Timestamp": "2023-11-01 15:07:30"
+    },
+    "Seq4": {
+      "CallerContent": "Okay. Yeah, I'd like to pay Tom's bill.",
+      "ReceiverContent": "Oh, okay. Bear with me just a moment. Let me go ahead and get on my computer, okay? Give me just a second.",
+      "Timestamp": "2023-11-01 15:07:30"
+    },
+    "Seq5": {
+      "CallerContent": "Yes, please.",
+      "ReceiverContent": "All right. Bear with me.",
+      "Timestamp": "2023-11-01 15:07:30"
+    },
+    "Seq6": {
+      "CallerContent": "Okay. It's 4170-9564-1238-3837.",
+      "ReceiverContent": "Very good. And the expiration date, please?",
+      "Timestamp": "2023-11-01 15:07:30"
+    },
+    "Seq7": {
+      "CallerContent": "9-27.",
+      "ReceiverContent": "Very good. Thank you, ma'am. And then the CVV code on the very back, please.",
+      "Timestamp": "2023-11-01 15:07:30"
+    },
+    "Seq8": {
+      "CallerContent": "188.",
+      "ReceiverContent": "Very good. And would you like to have a receipt either emailed or texted to you as well, ma'am?",
+      "Timestamp": "2023-11-01 15:07:30"
+    },
+    "Seq9": {
+      "CallerContent": "No, that's good. I'll see it on the statement.",
+      "ReceiverContent": "Okay. No problem. I will go ahead then, and I'm processing it as well as notating it in his chart that you called in and made the payment yourself, okay?",
+      "Timestamp": "2023-11-01 15:07:30"
+    },
+    "Seq10": {
+      "CallerContent": "Okay. Thank you.",
+      "ReceiverContent": "Thank you as well, ma'am. Have a great afternoon.",
+      "Timestamp": "2023-11-01 15:07:30"
+    },
+    "Seq11": {
+      "CallerContent": "You too. You too. Bye. All right. Bye-bye.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2023-11-01 15:07:30"
+    }
+  }
+}

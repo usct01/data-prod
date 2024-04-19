@@ -1,0 +1,157 @@
+{
+  "Timestamp": "2023-11-02 08:40:41",
+  "Caller": "Jacqueline Straker",
+  "Receiver": "Kathy from Krafton Family Practice",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hey, Kathy. This is Jacqueline Straker calling, and I am calling to confirm that I do not have an appointment this morning because I received a phone call yesterday and a text this morning saying I do, but I don't have it on my online portal or records that I was having an appointment today.",
+      "ReceiverContent": "Good morning. Thank you for calling Krafton Family Practice. This is Kathy. How may I assist you today?",
+      "Timestamp": "2023-11-02 08:40:41"
+    },
+    "Seq2": {
+      "CallerContent": "10-24-93.",
+      "ReceiverContent": "So kindly give me a minute. Could you please help me with the date of birth?",
+      "Timestamp": "2023-11-02 08:41:53"
+    },
+    "Seq3": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "24-19-93. Your first name is Jacqueline, am I correct?",
+      "Timestamp": "2023-11-02 08:42:57"
+    },
+    "Seq4": {
+      "CallerContent": "Kindly stay online. I'm checking on it. Yes, you have your appointment today at 9 a.m. for lab.",
+      "ReceiverContent": "No, your appointment is not canceled. Would you like to cancel it?",
+      "Timestamp": "2023-11-02 08:45:16"
+    },
+    "Seq5": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Yeah, kindly stay online. I'm checking on it. Yes, you have your appointment today at 9 a.m. for lab.",
+      "Timestamp": "2023-11-02 08:47:21"
+    },
+    "Seq6": {
+      "CallerContent": "Yes, I was wondering, um, what type of specialist if there was like a referral that the doctor had for the specialist to go to.",
+      "ReceiverContent": "Let me transfer you to the consent person who can help you on this. If the call is not answered, kindly leave a voice message and they'll get back to you as soon as possible. Kindly stay online. I'm transferring. I'm calling the call and have a great day.",
+      "Timestamp": "2023-11-02 08:49:29"
+    },
+    "Seq7": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Hi there. Thank you for contacting Crofton family practice. This is Brandy here in the front office. How can we help you today?",
+      "Timestamp": "2023-11-02 09:03:04"
+    },
+    "Seq8": {
+      "CallerContent": "Hi, Brandy. This is Jacqueline Stryker calling. And I received a phone call from the PA last week to inform me that Dr. Williams had wanted me to see a specialist.",
+      "ReceiverContent": "Mr.",
+      "Timestamp": "2023-11-02 09:04:33"
+    },
+    "Seq9": {
+      "CallerContent": "I guess there is one this morning.",
+      "ReceiverContent": "I was going to say, I thought you had an appointment this morning. That's why I was asking.",
+      "Timestamp": "2023-11-02 09:05:41"
+    },
+    "Seq10": {
+      "CallerContent": "Yeah. And then the PA called and said, hey, we're not going to need labs. We're just going to refer you to a specialist. So then I assume my appointment was canceled.",
+      "ReceiverContent": "So I was, yeah, because hold on just a sec. Let me just double check. Yeah. You, they have you here just for labs today. That it's not an actual, you know what I mean?",
+      "Timestamp": "2023-11-02 09:07:45"
+    },
+    "Seq11": {
+      "CallerContent": "Yeah. Because the PA, when she called said that instead of doing the labs at your office, they were just going to have, I'm sorry.",
+      "ReceiverContent": "Hold on. Ms. Straker, bear with me. Ms. Strikers on the phone. I'm sorry to interrupt you guys, but she said that, um, a PA just called her and told her something about, and they don't need, what was it? Mr. Stricker.",
+      "Timestamp": "2023-11-02 09:04:53"
+    },
+    "Seq12": {
+      "CallerContent": "Uh, the PA called last week and informed me that I didn't need to come in and do my labs for this appointment because they would just have me do labs with a specialist.",
+      "ReceiverContent": "A PA called her and told her that there means she doesn't need to disappoint them because they're going to be labbed, but yeah, but when, since, when they went, who's the primary care?",
+      "Timestamp": "2023-11-02 09:04:53"
+    },
+    "Seq13": {
+      "CallerContent": "Dr. Allison Williams.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-11-02 09:05:22"
+    },
+    "Seq14": {
+      "CallerContent": "She, the PA called and said that Dr. Williams is going to have me see a specialist.",
+      "ReceiverContent": "Yes. Yes. Okay.",
+      "Timestamp": "2023-11-02 09:05:32"
+    },
+    "Seq15": {
+      "CallerContent": "Are you talking to Dr. Strikers? Possibly the one with the blonde hair.",
+      "ReceiverContent": "Um, we don't call her that. That's why we were wondering where that PA came from.",
+      "Timestamp": "2023-11-02 09:05:44"
+    },
+    "Seq16": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "You know where the PA came from. I apologize. We were just kind of like, hold on now.",
+      "Timestamp": "2023-11-02 09:05:50"
+    },
+    "Seq17": {
+      "CallerContent": "Um, we don't call her that. That's why we were wondering where that PA came from.",
+      "ReceiverContent": "Um, okay.",
+      "Timestamp": "2023-11-02 09:05:56"
+    },
+    "Seq18": {
+      "CallerContent": "So if you don't need to have your lab done, I, that's fine. No problem. We are, they're already canceled in the schedule because it literally, as I was looking at your name, it just kind of took you away off the screen. So that's fine then. Yes.",
+      "ReceiverContent": "So if you don't need to have your lab done, I, that's fine. No problem. We are, they're already canceled in the schedule because it literally, as I was looking at your name, it just kind of took you away off the screen. So that's fine then. Yes.",
+      "Timestamp": "2023-11-02 09:05:56"
+    },
+    "Seq19": {
+      "CallerContent": "I don't know because I am not sure what type of specialist that Dr. Williams wanted me to see. So that's what I wanted to confirm.",
+      "ReceiverContent": "Yeah. Yes, ma'am. Unfortunately, right. I would, right. I would have to have you probably schedule an appointment then.",
+      "Timestamp": "2023-11-02 09:06:20"
+    },
+    "Seq20": {
+      "CallerContent": "I don't know because I am not sure what type of specialist that Dr. Williams wanted me to see. So that's what I wanted to confirm.",
+      "ReceiverContent": "Yeah. Yes, ma'am. Unfortunately, right. I would, right. I would have to have you probably schedule an appointment then.",
+      "Timestamp": "2023-11-02 09:06:20"
+    },
+    "Seq21": {
+      "CallerContent": "I don't know because I am not sure what type of specialist that Dr. Williams wanted me to see. So that's what I wanted to confirm.",
+      "ReceiverContent": "Yeah. Yes, ma'am. Unfortunately, right. I would, right. I would have to have you probably schedule an appointment then.",
+      "Timestamp": "2023-11-02 09:06:20"
+    },
+    "Seq22": {
+      "CallerContent": "I don't know because I am not sure what type of specialist that Dr. Williams wanted me to see. So that's what I wanted to confirm.",
+      "ReceiverContent": "Yeah. Yes, ma'am. Unfortunately, right. I would, right. I would have to have you probably schedule an appointment then.",
+      "Timestamp": "2023-11-02 09:06:20"
+    },
+    "Seq23": {
+      "CallerContent": "I don't know because I am not sure what type of specialist that Dr. Williams wanted me to see. So that's what I wanted to confirm.",
+      "ReceiverContent": "Yeah. Yes, ma'am. Unfortunately, right. I would, right. I would have to have you probably schedule an appointment then.",
+      "Timestamp": "2023-11-02 09:06:20"
+    },
+    "Seq24": {
+      "CallerContent": "I don't know because I am not sure what type of specialist that Dr. Williams wanted me to see. So that's what I wanted to confirm.",
+      "ReceiverContent": "Yeah. Yes, ma'am. Unfortunately, right. I would, right. I would have to have you probably schedule an appointment then.",
+      "Timestamp": "2023-11-02 09:06:20"
+    },
+    "Seq25": {
+      "CallerContent": "Um, I was supposed to have been. I have seen her last week, but I guess somebody else saw me instead.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-11-02 09:07:05"
+    },
+    "Seq26": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "So you saw Suzanne probably last week.",
+      "Timestamp": "2023-11-02 09:07:11"
+    },
+    "Seq27": {
+      "CallerContent": "I was supposed to have been. I have seen her last week, but I guess somebody else saw me instead.",
+      "ReceiverContent": "So you saw Suzanne probably last week.",
+      "Timestamp": "2023-11-02 09:07:05"
+    },
+    "Seq28": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "So you saw Suzanne probably last week.",
+      "Timestamp": "2023-11-02 09:07:11"
+    },
+    "Seq29": {
+      "CallerContent": "So then I'll have to take a look in your chart, um, and take a look and just kind of see what I can find. Let me just write your name down here, Ms. Stryker. Um, and give me a little bit, let me take a look through your chart.",
+      "ReceiverContent": "So then I'll have to take a look in your chart, um, and take a look and just kind of see what I can find. Let me just write your name down here, Ms. Stryker. Um, and give me a little bit, let me take a look through your chart.",
+      "Timestamp": "2023-11-02 09:07:47"
+    },
+    "Seq30": {
+      "CallerContent": "Alright. That sounds great. Thank you so much. I appreciate it.",
+      "ReceiverContent": "Alright. That sounds great. Thank you so much. I appreciate it.",
+      "Timestamp": "2023-11-02 09:08:03"
+    }
+  }
+}

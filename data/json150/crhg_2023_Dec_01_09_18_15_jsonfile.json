@@ -1,0 +1,68 @@
+{
+  "Metadata": "value",
+  "Caller": "John O'Bannon",
+  "Receiver": "Crofton Family Practice (Dominic)",
+  "Timestamp": "2023-12-01 09:18:15",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hello?",
+      "ReceiverContent": "Can you hear me now?",
+      "Timestamp": "2023-12-01 09:18:10"
+    },
+    "Seq2": {
+      "CallerContent": "Hello, yes, I can.",
+      "ReceiverContent": "Yes, how may I help you, sir?",
+      "Timestamp": "2023-12-01 09:18:14"
+    },
+    "Seq3": {
+      "CallerContent": "I would like to make an appointment for a physical.",
+      "ReceiverContent": "For a physical, can you give me a minute? Let me fix up an appointment for you.",
+      "Timestamp": "2023-12-01 09:18:19"
+    },
+    "Seq4": {
+      "CallerContent": "Okay, this is Dr. Allison Williams, right?",
+      "ReceiverContent": "Yes, sir, that's correct.",
+      "Timestamp": "2023-12-01 09:18:32"
+    },
+    "Seq5": {
+      "CallerContent": "Okay, so there's usually a blood work done and two appointments.",
+      "ReceiverContent": "Yes, sir, I can fix up a single appointment for you.",
+      "Timestamp": "2023-12-01 09:18:58"
+    },
+    "Seq6": {
+      "CallerContent": "It's a Monday? It's a Monday?",
+      "ReceiverContent": "Yes, yes, it's a Monday.",
+      "Timestamp": "2023-12-01 09:19:45"
+    },
+    "Seq7": {
+      "CallerContent": "Yes, 7-31-1974. My name is John O'Bannon, O'B.",
+      "ReceiverContent": "Got it.",
+      "Timestamp": "2023-12-01 09:19:54"
+    },
+    "Seq8": {
+      "CallerContent": "Now, that was for the physical, right?",
+      "ReceiverContent": "Or is it for both, basically? Yes, physical, and the blood work is included in this.",
+      "Timestamp": "2023-12-01 09:20:05"
+    },
+    "Seq9": {
+      "CallerContent": "Okay, so it would be fasting, right?",
+      "ReceiverContent": "Yes.",
+      "Timestamp": "2023-12-01 09:20:13"
+    },
+    "Seq10": {
+      "CallerContent": "Great, that's fine.",
+      "ReceiverContent": "Is there anything else that I missed you with?",
+      "Timestamp": "2023-12-01 09:20:29"
+    },
+    "Seq11": {
+      "CallerContent": "No, that's all. Thank you.",
+      "ReceiverContent": "Thank you for calling Crofton Family Practice, and you have a great day, sir. Bye-bye.",
+      "Timestamp": "2023-12-01 09:20:34"
+    },
+    "Seq12": {
+      "CallerContent": "Bye-bye.",
+      "ReceiverContent": null,
+      "Timestamp": "2023-12-01 09:20:40"
+    }
+  }
+}

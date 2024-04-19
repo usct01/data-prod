@@ -1,0 +1,88 @@
+{
+  "Metadata": "value",
+  "Caller": "William Taylor",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-12-04 08:58:37",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "assistant for the day. Good morning Dominic. This is William Taylor and I need to get",
+      "ReceiverContent": "an appointment with Dr. Williams. Sure sir. Would you like to meet the doctor in person or would you like to make a television appointment? In person would be preferable but",
+      "Timestamp": "2023-12-04 08:58:10"
+    },
+    "Seq2": {
+      "CallerContent": "I can if she's the only way she can fit me in the schedule this week is",
+      "ReceiverContent": "television that'll work. Okay for the television appointment, kindly give me a",
+      "Timestamp": "2023-12-04 08:58:19"
+    },
+    "Seq3": {
+      "CallerContent": "minute. The purpose of the appointment is a consult on my",
+      "ReceiverContent": "diabetes. Okay. Okay we have a slot by 18th of December at 1 30 p.m. Will that be",
+      "Timestamp": "2023-12-04 08:58:29"
+    },
+    "Seq4": {
+      "CallerContent": "the earliest you can get me in?",
+      "ReceiverContent": "Yeah it's an early slot. If you want to speak to the nurse, I can transfer you to",
+      "Timestamp": "2023-12-04 08:59:14"
+    },
+    "Seq5": {
+      "CallerContent": "the nurse for the consultation. Okay but you're saying there's no appointments",
+      "ReceiverContent": "available either in person or televisa,t until the 18th? Yes sir! That's correct",
+      "Timestamp": "2023-12-04 08:59:27"
+    },
+    "Seq6": {
+      "CallerContent": "because all the slots are different if you want to speak to the nurse but the consultant I can transfer you to the",
+      "ReceiverContent": "nurse. Will that be okay with you sir? I'm sorry say again. If you want to speak to",
+      "Timestamp": "2023-12-04 08:59:34"
+    },
+    "Seq7": {
+      "CallerContent": "the nurse regarding the consultation, I can transfer you to the nurse. Will that be okay with you?",
+      "ReceiverContent": "well it's not anything urgent I just want to understand I don't understand",
+      "Timestamp": "2023-12-04 08:59:49"
+    },
+    "Seq8": {
+      "CallerContent": "how the blood sugar thing works and I want to yeah regarding that I need to",
+      "ReceiverContent": "transfer you to the nurse the Amy's available right now if you want to speak",
+      "Timestamp": "2023-12-04 09:00:06"
+    },
+    "Seq9": {
+      "CallerContent": "to the nurse it's not gonna it's not something that I can so first off I'm in the middle of another appointment right now I'm just in a break I'm over at the",
+      "ReceiverContent": "to the nurse it's not gonna it's not something that I can so first off I'm in the middle of another appointment right now I'm just in a break I'm over at the hospital and I know Amy very well and the questions I have she's not going to be able to handle over the phone so I guess I'll take the appointment on the",
+      "Timestamp": "2023-12-04 09:00:10"
+    },
+    "Seq10": {
+      "CallerContent": "18th okay so the 18th is the in-person appointment with that bill QT sir yes",
+      "ReceiverContent": "18th okay so the 18th is the in-person appointment with that bill QT sir yes",
+      "Timestamp": "2023-12-04 09:00:30"
+    },
+    "Seq11": {
+      "CallerContent": "what time at 1 30 p.m. 18th of December okay and just note on it if there's any",
+      "ReceiverContent": "what time at 1 30 p.m. 18th of December okay and just note on it if there's any",
+      "Timestamp": "2023-12-04 09:00:38"
+    },
+    "Seq12": {
+      "CallerContent": "cancellations call me yeah sure I can call you back sir okay and just note on it if there's any cancellations call me yeah sure I can call you back sir so may have your date of birth for the confirmation sir nine five nineteen",
+      "ReceiverContent": "cancellations call me yeah sure I can call you back sir okay and just note on it if there's any cancellations call me yeah sure I can call you back sir so may have your date of birth for the confirmation sir nine five nineteen",
+      "Timestamp": "2023-12-04 09:00:46"
+    },
+    "Seq13": {
+      "CallerContent": "forty-eight at it William Taylor for office visit and it should die with this",
+      "ReceiverContent": "forty-eight at it William Taylor for office visit and it should die with this",
+      "Timestamp": "2023-12-04 09:01:54"
+    },
+    "Seq14": {
+      "CallerContent": "discussion that it could just confirm I fixed the appointment on Monday which is",
+      "ReceiverContent": "discussion that it could just confirm I fixed the appointment on Monday which is",
+      "Timestamp": "2023-12-04 09:02:03"
+    },
+    "Seq15": {
+      "CallerContent": "18th of December at 1 30 p.m. for a diabetic discussion okay well will that be okay with you yes sure is there anything else I can do to you sir",
+      "ReceiverContent": "18th of December at 1 30 p.m. for a diabetic discussion okay well will that be okay with you yes sure is there anything else I can do to you sir",
+      "Timestamp": "2023-12-04 09:02:11"
+    },
+    "Seq16": {
+      "CallerContent": "yeah sure nope I get a run thanks bye yep thank you for calling Robson Family Practice and you have a great day sir bye bye you too",
+      "ReceiverContent": "yeah sure nope I get a run thanks bye yep thank you for calling Robson Family Practice and you have a great day sir bye bye you too",
+      "Timestamp": "2023-12-04 09:03:38"
+    }
+  }
+}

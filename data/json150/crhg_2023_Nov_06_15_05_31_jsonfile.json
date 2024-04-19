@@ -1,0 +1,81 @@
+{
+  "Timestamp": "2023-11-06 15:05:31",
+  "Caller": "Tim Carr",
+  "Receiver": "Kumar",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hey, how are you? My name is Tim Carr, C-A-R-R. I need to schedule my annual physical. I've just been swamped at work.",
+      "ReceiverContent": "Yes, we're open from Monday to Friday.",
+      "Timestamp": "2023-11-06 15:05:31"
+    },
+    "Seq2": {
+      "CallerContent": "Okay. The other question is, I have some prescriptions that I'm trying to get refilled by Dr. Williams, and I was told they were going to get refilled, but then I got my pharmacy telling me they're not getting filled. I don't understand what's going on. It's like I have blood pressure medicine, I take Avatars and for, you know, that kind of stuff.",
+      "ReceiverContent": "Okay. For the prescription refill, I can transfer you to the nurse and she could help you out with this. But before that, would you like to make a comment? Would you like to make up an appointment for your physical annual visits?",
+      "Timestamp": "2023-11-06 15:05:31"
+    },
+    "Seq3": {
+      "CallerContent": "Do I need to do my lab stuff before I go see Dr. Williams?",
+      "ReceiverContent": "Sure. Would you like to make up an appointment in lab?",
+      "Timestamp": "2023-11-06 15:05:31"
+    },
+    "Seq4": {
+      "CallerContent": "Well, I'd like to make an appointment for both if I can, so I can get this done.",
+      "ReceiverContent": "Okay. So lab works on Monday, Wednesday, and Thursday.",
+      "Timestamp": "2023-11-06 15:05:31"
+    },
+    "Seq5": {
+      "CallerContent": "Yeah. Well, what time, what time, what time do they normally do the lab stuff? Because I work.",
+      "ReceiverContent": "Yeah. In the, in the morning.",
+      "Timestamp": "2023-11-06 15:05:31"
+    },
+    "Seq6": {
+      "CallerContent": "Eight in the morning?",
+      "ReceiverContent": "Yeah. Nine in the morning from nine to, yeah, from nine to 1130.",
+      "Timestamp": "2023-11-06 15:05:31"
+    },
+    "Seq7": {
+      "CallerContent": "Okay. All right. And I'll put it just like blood work and urine work or what?",
+      "ReceiverContent": "Yes. You can go to.",
+      "Timestamp": "2023-11-06 15:05:31"
+    },
+    "Seq8": {
+      "CallerContent": "Do I need to fast ahead of time?",
+      "ReceiverContent": "Yes. You have to come into a empty stomach. You have to fast.",
+      "Timestamp": "2023-11-06 15:05:31"
+    },
+    "Seq9": {
+      "CallerContent": "So what, 24 hours in advance or what?",
+      "ReceiverContent": "I really don't know exactly how it is. But you have to fast before the night, I guess.",
+      "Timestamp": "2023-11-06 15:05:31"
+    },
+    "Seq10": {
+      "CallerContent": "Okay. So do you have anything like beginning of December?",
+      "ReceiverContent": "Sure. Let me check on the available slot for you. One moment. Before that, could they take your date of birth?",
+      "Timestamp": "2023-11-06 15:05:31"
+    },
+    "Seq11": {
+      "CallerContent": "20 June, 1958.",
+      "ReceiverContent": "The first name is Timothy, am I correct?",
+      "Timestamp": "2023-11-06 15:05:31"
+    },
+    "Seq12": {
+      "CallerContent": "Yes, sir.",
+      "ReceiverContent": "Okay. One moment.",
+      "Timestamp": "2023-11-06 15:05:31"
+    },
+    "Seq13": {
+      "CallerContent": "We do have a slot available on 14th of December at 1030 a.m. Will that be okay with you? It's Thursday. Lab works on Thursdays.",
+      "ReceiverContent": "Sure. Let me check on the available slot for you. One moment. Before that, could they take your date of birth?",
+      "Timestamp": "2023-11-06 15:05:31"
+    },
+    "Seq14": {
+      "CallerContent": "At 1030, how long is it going to take me to do this?",
+      "ReceiverContent": "It will take half an hour, 30 minutes to make one appointment.",
+      "Timestamp": "2023-11-06 15:05:31"
+    },
+    "Seq15": {
+      "CallerContent": "And that's on 14 December?",
+      "ReceiverContent": "Yes"
+    }
+  }
+}

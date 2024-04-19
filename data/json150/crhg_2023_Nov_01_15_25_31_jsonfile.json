@@ -1,0 +1,69 @@
+{
+  "Metadata": "value",
+  "Caller": "Jones",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-11-01 15:25:31",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, hi, my name is Mrs. Jones, and I'm calling to see if my referral has been put in. I spoke with the lady at the front desk earlier today, and she said she would work on it.",
+      "ReceiverContent": "Good afternoon, this is Carl from Family Practice. How may I assist you today?",
+      "Timestamp": "2023-11-01 15:25:31"
+    },
+    "Seq2": {
+      "CallerContent": "Okay, thanks.",
+      "ReceiverContent": "Okay, yeah, I could understand. One month, I can transfer you to the front desk again, and she could help you out with this.",
+      "Timestamp": "2023-11-01 15:25:31"
+    },
+    "Seq3": {
+      "CallerContent": "Hi there, and thank you for contacting Carl from Family Practice. This is Brandy here within the front office. How can I help you today?",
+      "ReceiverContent": "Your conversation is being recorded.",
+      "Timestamp": "2023-11-01 15:25:31"
+    },
+    "Seq4": {
+      "CallerContent": "Hi, this is Mrs. Jones. I spoke with you earlier today about my referral, and I'm just calling to check the status to see if it's been put in the system yet.",
+      "ReceiverContent": "Yes, ma'am, no, I'm actually, I'm completing it as we speak.",
+      "Timestamp": "2023-11-01 15:25:31"
+    },
+    "Seq5": {
+      "CallerContent": "Okay, okay.",
+      "ReceiverContent": "Yes, ma'am, it's not.",
+      "Timestamp": "2023-11-01 15:25:31"
+    },
+    "Seq6": {
+      "CallerContent": "Is it in the system today?",
+      "ReceiverContent": "Yes, ma'am, yes. It's not a hand, I mean, it's a handwritten. It's not a typed up, unfortunately, you know, because this is the one they would need it just now for the luminous health imaging. Is that correct?",
+      "Timestamp": "2023-11-01 15:25:31"
+    },
+    "Seq7": {
+      "CallerContent": "This is the one that I need for rheumatology.",
+      "ReceiverContent": "Oh, Mrs. Jones, yes, ma'am.",
+      "Timestamp": "2023-11-01 15:25:31"
+    },
+    "Seq8": {
+      "CallerContent": "Yes, ma'am, no, no, no, I'm very sorry. I'm sitting here. I did about six different referrals in the past half hour, so bear with me here. Very, very sorry. Give me just a moment here. I already, yours was the first I did, Ms. Jones. You're Dion Jones, correct?",
+      "ReceiverContent": "No, no, I'm very sorry. I'm sitting here. I did about six different referrals in the past half hour, so bear with me here. Very, very sorry. Give me just a moment here. I already, yours was the first I did, Ms. Jones. You're Dion Jones, correct?",
+      "Timestamp": "2023-11-01 15:25:31"
+    },
+    "Seq9": {
+      "CallerContent": "Yeah, that's me.",
+      "ReceiverContent": "Yes, ma'am. Yep, I already put yours in. That's already been sent over to TRICARE. Well, let me see what time I sent it, honey. I sent it at 1057 a.m. for you.",
+      "Timestamp": "2023-11-01 15:25:31"
+    },
+    "Seq10": {
+      "CallerContent": "Okay, perfect, perfect. Well, hey, I really appreciate it, and I'll just give them a couple of days, and then I'll track it from that.",
+      "ReceiverContent": "Yes, ma'am. No problem, and I even sent the last progress note with it. That way, just in case they had any kind of ifs or, you know, ifs or buts about it, they had no reason to deny it, okay?",
+      "Timestamp": "2023-11-01 15:25:31"
+    },
+    "Seq11": {
+      "CallerContent": "Oh, okay, perfect, and it did, you did put down arthritis pain associates in Greenbelt, Maryland?",
+      "ReceiverContent": "Yes, ma'am. Arthritis pain associates, Greenbelt, Maryland. I actually got in touch with them. I got everything needed that you had, like, if you didn't provide anything that was needed, I had already got all that listed, and I even contacted them, I do believe.",
+      "Timestamp": "2023-11-01 15:25:31"
+    },
+    "Seq12": {
+      "CallerContent": "Yes, yes. Well, thank you again. You have a good afternoon.",
+      "ReceiverContent": "Yes, ma'am. No problem whatsoever. I told you, today was dedication to the referral, so.",
+      "Timestamp": "2023-11-01 15:25:31"
+    },
+    "Seq13": {
+      "CallerContent": "You too. You too. Bye. All right. Bye-bye.",
+      "ReceiverContent": "You as well,

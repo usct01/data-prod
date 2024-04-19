@@ -1,0 +1,53 @@
+{
+  "Metadata": "value",
+  "Caller": "Jacqueline Baumann",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-12-04 10:34:34",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi. My name is Jacqueline Baumann. I have an appointment with Dr. Williams tomorrow, but I would like to postpone it if I can.",
+      "ReceiverContent": "Thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-12-04 10:34:34"
+    },
+    "Seq2": {
+      "CallerContent": "I have an appointment tomorrow with Dr. Williams at 930, but I would like to postpone it to another day.",
+      "ReceiverContent": "I'm sorry, ma'am. Your voice is breaking. Can you please repeat that once again for me? I'm sorry.",
+      "Timestamp": "2023-12-04 10:34:45"
+    },
+    "Seq3": {
+      "CallerContent": "Baumann is spelled B as in boy, A-U-M-A-M-N.",
+      "ReceiverContent": "Okay. So may I have your last name, please?",
+      "Timestamp": "2023-12-04 10:34:49"
+    },
+    "Seq4": {
+      "CallerContent": "I was already talking to Tony, I think. And I'm trying to postpone an appointment that I have scheduled for Wednesday at 930.",
+      "ReceiverContent": "Can you give me a minute?",
+      "Timestamp": "2023-12-04 10:34:56"
+    },
+    "Seq5": {
+      "CallerContent": "Well, not this week. It doesn't have to be soon. I'm not in a hurry. But it could be after the holidays. If I need to. But not this week.",
+      "ReceiverContent": "Sure. But I need to check the next available slot for an annual visit. One moment.",
+      "Timestamp": "2023-12-04 10:35:53"
+    },
+    "Seq6": {
+      "CallerContent": "Hold on a second. Yes, that would work.",
+      "ReceiverContent": "We do have a slot available on 4th of January at 1030 a.m. in the morning. Will that be okay with you?",
+      "Timestamp": "2023-12-04 10:36:27"
+    },
+    "Seq7": {
+      "CallerContent": "All right. Thank you so much.",
+      "ReceiverContent": "Is there anything else that I missed, Stuart?",
+      "Timestamp": "2023-12-04 10:37:46"
+    },
+    "Seq8": {
+      "CallerContent": "Not today. No, thank you.",
+      "ReceiverContent": "Okay. Thank you for calling Grafton Family Practice, and you have a great day.",
+      "Timestamp": "2023-12-04 10:37:52"
+    },
+    "Seq9": {
+      "CallerContent": "Thank you, you too. Bye-bye.",
+      "ReceiverContent": "Thank you. Bye-bye.",
+      "Timestamp": "2023-12-04 10:38:00"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "Timestamp": "2023-11-02 09:41:28",
+  "Caller": "Ira Neiman",
+  "Receiver": "Dominic",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yeah, this is Ira Neiman again. You transferred me over. I got the recording again. I need to speak with somebody. Or Dr. Williams.",
+      "ReceiverContent": "I think the nurse is not on his desk, it seems. Kindly give me a minute. Let me transfer the call to friend desk. They'll guide you from that. Can I see you online? Let me transfer the call. Yeah, you have a great day.",
+      "Timestamp": "2023-11-02 09:41:28"
+    },
+    "Seq2": {
+      "CallerContent": "My wife woke up today. She took her medications and she's been vomiting and dizzy and she's cold sweats. Do you want to tell her?",
+      "ReceiverContent": "Hey, Brandy. It's Cheryl.",
+      "Timestamp": "2023-11-02 09:41:28"
+    },
+    "Seq3": {
+      "CallerContent": "That's okay. I'm getting kind of better with the cough and all, but I am nauseous beyond measure. And I've been throwing up since last night.",
+      "ReceiverContent": "I am so very sorry, honey. And I know you haven't. When's the last time you ate something, if you don't mind me asking?",
+      "Timestamp": "2023-11-02 09:41:28"
+    },
+    "Seq4": {
+      "CallerContent": "Five o'clock last night.",
+      "ReceiverContent": "Okay. Have you had any fluids? Are you able to keep any water down?",
+      "Timestamp": "2023-11-02 09:41:28"
+    },
+    "Seq5": {
+      "CallerContent": "No.",
+      "ReceiverContent": "No? Okay. And did this, if you don't mind me asking, though, did this start upon you taking the medication or no?",
+      "Timestamp": "2023-11-02 09:41:28"
+    },
+    "Seq6": {
+      "CallerContent": "No.",
+      "ReceiverContent": "No? Okay.",
+      "Timestamp": "2023-11-02 09:41:28"
+    },
+    "Seq7": {
+      "CallerContent": "I had to sit on the medication for a couple days.",
+      "ReceiverContent": "Gotcha. That's why I was wondering. I was like, let me just kind of clarify, because I didn't know if maybe it was a side effect. Yeah. Okay. Well, let's do this, if you don't mind.",
+      "Timestamp": "2023-11-02 09:41:28"
+    },
+    "Seq8": {
+      "CallerContent": "Okay. That's great.",
+      "ReceiverContent": "Alright. I'm so very sorry. I definitely hope you start feeling better here, okay? Thank you. Thank you. Yes, ma'am.",
+      "Timestamp": "2023-11-02 09:41:28"
+    },
+    "Seq9": {
+      "CallerContent": "Amy, I'm going to send you.",
+      "ReceiverContent": "This is the nurse. Amy, how can I help you?",
+      "Timestamp": "2023-11-02 09:41:28"
+    },
+    "Seq10": {
+      "CallerContent": "Hi, Amy. It's Cheryl Naiman. How are you?",
+      "ReceiverContent": "Hey. What's going on, hon?",
+      "Timestamp": "2023-11-02 09:41:28"
+    },
+    "Seq11": {
+      "CallerContent": "So, I've gotten really nauseous from, I started last night at dinner. I felt like I had a little bit of an appetite.",
+      "ReceiverContent": "Oh, you're breaking up a little bit. I didn't hear what you said there. I'm sorry.",
+      "Timestamp": "2023-11-02 09:41:28"
+    },
+    "Seq12": {
+      "CallerContent": "Since about 5 o'clock last night.",
+      "ReceiverContent": "Still vomiting.",
+      "Timestamp": "2023-11-02 09:41:28"
+    },
+    "Seq13": {
+      "CallerContent": "Yeah. Then I woke up this morning. I just stood up because. I had to go to the bathroom and, you know, I had throw up in my mouth.",
+      "ReceiverContent": "Yeah. Let me just. Dr. Williams just walked in. Give me one second, okay? Hold on.",
+      "Timestamp": "2023-11-02 09:41:28"
+    },
+    "Seq14": {
+      "CallerContent": "Hey, Ms. Naiman. I just spoke with Dr. Williams and she wants you to go to the emergency room.",
+      "ReceiverContent": "Did she say why?",
+      "Timestamp": "2023-11-02 09:41:28"
+    },
+    "Seq15": {
+      "CallerContent": "Well, yeah, hon, because you're not better and now you're vomiting and the dizziness, all of that. There could be some other things going on. And you need to just rule out that.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-11-02 09:41:28"
+    },
+    "Seq16": {
+      "CallerContent": "Okay. Do you have someone to drive you there? Is Ira there to drive you?",
+      "ReceiverContent": "Okay. Yeah. Go there, get checked out, okay? Because you're probably going to need some IVs. And then they can run some further tests, maybe do some chest X-rays and stuff like that and see what's going on.",
+      "Timestamp": "2023-11-02 09:41:28"
+    }
+  }
+}

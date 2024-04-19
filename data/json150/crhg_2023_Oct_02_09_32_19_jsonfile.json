@@ -1,0 +1,67 @@
+{
+  "Timestamp": "2023-10-02 09:32:19",
+  "Receiver": "Dominic",
+  "Caller": "Marge Gennard",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. Thanks for calling Crofton Family Practice. This is Dominic. I'll be assisting you for the day.",
+      "CallerContent": "Yes, Dominic. This is Marge Gennard. My husband had an appointment at 9.15 with Dr. Williams.",
+      "Timestamp": "2023-10-02 09:32:19"
+    },
+    "Seq2": {
+      "ReceiverContent": "Yes, ma'am. That's correct.",
+      "CallerContent": "I got a call, I think on Friday, after hours, that it had been changed to a televisit.",
+      "Timestamp": "2023-10-02 09:32:20"
+    },
+    "Seq3": {
+      "ReceiverContent": "Actually, yeah. I'm really sorry to say that. The doctor is on a sick leave today. She's not feeling well today. So that's one reason that we changed the visit to televisit.",
+      "CallerContent": "Okay.",
+      "Timestamp": "2023-10-02 09:32:34"
+    },
+    "Seq4": {
+      "ReceiverContent": "So if you want to cancel the appointment, I can do cancel. Can I cancel the appointment, ma'am? Or if you want to make an appointment for the future, I can do that for you.",
+      "CallerContent": "Right. You think she'll be out all week or you don't know at this point?",
+      "Timestamp": "2023-10-02 09:32:48"
+    },
+    "Seq5": {
+      "ReceiverContent": "Yes. Yes. Okay.",
+      "CallerContent": "All right. I'll wait until she's back and make an appointment then.",
+      "Timestamp": "2023-10-02 09:33:00"
+    },
+    "Seq6": {
+      "ReceiverContent": "So you want to cancel today's appointment, ma'am? Is that correct?",
+      "CallerContent": "Yes. I do not want to do a televisit. My husband needs to see her face-to-face. Yeah.",
+      "Timestamp": "2023-10-02 09:33:09"
+    },
+    "Seq7": {
+      "ReceiverContent": "Okay.",
+      "CallerContent": "In person, I guess.",
+      "Timestamp": "2023-10-02 09:33:23"
+    },
+    "Seq8": {
+      "ReceiverContent": "Sure, ma'am. So, yep. So just to confirm, I canceled your appointment for today.",
+      "CallerContent": "So did you not get my two messages that I had called? I mean, I don't know. There's something. Somebody else is answering your calls, I think, or something. There's just a lot of confusion. I don't know.",
+      "Timestamp": "2023-10-02 09:33:25"
+    },
+    "Seq9": {
+      "ReceiverContent": "Yeah, I'm sorry for the miscommunication. I'm really sorry for the inconvenience happened.",
+      "CallerContent": "So, yes, we...",
+      "Timestamp": "2023-10-02 09:33:46"
+    },
+    "Seq10": {
+      "ReceiverContent": "Let me cancel this appointment for today. And you can give me a call back any time to make an appointment in the future. Okay. Is it okay with you, ma'am?",
+      "CallerContent": "Yeah. I'll try to call back tomorrow or in a couple of days. Yeah. He really needs to... Well, whatever. Yeah. Okay. All right. Thank you.",
+      "Timestamp": "2023-10-02 09:33:59"
+    },
+    "Seq11": {
+      "ReceiverContent": "Yep. Thanks for calling Crosswind Family Practice, and have a great day, ma'am.",
+      "CallerContent": "Thank you. Bye.",
+      "Timestamp": "2023-10-02 09:34:21"
+    },
+    "Seq12": {
+      "ReceiverContent": "Bye-bye.",
+      "CallerContent": "Bye-bye.",
+      "Timestamp": "2023-10-02 09:34:24"
+    }
+  }
+}

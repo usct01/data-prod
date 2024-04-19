@@ -1,0 +1,77 @@
+{
+  "Timestamp": "2023-11-06 15:46:34",
+  "Caller": "Kathleen",
+  "Receiver": "Kumar",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, I need to make an appointment, please.",
+      "ReceiverContent": "Are you a new patient?",
+      "Timestamp": "2023-11-06 15:46:34"
+    },
+    "Seq2": {
+      "CallerContent": "No.",
+      "ReceiverContent": "Okay, would you like to meet the doctor in person or would you like to make a televisit?",
+      "Timestamp": "2023-11-06 15:46:34"
+    },
+    "Seq3": {
+      "CallerContent": "I think in person.",
+      "ReceiverContent": "Okay, let me check on the next available slot for you. Okay.",
+      "Timestamp": "2023-11-06 15:46:34"
+    },
+    "Seq4": {
+      "CallerContent": "I have tonsillitis, so no, that's not going to work for me.",
+      "ReceiverContent": "When do you like to make it?",
+      "Timestamp": "2023-11-06 15:46:34"
+    },
+    "Seq5": {
+      "CallerContent": "I mean, like tomorrow at the latest.",
+      "ReceiverContent": "Latest, one moment. Before 20th of November, we don't have any slots available to make up an appointment.",
+      "Timestamp": "2023-11-06 15:46:34"
+    },
+    "Seq6": {
+      "CallerContent": "No. You don't have any, like, emergency sick visit slots? Yeah.",
+      "ReceiverContent": "Emergency. Okay, one moment. Can you come to the office tomorrow in the afternoon?",
+      "Timestamp": "2023-11-06 15:46:34"
+    },
+    "Seq7": {
+      "CallerContent": "Yeah, I can.",
+      "ReceiverContent": "At 2.30 p.m. Will that be okay with you?",
+      "Timestamp": "2023-11-06 15:46:34"
+    },
+    "Seq8": {
+      "CallerContent": "3-29-19-90.",
+      "ReceiverContent": "Your first name is Kathleen, am I correct?",
+      "Timestamp": "2023-11-06 15:46:34"
+    },
+    "Seq9": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "And may I know the reason of the appointment?",
+      "Timestamp": "2023-11-06 15:46:34"
+    },
+    "Seq10": {
+      "CallerContent": "I went to urgent care and was diagnosed with either strep throat or tonsillitis, and it's not getting any better.",
+      "ReceiverContent": "So is this going to be a follow-up?",
+      "Timestamp": "2023-11-06 15:46:34"
+    },
+    "Seq11": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Just to confirm, I have an appointment tomorrow at 2.30 p.m. to meet the doctor in person.",
+      "Timestamp": "2023-11-06 15:46:34"
+    },
+    "Seq12": {
+      "CallerContent": "Okay. Yep.",
+      "ReceiverContent": "Is there anything else that I missed, Judith?",
+      "Timestamp": "2023-11-06 15:46:34"
+    },
+    "Seq13": {
+      "CallerContent": "That's it. Thank you.",
+      "ReceiverContent": "Thank you for calling Carole from Family Practice. You have a great day.",
+      "Timestamp": "2023-11-06 15:46:34"
+    },
+    "Seq14": {
+      "CallerContent": "You too. Bye.",
+      "ReceiverContent": "Bye.",
+      "Timestamp": "2023-11-06 15:46:34"
+    }
+  }
+}

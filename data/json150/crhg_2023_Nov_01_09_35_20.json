@@ -1,0 +1,34 @@
+```json
+{
+  "Metadata": "value",
+  "Caller": "John K. Miller",
+  "Receiver": "Dominic (Crofton Family Practice)",
+  "Timestamp": "2023-Nov-01 09:35:20",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, good morning. I need to cancel a November 6 appointment at 9 o'clock for John K. Miller. It's for a flu shot.",
+      "ReceiverContent": "Good morning. Thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-Nov-01 09:35:20"
+    },
+    "Seq2": {
+      "CallerContent": "Yeah, he already got it when he was in the other day, so just cancel at 9 o'clock.",
+      "ReceiverContent": "Yes, sir.",
+      "Timestamp": "2023-Nov-01 09:35:20"
+    },
+    "Seq3": {
+      "CallerContent": "Only for John Miller.",
+      "ReceiverContent": "Okay, so you want to cancel the appointment only for John Miller?",
+      "Timestamp": "2023-Nov-01 09:35:20"
+    },
+    "Seq4": {
+      "CallerContent": "Right.",
+      "ReceiverContent": "Yeah, so just to confirm, I've canceled your appointment on 6th of November at 9 a.m. for a flu shot for John Miller.",
+      "Timestamp": "2023-Nov-01 09:35:20"
+    },
+    "Seq5": {
+      "CallerContent": "No, that's it. Thank you.",
+      "ReceiverContent": "Yep. Thank you for calling Crofton Family Practice, and you have a great day, sir. Bye-bye.",
+      "Timestamp": "2023-Nov-01 09:35:20"
+    }
+  }
+}

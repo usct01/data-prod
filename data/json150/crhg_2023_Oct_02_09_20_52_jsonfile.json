@@ -1,0 +1,118 @@
+{
+  "Metadata": "value",
+  "Caller": "Charlotte Baker",
+  "Receiver": "Crofton Family Practice (Dominic)",
+  "Timestamp": "2023-10-02 09:20:52",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, this is Charlotte Baker. Doctor, okay, I'm calling for Theodore Baker. He's a patient of Dr. Williams.",
+      "ReceiverContent": "Good morning. Thanks for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-10-02 09:20:52"
+    },
+    "Seq2": {
+      "CallerContent": "Dr. Williams saw him Monday two weeks ago and wanted to see him in 10 days. We made an appointment for today, and then we get a note on Friday. We get a",
+      "ReceiverContent": "Okay, I'm really sorry to say that Dr. Williams is not feeling well, so she's on a sick leave today. May I know his last name, ma'am? It's Louise Orner, is that correct?",
+      "Timestamp": "2023-10-02 09:21:07"
+    },
+    "Seq3": {
+      "CallerContent": "phone call from you guys saying that it is a Zoom meeting. No, we want to see Dr.",
+      "ReceiverContent": "May I know your name? The patient's last name?",
+      "Timestamp": "2023-10-02 09:21:34"
+    },
+    "Seq4": {
+      "CallerContent": "Williams in person. He needs to get a urine test, and he needs to get the paperwork for further testing about his platelets. Now, the appointment is",
+      "ReceiverContent": "The patient is Theodore Baker.",
+      "Timestamp": "2023-10-02 09:21:50"
+    },
+    "Seq5": {
+      "CallerContent": "Yeah, the appointment is at 1 45. Now, if that's a Zoom appointment, and we can't keep it today, can we get in there tomorrow?",
+      "ReceiverContent": "Okay, Theodore Baker. So, it's a tele-visit today.",
+      "Timestamp": "2023-10-02 09:22:12"
+    },
+    "Seq6": {
+      "CallerContent": "No, and we are not doing a tele-visit. We did not sign up for a tele-visit. I don't know how that got in there. The last person we talked to, her English was not very good.",
+      "ReceiverContent": "Okay. So, I think, yeah, sort of miscommunication. So, I'm really sorry for the inconvenience happened, ma'am.",
+      "Timestamp": "2023-10-02 09:22:32"
+    },
+    "Seq7": {
+      "CallerContent": "Well, that's what I said, but yes, but he needs to have a urine test. I can't do that next week. I don't want to do that next week or two weeks from now. Sure.",
+      "ReceiverContent": "Sure. Kindly give me a minute, ma'am. Let me cancel this appointment, and I'll make a fresh appointment for you. I think we do have a slot available.",
+      "Timestamp": "2023-10-02 09:22:58"
+    },
+    "Seq8": {
+      "CallerContent": "He needs to get a urine test.",
+      "ReceiverContent": "I got all the slots already booked for the weeks. Let me grab...",
+      "Timestamp": "2023-10-02 09:23:21"
+    },
+    "Seq9": {
+      "CallerContent": "Sure. Kindly give me a minute, ma'am. Let me cancel this appointment, and I'll make a fresh appointment for you. I think we do have a slot available.",
+      "ReceiverContent": "Oh my God. All the things are booked. Okay. So, let me make it.",
+      "Timestamp": "2023-10-02 09:23:38"
+    },
+    "Seq10": {
+      "CallerContent": "Okay. So, let me make it. So we do have a slot available by the 10th of October at 10.45 a.m. Are you kidding?",
+      "ReceiverContent": "Okay. So, let me make it. So we do have a slot available by the 10th of October at 10.45 a.m. Are you kidding?",
+      "Timestamp": "2023-10-02 09:24:06"
+    },
+    "Seq11": {
+      "CallerContent": "Are you kidding? It is now the 3rd of October. Yes. The 2nd of October. Are you kidding me that I have to wait that long to get a test?",
+      "ReceiverContent": "But that's the Sooner slot, ma'am. Apart from this, all the slots are already booked. Oh, my God. If you want to make a Sooner slot, yeah, let me grab that one.",
+      "Timestamp": "2023-10-02 09:24:27"
+    },
+    "Seq12": {
+      "CallerContent": "But that's the Sooner slot, ma'am. Apart from this, all the slots are already booked. Oh, my God. If you want to make a Sooner slot, yeah, let me grab that one.",
+      "ReceiverContent": "Thank you. Yeah, sure. So I think we, yeah, for the emergency appointment, yeah,",
+      "Timestamp": "2023-10-02 09:24:47"
+    },
+    "Seq13": {
+      "CallerContent": "Thank you. Yeah, sure. So I think we, yeah, for the emergency appointment, yeah,",
+      "ReceiverContent": "we do have a slot available by the 5th of October at 9.30 a.m. Is that okay with you, ma'am?",
+      "Timestamp": "2023-10-02 09:25:09"
+    },
+    "Seq14": {
+      "CallerContent": "we do have a slot available by the 5th of October at 9.30 a.m. Is that okay with you, ma'am?",
+      "ReceiverContent": "9.30, 5 October. That's correct. It's not okay, but, you know, please, forgive me, but those Zoom appointments,",
+      "Timestamp": "2023-10-02 09:25:40"
+    },
+    "Seq15": {
+      "CallerContent": "9.30, 5 October. That's correct. It's not okay, but, you know, please, forgive me, but those Zoom appointments,",
+      "ReceiverContent": "you're not seeing the patient. I mean, I don't mean to shoot the messenger. It's not your fault. But, okay, are you saying that a general practitioner,",
+      "Timestamp": "2023-10-02 09:26:14"
+    },
+    "Seq16": {
+      "CallerContent": "you're not seeing the patient. I mean, I don't mean to shoot the messenger. It's not your fault. But, okay, are you saying that a general practitioner,",
+      "ReceiverContent": "you can't get in to see the person when you're sick? Okay, 5 October, 9.30.",
+      "Timestamp": "2023-10-02 09:26:27"
+    },
+    "Seq17": {
+      "CallerContent": "you can't get in to see the person when you're sick? Okay, 5 October, 9.30.",
+      "ReceiverContent": "That's correct, ma'am. So may I have the patient's date of birth, please, for the confirmation?",
+      "Timestamp": "2023-10-02 09:26:44"
+    },
+    "Seq18": {
+      "CallerContent": "October 8th, 1938. Okay.",
+      "ReceiverContent": "Carol Baker. Okay, it's for desk. Yep.",
+      "Timestamp": "2023-10-02 09:26:59"
+    },
+    "Seq19": {
+      "CallerContent": "Carol Baker. Okay, it's for desk. Yep.",
+      "ReceiverContent": "Best to confirm, a rescheduled appointment on Thursday, which is 5th of October at 9.30 a.m. It's an office visit. Is it okay with you, ma'am?",
+      "Timestamp": "2023-10-02 09:27:21"
+    },
+    "Seq20": {
+      "CallerContent": "Yes, it's an office visit.",
+      "ReceiverContent": "Yeah, I'm really sorry for the inconvenience happening. And is there anything else that I missed you with, ma'am?",
+      "Timestamp": "2023-10-02 09:27:40"
+    },
+    "Seq21": {
+      "CallerContent": "No, thank you. Thank you.",
+      "ReceiverContent": "Thank you. Have a great day, ma'am. Bye-bye.",
+      "Timestamp": "2023-10-02 09:28:00"
+    },
+    "Seq22": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": null,
+      "Timestamp": "2023-10-02 09:28:05"
+    }
+  }
+}

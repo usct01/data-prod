@@ -1,0 +1,73 @@
+{
+  "Metadata": "value",
+  "Caller": "Robert",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-10-02 10:09:24",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hey Kumar, good morning. My name is Robert. I'm calling to schedule my annual physical with Dr. Williams.",
+      "ReceiverContent": "Good morning. Thank you for calling Crawford Family Practice. This is Kumar from ESST today.",
+      "Timestamp": "2023-10-02 10:09:24"
+    },
+    "Seq2": {
+      "CallerContent": "Yes, December 20th, 1907. And if you could tell me when my physical was last year so that I schedule it appropriately.",
+      "ReceiverContent": "Okay, one moment. Could you help me with your date of birth, please?",
+      "Timestamp": "2023-10-02 10:09:25"
+    },
+    "Seq3": {
+      "CallerContent": "Yes, correct.",
+      "ReceiverContent": "Your first name is Robert and your last name is Jazik, am I correct?",
+      "Timestamp": "2023-10-02 10:09:31"
+    },
+    "Seq4": {
+      "CallerContent": "So it's December 23rd.",
+      "ReceiverContent": "Okay, one moment. Let me check on it. You have made your last physical on December 23, 2022.",
+      "Timestamp": "2023-10-02 10:09:53"
+    },
+    "Seq5": {
+      "CallerContent": "So let's see if we can do it this year in December. Can we do it that weekend? I think of, Chris, maybe the 26th.",
+      "ReceiverContent": "26th. Could you please give a call back in November? Then I can check the available slots for you.",
+      "Timestamp": "2023-10-02 10:10:08"
+    },
+    "Seq6": {
+      "CallerContent": "You can't book it now so that I have it set?",
+      "ReceiverContent": "One moment.",
+      "Timestamp": "2023-10-02 10:10:17"
+    },
+    "Seq7": {
+      "CallerContent": "Would you like to make it on 28th of December at 10 a.m.? Will that be okay with you? It's Thursday.",
+      "ReceiverContent": "Would you like to make it on 28th of December at 10 a.m.? Will that be okay with you? It's Thursday.",
+      "Timestamp": "2023-10-02 10:10:40"
+    },
+    "Seq8": {
+      "CallerContent": "Yeah, we can do that. Okay. That would be perfect.",
+      "ReceiverContent": "Your date of birth, could you, if you don't mind, could you help me with the date of birth again?",
+      "Timestamp": "2023-10-02 10:10:58"
+    },
+    "Seq9": {
+      "CallerContent": "12-20-70.",
+      "ReceiverContent": "Yes, I got you. So just confirm. I have fixed an appointment on 28th of December at 10 a.m. For an anniversary.",
+      "Timestamp": "2023-10-02 10:11:25"
+    },
+    "Seq10": {
+      "CallerContent": "Perfect. 12-28 at 10 a.m.",
+      "ReceiverContent": "Yes, correct.",
+      "Timestamp": "2023-10-02 10:11:29"
+    },
+    "Seq11": {
+      "CallerContent": "Okay. Thank you so much. I appreciate it.",
+      "ReceiverContent": "Is there anything else that they may ask us to do with?",
+      "Timestamp": "2023-10-02 10:11:33"
+    },
+    "Seq12": {
+      "CallerContent": "Nope. That's all. I appreciate it.",
+      "ReceiverContent": "Thanks for calling Crofton Family Practice. You have a great day.",
+      "Timestamp": "2023-10-02 10:11:38"
+    },
+    "Seq13": {
+      "CallerContent": "You too. Bye-bye.",
+      "ReceiverContent": "Thank you.",
+      "Timestamp": "2023-10-02 10:11:42"
+    }
+  }
+}

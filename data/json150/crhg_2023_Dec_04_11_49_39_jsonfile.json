@@ -1,0 +1,23 @@
+{
+  "Metadata": "value",
+  "Caller": "No Name",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-12-04 11:49:39",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi. I was just trying to see if I could get an earlier appointment. I have an appointment scheduled for the 15th. I was going to see if you guys had anything sooner.",
+      "ReceiverContent": "Good morning. Thanks for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-12-04 11:49:39"
+    },
+    "Seq2": {
+      "CallerContent": "Okay. I appreciate it. Thank you.",
+      "ReceiverContent": "I'm really sorry, ma'am. We have a sooner slot by 22nd of December. So that's a sooner slot available here. All the slots are already booked. Okay. If any cancellation occurs, I can give you a call back.",
+      "Timestamp": "2023-12-04 11:49:59"
+    },
+    "Seq3": {
+      "CallerContent": "Yep. Thank you. Bye-bye.",
+      "ReceiverContent": "Yep. Thank you. Bye-bye.",
+      "Timestamp": "2023-12-04 11:50:29"
+    }
+  }
+}

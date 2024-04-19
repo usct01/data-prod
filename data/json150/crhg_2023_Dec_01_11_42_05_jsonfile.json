@@ -1,0 +1,28 @@
+{
+  "Metadata": "value",
+  "Caller": "No Name",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-12-01 11:42:05",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi. Can I get an appointment for my mother to see Dr. Williams?",
+      "ReceiverContent": "Sure. Kind of give me a minute. Let me fix up an appointment for you.",
+      "Timestamp": "2023-12-01 11:42:11"
+    },
+    "Seq2": {
+      "CallerContent": "Is Betty in today?",
+      "ReceiverContent": "No, ma'am.",
+      "Timestamp": "2023-12-01 11:42:17"
+    },
+    "Seq3": {
+      "ReceiverContent": "Yeah, but Amy is available right now. If you want to speak to Amy, I can transfer you to Amy.",
+      "CallerContent": "Okay.",
+      "Timestamp": "2023-12-01 11:42:24"
+    },
+    "Seq4": {
+      "CallerContent": "Nope. I just need an appointment. I usually do it with Betty, but that's fine.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-12-01 11:42:30"
+    }
+  }
+}

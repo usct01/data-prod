@@ -1,0 +1,23 @@
+{
+  "Metadata": "value",
+  "Receiver": "Kumar",
+  "Caller": "No Name",
+  "Timestamp": "2023-12-04 08:32:47",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning, this is Crofton Family Practice. How may I assist you today?",
+      "CallerContent": "I am trying to reach the front office to speak with them about a referral.",
+      "Timestamp": "2023-12-04 08:32:47"
+    },
+    "Seq2": {
+      "ReceiverContent": "Would you like to speak to the front desk?",
+      "CallerContent": "Yes, the front office to speak with them about a referral.",
+      "Timestamp": "2023-12-04 08:32:54"
+    },
+    "Seq3": {
+      "ReceiverContent": "Yeah, can I stay online?",
+      "CallerContent": "Thank you.",
+      "Timestamp": "2023-12-04 08:32:56"
+    }
+  }
+}

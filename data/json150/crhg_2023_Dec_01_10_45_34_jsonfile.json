@@ -1,0 +1,28 @@
+{
+  "Metadata": "value",
+  "Caller": "Christine Acero",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-12-01 10:45:34",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Good morning, Dominic. This is Christine Acero. I need to ask a question. I'm working on my parents' insurance, and I'm just wondering if Dr. Williams does take the Medicare Advantage plans.",
+      "ReceiverContent": "Okay. Regarding that, I need to transfer you to the front desk. Can you give me a minute? Okay. Thank you. Let me transfer the call. Yeah. And you have a great day.",
+      "Timestamp": "2023-12-01 10:45:05"
+    },
+    "Seq2": {
+      "CallerContent": "You too.",
+      "ReceiverContent": null,
+      "Timestamp": "2023-12-01 10:45:25"
+    },
+    "Seq3": {
+      "CallerContent": "Hi, Brandi. This is Christine Acero. I am working on my parents' insurance or reinsurance. Tis the season. I'm wondering if I just want to make sure that Dr. Williams will take the Medicare Advantage plans.",
+      "ReceiverContent": "Hi, Barron. Thank you for contacting Corruption Family Practice. This is Brandi here in the front office. How can I help you today?",
+      "Timestamp": "2023-12-01 10:45:41"
+    },
+    "Seq4": {
+      "CallerContent": "Okay, great. All right. Thank you. So, yes, it's so difficult and, you know, they have to enroll by the set and it just.",
+      "ReceiverContent": "You have a great day now, and happy holidays to you all.",
+      "Timestamp": "2023-12-01 10:48:50"
+    }
+  }
+}

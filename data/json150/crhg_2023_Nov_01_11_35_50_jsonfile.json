@@ -1,0 +1,53 @@
+{
+  "Metadata": "value",
+  "Caller": "Wes Henderson",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-11-01 11:35:50",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, this is Wes Henderson. I had received a call about scheduling a follow-up visit after I got some lab work done.",
+      "ReceiverContent": "Good morning. Thanks for calling Crofton Family Practice. This is Dominic, home assist you for the day.",
+      "Timestamp": "2023-11-01 11:35:50"
+    },
+    "Seq2": {
+      "CallerContent": "Well, no, I had lab work done. I'm supposed to come in and discuss it with Dr. Williams.",
+      "ReceiverContent": "Okay, so you want to schedule a lab appointment, sir?",
+      "Timestamp": "2023-11-01 11:36:16"
+    },
+    "Seq3": {
+      "CallerContent": "1.45 on the 30th?",
+      "ReceiverContent": "Yes, sir. That's correct.",
+      "Timestamp": "2023-11-01 11:49"
+    },
+    "Seq4": {
+      "CallerContent": "Yes, that works great. Yes, that works good for me.",
+      "ReceiverContent": "Okay, you may have your address.",
+      "Timestamp": "2023-11-01 11:52"
+    },
+    "Seq5": {
+      "CallerContent": "It's 3, 13, 1977.",
+      "ReceiverContent": "And it's Wes Henderson.",
+      "Timestamp": "2023-11-01 11:58"
+    },
+    "Seq6": {
+      "CallerContent": "That's right.",
+      "ReceiverContent": "Okay, so just to confirm, I fixed an appointment on Thursday, which is 30th of November at 1.45 p.m. for an office visit, and it's for a lab work discussion.",
+      "Timestamp": "2023-11-01 12:04"
+    },
+    "Seq7": {
+      "CallerContent": "Yeah, to discuss lab work, yep.",
+      "ReceiverContent": "Yeah. Is there anything else that I can do, sir?",
+      "Timestamp": "2023-11-01 12:26"
+    },
+    "Seq8": {
+      "CallerContent": "No, that's it. Thank you.",
+      "ReceiverContent": "Yep, thank you for calling. Have a great day, sir. Bye-bye.",
+      "Timestamp": "2023-11-01 12:33"
+    },
+    "Seq9": {
+      "CallerContent": "You too. Bye-bye.",
+      "ReceiverContent": "You too. Bye-bye.",
+      "Timestamp": "2023-11-01 12:39"
+    }
+  }
+}

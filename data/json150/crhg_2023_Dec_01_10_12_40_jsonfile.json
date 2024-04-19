@@ -1,0 +1,38 @@
+{
+  "Metadata": "value",
+  "Caller": "No Name",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-12-01 10:12:40",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hello. Good morning.",
+      "ReceiverContent": "Good morning. How can I assist you?",
+      "Timestamp": "2023-12-01 10:12:07"
+    },
+    "Seq2": {
+      "CallerContent": "Yeah, I've been trying to reach the nurse since Wednesday. I'm called. I left a message. I'm not hearing back. I'm not getting the refill that I wanted. Is the nurse in?",
+      "ReceiverContent": "Yes, she's available today. Would you like to talk to the nurse? I can try for you.",
+      "Timestamp": "2023-12-01 10:12:11"
+    },
+    "Seq3": {
+      "CallerContent": "Yeah, because I've been calling since Wednesday for a refill and I'm not hearing back from her. I'm not getting hold of her.",
+      "ReceiverContent": "I'm really sorry to hear this. Okay, she's available. She's on other call. I can transfer you now. If she doesn't pick the call, you can call me back again.",
+      "Timestamp": "2023-12-01 10:12:27"
+    },
+    "Seq4": {
+      "CallerContent": "Okay, thank you.",
+      "ReceiverContent": "Can you stay online? I'm going to transfer your call and you have a great day.",
+      "Timestamp": "2023-12-01 10:12:50"
+    },
+    "Seq5": {
+      "CallerContent": "Thank you, you too.",
+      "ReceiverContent": "Thanks, bye-bye.",
+      "Timestamp": "2023-12-01 10:12:55"
+    },
+    "Seq6": {
+      "CallerContent": "Okay, I'll be right back.",
+      "ReceiverContent": "Hi, you have reached the nurse line. Please, if this is a medical emergency, please hang up and dial 9-1-1. If you are calling for medication refills today, please leave me a detailed message with the name of your drug and the",
+      "Timestamp": "2023-12-01 10:13:26"
+    }
+  }
+}

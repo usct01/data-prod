@@ -1,0 +1,23 @@
+{
+  "Metadata": "value",
+  "Caller": "No Name",
+  "Receiver": "Crofton Family Practice (Kumar)",
+  "Timestamp": "2023-10-02 09:06:11",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, good morning. Do you give out the COVID shots?",
+      "ReceiverContent": "Good morning, this is Crofton Family Practice. How may I assist you today?",
+      "Timestamp": "2023-10-02 09:06:11"
+    },
+    "Seq2": {
+      "CallerContent": "Okay, thank you very much.",
+      "ReceiverContent": "No, sir. We do have only flu shots. Other than that, we don't provide any shots here.",
+      "Timestamp": "2023-10-02 09:06:14"
+    },
+    "Seq3": {
+      "CallerContent": "You too. Thank you.",
+      "ReceiverContent": "Yeah, thank you for calling Crofton. You have a great day.",
+      "Timestamp": "2023-10-02 09:06:17"
+    }
+  }
+}

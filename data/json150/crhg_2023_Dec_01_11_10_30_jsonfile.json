@@ -1,0 +1,23 @@
+{
+  "Metadata": "value",
+  "Caller": "No Name",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-12-01 11:10:30",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yeah, Dominic, I'd like to make an appointment. I was a patient of Dr. Talwar and now I need some prescriptions filled and all that good stuff.",
+      "ReceiverContent": "It's an office of Dr. Williams, ma'am. It's Crofton Family Practice.",
+      "Timestamp": "2023-12-01 11:10:06"
+    },
+    "Seq2": {
+      "CallerContent": "Yes. Well, I used to be a patient of Dr. Talwar who was there, right?",
+      "ReceiverContent": "No, Dr. Talwar is not here. It's Dr. Williams' office.",
+      "Timestamp": "2023-12-01 11:10:21"
+    },
+    "Seq3": {
+      "CallerContent": "Okay. I guess I have the wrong number. Okay. Thank you.",
+      "ReceiverContent": "Yep. Bye-bye.",
+      "Timestamp": "2023-12-01 11:10:36"
+    }
+  }
+}

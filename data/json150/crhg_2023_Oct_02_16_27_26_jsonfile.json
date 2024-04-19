@@ -1,0 +1,41 @@
+{
+  "Metadata": "value",
+  "Receiver": "Kumar from Family Practice",
+  "Timestamp": "2023-10-02 16:27:26",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon, this is Crawl from Family Practice. How may I assist you today?",
+      "Timestamp": "2023-10-02 16:27:26"
+    },
+    "Seq2": {
+      "CallerContent": "Hey, I went ahead and I pre-registered online. When am I supposed to receive an email back?",
+      "ReceiverContent": "Have you registered with Crawl from Family Practice?",
+      "Timestamp": "2023-10-02 16:27:32"
+    },
+    "Seq3": {
+      "CallerContent": "I just pre-registered on the website.",
+      "ReceiverContent": "Okay, now could you help me with your date of birth, please?",
+      "Timestamp": "2023-10-02 16:27:36"
+    },
+    "Seq4": {
+      "CallerContent": "10-30-1993.",
+      "ReceiverContent": "No, I don't see your name yet. When did you register with Crawl from Family Practice?",
+      "Timestamp": "2023-10-02 16:27:43"
+    },
+    "Seq5": {
+      "CallerContent": "Maybe like an hour ago.",
+      "ReceiverContent": "It will take a few working days to see your name here. After that, you can make an appointment. But for the first time, it needs to be a tele-visit for sure.",
+      "Timestamp": "2023-10-02 16:27:51"
+    },
+    "Seq6": {
+      "CallerContent": "Okay, so do I wait for the pre-register? Okay, will I get an email? Yes, sure. Okay, okay. Alright, thank you so much.",
+      "ReceiverContent": "Thank you for calling Crawl from Family Practice. You have a great day.",
+      "Timestamp": "2023-10-02 16:28:01"
+    },
+    "Seq7": {
+      "CallerContent": "You too, bye.",
+      "ReceiverContent": "Thank you.",
+      "Timestamp": "2023-10-02 16:28:09"
+    }
+  }
+}

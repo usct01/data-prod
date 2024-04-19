@@ -1,0 +1,37 @@
+{
+  "Timestamp": "2023-10-02 09:37:58",
+  "Receiver": "Kumar",
+  "Caller": "No Name",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning, thank you for coming to the office of telepractice. This is Kumar from ESST3.",
+      "CallerContent": "Hello, I'm a returning patient. I was looking to schedule an examination.",
+      "Timestamp": "2023-10-02 09:37:58"
+    },
+    "Seq2": {
+      "ReceiverContent": "Okay, one moment. Would you like to meet the doctor in person or would you like to make a",
+      "CallerContent": "televisit? If a televisit is easier and sooner, we can do that. Okay, one moment. Let me check",
+      "Timestamp": "2023-10-02 09:38:13"
+    },
+    "Seq3": {
+      "ReceiverContent": "on the next available slot for you. Yeah, either is fine. Okay, we do have a slot available on",
+      "CallerContent": "13th of October at 2.15 p.m. Will that be okay with you? 13th at 2.15 p.m. It's Friday.",
+      "Timestamp": "2023-10-02 09:38:25"
+    },
+    "Seq4": {
+      "ReceiverContent": "Oh, that is fine. Okay, so now could you help me with your date of birth, please?",
+      "CallerContent": "Yes, my date of birth is April 19th.",
+      "Timestamp": "2023-10-02 09:38:43"
+    },
+    "Seq5": {
+      "ReceiverContent": "1996. Your name is Hartsville as of now, correct? Yes, that's correct. Okay, so just to confirm,",
+      "CallerContent": "I have fixed an appointment on 13th of October at 2.15 p.m. for a televisit and the reason is",
+      "Timestamp": "2023-10-02 09:38:57"
+    },
+    "Seq6": {
+      "ReceiverContent": "going to be examining. Okay, that's fine. Is there anything else that I may ask to do with? Oh, no, that is all. Thank you very much. Thank you for calling Crawford and Telepractice. You have a great day.",
+      "CallerContent": "You as well. Bye. Thank you. Bye-bye.",
+      "Timestamp": "2023-10-02 09:39:15"
+    }
+  }
+}

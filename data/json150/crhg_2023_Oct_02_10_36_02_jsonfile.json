@@ -1,0 +1,33 @@
+{
+  "Metadata": "value",
+  "Caller": "Mildred O'Malley",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-10-02 10:36:02",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, this is Mildred O'Malley, and I've been taking Paxlovid for the past, today would be the fifth day, but I also have, the problem I have since day one is with my right eye, the lower eye, so I'm kind of a little, I want to see if I can see the doctor today.",
+      "ReceiverContent": "Ma'am, I'm really sorry, Dr. Williamson is not feeling well today, she's on sick leave, so she's not available to meet the patients today.",
+      "Timestamp": "2023-10-02 10:36:02"
+    },
+    "Seq2": {
+      "CallerContent": "Oh, how about tomorrow?",
+      "ReceiverContent": "One moment, let me check on the next available slot for tomorrow, one moment please, 3rd of October, and...",
+      "Timestamp": "2023-10-02 10:50:50"
+    },
+    "Seq3": {
+      "CallerContent": "I think she came down with this when I came down with this, because I went to urgent care, and I was positive for COVID, and I know she wasn't feeling well that day, because she couldn't see me that day either, that was last Thursday.",
+      "ReceiverContent": "I wish I could help you, but we don't have any slots available to make an appointment. Ma'am, would you like to make it on 9th? 9th of October, I think it's not going to work for you, because you need to meet the doctor immediately, you have some issues with your eyes, so... But before 9th of October, we don't have any slots to make an appointment, ma'am, I'm really sorry to say this.",
+      "Timestamp": "2023-10-02 10:59:49"
+    },
+    "Seq4": {
+      "CallerContent": "She can't just see me, but that eye, because I'm just worried that it's still the same thing for the past five days.",
+      "ReceiverContent": "Okay, I can understand. So, okay, I will transfer you to nurse, and she could help you out with this. If it is necessary to make an appointment, just tell them to transfer the call to me, then I can make it for you.",
+      "Timestamp": "2023-10-02 11:02:05"
+    },
+    "Seq5": {
+      "CallerContent": "Hello, this is Mildred. Mildred. Mildred Malley, and I, this is the fifth day that I'll be on Paxlovid for testing positive with COVID. I ended up going to urgent care last Thursday. But my problem now is, ever since that first day, I had this, some type of little, little white cyst in the corner of my, lower eyelid, and it hasn't gotten any better. It seems to have stayed the same. I was wondering if there was any way I could get an appointment to have that seen. It has to be seen, or, or if it should be treated, if you could call me back and let me know. Thank you. My number is 410-703. Or 614. And Mildred Malley. My birthday is 6-28-36. Thank you. Bye.",
+      "ReceiverContent": "Hello, you have reached the nurse line. If this is an emergency, please hang up and dial 9-1-1. If you're calling for a prescription refill, please leave a detailed message with the drug name, the milligrams, and your pharmacy information. Please allow 72 hours for your refills to be processed. Leave us a message, and we'll get back to you as soon as we can. Thank you, and have a good day.",
+      "Timestamp": "2023-10-02 11:03:34"
+    }
+  }
+}

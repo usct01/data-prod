@@ -1,0 +1,71 @@
+{
+  "Metadata": "value",
+  "Receiver": "Carl from Family Practice (Kumar)",
+  "Timestamp": "2023-11-06 10:00:48",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. This is Carl from Family Practice. How may I assist you today?",
+      "Timestamp": "2023-11-06 10:00:48"
+    },
+    "Seq2": {
+      "CallerContent": "Good morning. My name is Jody Kwasny. I'm a patient of Dr. Williams, and I wanted to know how to go forward to get treated for a urinary tract infection.",
+      "Timestamp": "2023-11-06 10:01:03"
+    },
+    "Seq3": {
+      "ReceiverContent": "Okay. Would you like to make up an appointment for lab? Would you like to give a urine test?",
+      "Timestamp": "2023-11-06 10:01:18"
+    },
+    "Seq4": {
+      "CallerContent": "Sure, that's fine. I took an at-home one, and it was positive, so whatever she requires.",
+      "Timestamp": "2023-11-06 10:01:33"
+    },
+    "Seq5": {
+      "ReceiverContent": "Okay, yeah. For that, I can transfer you to the nurse, and she could help you out with this. If it is necessary to make up an appointment, just tell them to transfer the call to myself. Then I can make up an appointment for you.",
+      "Timestamp": "2023-11-06 10:01:48"
+    },
+    "Seq6": {
+      "CallerContent": "Perfect. Thank you.",
+      "Timestamp": "2023-11-06 10:02:03"
+    },
+    "Seq7": {
+      "ReceiverContent": "Please stay online. I'm going to transfer you to the nurse, and you have a great day.",
+      "Timestamp": "2023-11-06 10:02:18"
+    },
+    "Seq8": {
+      "CallerContent": "Thank you. You too.",
+      "Timestamp": "2023-11-06 10:02:33"
+    },
+    "Seq9": {
+      "ReceiverContent": "Thank you, buddy.",
+      "Timestamp": "2023-11-06 10:02:48"
+    },
+    "Seq10": {
+      "ReceiverContent": "Hello. You have reached the nurse line. If this is an emergency, please hang up and dial 9-1-1.",
+      "Timestamp": "2023-11-06 10:03:03"
+    },
+    "Seq11": {
+      "ReceiverContent": "If you're calling for a prescription refill, please leave a detailed message with the drug name, the milligrams, and your pharmacy information.",
+      "Timestamp": "2023-11-06 10:03:18"
+    },
+    "Seq12": {
+      "ReceiverContent": "Please allow 72 hours for your refills to be processed. Leave us a message, and we'll get back to you as soon as we can. Thank you, and have a good day.",
+      "Timestamp": "2023-11-06 10:03:33"
+    },
+    "Seq13": {
+      "CallerContent": "Good morning. My name is Jodi Kwasny. Last name is Q-U-A-S-N-E-Y.",
+      "Timestamp": "2023-11-06 10:03:48"
+    },
+    "Seq14": {
+      "CallerContent": "My direct dial is 301-848-4419. I took an at-home UTI test, and it's positive.",
+      "Timestamp": "2023-11-06 10:04:03"
+    },
+    "Seq15": {
+      "CallerContent": "I have the symptoms of a urinary tract infection. And I wanted to move. I wanted to move forward with, I guess, antibiotics. I don't get these very frequently, just several in my life.",
+      "Timestamp": "2023-11-06 10:04:18"
+    },
+    "Seq16": {
+      "CallerContent": "If you could please give me a call, again, 301-848-4419, Jodi Kwasny. Thank you so much. Bye.",
+      "Timestamp": "2023-11-06 10:04:33"
+    }
+  }
+}

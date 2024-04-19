@@ -1,0 +1,43 @@
+{
+  "Metadata": "value",
+  "Caller": "Shirley Jacobus",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-10-02 11:04:18",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, this is Shirley Jacobus. I have an appointment with Dr. Williams on the 19th. I wondered if there was anything sooner. It's more typical on that work.",
+      "ReceiverContent": "This is Crawford Valley Practice. How may I assist you today?",
+      "Timestamp": "2023-10-02 11:04:18"
+    },
+    "Seq2": {
+      "CallerContent": "Okay, sure.",
+      "ReceiverContent": "Let me check on it, ma'am.",
+      "Timestamp": "2023-10-02 11:04:31"
+    },
+    "Seq3": {
+      "CallerContent": "Yes, Jacobus. J-A-C-O-B-U-S. J-A-C-O-B-U-S.",
+      "ReceiverContent": "May I know your last name, please?",
+      "Timestamp": "2023-10-02 11:04:41"
+    },
+    "Seq4": {
+      "CallerContent": "You have made an appointment for annual wellness visit. Ma'am, before 19th of October, we don't have any available slot to make an appointment. Ma'am, I'm really sorry to say this. All the slots are already booked.",
+      "ReceiverContent": "You have made an appointment for annual wellness visit. Ma'am, before 19th of October, we don't have any available slot to make an appointment. Ma'am, I'm really sorry to say this. All the slots are already booked.",
+      "Timestamp": "2023-10-02 11:04:50"
+    },
+    "Seq5": {
+      "CallerContent": "Oh, okay. Well, then I will just go with the 19th. Just thought I'd give it a try.",
+      "ReceiverContent": "Is there anything else to say message to it, ma'am?",
+      "Timestamp": "2023-10-02 11:04:55"
+    },
+    "Seq6": {
+      "CallerContent": "No, that's it.",
+      "ReceiverContent": "Thanks for calling, Crawford. You have a great day. Bye-bye.",
+      "Timestamp": "2023-10-02 11:04:59"
+    },
+    "Seq7": {
+      "CallerContent": "Thank you. Bye.",
+      "ReceiverContent": "",
+      "Timestamp": "2023-10-02 11:05:03"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "Metadata": "value",
+  "Receiver": "Kumar from Crawford Family Practice",
+  "Timestamp": "2023-10-02 16:00:19",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. This is Crawford Family Practice. How may I assist you today?",
+      "Timestamp": "2023-10-02 16:00:27"
+    },
+    "Seq2": {
+      "CallerContent": "Is this her answering service?",
+      "ReceiverContent": "Yes, this is the answering service.",
+      "Timestamp": "2023-10-02 16:00:34"
+    },
+    "Seq3": {
+      "CallerContent": "Oh, I was hoping to get a message to her, although it can wait until tomorrow. It's not urgent. My name is Linda Crandall, C-R-A-N-D-A-L-L.",
+      "ReceiverContent": "Oh, yes, sure. That sounds great.",
+      "Timestamp": "2023-10-02 16:00:49"
+    },
+    "Seq4": {
+      "CallerContent": "And the message was thank you for encouraging me to go see an ear specialist.",
+      "ReceiverContent": "Yes, sure. That sounds great.",
+      "Timestamp": "2023-10-02 16:01:00"
+    },
+    "Seq5": {
+      "CallerContent": "Because I just came out of his office, and he found I have a hole in my eardrum.",
+      "ReceiverContent": "Yes, sure. That sounds great.",
+      "Timestamp": "2023-10-02 16:01:10"
+    },
+    "Seq6": {
+      "CallerContent": "But he said that, you know, that it sometimes can be fixed. So I'm glad that this isn't something that I put off, that I'm taking care of right away.",
+      "ReceiverContent": "Yes, sure. That sounds great.",
+      "Timestamp": "2023-10-02 16:01:25"
+    },
+    "Seq7": {
+      "CallerContent": "So I just want to say thank you for encouraging me to wait. Because I had the appointment, and she said, well, wait until, you know, it gets better and better. And it gets closer before you cancel it, because those appointments are hard to get.",
+      "ReceiverContent": "Yes, sure. That sounds great.",
+      "Timestamp": "2023-10-02 16:01:40"
+    },
+    "Seq8": {
+      "CallerContent": "And I'm glad she told me to do that. Anyway, I just wanted to let her know the status that I've been to him,",
+      "ReceiverContent": "Yes, sure. That sounds great.",
+      "Timestamp": "2023-10-02 16:01:53"
+    },
+    "Seq9": {
+      "CallerContent": "and that I'm glad I did, because he's working with me. I've got a special problem.",
+      "ReceiverContent": "Yes, sure. That sounds great.",
+      "Timestamp": "2023-10-02 16:02:05"
+    },
+    "Seq10": {
+      "CallerContent": "And so, you know, if the office calls and wants to know messages, there it is.",
+      "ReceiverContent": "Yes, sure. That sounds great.",
+      "Timestamp": "2023-10-02 16:02:18"
+    },
+    "Seq11": {
+      "ReceiverContent": "Yes, thank you for passing that along.",
+      "Timestamp": "2023-10-02 16:02:27"
+    },
+    "Seq12": {
+      "CallerContent": "Okay. I thank you for passing that along.",
+      "ReceiverContent": "Yeah, thank you. Thank you for calling Crawford Selling Practice.",
+      "Timestamp": "2023-10-02 16:02:36"
+    },
+    "Seq13": {
+      "CallerContent": "You have a good day.",
+      "ReceiverContent": "You too. Bye-bye.",
+      "Timestamp": "2023-10-02 16:02:45"
+    },
+    "Seq14": {
+      "CallerContent": "Bye-bye.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2023-10-02 16:02:49"
+    }
+  }
+}

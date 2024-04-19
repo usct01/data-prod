@@ -1,0 +1,90 @@
+```json
+{
+  "Metadata": "value",
+  "Caller": "Hartwell Alderson",
+  "Receiver": "Kumaran (Crofton Family Practice)",
+  "Timestamp": "2023-12-04 16:07:23",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hello, this is Hartwell Alderson. I was just in the office yesterday with an appointment with Dr. Williams for chest pain.",
+      "ReceiverContent": "Good morning, thanks for calling Crawford Family Practice. How may I assist you today?",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq2": {
+      "CallerContent": "And yesterday was a good day. I wasn't experiencing any issues, but today the issues have come back.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq3": {
+      "CallerContent": "So I just wanted to call and see, you know, should I stop in to the practice or go to the ER?",
+      "ReceiverContent": "Sure. Would you like to make an appointment again or would you just want to talk to the nurse? Maybe she could help you out with this.",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq4": {
+      "CallerContent": "Yeah, maybe talk to a nurse. I would like to have some sort of answer today because I don't feel too good today.",
+      "ReceiverContent": "Sure. One moment. Let me shout for you to the nurse and she could help you out with this. If she doesn't pick the call, you can call me back. We'll be back again after a few minutes. Please stay online.",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq5": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Thank you. Bye-bye.",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq6": {
+      "CallerContent": "Hi, this is Nurse Amy. How can I help you?",
+      "ReceiverContent": "Your conversation is being recorded.",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq7": {
+      "CallerContent": "Hello, Nurse Amy. This is Hartwell. I was in the office yesterday, the 27-year-old with the chest issues. Yesterday was a good day, as I told you all. But today the issues have come back.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq8": {
+      "CallerContent": "So, your chest pain still persists last night and then even this morning. And I do feel nausea and weakness as well this morning.",
+      "ReceiverContent": "What did you discuss yesterday? I know she gave you some referrals. Were you able to get some appointments there?",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq9": {
+      "CallerContent": "I don't have an appointment with the gastro or the cardiologist. I did the chest x-ray and that was normal. And yesterday we did the heart eat. EKG, and that was normal, but yesterday was a good day. I don't know.",
+      "ReceiverContent": "So I would recommend if you're having chest pain today to go to ER and get checked out, okay, because we did everything we could do here in our office. Have you gotten your blood work yet?",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq10": {
+      "CallerContent": "I have not gotten my blood work yet. I ate today because I felt nauseous. I wanted to get something to settle my stomach this morning.",
+      "ReceiverContent": "So I would definitely recommend ER if it's happening again, okay?",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq11": {
+      "CallerContent": "She did say to go to the ER, but also contact you all first. I just wanted to verify with you all.",
+      "ReceiverContent": "Yeah. Those are very important, and then to get that lab work because those are really going to give us the answers. But, yeah, in the meantime, I would definitely recommend ER if it's happening again, okay?",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq12": {
+      "CallerContent": "Do you know a nearby one in Crofton?",
+      "ReceiverContent": "There's one in Boston. There's one in Annapolis, Luminous Health, Jennifer Road in Annapolis.",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq13": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Good luck. Feel better.",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq14": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq15": {
+      "CallerContent": "Bye-bye.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq16": {
+      "CallerContent": "Bye-bye.",
+      "ReceiverContent": null,
+      "Timestamp": "2023-12-04 16:07:23"
+    }
+  }
+}
+```

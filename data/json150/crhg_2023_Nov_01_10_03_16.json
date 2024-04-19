@@ -1,0 +1,119 @@
+```json
+{
+  "Conversation": {
+    "Participants": [
+      {
+        "Role": "Receiver",
+        "Name": "Kumaran",
+        "Position": "Front Office Staff",
+        "Organization": "Carol from Family Practice"
+      },
+      {
+        "Role": "Caller",
+        "Name": "Dianne Jones",
+        "Gender": "Female",
+        "Position": "Patient",
+        "Organization": "N/A"
+      },
+      {
+        "Role": "Other Speaker",
+        "Name": "Brandy",
+        "Gender": "Female",
+        "Position": "Front Office Staff",
+        "Organization": "Carol from Family Practice"
+      },
+      {
+        "Role": "Speaker E",
+        "Name": "Unknown",
+        "Position": "Unknown",
+        "Organization": "Unknown"
+      }
+    ],
+    "Messages": [
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "2023_Nov_01_10:03:16",
+        "Content": "Good morning. Thank you for calling Carol from Family Practice. This is Kumar. How may I assist you today?"
+      },
+      {
+        "Sender": "Dianne Jones",
+        "Timestamp": "2023_Nov_01_10:03:16",
+        "Content": "Yes. Hi. My name is Mrs. Dianne Jones, and I had an appointment with Dr. Williams last week, and she was supposed to be putting in a referral for me with, I think, arthritis pain and associates in Greenbelt, Maryland, and I was just trying to check the status of that referral."
+      },
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "2023_Nov_01_10:03:16",
+        "Content": "Sure. One moment. Let me shout for you to the consent person who could help you out with this, and if the call is not answered, kindly leave a voice message. They'll get back to you as soon as possible. Please stay online, and you have a great day."
+      },
+      {
+        "Sender": "Dianne Jones",
+        "Timestamp": "2023_Nov_01_10:03:16",
+        "Content": "All right. Thank you."
+      },
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "2023_Nov_01_10:03:16",
+        "Content": "Bye-bye."
+      },
+      {
+        "Sender": "Dianne Jones",
+        "Timestamp": "2023_Nov_01_10:03:16",
+        "Content": "Your conversation is being recorded."
+      },
+      {
+        "Sender": "Brandy",
+        "Timestamp": "2023_Nov_01_10:03:16",
+        "Content": "Thank you for contacting Carol from Family Practice. This is Brandy here within the front office. How can we help you today?"
+      },
+      {
+        "Sender": "Dianne Jones",
+        "Timestamp": "2023_Nov_01_10:03:16",
+        "Content": "Hi, Brandy. My name is Mrs. Dianne Jones, and I had an appointment last week with Dr. Williams. Yes, ma'am. And you guys. I was supposed to be putting a referral in for me with arthritis pain and associates, and I was just checking the status of that referral."
+      },
+      {
+        "Sender": "Brandy",
+        "Timestamp": "2023_Nov_01_10:03:16",
+        "Content": "And what type of insurance do you have, ma'am?"
+      },
+      {
+        "Sender": "Dianne Jones",
+        "Timestamp": "2023_Nov_01_10:03:16",
+        "Content": "Tricare."
+      },
+      {
+        "Sender": "Brandy",
+        "Timestamp": "2023_Nov_01_10:03:16",
+        "Content": "Yes, ma'am. In that case, I would have sent you an email, most likely asking, of course, for the request of the Tricare information, but give me a few moments. I was right in the middle of something when he called. If you don't mind, let me just finish this up, and I'll be right back on the line with you here, okay?"
+      },
+      {
+        "Sender": "Dianne Jones",
+        "Timestamp": "2023_Nov_01_10:03:16",
+        "Content": "Okay."
+      },
+      {
+        "Sender": "Brandy",
+        "Timestamp": "2023_Nov_01_10:03:16",
+        "Content": "All right. Thank you. Yes, ma'am. Thank you as well."
+      },
+      {
+        "Sender": "Dianne Jones",
+        "Timestamp": "2023_Nov_01_10:03:16",
+        "Content": "All right. I am back."
+      },
+      {
+        "Sender": "Brandy",
+        "Timestamp": "2023_Nov_01_10:03:16",
+        "Content": "And Amy, I switched her over in the system to annual wellness on Dr. Williams' sign, and then I put we've got as well, okay?"
+      },
+      {
+        "Sender": "Unknown",
+        "Timestamp": "2023_Nov_01_10:03:16",
+        "Content": "All right. Let me show my screen here. I need someone to wrap this up, okay, so I don't have to know. But within today, I'm going to continue to work on it even after we've got a town hall meeting, right? Things like that."
+      },
+      {
+        "Sender": "Dianne Jones",
+        "Timestamp": "2023_Nov_01_10:03:16",
+        "Content": "Yeah, that's correct."
+      },
+      {
+        "Sender": "

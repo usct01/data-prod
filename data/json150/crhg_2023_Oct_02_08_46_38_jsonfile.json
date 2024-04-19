@@ -1,0 +1,73 @@
+{
+  "Metadata": "value",
+  "Caller": "Rose Kutcher",
+  "Receiver": "Crofton Family Practice (Dominic)",
+  "Timestamp": "2023-10-02 08:46:38",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, Dominic. I was trying to make an appointment for medication refill. It can be virtual.",
+      "ReceiverContent": "Good morning. Thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-10-02 08:46:41"
+    },
+    "Seq2": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Yes, sure, ma'am. Can you give me a minute? Let me check the next available slot for you.",
+      "Timestamp": "2023-10-02 08:46:58"
+    },
+    "Seq3": {
+      "CallerContent": "Is there anything sooner than that or even in person?",
+      "ReceiverContent": "I think the page is buffering right now.",
+      "Timestamp": "2023-10-02 08:47:36"
+    },
+    "Seq4": {
+      "CallerContent": "Okay. All right, y'all. August 13th at 2.45?",
+      "ReceiverContent": "Yeah, I'm really sorry for the inconvenience happen.",
+      "Timestamp": "2023-10-02 08:48:07"
+    },
+    "Seq5": {
+      "CallerContent": "Yeah, that's fine.",
+      "ReceiverContent": "Yes, that's correct. Is it okay with you, ma'am?",
+      "Timestamp": "2023-10-02 08:48:29"
+    },
+    "Seq6": {
+      "CallerContent": "If there are any openings, could I be put on a list? I just didn't realize I was out of my medicine when I called to have it refilled at the pharmacy.",
+      "ReceiverContent": "Great. Can you please help me with your data first?",
+      "Timestamp": "2023-10-02 08:49:43"
+    },
+    "Seq7": {
+      "CallerContent": "Okay. Thank you so much.",
+      "ReceiverContent": "Yep. If any cancellation occurred, I'll give you a call back, ma'am.",
+      "Timestamp": "2023-10-02 08:50:21"
+    },
+    "Seq8": {
+      "CallerContent": "Medication refills.",
+      "ReceiverContent": "Sure. So may I know the reason for the visit, ma'am?",
+      "Timestamp": "2023-10-02 08:51:27"
+    },
+    "Seq9": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Medication. Yep. I got you.",
+      "Timestamp": "2023-10-02 08:52:29"
+    },
+    "Seq10": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "So just to confirm, I fixed an appointment on Friday, which is 13th of October at 2.45 p.m. Is that okay with you, ma'am?",
+      "Timestamp": "2023-10-02 08:53:14"
+    },
+    "Seq11": {
+      "CallerContent": "No, that's all. Thank you.",
+      "ReceiverContent": "Okay. Is there anything else that I missed to do with you, ma'am?",
+      "Timestamp": "2023-10-02 08:53:46"
+    },
+    "Seq12": {
+      "CallerContent": "Bye-bye.",
+      "ReceiverContent": "Yep. Thank you for calling Carlson Family Practice. And have a great day, ma'am. Bye-bye.",
+      "Timestamp": "2023-10-02 08:54:07"
+    },
+    "Seq13": {
+      "CallerContent": "Bye-bye. Bye-bye.",
+      "ReceiverContent": "Bye-bye. Bye-bye.",
+      "Timestamp": "2023-10-02 08:54:13"
+    }
+  }
+}

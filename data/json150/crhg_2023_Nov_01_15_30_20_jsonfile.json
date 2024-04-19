@@ -1,0 +1,58 @@
+{
+  "Metadata": "value",
+  "Caller": "Ali",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-11-01 15:30:20",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hey Kumar, this is Dr. Ali. How are you doing today? I'm doing good. Thanks for asking. How are you today? Good, good. Thank you. Can I speak to Dr. Williams by chance? Allison N. Williams for a patient that has moved to the hospital for her.",
+      "ReceiverContent": "Good afternoon. Thanks for calling Crow from Family Practice. This is Kumar from ASST today.",
+      "Timestamp": "2023-11-01 15:30:20"
+    },
+    "Seq2": {
+      "CallerContent": "out with this. I just want to leave her a message or something like that. Yeah, either way",
+      "ReceiverContent": "Uh-huh. She's attending the patients now, but I can transfer you to the friend desk. Maybe they could help me out with this. Say it one more time. She's attending the patients now. Maybe I can transfer you to the friend desk and they could help me",
+      "Timestamp": "2023-11-01 15:30:20"
+    },
+    "Seq3": {
+      "CallerContent": "Okay, sounds good. Stay online. Thank you. Thank you. Bye-bye.",
+      "ReceiverContent": "out with this. I just want to leave her a message or something like that. Yeah, either way",
+      "Timestamp": "2023-11-01 15:30:20"
+    },
+    "Seq4": {
+      "CallerContent": "Hi, Brandy. This is Dr. Ali at Enroll Medical Center. How are you doing today? I'm doing very well, sir. How can we help you? I was hoping to speak to Dr. Allison N. Williams about a patient that she sent to the hospital to get a little bit more history, if that's okay or possible. Sir, I do greatly apologize. Dr. Williams has already left today. She left about a half day today. Oh, is she going to be back tomorrow?",
+      "ReceiverContent": "Thank you for contacting Crofton Family Practice. This is Brandy here in the front office.",
+      "Timestamp": "2023-11-01 15:30:20"
+    },
+    "Seq5": {
+      "CallerContent": "Is there any way you could leave a message for her to call me on my cell phone? I most definitely can. What was your last name again? It's Ali, A-L-I. Perfect. And your cell phone, sir?",
+      "ReceiverContent": "Yes, sir, absolutely. She will be back first thing in the morning tomorrow. We do open at 9. Usually, she was not available until, say, about 9.30 a.m., sir.",
+      "Timestamp": "2023-11-01 15:30:20"
+    },
+    "Seq6": {
+      "CallerContent": "It's 936-933-7381. And the patient is Lauren Conley.",
+      "ReceiverContent": "Is there any way you could leave a message for her to call me on my cell phone? I most definitely can. What was your last name again? It's Ali, A-L-I. Perfect. And your cell phone, sir?",
+      "Timestamp": "2023-11-01 15:30:20"
+    },
+    "Seq7": {
+      "CallerContent": "Awesome. Sounds good.",
+      "ReceiverContent": "Conley? Yes, sir. Yep. I actually just sent her over a few things before she came in.",
+      "Timestamp": "2023-11-01 15:30:20"
+    },
+    "Seq8": {
+      "CallerContent": "That would be perfect. I appreciate you.",
+      "ReceiverContent": "Awesome. Sounds good.",
+      "Timestamp": "2023-11-01 15:30:20"
+    },
+    "Seq9": {
+      "CallerContent": "Yes, sir. No worries. You have a great afternoon, and thank you for calling in, sir.",
+      "ReceiverContent": "No problem, Mr. Ali. Well, no worries. I will go ahead and get this to Dr. Williams as soon as possible. And actually, if it's okay with you, I'm going to go ahead and text her because I do have her personal number. Being that way, you can get in contact with her at your earliest convenience, okay?",
+      "Timestamp": "2023-11-01 15:30:20"
+    },
+    "Seq10": {
+      "CallerContent": "All right. Bye-bye.",
+      "ReceiverContent": "Yes, sir. No worries. You have a great afternoon, and thank you for calling in, sir.",
+      "Timestamp": "2023-11-01 15:30:20"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Timestamp": "2023-11-06 15:00:43",
+  "Caller": "John Fischello",
+  "Receiver": "Dominic",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi. I need to reschedule an appointment.",
+      "ReceiverContent": "Sure. So, I may know your last appointment date.",
+      "Timestamp": "2023-11-06 15:00:43"
+    },
+    "Seq2": {
+      "CallerContent": "The appointment date is currently January 24th at 9.30 a.m.",
+      "ReceiverContent": "Okay. Can you give me a minute? 24. Okay.",
+      "Timestamp": "2023-11-06 15:00:43"
+    },
+    "Seq3": {
+      "CallerContent": "It's for John Fischello.",
+      "ReceiverContent": "John Fischello. Kindly give me a minute. May I have your date of birth, please?",
+      "Timestamp": "2023-11-06 15:00:43"
+    },
+    "Seq4": {
+      "CallerContent": "It's for my father. It's October 11th, 1936.",
+      "ReceiverContent": "John Fischello. Got it. It's January 29th. It's 29th. Yeah. At 9.30. Yep.",
+      "Timestamp": "2023-11-06 15:00:43"
+    },
+    "Seq5": {
+      "CallerContent": "Okay. Sorry. I thought it was the 24th. Is there any way to move that to Friday, January 26th?",
+      "ReceiverContent": "26. Yeah. I can do that for you. Kindly give me a minute. Let me cancel this appointment once for a while. So, the reason is three-month follow-up.",
+      "Timestamp": "2023-11-06 15:00:43"
+    },
+    "Seq6": {
+      "CallerContent": "Okay. For 26th at 9 a.m. for...",
+      "ReceiverContent": "Is it okay with 9 a.m., sir?",
+      "Timestamp": "2023-11-06 15:00:43"
+    },
+    "Seq7": {
+      "CallerContent": "Anything later, like 10 o'clock?",
+      "ReceiverContent": "Yes, we have from 9 a.m. till 11.45 and 1 o'clock from 1 o'clock to 2.45. May know it's a bad time.",
+      "Timestamp": "2023-11-06 15:00:43"
+    },
+    "Seq8": {
+      "CallerContent": "Can we do Friday, January 26th at 10 a.m.?",
+      "ReceiverContent": "Yeah, sure. So, yep. 10 a.m. for John Vesalio. Yep. For October 11, 19...",
+      "Timestamp": "2023-11-06 15:00:43"
+    },
+    "Seq9": {
+      "CallerContent": "Great. Thanks so much.",
+      "ReceiverContent": "Yep. So, just to confirm, I've rescheduled the appointment on Friday, which is 26th of January at 10 a.m. for a three-month follow-up. Is it okay with you, sir?",
+      "Timestamp": "2023-11-06 15:00:43"
+    },
+    "Seq10": {
+      "CallerContent": "Yes. Thank you.",
+      "ReceiverContent": "Thank you. Okay. So, thank you for the information and you have a great day, sir. Bye-bye.",
+      "Timestamp": "2023-11-06 15:00:43"
+    },
+    "Seq11": {
+      "CallerContent": "Thank you, too. Bye-bye. Bye-bye.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2023-11-06 15:00:43"
+    }
+  }
+}

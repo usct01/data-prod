@@ -1,0 +1,84 @@
+{
+  "Metadata": "value",
+  "Receiver": "Kumar from Family Practice",
+  "Timestamp": "2023-11-02 14:35:21",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon, this is Carl from Stanley Practice. How may I assist you today?",
+      "Timestamp": "2023-11-02 14:35:21"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, I was calling to see if there were any cancellations. I made an appointment this morning, but it's not for like two weeks. And I was just seeing if anyone canceled for tomorrow.",
+      "ReceiverContent": "Tomorrow, one moment, let me check on it.",
+      "Timestamp": "2023-11-02 14:36:02"
+    },
+    "Seq3": {
+      "CallerContent": "Okay.",
+      "Timestamp": "2023-11-02 14:36:02"
+    },
+    "Seq4": {
+      "ReceiverContent": "Would you like to come to the office in the afternoon after 2 p.m.?",
+      "Timestamp": "2023-11-02 14:36:36"
+    },
+    "Seq5": {
+      "CallerContent": "Yes, please.",
+      "Timestamp": "2023-11-02 14:36:36"
+    },
+    "Seq6": {
+      "ReceiverContent": "Okay, one moment. May I know your date of birth, please?",
+      "Timestamp": "2023-11-02 14:36:39"
+    },
+    "Seq7": {
+      "CallerContent": "2-13-19-86.",
+      "Timestamp": "2023-11-02 14:36:39"
+    },
+    "Seq8": {
+      "ReceiverContent": "Rose Couture, am I correct?",
+      "Timestamp": "2023-11-02 14:36:39"
+    },
+    "Seq9": {
+      "CallerContent": "Yes.",
+      "Timestamp": "2023-11-02 14:36:39"
+    },
+    "Seq10": {
+      "ReceiverContent": "Okay, one moment. But you have made an appointment on 13th of October for a tele-visit, am I correct?",
+      "Timestamp": "2023-11-02 14:37:00"
+    },
+    "Seq11": {
+      "ReceiverContent": "But this is only for an office visit to meet the doctor in person.",
+      "Timestamp": "2023-11-02 14:37:00"
+    },
+    "Seq12": {
+      "CallerContent": "That's fine. I can be there in person. I just, I can't go without my medicine for that long. And I thought I still had one at the pharmacy and I don't, so I need to come in.",
+      "Timestamp": "2023-11-02 14:37:12"
+    },
+    "Seq13": {
+      "ReceiverContent": "Okay, one moment. So, just to confirm, I have rescheduled your appointment to tomorrow at 2 p.m. for an office visit.",
+      "Timestamp": "2023-11-02 14:37:16"
+    },
+    "Seq14": {
+      "CallerContent": "Okay, perfect.",
+      "Timestamp": "2023-11-02 14:37:16"
+    },
+    "Seq15": {
+      "ReceiverContent": "Is there anything else that I may have to do with?",
+      "Timestamp": "2023-11-02 14:37:22"
+    },
+    "Seq16": {
+      "CallerContent": "No, that is all. Thank you so much.",
+      "Timestamp": "2023-11-02 14:37:24"
+    },
+    "Seq17": {
+      "ReceiverContent": "Thank you for calling Crosswinds Valley Practice. You have a great day.",
+      "Timestamp": "2023-11-02 14:37:45"
+    },
+    "Seq18": {
+      "CallerContent": "All right, you too. Bye-bye.",
+      "Timestamp": "2023-11-02 14:37:45"
+    },
+    "Seq19": {
+      "ReceiverContent": "Thank you. Bye-bye.",
+      "Timestamp": "2023-11-02 14:37:53"
+    }
+  }
+}

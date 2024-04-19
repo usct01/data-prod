@@ -1,0 +1,73 @@
+{
+  "Metadata": "value",
+  "Caller": "Cynthia Parks McDaniel",
+  "Receiver": "Crawford Intellectual Practice (Kumar)",
+  "Timestamp": "2023-10-02 09:31:20",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Oh, good morning. My name is Cynthia Parks McDaniel, and Dr. Williams is my doctor. But the last time I was there, September 6th, she wanted me to come back and have my blood drawn.",
+      "ReceiverContent": "Good morning. This is Crawford Intellectual Practice. How may I assist you today?",
+      "Timestamp": "2023-10-02 09:31:20"
+    },
+    "Seq2": {
+      "CallerContent": "She wants to do a blood test on me again. So anyway, do I schedule an appointment to get my blood drawn?",
+      "ReceiverContent": "Yeah, sure. Let me check on the next available slot for you.",
+      "Timestamp": "2023-10-02 09:31:42"
+    },
+    "Seq3": {
+      "CallerContent": "Okay, thank you.",
+      "ReceiverContent": "We do have a slot available on 5th of October at 10 a.m. Is that okay with you?",
+      "Timestamp": "2023-10-02 09:31:57"
+    },
+    "Seq4": {
+      "CallerContent": "I work 9 to 3. You got anything on the 4th? Wednesday? I'm off on Wednesday.",
+      "ReceiverContent": "Yes, we do have a slot available on 4th. When would you like to make it on 4th?",
+      "Timestamp": "2023-10-02 09:32:27"
+    },
+    "Seq5": {
+      "CallerContent": "Whatever time you tell me. 9 o'clock?",
+      "ReceiverContent": "Would you like to make it 9.45?",
+      "Timestamp": "2023-10-02 09:32:57"
+    },
+    "Seq6": {
+      "CallerContent": "Yeah, okay. On the 4th? Wednesday the 4th at 9.45. This Wednesday, day after tomorrow.",
+      "ReceiverContent": "Yes, correct. Right? Day after tomorrow. Okay, 9.45, right? Yes, correct. Now, could you help me with your...",
+      "Timestamp": "2023-10-02 09:33:09"
+    },
+    "Seq7": {
+      "CallerContent": "What?",
+      "ReceiverContent": "Could you help me with your date of birth, please?",
+      "Timestamp": "2023-10-02 09:33:16"
+    },
+    "Seq8": {
+      "CallerContent": "My birthday? My birthday is 5 May 5, 16, 1954.",
+      "ReceiverContent": "Your last name is Parks McDaniel, am I correct?",
+      "Timestamp": "2023-10-02 09:33:34"
+    },
+    "Seq9": {
+      "CallerContent": "Yes, that's correct.",
+      "ReceiverContent": "Okay, so just to confirm, I have fixed an appointment. On 4th of October at 9.45 a.m. for lab, for the blood drawn.",
+      "Timestamp": "2023-10-02 09:33:49"
+    },
+    "Seq10": {
+      "CallerContent": "Yes, sir. Yes, sir.",
+      "ReceiverContent": "Is there anything else that I'm asked to do?",
+      "Timestamp": "2023-10-02 09:34:03"
+    },
+    "Seq11": {
+      "CallerContent": "No, what's your name?",
+      "ReceiverContent": "This is Garf.",
+      "Timestamp": "2023-10-02 09:34:16"
+    },
+    "Seq12": {
+      "CallerContent": "Okay. Well, thank you so much. I'll see you on Wednesday, okay?",
+      "ReceiverContent": "Thank you for calling Crawford Telepractice. You have a great day.",
+      "Timestamp": "2023-10-02 09:34:31"
+    },
+    "Seq13": {
+      "CallerContent": "Okay, thank you. You too. Bye-bye.",
+      "ReceiverContent": "Thank you. Bye-bye.",
+      "Timestamp": "2023-10-02 09:34:42"
+    }
+  }
+}

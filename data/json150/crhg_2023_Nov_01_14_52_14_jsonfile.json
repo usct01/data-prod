@@ -1,0 +1,43 @@
+{
+  "Metadata": "value",
+  "Caller": "Beth Hall Ray",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-11-01 14:52:14",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, yes, this is Beth Hall and Ray, and I see someone called me from the office.",
+      "ReceiverContent": "Good afternoon, this is Carl from Valley Practice. How may I assist you today?",
+      "Timestamp": "2023-11-01 14:52:14"
+    },
+    "Seq2": {
+      "CallerContent": "Okay, thank you.",
+      "ReceiverContent": "I think you have received a call from the front desk. Please stay online. I'm going to transfer you to the front desk.",
+      "Timestamp": "2023-11-01 14:52:39"
+    },
+    "Seq3": {
+      "CallerContent": "Hi, yes, my name is Beth Hall and Ray, and I see someone called me.",
+      "ReceiverContent": "Hi, there, and thank you for calling Crofton Family Practice. This is Brandy here within the front office. How can we help you today?",
+      "Timestamp": "2023-11-01 14:52:59"
+    },
+    "Seq4": {
+      "CallerContent": "It's for the GYA, my woman exam.",
+      "ReceiverContent": "Oh, yes, ma'am. Yes, they were probably just giving you a call to let you know that, you know, the confirmation of the appointment. Okay. Just making you aware to know whether or not you were completely, you know, confirming.",
+      "Timestamp": "2023-11-01 14:53:32"
+    },
+    "Seq5": {
+      "CallerContent": "Oh, okay, okay, because I had did that confirm appointment. So I didn't know.",
+      "ReceiverContent": "I'm so very sorry. Believe me, I do get a lot of notifications that people themselves are getting quite a bit of phone calls and text messages. So I'm very sorry on that note.",
+      "Timestamp": "2023-11-01 14:54:45"
+    },
+    "Seq6": {
+      "CallerContent": "I just wanted to make sure everything was all right.",
+      "ReceiverContent": "You got it covered. No problem. Thank you. All right, we'll see you tomorrow.",
+      "Timestamp": "2023-11-01 14:55:03"
+    },
+    "Seq7": {
+      "CallerContent": "All right, bye-bye.",
+      "ReceiverContent": "",
+      "Timestamp": "2023-11-01 14:55:07"
+    }
+  }
+}

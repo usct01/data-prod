@@ -1,0 +1,42 @@
+{
+  "Timestamp": "2023-11-06 15:54:48",
+  "Caller": "Catherine McKenna",
+  "Receiver": "Kumar & Nurse Amy",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, may I speak with the nurse on call, please?",
+      "ReceiverContent": "Okay, one moment, please stay on line.",
+      "Timestamp": "2023-11-06 15:54:48"
+    },
+    "Seq2": {
+      "CallerContent": "Your conversation is being recorded.",
+      "ReceiverContent": "This is the nurse, Amy. How can I help you?",
+      "Timestamp": "2023-11-06 15:54:48"
+    },
+    "Seq3": {
+      "CallerContent": "Hey, Amy, this is Catherine McKenna again. Yeah, I have a really odd question.",
+      "ReceiverContent": "Yeah, she'd have to examine you. She can't just, yeah, she'd have to see you for that, yeah, to add that to it. Your blood work didn't show any arthritis or anything. It didn't? Let me see.",
+      "Timestamp": "2023-11-06 15:54:48"
+    },
+    "Seq4": {
+      "CallerContent": "No, I don't have any arthritis. Yeah. Do you have anything available today?",
+      "ReceiverContent": "Oh, honey, no, we close at 4 o'clock. So, yeah, unfortunately, we're at 4 o'clock, so, yeah.",
+      "Timestamp": "2023-11-06 15:54:48"
+    },
+    "Seq5": {
+      "CallerContent": "What about tomorrow at 4?",
+      "ReceiverContent": "I can, I actually, just the nurse here, so I don't make the appointments. I can transfer you back to the schedulers and see what they have available.",
+      "Timestamp": "2023-11-06 15:54:48"
+    },
+    "Seq6": {
+      "CallerContent": "All right, that would be great.",
+      "ReceiverContent": "Yeah, a lot of times, they like to start with x-rays first when it's your ankle, and to get it, you know, you just need to get examined first. I'll send you back to our scheduler. I'm not sure what we have available, okay?",
+      "Timestamp": "2023-11-06 15:54:48"
+    },
+    "Seq7": {
+      "CallerContent": "All right.",
+      "ReceiverContent": null,
+      "Timestamp": "2023-11-06 15:54:48"
+    }
+  }
+}

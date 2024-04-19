@@ -1,0 +1,58 @@
+{
+  "Metadata": "value",
+  "Caller": "Margaret",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-11-01 11:23:04",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hello. I'm trying to reach someone. I just missed a call from your office.",
+      "ReceiverContent": "Good morning. Thank you for calling Crawford Family Practice. This is Kumar. How may I assist you today?",
+      "Timestamp": "2023-11-01 11:23:04"
+    },
+    "Seq2": {
+      "CallerContent": "Yes. Is that today?",
+      "ReceiverContent": "Yes. You have registered with Crawford Family Practice for a new patient. Am I correct?",
+      "Timestamp": "2023-11-01 11:23:16"
+    },
+    "Seq3": {
+      "CallerContent": "And this is for the telehealth?",
+      "ReceiverContent": "Yes. Correct. The first appointment would be a televisit for sure. And then you can make an appointment to meet the doctor in person.",
+      "Timestamp": "2023-11-01 11:23:30"
+    },
+    "Seq4": {
+      "CallerContent": "Okay. I thought I already had that scheduled.",
+      "ReceiverContent": "Is that? Okay. Let me check it for you. Could I take your date of birth?",
+      "Timestamp": "2023-11-01 11:23:42"
+    },
+    "Seq5": {
+      "CallerContent": "11-29-56.",
+      "ReceiverContent": "11-29-56. Your first name is Margaret. Am I correct?",
+      "Timestamp": "2023-11-01 11:23:47"
+    },
+    "Seq6": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Okay. One moment.",
+      "Timestamp": "2023-11-01 11:23:54"
+    },
+    "Seq7": {
+      "CallerContent": "Yes. Yes. You have already... It's 6 at 2-15.",
+      "ReceiverContent": "Yes. Correct. You have already made an appointment on 6th of November at 2-15 p.m.",
+      "Timestamp": "2023-11-01 11:24:04"
+    },
+    "Seq8": {
+      "CallerContent": "Right. So I'm confused why I'm getting multiple calls. Like why you didn't know that? And this is the second time I've gotten a call from your office after someone else had already followed up. Do you guys have a system where you share communication?",
+      "ReceiverContent": "Yes, we have. I'm sorry for the inconvenience.",
+      "Timestamp": "2023-11-01 11:24:10"
+    },
+    "Seq9": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Thank you. Thank you for the information. You have a great day.",
+      "Timestamp": "2023-11-01 11:24:27"
+    },
+    "Seq10": {
+      "CallerContent": "Okay. Bye-bye.",
+      "ReceiverContent": "Bye.",
+      "Timestamp": "2023-11-01 11:24:35"
+    }
+  }
+}

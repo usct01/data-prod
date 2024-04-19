@@ -1,0 +1,73 @@
+{
+  "Metadata": "value",
+  "Caller": "Patrick Ferguson",
+  "Receiver": "Dominic (Crofton Family Practice)",
+  "Timestamp": "2023-12-04 16:07:23",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hello, I was wondering if I could make an appointment?",
+      "ReceiverContent": "Good afternoon, this is Kravt from Family Practice. How may I assist you today?",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq2": {
+      "CallerContent": "Is either one more faster, I guess, telehealth?",
+      "ReceiverContent": "Would you like to meet the doctor in person or would you like to make a tele-visit?",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq3": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Okay, one moment. Let me check on the next available slot for you.",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq4": {
+      "CallerContent": "Sure, I'll give it a shot.",
+      "ReceiverContent": "We do have a slot available on 21st of December at 2 p.m. for a tele-visit. Will that be okay with you?",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq5": {
+      "CallerContent": "March 13th, 1970.",
+      "ReceiverContent": "May I take your date of birth?",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq6": {
+      "CallerContent": "My last name is Ferguson. First name, Patrick.",
+      "ReceiverContent": "May I know your last name, please?",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq7": {
+      "CallerContent": "Just to check up on my... I've had like a really stiff neck and a headache lately. And I've had... My father died of an aneurysm and I just want to make sure that I'm not going down the same route.",
+      "ReceiverContent": "Okay, so is this going to be a regular checkup?",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq8": {
+      "CallerContent": "Sure. A second thing is, I think I might have a hiatal hernia.",
+      "ReceiverContent": "Say that again?",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq9": {
+      "CallerContent": "Just those two reasons.",
+      "ReceiverContent": "Okay, so just confirm, I have an appointment on 21st of December at 2 p.m. for a tele-visit.",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq10": {
+      "CallerContent": "Yeah.",
+      "ReceiverContent": "Is there anything else that I may assist you with?",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq11": {
+      "CallerContent": "No, that's it.",
+      "ReceiverContent": "Thanks for calling Crofton Family Practice and you have a great day.",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq12": {
+      "CallerContent": "You too, thank you.",
+      "ReceiverContent": "Thank you, bye bye.",
+      "Timestamp": "2023-12-04 16:07:23"
+    },
+    "Seq13": {
+      "CallerContent": "Bye.",
+      "ReceiverContent": null,
+      "Timestamp": "2023-12-04 16:07:23"
+    }
+  }
+}

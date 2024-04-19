@@ -1,0 +1,103 @@
+{
+  "Metadata": "value",
+  "Caller": "Mona",
+  "Receiver": "Crofton Family Practice (Dominic)",
+  "Timestamp": "2023-10-02 09:01:08",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, I was calling in regards to my appointment today.",
+      "ReceiverContent": "Good morning. Thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-10-02 09:01:12"
+    },
+    "Seq2": {
+      "CallerContent": "Yes, my last name is Mona. M-O-N-A.",
+      "ReceiverContent": "Okay, so may I know your last name, ma'am?",
+      "Timestamp": "2023-10-02 09:01:15"
+    },
+    "Seq3": {
+      "CallerContent": "Correct.",
+      "ReceiverContent": "Okay. Kimberly Mona. Is that correct?",
+      "Timestamp": "2023-10-02 09:01:19"
+    },
+    "Seq4": {
+      "CallerContent": "Wonderful. Thank you so much.",
+      "ReceiverContent": "Yeah, can I give you a minute, ma'am?",
+      "Timestamp": "2023-10-02 09:01:29"
+    },
+    "Seq5": {
+      "CallerContent": "Yes, we do have a slot today at 7.30 a.m. for you, ma'am.",
+      "ReceiverContent": "Yeah, can I give you a minute?",
+      "Timestamp": "2023-10-02 09:01:52"
+    },
+    "Seq6": {
+      "CallerContent": "No, I was supposed to have an in-office visit. I wasn't aware that it was a tele-visit.",
+      "ReceiverContent": "Okay, so you had a tele-visit today. So for the blood work, let me make it... for another day. Is it okay with you, ma'am?",
+      "Timestamp": "2023-10-02 09:02:10"
+    },
+    "Seq7": {
+      "CallerContent": "Thank you so much, Dominic. I appreciate that.",
+      "ReceiverContent": "If you want to speak to a friend, I'll help you out with this, ma'am.",
+      "Timestamp": "2023-10-02 09:02:44"
+    },
+    "Seq8": {
+      "CallerContent": "You too. Thank you.",
+      "ReceiverContent": "Yeah, can I give you a minute? Let me transfer the call, and you have a great day.",
+      "Timestamp": "2023-10-02 09:02:50"
+    },
+    "Seq9": {
+      "CallerContent": "Sure.",
+      "ReceiverContent": "Your conversation is being recorded.",
+      "Timestamp": "2023-10-02 09:02:54"
+    },
+    "Seq10": {
+      "CallerContent": "Hi, Brandy. Kim Mona, how are you today? I'm sorry, ma'am. What was that? I said, hi, Brandy. This is Kim Mona. How are you today?",
+      "ReceiverContent": "Thank you for contacting Cross and Family Practice. This is Brandy here in the front office. Can you please hold for one moment?",
+      "Timestamp": "2023-10-02 09:09:37"
+    },
+    "Seq11": {
+      "CallerContent": "Sure.",
+      "ReceiverContent": "Thank you very much.",
+      "Timestamp": "2023-10-02 09:09:45"
+    },
+    "Seq12": {
+      "CallerContent": "Hi, Brandy. Kim Mona, how are you today? I'm sorry, ma'am. What was that? I said, hi, Brandy. This is Kim Mona. How are you today?",
+      "ReceiverContent": "Oh, good morning, Ms. Mona. I'm doing so-so, but thank you so much for asking. What can we help you out with?",
+      "Timestamp": "2023-10-02 09:09:45"
+    },
+    "Seq13": {
+      "CallerContent": "I have a... I think it's Thursday. Is the doctor out?",
+      "ReceiverContent": "Uh, yeah. So, actually, it looks like here that, yes, ma'am, the doctor actually is out. Did they have you... What did they have you set up for today, Ms. Mona? Did they have you... Why not?",
+      "Timestamp": "2023-10-02 09:09:51"
+    },
+    "Seq14": {
+      "CallerContent": "Well, see, there's an issue, because I was supposed to come in last week, because I'm also supposed to get blood work. And... And that was canceled. So, I was supposed to come in, which I didn't know it was a telehealth.",
+      "ReceiverContent": "Unfortunately, Dr. Williams, actually, she had an emergency come up. And with that being said, though, it's actually much of an urgent nature.",
+      "Timestamp": "2023-10-02 09:10:19"
+    },
+    "Seq15": {
+      "CallerContent": "No, but do you know what platform it is, what medical platform it is?",
+      "ReceiverContent": "Well, eClinicalWorks is what we use. Okay. I'm assuming, I don't know, but no matter what, you wouldn't, you know, you would have to do, when they send you that link,",
+      "Timestamp": "2023-10-02 09:14:58"
+    },
+    "Seq16": {
+      "CallerContent": "Okay. I just have a lot of technical issues, so I don't do a lot. That's why I get nervous, because I don't do a lot on it. So I'll give it a shot, but if something happens, I just want to let you know ahead of time.",
+      "ReceiverContent": "If anything was to go that far downhill, trust me, she'll do an audio call with you, and we'll, you know, we'll suffice from there. But try your very best in order to make the video chat happen, because if,",
+      "Timestamp": "2023-10-02 09:15:25"
+    },
+    "Seq17": {
+      "CallerContent": "Oh, yeah, I know. Yeah, I'm well aware. I've had some, but I mean, I'm really big on, you know, my security and that kind of stuff, but I had some issues. So, yeah, I will.",
+      "ReceiverContent": "If anything was to go that far downhill, trust me, she'll do an audio call with you, and we'll, you know, we'll suffice from there. But try your very best in order to make the video chat happen, because if,",
+      "Timestamp": "2023-10-02 09:16:11"
+    },
+    "Seq18": {
+      "CallerContent": "Alright. Thanks, Brandi. I appreciate your time.",
+      "ReceiverContent": "Oh, you got it, Ms. Mona.",
+      "Timestamp": "2023-10-02 09:16:47"
+    },
+    "Seq19": {
+      "CallerContent": "Thank you so much.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2023-10-02 09:16:53"
+    }
+  }
+}

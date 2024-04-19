@@ -1,0 +1,33 @@
+{
+  "Metadata": "value",
+  "Caller": "Joanne Hollywood",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-10-02 10:05:21",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, this is Joanne Hollywood. I'm one of Dr. Williams' patients.",
+      "ReceiverContent": "Good morning, this is Kroff from Family Practice. How may I assist you today?",
+      "Timestamp": "2023-10-02 10:05:21"
+    },
+    "Seq2": {
+      "CallerContent": "I was looking at my calendar and I saw that I had written down I had an appointment with her this Thursday at 11 o'clock and I wanted to confirm if that was the case.",
+      "ReceiverContent": "Yes, you have made an appointment. Yes, I see your appointment on Thursday at 11 a.m. for an office visit.",
+      "Timestamp": "2023-10-02 10:05:31"
+    },
+    "Seq3": {
+      "CallerContent": "All right, thank you so much. I'll be there.",
+      "ReceiverContent": "Is there anything else that they message to it?",
+      "Timestamp": "2023-10-02 10:05:32"
+    },
+    "Seq4": {
+      "CallerContent": "No, that's fine. Thank you.",
+      "ReceiverContent": "Thank you for calling Kroff from Family Practice. You have a great day.",
+      "Timestamp": "2023-10-02 10:05:36"
+    },
+    "Seq5": {
+      "CallerContent": "You too. Bye.",
+      "ReceiverContent": "Thank you for calling Kroff from Family Practice. You have a great day.",
+      "Timestamp": "2023-10-02 10:05:39"
+    }
+  }
+}

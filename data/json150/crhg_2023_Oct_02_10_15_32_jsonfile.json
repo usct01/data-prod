@@ -1,0 +1,68 @@
+{
+  "Metadata": "value",
+  "Caller": "Speaker D",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-10-02 10:15:32",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, I just wanted to pay my bill, please.",
+      "ReceiverContent": "Good morning, this is Crofton Family Practice. How may I assist you today?",
+      "Timestamp": "2023-10-02 10:15:32"
+    },
+    "Seq2": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Thank you. Bye-bye.",
+      "Timestamp": "2023-10-02 10:16:17"
+    },
+    "Seq3": {
+      "CallerContent": "Yes, I was just calling to pay my bill.",
+      "ReceiverContent": "Your conversation is being recorded. Thank you for contacting Crofton Family Practice. Can you please hold it with another patient? Sure. Thanks, ma'am.",
+      "Timestamp": "2023-10-02 10:17:51"
+    },
+    "Seq4": {
+      "CallerContent": "Oh, yes.",
+      "ReceiverContent": "Yes, ma'am. So, unfortunately, though, I'm not allowed to take any sort of, I want to say, billing over the phone. I don't believe it has to deal with any sort of questions or anything.",
+      "Timestamp": "2023-10-02 10:18:08"
+    },
+    "Seq5": {
+      "CallerContent": "Burkhead, B-I-R-C-K-H-E-A-D. Yep. Miss Amanda? Yes.",
+      "ReceiverContent": "Wonderful, Miss Amanda. And how much was the payment that you are willing to make today?",
+      "Timestamp": "2023-10-02 10:18:24"
+    },
+    "Seq6": {
+      "CallerContent": "$40.",
+      "ReceiverContent": "Wonderful. Yes, ma'am. And are you willing to have a receipt emailed or texted to you?",
+      "Timestamp": "2023-10-02 10:18:29"
+    },
+    "Seq7": {
+      "CallerContent": "Yes, please. That's fine.",
+      "ReceiverContent": "Okay. No problem. There we go. And what's the card number, ma'am? Oh, bear with me just a moment, sorry. Okay. Give me just one moment. I have to hit the manual button here. It always does that on me. There we go. Okay. What's the card number?",
+      "Timestamp": "2023-10-02 10:18:35"
+    },
+    "Seq8": {
+      "CallerContent": "5251. Okay. 0703-8768-9258.",
+      "ReceiverContent": "And the expiration date, please?",
+      "Timestamp": "2023-10-02 10:18:50"
+    },
+    "Seq9": {
+      "CallerContent": "0324.",
+      "ReceiverContent": "Very good. Ma'am, and the CVV code?",
+      "Timestamp": "2023-10-02 10:19:06"
+    },
+    "Seq10": {
+      "CallerContent": "499.",
+      "ReceiverContent": "Yes, ma'am. There we are. Everything is processing and approving. Bear with me just a moment. Yep. Is this Amy? No, ma'am. This is Brandy, the front office associate. Oh, gotcha. Yep. You got it. We sound a little bit alike, though.",
+      "Timestamp": "2023-10-02 10:19:12"
+    },
+    "Seq11": {
+      "CallerContent": "Yes, that's fine.",
+      "ReceiverContent": "Wonderful. All righty. So you should have a text message confirmation receipt coming over to you now. And then you'll be receiving that in just a few moments. And I've also made note not only in your chart, but then, of course, also in the billing section.",
+      "Timestamp": "2023-10-02 10:19:32"
+    },
+    "Seq12": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "My pleasure to help you. Have a great day now, ma'am. You too. Bye-bye. Bye-bye. Bye-bye.",
+      "Timestamp": "2023-10-02 10:19:50"
+    }
+  }
+}

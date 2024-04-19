@@ -1,0 +1,17 @@
+{
+  "Timestamp": "2023-11-02 09:11:49",
+  "Caller": "No Name",
+  "Receiver": "Dominic",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Okay last of December.",
+      "ReceiverContent": "Yeah, I got you. I'll give me a minute. Let me check the next available slot for you.",
+      "Timestamp": "2023-11-02 09:11:49"
+    },
+    "Seq2": {
+      "CallerContent": "So, hello? Hello?",
+      "ReceiverContent": "You may know the reason for the visit, sir? Check up. We had a tele a couple months ago. I mean a video. Okay, so yep, it's just a follow-up.",
+      "Timestamp": "2023-11-02 09:11:49"
+    }
+  }
+}

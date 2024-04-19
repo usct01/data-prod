@@ -1,0 +1,68 @@
+{
+  "Metadata": "value",
+  "Caller": "Samantha",
+  "Receiver": "David",
+  "Timestamp": "2023-11-01 10:57:07",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, good morning. I'd like to schedule an appointment for an annual physical wellness check.",
+      "ReceiverContent": "Good morning. Thanks for calling Crosswind Family Practice. How may I assist you today?",
+      "Timestamp": "2023-11-01 10:57:07"
+    },
+    "Seq2": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Could I take your date of birth?",
+      "Timestamp": "2023-11-01 10:57:19"
+    },
+    "Seq3": {
+      "CallerContent": "1-13-19-80.",
+      "ReceiverContent": "Your first name is Samantha, am I correct?",
+      "Timestamp": "2023-11-01 10:57:23"
+    },
+    "Seq4": {
+      "CallerContent": "Yeah.",
+      "ReceiverContent": "Okay, one moment. Your previous appointment, it was on March 30, 2020, am I correct?",
+      "Timestamp": "2023-11-01 10:57:32"
+    },
+    "Seq5": {
+      "CallerContent": "Yeah, not COVID. Yeah. I was thinking Crosswind COVID.",
+      "ReceiverContent": "Yes, for the past two years, you have made no other appointments with Dr. Alison Williams, so you will consider as a new patient.",
+      "Timestamp": "2023-11-01 10:57:56"
+    },
+    "Seq6": {
+      "CallerContent": "That's fair.",
+      "ReceiverContent": "Okay, for the new patient, we will send a new patient. We will send an email link to your email address, and you can read this now, and then you can make an appointment. You just call us back on Friday.",
+      "Timestamp": "2023-11-01 10:59:13"
+    },
+    "Seq7": {
+      "CallerContent": "Okay. Sure. Where will the email be sent to? Which address?",
+      "ReceiverContent": "Yes, we will send an email link to your email address, so now could you spell out your email address, please?",
+      "Timestamp": "2023-11-01 10:59:27"
+    },
+    "Seq8": {
+      "CallerContent": "Correct.",
+      "ReceiverContent": "Okay, ma'am. We will send an email link to your email address, and you can register now. And just do one thing. Take a picture of your insurance front and back side and attach with it an email.",
+      "Timestamp": "2023-11-01 11:00:32"
+    },
+    "Seq9": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Is there anything else that's a message to it?",
+      "Timestamp": "2023-11-01 11:02:43"
+    },
+    "Seq10": {
+      "CallerContent": "No, thank you very much.",
+      "ReceiverContent": "Thank you for calling, Crawford. Thank you for having me practice. You have a great day.",
+      "Timestamp": "2023-11-01 11:02:50"
+    },
+    "Seq11": {
+      "CallerContent": "You too. Thanks.",
+      "ReceiverContent": "Thank you. Bye-bye.",
+      "Timestamp": "2023-11-01 11:02:55"
+    },
+    "Seq12": {
+      "CallerContent": "Bye.",
+      "ReceiverContent": "Bye.",
+      "Timestamp": "2023-11-01 11:02:56"
+    }
+  }
+}

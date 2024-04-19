@@ -1,0 +1,78 @@
+{
+  "Metadata": "value",
+  "Caller": "Ken Brown",
+  "Receiver": "Crofton County Practice (Kumar)",
+  "Timestamp": "2023-11-01 11:55:59",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, this is Ken Brown. Amy was calling me on my cell phone. Apparently, the reception was not too good, so she lost me. So could you connect me to Amy? I'm calling on my home phone, so therefore I hope we are.",
+      "ReceiverContent": "All right. Yes, sir.",
+      "Timestamp": "2023-11-01 11:55:59"
+    },
+    "Seq2": {
+      "CallerContent": "Sure. Your conversation is being recorded.",
+      "ReceiverContent": "Let me transfer the call, and you have a great day, sir.",
+      "Timestamp": "2023-11-01 11:56:16"
+    },
+    "Seq3": {
+      "CallerContent": "Okay, I'm calling you on my home phone. I don't know why the cell is not good. I know. Okay, so were you able to catch anything that I said, though? Yes, yes. Okay. I heard what you said.",
+      "ReceiverContent": "Hey, Mr. Brown.",
+      "Timestamp": "2023-11-01 11:56:23"
+    },
+    "Seq4": {
+      "CallerContent": "I mean, I'm basically, I mean, the only thing I'm, and I'm not sure whether, is I still have some muscle issues as far as my ligaments seem to be kind of sore at times on both legs.",
+      "ReceiverContent": "The legs are still sore.",
+      "Timestamp": "2023-11-01 11:56:34"
+    },
+    "Seq5": {
+      "CallerContent": "Yeah, the legs are still sore, but I don't know what, you know, I did speak with my orthopedic surgeon. Okay.",
+      "ReceiverContent": "Uh-uh.",
+      "Timestamp": "2023-11-01 11:57:06"
+    },
+    "Seq6": {
+      "CallerContent": "Yeah, the legs are still sore, but I don't know what, you know, I did speak with my orthopedic surgeon. Okay.",
+      "ReceiverContent": "And they are a little sore.",
+      "Timestamp": "2023-11-01 11:57:37"
+    },
+    "Seq7": {
+      "CallerContent": "I have not been going back to the physical therapy for the time being. I was going to talk to him, but my concern is a lot of the exercise they were doing, it has to do with my legs.",
+      "ReceiverContent": "And they were making it worse. And I'm not sure. Yeah.",
+      "Timestamp": "2023-11-01 11:57:48"
+    },
+    "Seq8": {
+      "CallerContent": "Yeah, I'm not sure if that's a good thing. I am. I don't know if that's a good thing to do that has less to do with legs, maybe the other things. I don't know.",
+      "ReceiverContent": "Okay. But it's probably not.",
+      "Timestamp": "2023-11-01 11:58:09"
+    },
+    "Seq9": {
+      "CallerContent": "And then I just take my multipurpose vitamin and I'm taking the lisinopril and the panoprovoline.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-11-01 11:58:49"
+    },
+    "Seq10": {
+      "CallerContent": "No changes. I mean, essentially, I mean, I've been, you know, active. I went to Florida two weeks, a week ago to visit some friends.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-11-01 11:59:11"
+    },
+    "Seq11": {
+      "CallerContent": "And it is what it is. And right now I'm kind of nursing. I don't know if for some reason my lower back or my hip was sore. I played nine holes today and I said, yeah, I'm, you know, it's kind of hurt.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-11-01 11:59:33"
+    },
+    "Seq12": {
+      "CallerContent": "So other than that, I guess I'm, you know, for some reason. Okay.",
+      "ReceiverContent": "Perfect. Well, I will kind of run over this with her and then you and I will still connect at 2.15 and we'll kind of, I'll kind of give you, give you what her opinion and all that is. Okay?",
+      "Timestamp": "2023-11-01 12:00:01"
+    },
+    "Seq13": {
+      "CallerContent": "So what I do, go on the computer and then click on it?",
+      "ReceiverContent": "Yes. And if I have any connection issues, I'll just give you a call. Okay. We'll make it work. Okay. All right. Take care. Bye bye.",
+      "Timestamp": "2023-11-01 12:00:28"
+    },
+    "Seq14": {
+      "CallerContent": "Bye bye.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2023-11-01 12:00:34"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Metadata": "value",
+  "Caller": "No Name",
+  "Receiver": "Carl from Family Practice (Kumar)",
+  "Timestamp": "2023-11-01 13:44:01",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi. My husband just retired from the Navy, so we're all being assigned to new primary care managers, and I just was wondering if you are accepting patients right now.",
+      "ReceiverContent": "Good afternoon. This is kumarfrom Family Practice. How may I assist you today?",
+      "Timestamp": "2023-11-01 13:44:01"
+    },
+    "Seq2": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Yes, we are accepting new patients. For the new patients, we will send an email link to your email address, and you can register now, and then you can make up an appointment.",
+      "Timestamp": "2023-11-01 13:44:16"
+    },
+    "Seq3": {
+      "CallerContent": "It's A-M-S-W-I-T-Z-E-R-9-4.",
+      "ReceiverContent": "So, could you spell out your email address, please?",
+      "Timestamp": "2023-11-01 13:44:32"
+    },
+    "Seq4": {
+      "CallerContent": "It's A-M-S-W-I...",
+      "ReceiverContent": "Could you... Okay, I'll repeat again. It's A-M-S-W-I-T-Z-E-R-9-4. And what?",
+      "Timestamp": "2023-11-01 13:44:48"
+    },
+    "Seq5": {
+      "CallerContent": "T-Z-E-R-9-4-at-gmail.com.",
+      "ReceiverContent": "Okay, I'll repeat again. It's A-M-S-W-I-T-Z-E-R-9-4-at-gmail.com. Am I correct?",
+      "Timestamp": "2023-11-01 13:44:59"
+    },
+    "Seq6": {
+      "CallerContent": "Yeah. It's A-M-S-W-I-T-Z-E-R-9-4.",
+      "ReceiverContent": "Okay, sounds great. Okay, ma'am, we'll send an email link to your email address, and you can register now, and do one thing. Take a picture of your insurance front side and back side, and attach with an email.",
+      "Timestamp": "2023-11-01 13:45:33"
+    },
+    "Seq7": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Is there anything else that I may assist you with?",
+      "Timestamp": "2023-11-01 13:45:55"
+    },
+    "Seq8": {
+      "CallerContent": "No, that's it. Thanks.",
+      "ReceiverContent": "Thank you for calling Crofton Family Practice. You have a great day.",
+      "Timestamp": "2023-11-01 13:46:11"
+    },
+    "Seq9": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2023-11-01 13:46:16"
+    },
+    "Seq10": {
+      "CallerContent": "Bye.",
+      "ReceiverContent": "Bye.",
+      "Timestamp": "2023-11-01 13:46:17"
+    }
+  }
+}

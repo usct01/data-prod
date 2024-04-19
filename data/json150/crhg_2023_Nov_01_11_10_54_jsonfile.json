@@ -1,0 +1,58 @@
+{
+  "Metadata": "value",
+  "Caller": "Ann Curran",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-11-01 11:10:54",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "I'll be assisting you for the day. Hi, my name is Ann Curran. I just called you to make an appointment for a flu shot on November 6th at 10. I didn't realize I'm not going to be in town,",
+      "ReceiverContent": "Good morning. Thank you for calling Crofton Family Practice. This is Dominic.",
+      "Timestamp": "2023-11-01 11:10:54"
+    },
+    "Seq2": {
+      "CallerContent": "so can I get another day? I have to cancel that.",
+      "ReceiverContent": "Okay, so you want to cancel a flu shot appointment?",
+      "Timestamp": "2023-11-01 11:11:07"
+    },
+    "Seq3": {
+      "CallerContent": "Yeah, cancel the November 6th appointment. November 6th. Can you give me a minute?",
+      "ReceiverContent": "Sure. Yeah, 6th of November. Yeah, it's Linda Miller, is that correct? No, no, my name is Ann Curran. Yeah, yeah, I",
+      "Timestamp": "2023-11-01 11:11:28"
+    },
+    "Seq4": {
+      "CallerContent": "got you. Okay, yeah, so just to confirm, I've canceled the appointment on 6th of November at 10 a.m. for a flu",
+      "ReceiverContent": "got you. Okay, yeah, so just to confirm, I've canceled the appointment on 6th of November at 10 a.m. for a flu",
+      "Timestamp": "2023-11-01 11:11:41"
+    },
+    "Seq5": {
+      "CallerContent": "shot. Is it okay with you, ma'am? Great. Can I get it November",
+      "ReceiverContent": "shot. Is it okay with you, ma'am? Great. Can I get it November",
+      "Timestamp": "2023-11-01 11:11:49"
+    },
+    "Seq6": {
+      "CallerContent": "14th instead? Yeah, sure. Sure, I can do that for you. Okay, in the morning or November 13th",
+      "ReceiverContent": "morning, either one. Yes, we have a slot by 14th of November at 10 a.m. Okay, I'll take it. Yeah, sure. So may I have your date of birth once again?",
+      "Timestamp": "2023-11-01 11:12:01"
+    },
+    "Seq7": {
+      "CallerContent": "August 30th, 1950.",
+      "ReceiverContent": "Okay, it's Ann Curran. Right. So just to confirm, I've",
+      "Timestamp": "2023-11-01 11:12:22"
+    },
+    "Seq8": {
+      "CallerContent": "canceled the appointment on Tuesday, which is 14th of November",
+      "ReceiverContent": "canceled the appointment on Tuesday, which is 14th of November",
+      "Timestamp": "2023-11-01 11:12:38"
+    },
+    "Seq9": {
+      "CallerContent": "at 10 a.m. for a flu shot. That's correct. Thank you so much.",
+      "ReceiverContent": "Yep, thank you for calling Crofton Family Practice, and you have a great day, ma'am.",
+      "Timestamp": "2023-11-01 11:12:46"
+    },
+    "Seq10": {
+      "CallerContent": "Bye-bye. You too. Bye-bye.",
+      "ReceiverContent": "Bye-bye. You too. Bye-bye.",
+      "Timestamp": "2023-11-01 11:12:49"
+    }
+  }
+}

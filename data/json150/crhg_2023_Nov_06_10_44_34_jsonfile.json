@@ -1,0 +1,43 @@
+{
+  "Metadata": "value",
+  "Caller": "Emily",
+  "Receiver": "Crafton Family Practice (Kumaran)",
+  "Timestamp": "2023-11-06 10:44:34",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, I just want to double-check. My daughter has a follow-up with Dr. Williams, and I don't know where I wrote down the appointment information, so I just wanted to verify.",
+      "ReceiverContent": "Good afternoon, this is Crafton Family Practice. How may I assist you today?",
+      "Timestamp": "2023-11-06 10:44:34"
+    },
+    "Seq2": {
+      "CallerContent": "Sure, January 1st, 1997.",
+      "ReceiverContent": "Yeah, sure. Could I take the patient's date of birth?",
+      "Timestamp": "2023-11-06 10:45:14"
+    },
+    "Seq3": {
+      "CallerContent": "Great.",
+      "ReceiverContent": "Her first name is Emily A. Gray, correct?",
+      "Timestamp": "2023-11-06 10:45:31"
+    },
+    "Seq4": {
+      "CallerContent": "Right. Okay, great. I just needed to get the date and time, so I appreciate that.",
+      "ReceiverContent": "She already had an appointment, one moment, on Friday, and the next appointment for her is on 12th of January at 1.45 p.m. to meet the doctor in person.",
+      "Timestamp": "2023-11-06 10:45:49"
+    },
+    "Seq5": {
+      "CallerContent": "Okay, is there anything else?",
+      "ReceiverContent": "And the reason for the appointment is a follow-up.",
+      "Timestamp": "2023-11-06 10:45:59"
+    },
+    "Seq6": {
+      "CallerContent": "No, that's all. Thank you.",
+      "ReceiverContent": "Thank you for calling Crafton Family Practice, and you have a great day.",
+      "Timestamp": "2023-11-06 10:46:04"
+    },
+    "Seq7": {
+      "CallerContent": "You too. Bye-bye.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2023-11-06 10:46:08"
+    }
+  }
+}

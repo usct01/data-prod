@@ -1,0 +1,57 @@
+{
+  "Timestamp": "2023-11-06 16:16:02",
+  "Caller": "Prello",
+  "Receiver": "Kumar & Brandy",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Thank you. I was following up with Pastor Brandy about my referral.",
+      "ReceiverContent": "Okay. One moment. Please stay online. Let me transfer you to Brandy. Please stay online.",
+      "Timestamp": "2023-11-06 16:16:02"
+    },
+    "Seq2": {
+      "CallerContent": "I appreciate it.",
+      "ReceiverContent": "Your conversation is being recorded.",
+      "Timestamp": "2023-11-06 16:16:02"
+    },
+    "Seq3": {
+      "CallerContent": "Crofton Family Practice. Good afternoon. Hi. This is Dr. Prado. I'm calling to speak to Brandy. One second, Dr. Prado. Thank you, sir.",
+      "ReceiverContent": "Hello there, Ms. Prado.",
+      "Timestamp": "2023-11-06 16:16:02"
+    },
+    "Seq4": {
+      "CallerContent": "Hi, Brandy. Did you get my email?",
+      "ReceiverContent": "Yes, ma'am. I did get your email. Yep. I just actually got back on my computer probably about 10 minutes ago. So, yes, ma'am. I'm just kind of trying to pile up all throughout the work that we had this afternoon.",
+      "Timestamp": "2023-11-06 16:16:02"
+    },
+    "Seq5": {
+      "CallerContent": "Okay. All I was going to do is try and ask her. But she could still – I still need to do a memo where I'm out of the way.",
+      "ReceiverContent": "Yes, ma'am.",
+      "Timestamp": "2023-11-06 16:16:02"
+    },
+    "Seq6": {
+      "CallerContent": "But I'm having to take – she's my primary care. She's going out of town. I can't get a primary care visit. And for a mammogram, so I'm going to have to go out anyway.",
+      "ReceiverContent": "Right. Yes, ma'am.",
+      "Timestamp": "2023-11-06 16:16:02"
+    },
+    "Seq7": {
+      "CallerContent": "Yeah, the results will still come back from her. And I still don't have my lab. I don't know if you've sent those already.",
+      "ReceiverContent": "No, ma'am, Ms. Prello. Just being honest with you, I do have other patients that are here within the office, as well as I do have other things that I've been on top of. I'm not trying to be rude by any means, ma'am.",
+      "Timestamp": "2023-11-06 16:16:02"
+    },
+    "Seq8": {
+      "CallerContent": "Ma'am, I'm just checking to see if I had you on the phone. I completely understand.",
+      "ReceiverContent": "Yes, ma'am.",
+      "Timestamp": "2023-11-06 16:16:02"
+    },
+    "Seq9": {
+      "CallerContent": "Thank you, Brandy. I appreciate it.",
+      "ReceiverContent": "No problem. You have a great afternoon, Ms. Prello.",
+      "Timestamp": "2023-11-06 16:16:02"
+    },
+    "Seq10": {
+      "CallerContent": "Bye.",
+      "ReceiverContent": null,
+      "Timestamp": "2023-11-06 16:16:02"
+    }
+  }
+}

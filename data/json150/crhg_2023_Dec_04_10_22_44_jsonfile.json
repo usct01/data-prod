@@ -1,0 +1,48 @@
+{
+  "Metadata": "value",
+  "Caller": "Tommy",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-12-04 10:22:44",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi there, I was wondering if I could make an appointment as a new patient?",
+      "ReceiverContent": "Good morning, thank you for calling Crofton Family Practice. How may I assist you today?",
+      "Timestamp": "2023-12-04 10:22:44"
+    },
+    "Seq2": {
+      "CallerContent": "That'd be perfect.",
+      "ReceiverContent": "For the new patients, we will send an email link to your email address and you can register. And the first appointment would be a tele-visit for sure. Will that be okay with you?",
+      "Timestamp": "2023-12-04 10:22:55"
+    },
+    "Seq3": {
+      "CallerContent": "K-R-O-S-A-T-2-at-gmail.com.",
+      "ReceiverContent": "Okay, one moment. Could you spell out your email address?",
+      "Timestamp": "2023-12-04 10:23:25"
+    },
+    "Seq4": {
+      "CallerContent": "Oh, my email, I'm sorry. It's K-R-O-S-A-T-2-at-gmail.com.",
+      "ReceiverContent": "Your email ID.",
+      "Timestamp": "2023-12-04 10:23:28"
+    },
+    "Seq5": {
+      "CallerContent": "Yes, that's correct.",
+      "ReceiverContent": "Okay, I'll repeat again. It's K is Kenneth, R is Randy, O is Oscar, S is Sandra, A is Allison, T is Tommy, 2-at-gmail.com. Am I correct?",
+      "Timestamp": "2023-12-04 10:23:59"
+    },
+    "Seq6": {
+      "CallerContent": "Nope, that's it for now.",
+      "ReceiverContent": "Is there anything else that I may assist you with?",
+      "Timestamp": "2023-12-04 10:25:18"
+    },
+    "Seq7": {
+      "CallerContent": "Thank you, you as well.",
+      "ReceiverContent": "Okay, thanks for calling Crofton Family Practice and you have a great day.",
+      "Timestamp": "2023-12-04 10:26:24"
+    },
+    "Seq8": {
+      "CallerContent": "Thank you, you as well.",
+      "ReceiverContent": "Thank you, bye-bye.",
+      "Timestamp": "2023-12-04 10:26:25"
+    }
+  }
+}

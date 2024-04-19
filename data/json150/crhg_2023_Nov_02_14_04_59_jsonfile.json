@@ -1,0 +1,43 @@
+{
+  "Metadata": "value",
+  "Receiver": "Dominic at Crofton Family Practice",
+  "Timestamp": "2023-11-02 14:04:59",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-11-02 14:04:59"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, this is Patricia. Can I speak with the front office staff, please?",
+      "Timestamp": "2023-11-02 14:05:04"
+    },
+    "Seq3": {
+      "ReceiverContent": "Yes, sure. Kindly give me a minute.",
+      "Timestamp": "2023-11-02 14:05:09"
+    },
+    "Seq4": {
+      "ReceiverContent": "Let me charge for the call, and you have a great day.",
+      "Timestamp": "2023-11-02 14:05:11"
+    },
+    "Seq5": {
+      "CallerContent": "Thank you.",
+      "Timestamp": "2023-11-02 14:05:14"
+    },
+    "Seq6": {
+      "ReceiverContent": "Your conversation is being recorded.",
+      "Timestamp": "2023-11-02 14:05:28"
+    },
+    "Seq7": {
+      "ReceiverContent": "Hi there. Thank you for contacting Crofton Family Practice. This is Brandy here in the front office. Would you mind holding just one moment?",
+      "Timestamp": "2023-11-02 14:05:31"
+    },
+    "Seq8": {
+      "CallerContent": "Yes.",
+      "Timestamp": "2023-11-02 14:05:37"
+    },
+    "Seq9": {
+      "ReceiverContent": "Okay. Thank you.",
+      "Timestamp": "2023-11-02 14:05:38"
+    }
+  }
+}

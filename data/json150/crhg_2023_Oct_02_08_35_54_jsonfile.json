@@ -1,0 +1,37 @@
+{
+  "Time": "2023-10-02 08:35:54",
+  "Caller": "Jessica",
+  "Receiver": "Kathy",
+  "Conversation": [
+    {
+      "Speaker": "Jessica",
+      "Speech": "Hey there. Good morning. I have an appointment at 10 for a flu shot and I need to cancel it. I'm going to have to call and reschedule. I have a meeting that popped up for work.",
+      "Timestamp": "[00:04 - 00:12]"
+    },
+    {
+      "Speaker": "Kathy",
+      "Speech": "Yeah, kindly give me a minute. Sure. Thank you. Could you please help me with the date of birth?",
+      "Timestamp": "[00:12 - 00:35]"
+    },
+    {
+      "Speaker": "Jessica",
+      "Speech": "Sure. 9-19-76. 9-19-76. Is your first name Jessica? Am I correct? It is, yes. Yeah, kindly give me a minute. Just a moment.",
+      "Timestamp": "[00:35 - 01:14]"
+    },
+    {
+      "Speaker": "Kathy",
+      "Speech": "Okay. So just to confirm, I have canceled your appointment today at 10 a.m. Okay. Is there anything else that I may assist you with?",
+      "Timestamp": "[01:15 - 02:22]"
+    },
+    {
+      "Speaker": "Jessica",
+      "Speech": "Nope, that'll do it. I'll give you guys a call later to reschedule. Okay, thank you.",
+      "Timestamp": "[02:23 - 02:26]"
+    },
+    {
+      "Speaker": "Kathy",
+      "Speech": "Thank you for calling Crofton Family Practice and have a great day. Thank you, everyone.",
+      "Timestamp": "[02:26 - 02:30]"
+    }
+  ]
+}

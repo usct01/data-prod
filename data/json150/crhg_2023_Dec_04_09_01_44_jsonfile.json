@@ -1,0 +1,33 @@
+{
+  "Metadata": "value",
+  "Caller": "No Name",
+  "Receiver": "Kummar",
+  "Timestamp": "2023-12-04 09:01:44",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, I'm trying to confirm when my doctor's appointment is tomorrow.",
+      "ReceiverContent": "Good morning. Thanks for calling Crofton Family Practice. This is Kumar. How may I assist you today?",
+      "Timestamp": "2023-12-04 09:01:44"
+    },
+    "Seq2": {
+      "CallerContent": "It's 10.30.72.",
+      "ReceiverContent": "Sure, one moment. Could I take your date of birth?",
+      "Timestamp": "2023-12-04 09:01:14"
+    },
+    "Seq3": {
+      "CallerContent": "Your appointment is at 2 p.m. tomorrow. Thank you. Yes, that's right.",
+      "ReceiverContent": "Your appointment is at 2 p.m. tomorrow. Thank you. Yes, that's right.",
+      "Timestamp": "2023-12-04 09:01:27"
+    },
+    "Seq4": {
+      "CallerContent": "I appreciate it.",
+      "ReceiverContent": "Thank you. Bye-bye.",
+      "Timestamp": "2023-12-04 09:01:33"
+    },
+    "Seq5": {
+      "CallerContent": "Okay, take care.",
+      "ReceiverContent": "Thank you. Bye-bye.",
+      "Timestamp": "2023-12-04 09:01:36"
+    }
+  }
+}

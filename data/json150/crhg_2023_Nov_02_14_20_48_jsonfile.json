@@ -1,0 +1,111 @@
+{
+  "Metadata": "value",
+  "Receiver": "Dominic at Crofton Family Practice",
+  "Timestamp": "2023-11-02 14:20:48",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thanks for calling Crofton Family Practice. This is Dominic. Let me assist you for the day.",
+      "Timestamp": "2023-11-02 14:20:48"
+    },
+    "Seq2": {
+      "CallerContent": "Yes. Hi, Dominic. I called maybe five minutes ago and you sent me to someone else. I was the one inquiring about working with you guys. So I sent you a referral.",
+      "Timestamp": "2023-11-02 14:20:53"
+    },
+    "Seq3": {
+      "ReceiverContent": "Yeah. Well, OK, I think I transferred you to the reception. Yeah. Kindly give me a minute. Let me transfer the call once again. I think they are with me right now. Yeah. Yeah. Kindly give me a minute. Let me transfer the call and you have a great day.",
+      "Timestamp": "2023-11-02 14:21:12"
+    },
+    "Seq4": {
+      "CallerContent": "Okay.",
+      "Timestamp": "2023-11-02 14:21:15"
+    },
+    "Seq5": {
+      "ReceiverContent": "Your conversation is being recorded.",
+      "Timestamp": "2023-11-02 14:21:32"
+    },
+    "Seq6": {
+      "ReceiverContent": "Thank you for contacting Crofton Family Practice. Please hold one moment. Thank you.",
+      "Timestamp": "2023-11-02 14:21:33"
+    },
+    "Seq7": {
+      "ReceiverContent": "Hi there, and thank you so much for holding. How can I help you today?",
+      "Timestamp": "2023-11-02 14:21:38"
+    },
+    "Seq8": {
+      "ReceiverContent": "Hi there. Thank you so much for holding. This is Brandy here within the front office. How can we help you today?",
+      "Timestamp": "2023-11-02 14:21:49"
+    },
+    "Seq9": {
+      "CallerContent": "Yes. Hi. I am a therapist in the Bowie area. And one of the things I'm looking to do is just collaborate with local",
+      "Timestamp": "2023-11-02 14:22:08"
+    },
+    "Seq10": {
+      "CallerContent": "you know, psychotherapy if their clients need therapy and also to refer to find a practice that I need to refer someone to get, you know, a physical or address any kind of medical concerns.",
+      "Timestamp": "2023-11-02 14:22:22"
+    },
+    "Seq11": {
+      "ReceiverContent": "Yeah, most definitely. And what I can do is I can take down your name and number if that's OK with you. And I'd like to be able to pass your information along to Dr. Allison Williams.",
+      "Timestamp": "2023-11-02 14:22:37"
+    },
+    "Seq12": {
+      "ReceiverContent": "And then that way she would be able to go ahead and give you a call if it would not be her, then if it would be her husband, he is our front office manager.",
+      "Timestamp": "2023-11-02 14:22:52"
+    },
+    "Seq13": {
+      "CallerContent": "OK. But the business is called Crofton Family Practice or Village Green Crofton Family Practice. OK. Hold on. So it's Dr. Allison Williams.",
+      "Timestamp": "2023-11-02 14:23:08"
+    },
+    "Seq14": {
+      "CallerContent": "OK. Hold on. So it's Dr. Allison Williams. So it's Dr. Allison Williams. And it's Crofton Family Practice. And you said it's either her or her husband. What's her husband's name?",
+      "Timestamp": "2023-11-02 14:23:22"
+    },
+    "Seq15": {
+      "ReceiverContent": "Satish.",
+      "Timestamp": "2023-11-02 14:23:36"
+    },
+    "Seq16": {
+      "CallerContent": "OK. Just so I have it. And then this same number, right?",
+      "Timestamp": "2023-11-02 14:23:46"
+    },
+    "Seq17": {
+      "ReceiverContent": "Yes, ma'am. I do. Well, this would be the number for you to call us back on here. But if it's okay with you, I was going to go ahead and get your, you know, whichever personal number you'd like to give. Yes, ma'am. Sure. Sure.",
+      "Timestamp": "2023-11-02 14:24:01"
+    },
+    "Seq18": {
+      "CallerContent": "So my name is Dr. Judith Rose Wilson.",
+      "Timestamp": "2023-11-02 14:24:10"
+    },
+    "Seq19": {
+      "ReceiverContent": "Okay. Dr. Judith Rose Wilson.",
+      "Timestamp": "2023-11-02 14:24:22"
+    },
+    "Seq20": {
+      "CallerContent": "Uh-huh. Hyphenated Rose Wilson is.",
+      "Timestamp": "2023-11-02 14:24:27"
+    },
+    "Seq21": {
+      "ReceiverContent": "Yes, ma'am.",
+      "Timestamp": "2023-11-02 14:24:31"
+    },
+    "Seq22": {
+      "CallerContent": "And my number is 301-605-3509.",
+      "Timestamp": "2023-11-02 14:24:38"
+    },
+    "Seq23": {
+      "ReceiverContent": "Very good. And I will definitely go ahead and pass this message along to her before the end of the day, and then hopefully she can get back in contact with you per her convenience, okay?",
+      "Timestamp": "2023-11-02 14:24:44"
+    },
+    "Seq24": {
+      "CallerContent": "Okay. Thank you so much.",
+      "Timestamp": "2023-11-02 14:24:53"
+    },
+    "Seq25": {
+      "ReceiverContent": "No, thank you as well, ma'am. You have yourself a wonderful afternoon.",
+      "Timestamp": "2023-11-02 14:24:56"
+    },
+    "Seq26": {
+      "CallerContent": "You too. Bye-bye. Bye-bye now.",
+      "Timestamp": "2023-11-02 14:25:02"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "Metadata": "value",
+  "Caller": "Janice",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-11-01 11:26:33",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hello. Good morning. This is Janice. How are you?",
+      "ReceiverContent": "Good morning. Thank you for calling Coral from Family Practice. This is Kumar. How may I assist you today?",
+      "Timestamp": "2023-11-01 11:26:33"
+    },
+    "Seq2": {
+      "CallerContent": "I'm fine. Thank you. So I called a few times yesterday trying to get all of the news. I left messages and I did not get a response.",
+      "ReceiverContent": "I'm doing good. Thanks for asking. How are you today?",
+      "Timestamp": "2023-11-01 11:26:45"
+    },
+    "Seq3": {
+      "CallerContent": "My husband really needs the Zolpidem medication. Is the nurse in that I can talk to her?",
+      "ReceiverContent": "Sure. One moment. I can transfer you to the nurse and she could help you out with this. Please stay online.",
+      "Timestamp": "2023-11-01 11:27:00"
+    },
+    "Seq4": {
+      "CallerContent": "Yeah. Okay. Thank you.",
+      "ReceiverContent": "Your conversation is being recorded.",
+      "Timestamp": "2023-11-01 11:27:00"
+    },
+    "Seq5": {
+      "CallerContent": "I'm good. I'm good. I don't know if you got my message yesterday. I did. Yeah. I sent it over.",
+      "ReceiverContent": "Hi. This is Anarsami. How can I help you?",
+      "Timestamp": "2023-11-01 11:27:00"
+    },
+    "Seq6": {
+      "CallerContent": "I'm good. How are you?",
+      "ReceiverContent": "Hey, Amy. How are you? Good morning.",
+      "Timestamp": "2023-11-01 11:27:00"
+    },
+    "Seq7": {
+      "CallerContent": "Okay. Did you send it today or yesterday?",
+      "ReceiverContent": "I'm good. How are you?",
+      "Timestamp": "2023-11-01 11:27:00"
+    },
+    "Seq8": {
+      "CallerContent": "Oh, okay. Okay. I'll check with them. Thank you so much.",
+      "ReceiverContent": "You're welcome, hon. Bye-bye.",
+      "Timestamp": "2023-11-01 11:27:00"
+    },
+    "Seq9": {
+      "CallerContent": "Bye-bye.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2023-11-01 11:27:00"
+    }
+  }
+}

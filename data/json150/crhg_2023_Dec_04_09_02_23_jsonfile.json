@@ -1,0 +1,28 @@
+{
+  "Metadata": "value",
+  "Caller": "Jim Neiman",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-12-04 09:02:23",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yeah, Comer. This is Jim Neiman again. I asked you about Chris Neiman's appointment. Is it 10.30? Is that what you said? Tomorrow?",
+      "ReceiverContent": "Good morning. Thank you for calling Grafton Family Practice. This is Comer. How may I assist you today?",
+      "Timestamp": "2023-12-04 09:02:23"
+    },
+    "Seq2": {
+      "CallerContent": "One moment. Let me check on it. Yes, Christina Neiman. Yes, that's right. 10.30 a.m. in the morning.",
+      "ReceiverContent": "One moment. Let me check on it. Yes, Christina Neiman. Yes, that's right. 10.30 a.m. in the morning.",
+      "Timestamp": "2023-12-04 09:02:37"
+    },
+    "Seq3": {
+      "CallerContent": "All right. Thank you, Comer. Bye.",
+      "ReceiverContent": "Is there anything else?",
+      "Timestamp": "2023-12-04 09:02:45"
+    },
+    "Seq4": {
+      "CallerContent": "That's it. Thank you.",
+      "ReceiverContent": "Okay. Thank you for calling.",
+      "Timestamp": "2023-12-04 09:02:53"
+    }
+  }
+}

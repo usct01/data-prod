@@ -1,0 +1,42 @@
+{
+  "Timestamp": "2023-11-02 09:07:51",
+  "Caller": "Galsco",
+  "Receiver": "Kathy",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, I just need to schedule an appointment with Dr. Williams.",
+      "ReceiverContent": "This is Kathy. How may I assist you today?",
+      "Timestamp": "2023-11-02 09:07:51"
+    },
+    "Seq2": {
+      "CallerContent": "In person is fine.",
+      "ReceiverContent": "Yeah, kindly stay online. Would you like to meet the doctor in person or through television?",
+      "Timestamp": "2023-11-02 09:08:12"
+    },
+    "Seq3": {
+      "CallerContent": "The 7th? 7th of November at 11 a.m. OK, I'm having trouble. OK, so the 7th at 11 a.m. is fine.",
+      "ReceiverContent": "What's the date? It's on Tuesday.",
+      "Timestamp": "2023-11-02 09:09:09"
+    },
+    "Seq4": {
+      "CallerContent": "Could you please help me with the date of birth? January 2nd, 1988.",
+      "ReceiverContent": "Yeah, I got you, ma'am.",
+      "Timestamp": "2023-11-02 09:09:37"
+    },
+    "Seq5": {
+      "CallerContent": "Just a wellness check, a physical.",
+      "ReceiverContent": "So just to confirm, I have fixed your appointment on 7th of November at 11 a.m. for an office visit. Is there anything else that I may assist you with?",
+      "Timestamp": "2023-11-02 09:09:49"
+    },
+    "Seq6": {
+      "CallerContent": "No, the 7th at 11 a.m.",
+      "ReceiverContent": "Thank you. 7th of November at 11 a.m.",
+      "Timestamp": "2023-11-02 09:13:13"
+    },
+    "Seq7": {
+      "CallerContent": "Yes, thank you.",
+      "ReceiverContent": "Thank you for calling Crofton Family Practice and have a great day.",
+      "Timestamp": "2023-11-02 09:13:17"
+    }
+  }
+}

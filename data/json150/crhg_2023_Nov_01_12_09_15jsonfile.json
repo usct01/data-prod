@@ -1,0 +1,104 @@
+{
+  "Metadata": "value",
+  "Caller": "Daniel",
+  "Receiver": "Crow from Family Practice (Dominic)",
+  "Timestamp": "2023-11-01 12:09:15",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "How are you doing today?",
+      "ReceiverContent": "I'm doing good. Thanks for asking. How are you today?",
+      "Timestamp": "2023-11-01 12:09:15"
+    },
+    "Seq2": {
+      "CallerContent": "Good. Good. I am following up on a bill that I have here. I just want to confirm that it was sent to both of my insurances.",
+      "ReceiverContent": "Yes. For the billing, we will give you a mail ID. You just mail them, and they could help you out with this. I can give you a mail ID regarding billing.",
+      "Timestamp": "2023-11-01 12:09:24"
+    },
+    "Seq3": {
+      "CallerContent": "What was the word you used?",
+      "ReceiverContent": "Could you say that again?",
+      "Timestamp": "2023-11-01 12:09:39"
+    },
+    "Seq4": {
+      "CallerContent": "No, you said I will give you something regarding billing?",
+      "ReceiverContent": "Yes. We will give you a mail ID regarding billing. You just send an email to them, and they could help you out with this.",
+      "Timestamp": "2023-11-01 12:09:45"
+    },
+    "Seq5": {
+      "CallerContent": "All right. Let me write down the email address.",
+      "ReceiverContent": "Yes. Kindly make a note of it.",
+      "Timestamp": "2023-11-01 12:10:01"
+    },
+    "Seq6": {
+      "CallerContent": "Okay. What's the email address?",
+      "ReceiverContent": "One moment. Kindly make a note of it. It's Vesa Vanish.",
+      "Timestamp": "2023-11-01 12:10:04"
+    },
+    "Seq7": {
+      "CallerContent": "I'm sorry. What was it?",
+      "ReceiverContent": "It's Vesa Victor. G is Gabriel.",
+      "Timestamp": "2023-11-01 12:10:20"
+    },
+    "Seq8": {
+      "CallerContent": "What's the name?",
+      "ReceiverContent": "All right. No, it's – It's not a name. It's an alphabet. V-G-P-C.",
+      "Timestamp": "2023-11-01 12:10:29"
+    },
+    "Seq9": {
+      "CallerContent": "I'm having trouble with your accent. I'm sorry.",
+      "ReceiverContent": "No problem. I'm really sorry for the inconvenience. I'll repeat once again. It's V. V is Victor.",
+      "Timestamp": "2023-11-01 12:10:45"
+    },
+    "Seq10": {
+      "CallerContent": "But it's one.",
+      "ReceiverContent": "Yes, correct. One V.",
+      "Timestamp": "2023-11-01 12:11:35"
+    },
+    "Seq11": {
+      "CallerContent": "Yes. V-G-E-C, four characters, underscore, billing at I-F-E-G-A-R-A.",
+      "ReceiverContent": "No, it's I-F-E-D-O-R-A. D is for Daniel, O is for Orange, R is for Randy, A is for Allison.",
+      "Timestamp": "2023-11-01 12:11:59"
+    },
+    "Seq12": {
+      "CallerContent": "Let me read that back to you.",
+      "ReceiverContent": "Sure. Sure.",
+      "Timestamp": "2023-11-01 12:12:33"
+    },
+    "Seq13": {
+      "CallerContent": "Victor, Victor Golf, V-V-G, P-C underscore, billing at I-F-E-G-A-R-A dot com.",
+      "ReceiverContent": "No, it's I-F-E-D-O-R-A dot com. D is dog, O is Orange, R is Randy, A is Allison.",
+      "Timestamp": "2023-11-01 12:12:48"
+    },
+    "Seq14": {
+      "CallerContent": "I don't even know what Daniel is. Daniel is the name, I guess. I-F-E-D-O-R-A. D-A-R-A.",
+      "ReceiverContent": "D-O-R-A.",
+      "Timestamp": "2023-11-01 12:13:40"
+    },
+    "Seq15": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Yes, that's right.",
+      "Timestamp": "2023-11-01 12:14:49"
+    },
+    "Seq16": {
+      "CallerContent": "Let me read this again. I-F-E-D-O-R-A dot com.",
+      "ReceiverContent": "Yes, that's right.",
+      "Timestamp": "2023-11-01 12:15:01"
+    },
+    "Seq17": {
+      "CallerContent": "I-F-E-D-O-R-A dot com.",
+      "ReceiverContent": "Yes, that's right.",
+      "Timestamp": "2023-11-01 12:15:56"
+    },
+    "Seq18": {
+      "CallerContent": "V-G-P-C underscore billing at I-F-E-D-O-R-A dot com.",
+      "ReceiverContent": "Yes, that's right. I'll send them emails. Yes, that's right, sounds great.",
+      "Timestamp": "2023-11-01 12:16:08"
+    },
+    "Seq19": {
+      "CallerContent": "All right, thank you.",
+      "ReceiverContent": "I'm sorry for the inconvenient accent.",
+      "Timestamp": "2023-11-01 12:16:30"
+    },
+    "Seq20": {
+      "CallerContent": "Yep, thank you. Thank you.",
+      "ReceiverContent":

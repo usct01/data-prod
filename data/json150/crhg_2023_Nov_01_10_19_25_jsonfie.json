@@ -1,0 +1,63 @@
+{
+  "Metadata": "value",
+  "Caller": "Rosemary",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-11-01 10:19:25",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, I called yesterday to try to set up an appointment for my mom.",
+      "ReceiverContent": "Good morning, this is Carl from Family Practice, home ASSG today.",
+      "Timestamp": "2023-11-01 10:19:25"
+    },
+    "Seq2": {
+      "CallerContent": "Your voice is breaking, ma'am. Hello?",
+      "ReceiverContent": "Can you hear me now?",
+      "Timestamp": "2023-11-01 10:11:00"
+    },
+    "Seq3": {
+      "CallerContent": "Okay. I called yesterday to try to set up an appointment for my mom in February, and they told me I needed to register first, so I did that yesterday.",
+      "ReceiverContent": "November 14th, one moment. Her first name is Rosemary, am I correct?",
+      "Timestamp": "2023-11-01 10:19:36"
+    },
+    "Seq4": {
+      "CallerContent": "I did not make that appointment. They called her and told her she had that appointment. Her last physical was in February of last year, so I need to make an appointment. I need to make an appointment for after February 14th.",
+      "ReceiverContent": "You have to wait. You have to wait until February, but this is for a tele-visit, and you can make an appointment after this tele-visit, because she's a new patient now.",
+      "Timestamp": "2023-11-01 10:19:53"
+    },
+    "Seq5": {
+      "CallerContent": "Right, but the telehealth, how do they code that? Like, is it going to be okay since it's less than a year?",
+      "ReceiverContent": "No, you can meet the doctor in tele-visit. Yes, it's less than a year.",
+      "Timestamp": "2023-11-01 10:20:35"
+    },
+    "Seq6": {
+      "CallerContent": "Well, can I make the physical appointment now as well for February?",
+      "ReceiverContent": "Okay, one moment. In February, one moment. Yes. Yes, I can make it for you.",
+      "Timestamp": "2023-11-01 10:02:59"
+    },
+    "Seq7": {
+      "CallerContent": "Yeah, so Monday, February 19th at 10 a.m.",
+      "ReceiverContent": "Yes, correct. Could I take her date of birth again?",
+      "Timestamp": "2023-11-01 10:03:45"
+    },
+    "Seq8": {
+      "CallerContent": "3-13-43.",
+      "ReceiverContent": "43, yes, I got you. So, just to confirm, I have fixed an appointment on 19th of February at 10 a.m. for physical.",
+      "Timestamp": "2023-11-01 10:04:01"
+    },
+    "Seq9": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Is there anything else that I may assist you with?",
+      "Timestamp": "2023-11-01 10:04:10"
+    },
+    "Seq10": {
+      "CallerContent": "No, that should be it.",
+      "ReceiverContent": "Thanks for calling Crawford Family Practice. You have a great day.",
+      "Timestamp": "2023-11-01 10:04:17"
+    },
+    "Seq11": {
+      "CallerContent": "You too. Bye.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2023-11-01 10:04:20"
+    }
+  }
+}

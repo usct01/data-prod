@@ -1,0 +1,43 @@
+{
+  "Metadata": "value",
+  "Caller": "Ma'am June",
+  "Receiver": "Carol from Family Practice Home (Dominic)",
+  "Timestamp": "2023-11-01 13:51:49",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hello, good afternoon. My name is Ma'am June. I have a question. Do you have any openings right now for my daughter? She has a problem with her feet. Yeah. Do you think the doctor can see her now?",
+      "ReceiverContent": "Good afternoon, this is Carol from Family Practice Home, and I'm here with you today.",
+      "Timestamp": "2023-11-01 13:51:49"
+    },
+    "Seq2": {
+      "CallerContent": "Yeah, this is Ma'am June. I have a question. My daughter needs to see a doctor. Okay. Do you have any openings right now?",
+      "ReceiverContent": "Ma'am, your voice is very low. Ma'am, could you speak a bit louder?",
+      "Timestamp": "2023-11-01 13:51:49"
+    },
+    "Seq3": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Is she a new patient?",
+      "Timestamp": "2023-11-01 13:51:50"
+    },
+    "Seq4": {
+      "CallerContent": "For the new patients, we will send an email link to your email address, and you can register now. And then? And then. And then we can make up an appointment for your daughter.",
+      "ReceiverContent": "Not today. You can call me back on Friday. Then we can make an appointment by the available slots.",
+      "Timestamp": "2023-11-01 13:51:54"
+    },
+    "Seq5": {
+      "CallerContent": "Today?",
+      "ReceiverContent": "So could you spell out your email address, please?",
+      "Timestamp": "2023-11-01 13:52:07"
+    },
+    "Seq6": {
+      "CallerContent": "Okay. Thank you.",
+      "ReceiverContent": "What did you say?",
+      "Timestamp": "2023-11-01 13:52:17"
+    },
+    "Seq7": {
+      "CallerContent": "Okay. Let me think about it.",
+      "ReceiverContent": "Let me think about it, because that's an emergency. Sure. Okay. Sure. You can call me back. Thank you.",
+      "Timestamp": "2023-11-01 13:52:24"
+    }
+  }
+}

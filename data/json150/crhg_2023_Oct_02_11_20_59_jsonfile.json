@@ -1,0 +1,53 @@
+{
+  "Metadata": "value",
+  "Caller": "Megan",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-10-02 11:20:59",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, my name is Megan. I'm a home care coordinator at the Anne Arundel Medical Center trying to set up services for a patient of Dr. Williams, and I just need to confirm that she is still active with her PCP.",
+      "ReceiverContent": "Good morning, this is Carlson Family Practice. I'll be assisting today.",
+      "Timestamp": "2023-10-02 11:20:59"
+    },
+    "Seq2": {
+      "CallerContent": "Okay, thank you.",
+      "ReceiverContent": "Okay, one moment. Let me check on it.",
+      "Timestamp": "2023-10-02 11:21:16"
+    },
+    "Seq3": {
+      "CallerContent": "Yes, it's 3-31-1943.",
+      "ReceiverContent": "Could you help me with the patient's date of birth, please?",
+      "Timestamp": "2023-10-02 11:21:26"
+    },
+    "Seq4": {
+      "CallerContent": "Yep.",
+      "ReceiverContent": "The patient's first name is Bonnie, and the last name is Levin.",
+      "Timestamp": "2023-10-02 11:21:37"
+    },
+    "Seq5": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Yes, correct. He's active now.",
+      "Timestamp": "2023-10-02 11:21:44"
+    },
+    "Seq6": {
+      "CallerContent": "Okay, and can I get your name, please?",
+      "ReceiverContent": "Yes, would you like to verify the patient's previous and next appointments?",
+      "Timestamp": "2023-10-02 11:22:51"
+    },
+    "Seq7": {
+      "CallerContent": "Okay, thank you so much.",
+      "ReceiverContent": "This is Kumar from Carlson Family Practice.",
+      "Timestamp": "2023-10-02 11:23:58"
+    },
+    "Seq8": {
+      "CallerContent": "Okay, you too. Bye.",
+      "ReceiverContent": "Thank you for calling, Carlson. This is Kumar from Carlson Family Practice. You have a great day.",
+      "Timestamp": "2023-10-02 11:24:06"
+    },
+    "Seq9": {
+      "CallerContent": "Thank you. Bye.",
+      "ReceiverContent": "Thank you. Bye.",
+      "Timestamp": "2023-10-02 11:24:07"
+    }
+  }
+}

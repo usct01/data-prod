@@ -1,0 +1,81 @@
+{
+  "Metadata": "value",
+  "Receiver": "Carole from Family Practice (Kumar)",
+  "Timestamp": "2023_Nov_06_10_07_56",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. Thanks for calling Carol from Family Practice. How may I assist you today?",
+      "Timestamp": "2023_Nov_06_10_07_56"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, this is Barbara Heineck. I just spoke to someone about my appointment on the 20th of November. I need to make it for later in the day.",
+      "ReceiverContent": "Uh-huh. Go ahead. One moment. Let me check on it.",
+      "Timestamp": "2023_Nov_06_10_07_56"
+    },
+    "Seq3": {
+      "CallerContent": "Sure.",
+      "ReceiverContent": "Could I take your date of birth?",
+      "Timestamp": "2023_Nov_06_10_07_56"
+    },
+    "Seq4": {
+      "CallerContent": "1-17-43.",
+      "ReceiverContent": "1-17-43. One moment. Let me check on it.",
+      "Timestamp": "2023_Nov_06_10_07_56"
+    },
+    "Seq5": {
+      "ReceiverContent": "Yes, you have made an appointment on the 20th of November at 10 a.m. Would you like to reschedule it?",
+      "Timestamp": "2023_Nov_06_10_07_56"
+    },
+    "Seq6": {
+      "CallerContent": "I'd like to reschedule for later that day.",
+      "ReceiverContent": "Later that day. One moment.",
+      "Timestamp": "2023_Nov_06_10_07_56"
+    },
+    "Seq7": {
+      "CallerContent": "When would you like to make it on that day?",
+      "ReceiverContent": "Could I make it like around 4 o'clock?",
+      "Timestamp": "2023_Nov_06_10_07_56"
+    },
+    "Seq8": {
+      "ReceiverContent": "You have to make it before 3.30.",
+      "Timestamp": "2023_Nov_06_10_07_56"
+    },
+    "Seq9": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "The office will close by 4.",
+      "Timestamp": "2023_Nov_06_10_07_56"
+    },
+    "Seq10": {
+      "CallerContent": "So, 3 o'clock?",
+      "ReceiverContent": "Sure. One moment.",
+      "Timestamp": "2023_Nov_06_10_07_56"
+    },
+    "Seq11": {
+      "ReceiverContent": "Just to confirm, I have rescheduled your appointment to 20th of November at 3 p.m.",
+      "Timestamp": "2023_Nov_06_10_07_56"
+    },
+    "Seq12": {
+      "CallerContent": "Okay. 3 p.m. on the 20th of November.",
+      "ReceiverContent": "Yes. Correct.",
+      "Timestamp": "2023_Nov_06_10_07_56"
+    },
+    "Seq13": {
+      "CallerContent": "Very good. Thank you very much.",
+      "ReceiverContent": "Is there anything else that they may ask us to do with it?",
+      "Timestamp": "2023_Nov_06_10_07_56"
+    },
+    "Seq14": {
+      "ReceiverContent": "No, that's all. Thank you.",
+      "Timestamp": "2023_Nov_06_10_07_56"
+    },
+    "Seq15": {
+      "CallerContent": "Yes. Thank you for calling Carole from Family Practice. You have a great day.",
+      "ReceiverContent": "Yes. Thank you. You too.",
+      "Timestamp": "2023_Nov_06_10_07_56"
+    },
+    "Seq16": {
+      "ReceiverContent": "Thank you. Bye-bye.",
+      "Timestamp": "2023_Nov_06_10_07_56"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Metadata": "value",
+  "Caller": "No Name",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-12-04 09:41:10",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi. Is this the practice that's in the same shopping center as like the Burger King in Crofton?",
+      "ReceiverContent": "Good morning. Thanks for calling Crofton Family Practice. This is Kumar. How may I assist you today?",
+      "Timestamp": "2023-12-04 09:41:10"
+    },
+    "Seq2": {
+      "CallerContent": "I really don't know. This is the answering service. And I can transfer you to the friend desk and they could help you out with this. Okay. Or do you need a Crofton Family Practice address?",
+      "ReceiverContent": "Hi. Is this the practice that's in the same shopping center as like the Burger King in Crofton?",
+      "Timestamp": "2023-12-04 09:41:22"
+    },
+    "Seq3": {
+      "CallerContent": "No. I needed to make sure that I'm calling my correct doctor's office.",
+      "ReceiverContent": "I really don't know. This is the answering service. And I can transfer you to the friend desk and they could help you out with this. Okay. Or do you need a Crofton Family Practice address?",
+      "Timestamp": "2023-12-04 09:41:33"
+    },
+    "Seq4": {
+      "CallerContent": "Okay. Can you stay on line? I'm going to transfer you to the friend desk.",
+      "ReceiverContent": "No. I needed to make sure that I'm calling my correct doctor's office.",
+      "Timestamp": "2023-12-04 09:41:34"
+    },
+    "Seq5": {
+      "CallerContent": "Okay. Thank you.",
+      "ReceiverContent": "Okay. Can you stay on line? I'm going to transfer you to the friend desk.",
+      "Timestamp": "2023-12-04 09:41:37"
+    },
+    "Seq6": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Okay. Thank you.",
+      "Timestamp": "2023-12-04 09:41:39"
+    }
+  }
+}

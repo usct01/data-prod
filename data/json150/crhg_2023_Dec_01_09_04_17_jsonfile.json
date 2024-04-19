@@ -1,0 +1,29 @@
+{
+  "Metadata": "value",
+  "Caller": "Stephanie Michie",
+  "Receiver": "Crofton Family Practice (Kumar)",
+  "Timestamp": "2023-12-01 09:04:17",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, I need to reach Brandy at the front desk, please.",
+      "ReceiverContent": "Sure, I can transfer you to Brandy. Apart from this, is there anything else that I may assist you with?",
+      "Timestamp": "2023-12-01 09:04:23"
+    },
+    "Seq2": {
+      "CallerContent": "No, thank you.",
+      "ReceiverContent": "Okay, kindly stay online. I'm going to transfer your call and you have a great day.",
+      "Timestamp": "2023-12-01 09:04:33"
+    },
+    "Seq3": {
+      "CallerContent": "Thanks, you too.",
+      "ReceiverContent": "Thank you. Bye-bye.",
+      "Timestamp": "2023-12-01 09:04:39"
+    },
+    "Seq4": {
+      "CallerContent": "Hi, this is Stephanie Michie. Brandy told me to call this morning around 9 to see if my husband, Paul Michie, could come in and get his shot. We weren't sure if Nurse Amy was going to be in today. So at any rate, you can call me back at 410-960-3826 or 987-5737. And that's a 410 area code. Sorry, I forgot that. Anyway, if somebody could call and let me know if he can come in and get his testosterone shot this morning or sometime today, I would appreciate it. Thank you. Bye-bye. Bye-bye.",
+      "ReceiverContent": null,
+      "Timestamp": "2023-12-01 09:05:53"
+    }
+  }
+}
+ 

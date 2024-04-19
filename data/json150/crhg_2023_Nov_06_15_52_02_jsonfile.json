@@ -1,0 +1,82 @@
+{
+  "Timestamp": "2023-11-06 15:52:02",
+  "Caller": "Swapna",
+  "Receiver": "Dominic & Satish",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi Dominic, do you guys take walk-ins? Hello?",
+      "ReceiverContent": "Yes, of course. So, we do have office openings. So, would you like to come to office to visit the doctor?",
+      "Timestamp": "2023-11-06 15:52:02"
+    },
+    "Seq2": {
+      "CallerContent": "I would like to come in now if possible.",
+      "ReceiverContent": "Oh man, all the talks are already booked. I'm really sorry. I think we have available slots. How late does it say? Yeah, kind of give me a minute. Let me check on that.",
+      "Timestamp": "2023-11-06 15:52:02"
+    },
+    "Seq3": {
+      "CallerContent": "So, you don't take walk-ins? It's only by appointment?",
+      "ReceiverContent": "Yes.",
+      "Timestamp": "2023-11-06 15:52:02"
+    },
+    "Seq4": {
+      "CallerContent": "So, if you want...",
+      "ReceiverContent": "If you want to talk about this, kindly give me a minute. Let me transfer the call to the friend desk. They'll help you out with this. Kindly stay online. Let me transfer the call. Yeah, you have a great day.",
+      "Timestamp": "2023-11-06 15:52:02"
+    },
+    "Seq5": {
+      "CallerContent": "You too.",
+      "ReceiverContent": "Crofton Family Practice, afternoon.",
+      "Timestamp": "2023-11-06 15:52:02"
+    },
+    "Seq6": {
+      "CallerContent": "Hey, Satish.",
+      "ReceiverContent": "Hi.",
+      "Timestamp": "2023-11-06 15:52:02"
+    },
+    "Seq7": {
+      "CallerContent": "Hi, Swapna. How are you?",
+      "ReceiverContent": "I'm okay, da. And you?",
+      "Timestamp": "2023-11-06 15:52:02"
+    },
+    "Seq8": {
+      "CallerContent": "Satish, not too good. Is there any way Dr. Williams can see me today?",
+      "ReceiverContent": "She's with a patient at the moment. Can I ask her and call you back?",
+      "Timestamp": "2023-11-06 15:52:02"
+    },
+    "Seq9": {
+      "CallerContent": "Yeah, please.",
+      "ReceiverContent": "You mean you want to come into the office or just talk over the phone?",
+      "Timestamp": "2023-11-06 15:52:02"
+    },
+    "Seq10": {
+      "CallerContent": "I would like to come in because I'm feeling...having difficulty breathing and I'm all stuffed up and it's been a few days. I thought I'd get better but doesn't seem to be getting better.",
+      "ReceiverContent": "You're COVID negative.",
+      "Timestamp": "2023-11-06 15:52:02"
+    },
+    "Seq11": {
+      "CallerContent": "I haven't tested yet.",
+      "ReceiverContent": "So, you better test, yeah.",
+      "Timestamp": "2023-11-06 15:52:02"
+    },
+    "Seq12": {
+      "CallerContent": "Because I didn't have a fever.",
+      "ReceiverContent": "It doesn't matter. Sometimes it comes without a fever.",
+      "Timestamp": "2023-11-06 15:52:02"
+    },
+    "Seq13": {
+      "CallerContent": "Oh, God.",
+      "ReceiverContent": "But anyway, it'll be...I mean, let me just talk to her. She will also suggest if you're coming in, you'll have to do a test.",
+      "Timestamp": "2023-11-06 15:52:02"
+    },
+    "Seq14": {
+      "CallerContent": "Do a COVID test? That's fine. I mean, if that needs to be done.",
+      "ReceiverContent": "Yeah, yeah. I'll just ask her and call you back, okay?",
+      "Timestamp": "2023-11-06 15:52:02"
+    },
+    "Seq15": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "You're welcome.",
+      "Timestamp": "2023-11-06 15:52:02"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Timestamp": "2023-11-01 14:42:23",
+  "Receiver": "Kroff from Family Practice",
+  "Caller": "Chloe Broush",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon, this is Kroff from Family Practice. How may I assist you today?",
+      "CallerContent": "Hi, I am moved and I'm just wondering if I can get my medical records transferred to a new primary care provider.",
+      "Timestamp": "[00:00 - 00:22]"
+    },
+    "Seq2": {
+      "ReceiverContent": "Okay, sure. One moment. Let me transfer you to the front desk and they could help you out with this. And if the call is not answered, kindly leave a voice message. They'll get back to you as soon as possible.",
+      "CallerContent": "Thank you.",
+      "Timestamp": "[00:23 - 00:25]"
+    },
+    "Seq3": {
+      "ReceiverContent": "Hello, you have reached the receptionist at Kroff and Family Practice. Please leave your name, reason for calling, and your number so we can call you back as soon as we can. If you are experiencing a medical emergency, please hang up and dial 911. If you are calling after hours or on weekends, we have an answering service that you can call if you think this is an urgent matter that the physician needs to address. You can call that answering service number at 443-443. Or H1-1000. Thanks for calling.",
+      "CallerContent": "Hi, my name is Chloe Broush and I am calling to get my medical records back to a new primary care provider. If you could call me at 701-226-4959. Thank you.",
+      "Timestamp": "[01:07 - 01:57]"
+    }
+  }
+}

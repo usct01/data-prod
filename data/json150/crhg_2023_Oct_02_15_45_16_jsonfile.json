@@ -1,0 +1,37 @@
+{
+  "Metadata": "value",
+  "Receiver": "Kumar from Family Practice",
+  "Timestamp": "2023-10-02 15:45:16",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. This is Carl from Family Practice. How may I assist you today?",
+      "Timestamp": "2023-10-02 15:45:16"
+    },
+    "Seq2": {
+      "CallerContent": "Yes, could I have the front? Is this the front desk?",
+      "ReceiverContent": "Okay, one moment. Let me transfer you to the front desk and take you to LBR for this. Please stay on line.",
+      "Timestamp": "2023-10-02 15:45:18"
+    },
+    "Seq3": {
+      "CallerContent": "Thank you.",
+      "Timestamp": "2023-10-02 15:45:20"
+    },
+    "Seq4": {
+      "OtherSpeakerContent": "Your conversation is being recorded. I'm with you instead. Thank you there for contacting Carl from Family Practice. This is Randy here in the front. How can we help you today?",
+      "Timestamp": "2023-10-02 15:45:26"
+    },
+    "Seq5": {
+      "CallerContent": "Yes, I was just calling to see, I called a couple of days ago about a referral from my husband and I was calling to see if it had been approved.",
+      "ReceiverContent": "Yeah, absolutely. Let's go ahead and take a look and see what I can find out here for you. What is your husband's last name as well? Davis. Courtney Davis.",
+      "Timestamp": "2023-10-02 15:45:35"
+    },
+    "Seq6": {
+      "CallerContent": "Thank you.",
+      "Timestamp": "2023-10-02 15:45:44"
+    },
+    "Seq7": {
+      "ReceiverContent": "Oh, no problem. Let me just go into it and open up everything. Okay, let's see what we can find.",
+      "Timestamp": "2023-10-02 15:45:50"
+    }
+  }
+}

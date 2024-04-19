@@ -1,0 +1,47 @@
+{
+  "Metadata": "value",
+  "Receiver": "Dominic at Crofton Family Practice",
+  "Timestamp": "2023-11-02 14:08:34",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-11-02 14:08:34"
+    },
+    "Seq2": {
+      "CallerContent": "Yes. Hi. Good afternoon. I am a therapist in the Bowie area, and I'm just trying to collaborate with some of the local doctors in my area.",
+      "Timestamp": "2023-11-02 14:08:39"
+    },
+    "Seq3": {
+      "ReceiverContent": "Yes, sure.",
+      "Timestamp": "2023-11-02 14:08:46"
+    },
+    "Seq4": {
+      "CallerContent": "As it relates to, you know, being a therapist and when you guys need referral. Do you already have a referral source for therapy?",
+      "Timestamp": "2023-11-02 14:08:48"
+    },
+    "Seq5": {
+      "ReceiverContent": "Yes. For that, let me transfer the call to the concerned person who can help you out with this, ma'am. Can I list you online? Let me transfer the call. Yeah, and you have a great day.",
+      "Timestamp": "2023-11-02 14:08:58"
+    },
+    "Seq6": {
+      "CallerContent": "Okay.",
+      "Timestamp": "2023-11-02 14:09:01"
+    },
+    "Seq7": {
+      "ReceiverContent": "Your conversation is being recorded.",
+      "Timestamp": "2023-11-02 14:09:18"
+    },
+    "Seq8": {
+      "ReceiverContent": "Thank you for contacting Crofton Family Practice. Please hold one moment. Thank you.",
+      "Timestamp": "2023-11-02 14:09:19"
+    },
+    "Seq9": {
+      "ReceiverContent": "Hi there, and thank you so much for holding. How can I help you today?",
+      "Timestamp": "2023-11-02 14:09:24"
+    },
+    "Seq10": {
+      "ReceiverContent": "Hi there. Thank you so much for holding. This is Brandy here in the front office. How can I help you today?",
+      "Timestamp": "2023-11-02 14:09:35"
+    }
+  }
+}

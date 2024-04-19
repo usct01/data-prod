@@ -1,0 +1,48 @@
+{
+  "Metadata": "value",
+  "Caller": "Carol Heavey",
+  "Receiver": "Carl from Family Practice (Kumar)",
+  "Timestamp": "2023-10-02 09:07:14",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, this is Carol Heavey, and I'm coming in at 11.30 for my appointment today. But I got a call from the office this morning, and I didn't know what the call was.",
+      "ReceiverContent": "Good morning, this is Carl from Family Practice. How may I assist you today?",
+      "Timestamp": "2023-10-02 09:07:14"
+    },
+    "Seq2": {
+      "CallerContent": "Okay, well, my question is, they said they were scheduling. They told me to see a nurse practitioner, and I had a call last week about this, on Friday.",
+      "ReceiverContent": "May I know your last name, please?",
+      "Timestamp": "2023-10-02 09:07:17"
+    },
+    "Seq3": {
+      "CallerContent": "Yes, correct.",
+      "ReceiverContent": "One moment, let me check on it. Yes, correct. So, your first name is Carol, am I correct?",
+      "Timestamp": "2023-10-02 09:07:26"
+    },
+    "Seq4": {
+      "CallerContent": "Well, they already contacted me with that information. That's why they said, would you rather have a call? And I guess, if I can't get the nurse practitioner, I guess I'll just get a call then.",
+      "ReceiverContent": "So, I'm really sorry to say this. Ma'am, Dr. Williamson is not feeling well today, so she needs to make it as a televisit. Would you like to make it as a televisit, or would you like to reschedule it?",
+      "Timestamp": "2023-10-02 09:07:38"
+    },
+    "Seq5": {
+      "CallerContent": "Oh, okay. All right. Well, then, if that's all I can have, I guess that's what I'll do.",
+      "ReceiverContent": "Yes, correct. You cannot get the nurse practitioner today. I'm sorry to say this. Would you like to change it as a televisit?",
+      "Timestamp": "2023-10-02 09:07:51"
+    },
+    "Seq6": {
+      "CallerContent": "Okay, well, okay. We'll do the phone thing.",
+      "ReceiverContent": "At the same time, on the same day, today, at the same time.",
+      "Timestamp": "2023-10-02 09:08:52"
+    },
+    "Seq7": {
+      "CallerContent": "Okay, honey. All right. Thank you so much.",
+      "ReceiverContent": "Yes, correct. You will get a call from the doctor's office, and if you don't receive any call after 11.30, you can call me back, and I can transfer you to them.",
+      "Timestamp": "2023-10-02 09:08:55"
+    },
+    "Seq8": {
+      "CallerContent": "Okay, bye-bye.",
+      "ReceiverContent": "Yeah, thank you for understanding, and sorry for the inconvenience, and take care of yourself.",
+      "Timestamp": "2023-10-02 09:09:16"
+    }
+  }
+}

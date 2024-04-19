@@ -1,0 +1,133 @@
+{
+  "Metadata": "value",
+  "Caller": "Michael Krofft",
+  "Receiver": "Krofft",
+  "Timestamp": "2023-10-02 10:56:58",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, my name is Michael Krofft. I need to schedule a physical.",
+      "ReceiverContent": "Good morning, this is Krofft from Family Practice. How may I assist you today?",
+      "Timestamp": "2023-10-02 10:56:58"
+    },
+    "Seq2": {
+      "CallerContent": "Okay, one moment.",
+      "ReceiverContent": "Could you help me with your date of birth, please?",
+      "Timestamp": "2023-10-02 10:58:15"
+    },
+    "Seq3": {
+      "CallerContent": "6-12-1984.",
+      "ReceiverContent": "Your name is Michael Krofft?",
+      "Timestamp": "2023-10-02 10:58:28"
+    },
+    "Seq4": {
+      "CallerContent": "You have made your previous physical was on 3rd of August 2022, so you can make an appointment for physical now.",
+      "ReceiverContent": "You're eligible to make it. Let me check on the next available slot for you.",
+      "Timestamp": "2023-10-02 10:59:32"
+    },
+    "Seq5": {
+      "CallerContent": "Okay, I would prefer to do it on a day where I can have my blood drawn there.",
+      "ReceiverContent": "Yes, correct. Usually we are making physical on lab working days. Lab works on Monday, Wednesday, and Thursday, so we need to make an appointment.",
+      "Timestamp": "2023-10-02 10:54:58"
+    },
+    "Seq6": {
+      "CallerContent": "Okay, I can't do the week of the 23rd, but how about the following week?",
+      "ReceiverContent": "Following week? After 23rd? Would you like to make it on...",
+      "Timestamp": "2023-10-02 10:51:51"
+    },
+    "Seq7": {
+      "CallerContent": "Actually, I tell you what. Let's just do the 18th. Let's do the 18th.",
+      "ReceiverContent": "Okay. Would you like to make it at 11 a.m.? Because before 11 a.m., all the slots are already booked.",
+      "Timestamp": "2023-10-02 10:52:15"
+    },
+    "Seq8": {
+      "CallerContent": "6-12-1984.",
+      "ReceiverContent": "So, just to confirm, I have fixed an appointment on 18. October at 11 a.m. for physical okay yeah and I want to clarify a couple things I",
+      "Timestamp": "2023-10-02 10:54:26"
+    },
+    "Seq9": {
+      "CallerContent": "need to do last time I talked to dr. Williams maybe about a month ago I need",
+      "ReceiverContent": "to make sure that I get that sort of lab work done yes the answer so we found we",
+      "Timestamp": "2023-10-02 10:52:49"
+    },
+    "Seq10": {
+      "CallerContent": "to make sure that I get that sort of lab work done yes the answer so we found we",
+      "ReceiverContent": "are making the appointments for the patient for the further details I need to transfer you to friend just can take a child we are to this sir because we are only making the appointments so I made an appointment for you to make your",
+      "Timestamp": "2023-10-02 10:53:12"
+    },
+    "Seq11": {
+      "CallerContent": "are making the appointments for the patient for the further details I need to transfer you to friend just can take a child we are to this sir because we are only making the appointments so I made an appointment for you to make your",
+      "ReceiverContent": "physical for the further details I will transfer you to friend just can take a child we are this please stay online okay all right thank you thank you you",
+      "Timestamp": "2023-10-02 10:53:25"
+    },
+    "Seq12": {
+      "CallerContent": "physical for the further details I will transfer you to friend just can take a child we are this please stay online okay all right thank you thank you you",
+      "ReceiverContent": "have a great day bye-bye your conversation is being recorded",
+      "Timestamp": "2023-10-02 10:53:33"
+    },
+    "Seq13": {
+      "CallerContent": "thanks for contacting cross and family practice this is Braylon. this is Randy here in the front office how can we help you today hi um I just",
+      "ReceiverContent": "called to make an appointment for a physical which I set up for a couple weeks for now but I just want to make sure last time I talked to dr. Williams",
+      "Timestamp": "2023-10-02 10:53:41"
+    },
+    "Seq14": {
+      "CallerContent": "called to make an appointment for a physical which I set up for a couple weeks for now but I just want to make sure last time I talked to dr. Williams",
+      "ReceiverContent": "like a month ago she wanted to make sure that I get like an advanced team with",
+      "Timestamp": "2023-10-02 10:54:00"
+    },
+    "Seq15": {
+      "CallerContent": "like a month ago she wanted to make sure that I get like an advanced team with",
+      "ReceiverContent": "logic panel because I'm anemic and we're trying to run more tests so I just want to make sure that's on the record",
+      "Timestamp": "2023-10-02 10:54:14"
+    },
+    "Seq16": {
+      "CallerContent": "logic panel because I'm anemic and we're trying to run more tests so I just want to make sure that's on the record",
+      "ReceiverContent": "and that I'm going to be able to have that all done",
+      "Timestamp": "2023-10-02 10:54:44"
+    },
+    "Seq17": {
+      "CallerContent": "and that I'm going to be able to have that all done",
+      "ReceiverContent": "when I come in for my physical.",
+      "Timestamp": "2023-10-02 10:54:57"
+    },
+    "Seq18": {
+      "CallerContent": "when I come in for my physical.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-10-02 10:55:21"
+    },
+    "Seq19": {
+      "CallerContent": "Okay, thank you.",
+      "ReceiverContent": "No problem, sir.",
+      "Timestamp": "2023-10-02 10:55:45"
+    },
+    "Seq20": {
+      "CallerContent": "Hello, you have reached the nurse line.",
+      "ReceiverContent": "Hi, my name is Mike Shalcross, FHA LCROSS. I just called to schedule a physical, which is set up for October the 18th.",
+      "Timestamp": "2023-10-02 10:56:54"
+    },
+    "Seq21": {
+      "CallerContent": "Hi, my name is Mike Shalcross, FHA LCROSS. I just called to schedule a physical, which is set up for October the 18th.",
+      "ReceiverContent": "Last time I talked to Dr. Williams, which was about a month ago, she said that I should get sort of like an advanced hematology.",
+      "Timestamp": "2023-10-02 10:57:06"
+    },
+    "Seq22": {
+      "CallerContent": "Last time I talked to Dr. Williams, which was about a month ago, she said that I should get sort of like an advanced hematology.",
+      "ReceiverContent": "I'm going to be able to get that, and also I wanted to inquire about B12, where I recently had my",
+      "Timestamp": "2023-10-02 10:57:14"
+    },
+    "Seq23": {
+      "CallerContent": "I'm going to be able to get that, and also I wanted to inquire about B12, where I recently had my",
+      "ReceiverContent": "blood tested with a GI specialist, which I was referred to by Dr. Williams, and iron and everything looked okay. But my B12 is not working.",
+      "Timestamp": "2023-10-02 10:57:34"
+    },
+    "Seq24": {
+      "CallerContent": "blood tested with a GI specialist, which I was referred to by Dr. Williams, and iron and everything looked okay. But my B12 is not working.",
+      "ReceiverContent": "My B12 was in the good range, but low end of the good range, and so I just wanted to see if it's also possible to, you know, get like a B12 shot or something while I'm in for the physical. So anyways, just wanted to follow up with that.",
+      "Timestamp": "2023-10-02 10:57:57"
+    },
+    "Seq25": {
+      "CallerContent": "My B12 was in the good range, but low end of the good range, and so I just wanted to see if it's also possible to, you know, get like a B12 shot or something while I'm in for the physical. So anyways, just wanted to follow up with that.",
+      "ReceiverContent": "They sent me over to your voicemail. Again, my name is Michael Shalcross, and my appointment is 10-18. Thank you.",
+      "Timestamp": "2023-10-02 10:58:57"
+    }
+  }
+}

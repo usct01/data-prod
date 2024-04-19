@@ -1,0 +1,33 @@
+{
+  "Metadata": "value",
+  "Caller": "Nancy Briani",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-12-01 10:46:07",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Good morning. This is Nancy Briani calling, and I just have a question. We have a blood pressure monitor, an NETRIN health monitor that we have been using for Vince, and it's being monitored through Dr. Williams' office. But Vince is, as I think you probably know, under hospice care, and I didn't know if I could return the monitor, if someone else could use it, or what should I do with it, or just hold on to it.",
+      "ReceiverContent": "Yes, for this, I need to transfer you to the nurse, and she could help you out with this.",
+      "Timestamp": "2023-12-01 10:46:00"
+    },
+    "Seq2": {
+      "CallerContent": "All right. Thank you.",
+      "ReceiverContent": "Okay. Kindly stay online. I'm going to transfer your call.",
+      "Timestamp": "2023-12-01 10:46:50"
+    },
+    "Seq3": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2023-12-01 10:46:56"
+    },
+    "Seq4": {
+      "CallerContent": "Your conversation is being recorded. Hi, this is Nurse Amy. Amy, this is Nancy Briani. Hey. And I'm, as you probably know, Vince is in hospice care. Mm-hmm. And what I'm doing is trying to take care of one thing each day. Okay. And I'm no longer using the blood pressure cuff. And it's an NETRIN. Okay. And I'm not using the NETRIN. Okay. Now, what I didn't know is, do I return it to you? Yep. You can bring it back to us whenever you have a chance. Okay. You can drop it off here at the office. That's what I wanted to know then. Okay. That's all I needed to know. Perfect. Okay. Okay, Dyer. Drop off at office. Yep. Got it. All right, love. You're very welcome. Bye-bye. Bye-bye.",
+      "ReceiverContent": null,
+      "Timestamp": "2023-12-01 10:47:00"
+    },
+    "Seq5": {
+      "CallerContent": "Bye-bye. Bye-bye.",
+      "ReceiverContent": null,
+      "Timestamp": "2023-12-01 10:47:46"
+    }
+  }
+}

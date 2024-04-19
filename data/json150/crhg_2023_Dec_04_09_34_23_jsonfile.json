@@ -1,0 +1,143 @@
+{
+  "Metadata": "value",
+  "Caller": "No Name",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-12-04 09:34:23",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes. Could you give me the telephone number for the lab place over in Bowie where you have your mammogram and whatever done?",
+      "ReceiverContent": "Good morning. Thanks for calling Grobson Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-12-04 09:34:23"
+    },
+    "Seq2": {
+      "CallerContent": "Regarding that, I need to transfer you to the friend desk. Kindly give me a minute. Let me transfer the call and you have a great day.",
+      "ReceiverContent": "Yes. Could you give me the telephone number for the lab place over in Bowie where you have your mammogram and whatever done?",
+      "Timestamp": "2023-12-04 09:34:41"
+    },
+    "Seq3": {
+      "CallerContent": "Okay. Thank you.",
+      "ReceiverContent": "Regarding that, I need to transfer you to the friend desk. Kindly give me a minute. Let me transfer the call and you have a great day.",
+      "Timestamp": "2023-12-04 09:34:50"
+    },
+    "Seq4": {
+      "CallerContent": "Your conversation is being recorded. Hello. Thank you for contacting Grobson Family Practice. This is Brandy here within the front office. How can we help you today?",
+      "ReceiverContent": "Okay. Thank you.",
+      "Timestamp": "2023-12-04 09:35:23"
+    },
+    "Seq5": {
+      "CallerContent": "Yes. Could you give me the telephone number of the lab place over in Bowie where you go have your mammograms done?",
+      "ReceiverContent": "Your conversation is being recorded. Hello. Thank you for contacting Grobson Family Practice. This is Brandy here within the front office. How can we help you today?",
+      "Timestamp": "2023-12-04 09:35:41"
+    },
+    "Seq6": {
+      "CallerContent": "Yes. Do you have the number to that?",
+      "ReceiverContent": "Oh, honey, I'm not sure. Is it Illuminis Health by any chance?",
+      "Timestamp": "2023-12-04 09:35:50"
+    },
+    "Seq7": {
+      "CallerContent": "Okay. Because usually if they give you a referral, it's on there.",
+      "ReceiverContent": "I do not have the number to that, but I can dial that number. Okay. I can definitely try to take a look here for you and see what I can find out.",
+      "Timestamp": "2023-12-04 09:36:03"
+    },
+    "Seq8": {
+      "CallerContent": "Yeah, absolutely. And yes, ma'am, I can definitely try to take a look for you. What were you saying now? Is it to get imaging done or is it to get blood work done?",
+      "ReceiverContent": "Okay. Because usually if they give you a referral, it's on there.",
+      "Timestamp": "2023-12-04 09:36:17"
+    },
+    "Seq9": {
+      "CallerContent": "To get imaging done.",
+      "ReceiverContent": "Yeah, absolutely. And yes, ma'am, I can definitely try to take a look for you. What were you saying now? Is it to get imaging done or is it to get blood work done?",
+      "Timestamp": "2023-12-04 09:36:35"
+    },
+    "Seq10": {
+      "CallerContent": "It's in Bowie. It's on North Hanson Court, I think I said. Yes, ma'am. Okay. So that's the address.",
+      "ReceiverContent": "Imaging. Okay. So it's Illuminis Health. And where is the location, honey?",
+      "Timestamp": "2023-12-04 09:36:42"
+    },
+    "Seq11": {
+      "CallerContent": "Yep, I got it right here. Let me see. Illuminis Health Imaging in Bowie. Okay. Do you want me to go ahead and give you the number?",
+      "ReceiverContent": "It's in Bowie. It's on North Hanson Court, I think I said. Yes, ma'am. Okay. So that's the address.",
+      "Timestamp": "2023-12-04 09:37:47"
+    },
+    "Seq12": {
+      "CallerContent": "Yes, ma'am.",
+      "ReceiverContent": "Yep, I got it right here. Let me see. Illuminis Health Imaging in Bowie. Okay. Do you want me to go ahead and give you the number?",
+      "Timestamp": "2023-12-04 09:37:56"
+    },
+    "Seq13": {
+      "CallerContent": "Okay. I have right now the number that I have is 888-",
+      "ReceiverContent": "Yes, ma'am.",
+      "Timestamp": "2023-12-04 09:38:07"
+    },
+    "Seq14": {
+      "CallerContent": "888-",
+      "ReceiverContent": "Okay. I have right now the number that I have is 888-",
+      "Timestamp": "2023-12-04 09:38:11"
+    },
+    "Seq15": {
+      "CallerContent": "909-",
+      "ReceiverContent": "888-",
+      "Timestamp": "2023-12-04 09:38:18"
+    },
+    "Seq16": {
+      "CallerContent": "909-",
+      "ReceiverContent": "909-",
+      "Timestamp": "2023-12-04 09:38:32"
+    },
+    "Seq17": {
+      "CallerContent": "9729.",
+      "ReceiverContent": "909-",
+      "Timestamp": "2023-12-04 09:38:38"
+    },
+    "Seq18": {
+      "CallerContent": "Mm-hmm.",
+      "ReceiverContent": "9729.",
+      "Timestamp": "2023-12-04 09:38:44"
+    },
+    "Seq19": {
+      "CallerContent": "And that is for the address there of Illuminis Health Imaging?",
+      "ReceiverContent": "Mm-hmm.",
+      "Timestamp": "2023-12-04 09:38:46"
+    },
+    "Seq20": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "And that is for the address there of Illuminis Health Imaging?",
+      "Timestamp": "2023-12-04 09:38:52"
+    },
+    "Seq21": {
+      "CallerContent": "In Bowie.",
+      "ReceiverContent": "Yes.",
+      "Timestamp": "2023-12-04 09:38:57"
+    },
+    "Seq22": {
+      "CallerContent": "Suite 102. Yes, ma'am.",
+      "ReceiverContent": "In Bowie.",
+      "Timestamp": "2023-12-04 09:38:59"
+    },
+    "Seq23": {
+      "CallerContent": "Okay. Thank you very much.",
+      "ReceiverContent": "Suite 102. Yes, ma'am.",
+      "Timestamp": "2023-12-04 09:39:04"
+    },
+    "Seq24": {
+      "CallerContent": "Yes, ma'am. No problem to help. I'm glad I could be. You have a great afternoon. You too, ma'am. Yes, ma'am.",
+      "ReceiverContent": "Okay. Thank you very much.",
+      "Timestamp": "2023-12-04 09:39:26"
+    },
+    "Seq25": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Yes, ma'am. No problem to help. I'm glad I could be. You have a great afternoon. You too, ma'am. Yes, ma'am.",
+      "Timestamp": "2023-12-04 09:39:33"
+    },
+    "Seq26": {
+      "CallerContent": "Bye-bye.",
+      "ReceiverContent": "Thank you.",
+      "Timestamp": "2023-12-04 09:39:35"
+    },
+    "Seq27": {
+      "CallerContent": "Bye-bye.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2023-12-04 09:39:35"
+    }
+  }
+}

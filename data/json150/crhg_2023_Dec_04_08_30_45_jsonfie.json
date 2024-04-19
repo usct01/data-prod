@@ -1,0 +1,23 @@
+{
+   "Metadata": "value",
+  "Receiver": "Cathy",
+  "Caller": "No Name",
+  "Timestamp": "2023-12-04 08:30:45",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, I'm trying to reach the front office to speak with them about a referral.",
+      "ReceiverContent": "Yeah, kindly stay online. Thank you. Let me transfer you to the front desk and they could help you with this. If the call is not answered, kindly leave a voice message and they'll get back to you as soon as possible.",
+      "Timestamp": "2023-12-04 08:30:52"
+    },
+    "Seq2": {
+      "CallerContent": "No, thank you.",
+      "ReceiverContent": "Okay, I'm transferring the call and have a great day.",
+      "Timestamp": "2023-12-04 08:31:00"
+    },
+    "Seq3": {
+      "CallerContent": "Thank you, you too.",
+      "ReceiverContent": "Hello, you have reached the receptionist at Crofton Family Practice. Please leave your name, reason for calling, and your number so we can call you back.",
+      "Timestamp": "2023-12-04 08:31:15"
+    }
+  }
+}

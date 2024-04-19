@@ -1,0 +1,98 @@
+{
+  "Metadata": "value",
+  "Caller": "Ashley",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-11-01 11:28:11",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, is this Stash?",
+      "ReceiverContent": "Good morning. Thank you for calling Crofton Family Practice. How may I assist you today?",
+      "Timestamp": "2023-11-01 11:28:11"
+    },
+    "Seq2": {
+      "CallerContent": "Sure.",
+      "ReceiverContent": "One moment. Who are the front desk? Yes. Okay. Let me transfer you to the front desk and they could help you out with this. Please stay online.",
+      "Timestamp": "2023-11-01 11:28:19"
+    },
+    "Seq3": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Your conversation is being recorded.",
+      "Timestamp": "2023-11-01 11:28:19"
+    },
+    "Seq4": {
+      "CallerContent": "Hey, Brandy. It's Ashley with Clearway Pain Solutions.",
+      "ReceiverContent": "Hi there. Thank you for contacting Crofton Family Practice. This is Brandy here in the front office. How can we help you today?",
+      "Timestamp": "2023-11-01 11:28:34"
+    },
+    "Seq5": {
+      "CallerContent": "How are you this morning?",
+      "ReceiverContent": "Hi there, Ms. Ashley. I'm doing pretty well, but thank you for asking. What can I help you out with?",
+      "Timestamp": "2023-11-01 11:28:45"
+    },
+    "Seq6": {
+      "CallerContent": "Good. I have a lunch with you guys tomorrow, I think, on the bus. Can you come to see?",
+      "ReceiverContent": "Yes, ma'am. We sure do. And actually, I'm so glad that you called because it looks like whoever typed it in, it might have been myself. Don't get me wrong. It looks like somehow when somebody might have edited it.",
+      "Timestamp": "2023-11-01 11:28:50"
+    },
+    "Seq7": {
+      "CallerContent": "Okay. So there's like five of you?",
+      "ReceiverContent": "Yeah. Well, let me see here. Suzanne is no longer here. So it's going to be myself, Dr. Williams, Amy, our nurse.",
+      "Timestamp": "2023-11-01 11:29:24"
+    },
+    "Seq8": {
+      "CallerContent": "Okay. Is there anything that you guys prefer?",
+      "ReceiverContent": "No. I mean, to be honest with you, I mean, everybody here pretty much does, you know, I want to say either sandwiches, burgers, you know, cheesesteak, chicken, salads, you know,",
+      "Timestamp": "2023-11-01 11:29:49"
+    },
+    "Seq9": {
+      "CallerContent": "Okay. Sounds good. I will see you guys at noon tomorrow.",
+      "ReceiverContent": "Okay. No problem. So you're going to go ahead and just bring lunch in with you. Is that right?",
+      "Timestamp": "2023-11-01 11:30:11"
+    },
+    "Seq10": {
+      "CallerContent": "Okay. Like Sprite or Diet Coke or what? What do you?",
+      "ReceiverContent": "Yeah, I would definitely, I would say that to do something like just do like Coca-Cola, you know, as a, like as a two liter.",
+      "Timestamp": "2023-11-01 11:30:26"
+    },
+    "Seq11": {
+      "CallerContent": "A&W or the other one?",
+      "ReceiverContent": "A&W. That's her go-to, you know. Okay. Okay. It doesn't matter. If you can't get that, then any kind of root beer.",
+      "Timestamp": "2023-11-01 11:30:46"
+    },
+    "Seq12": {
+      "CallerContent": "Okay. I can do that.",
+      "ReceiverContent": "Yeah, because she loves you for that, let me tell you. All right. Sounds good. All right. Perfect. Can I get a phone number here from you, Ashley, if you don't mind?",
+      "Timestamp": "2023-11-01 11:31:08"
+    },
+    "Seq13": {
+      "CallerContent": "Sure. It's 410.",
+      "ReceiverContent": "I'm sorry. Bear with me.",
+      "Timestamp": "2023-11-01 11:31:23"
+    },
+    "Seq14": {
+      "CallerContent": "603.",
+      "ReceiverContent": "Uh-huh. 410603.",
+      "Timestamp": "2023-11-01 11:31:26"
+    },
+    "Seq15": {
+      "CallerContent": "4032.",
+      "ReceiverContent": "4032. Perfect. Got you covered here.",
+      "Timestamp": "2023-11-01 11:31:31"
+    },
+    "Seq16": {
+      "CallerContent": "Noon?",
+      "ReceiverContent": "Yep. 1230 is our lunch to 130.",
+      "Timestamp": "2023-11-01 11:31:35"
+    },
+    "Seq17": {
+      "CallerContent": "Okay. So 1230. Okay. Yes, ma'am. Yep. Okay. Thanks.",
+      "ReceiverContent": "All right. Wonderful, sweetie. Thanks again.",
+      "Timestamp": "2023-11-01 11:31:43"
+    },
+    "Seq18": {
+      "CallerContent": "You're welcome. Bye-bye. Bye-bye.",
+      "ReceiverContent": "You're welcome. Bye-bye. Bye-bye.",
+      "Timestamp": "2023-11-01 11:31:47"
+    }
+  }
+}

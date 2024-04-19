@@ -1,0 +1,173 @@
+{
+  "Metadata": "value",
+  "Caller": "Juliana Fajeda",
+  "Receiver": "Carole from Family Practice (Kumar)",
+  "Timestamp": "2023-11-06 10:10:42",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, this is Juliana Fajeda. I had an appointment at 10 virtually, and I'm in the portal, but for some reason, it's saying that it's not letting me in.",
+      "ReceiverContent": "Good morning, thank you for calling Carole from Family Practice. This is Kumar. How may I assist you today?",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq2": {
+      "CallerContent": "Okay, one moment.",
+      "ReceiverContent": "Yes, sir?",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq3": {
+      "CallerContent": "With me, Sean, for you to the franchise, can they could help you out with this? Please stay online.",
+      "ReceiverContent": "Yes, sure.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq4": {
+      "CallerContent": "Your conversation is being recorded.",
+      "ReceiverContent": "Thank you for contacting Carole from Family Practice. Please hold. I have two other calls ahead of you and a patient in the office. Thank you.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq5": {
+      "CallerContent": "Hi, Darren. Thank you so much for holding. I do greatly apologize about the amount of time there. How can I help you, though?",
+      "ReceiverContent": "Hi, so I had an appointment for 10 with you guys on the portal.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq6": {
+      "CallerContent": "Hi, so I had an appointment for 10 with you guys on the portal.",
+      "ReceiverContent": "Yes, is this Ms. Fuller? Excuse me? Is this Ms. Fuller? Is that correct?",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq7": {
+      "CallerContent": "No, Fajeda.",
+      "ReceiverContent": "Oh, I'm so very sorry. There we go, ma'am. I just wanted to go ahead and reach out to you and let you know here. Bear with me. I was actually getting ready to give you a call. Give me just one moment to get your chart here pulled up, okay?",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq8": {
+      "CallerContent": "Yes, ma'am.",
+      "ReceiverContent": "And what was your last name one more time you said?",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq9": {
+      "CallerContent": "Fajeda. Say here?",
+      "ReceiverContent": "Ms. Juliana, is that correct?",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq10": {
+      "CallerContent": "Yes, ma'am.",
+      "ReceiverContent": "Yes, ma'am. So, no, it's not.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq11": {
+      "CallerContent": "It's an alternate.",
+      "ReceiverContent": "It's not a telehealth.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq12": {
+      "CallerContent": "Got you. It's an office. Got you. Okay.",
+      "ReceiverContent": "Yeah. Yeah. Yeah, they, so definitely going to have to get you rescheduled because I, yeah. So, I'm going to have to take you on out of here, okay?",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq13": {
+      "CallerContent": "I'm just going to go ahead, though, and cut that appointment. That way you're not, you're not charged or whatnot for it. That way it's not an issue for you. And I'll just take you off the schedule here for that one.",
+      "ReceiverContent": "That way you don't have any sort of issues, being that you thought that it was a confusion of it.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq14": {
+      "CallerContent": "Now, just to give you a heads up, though, in the near future, if it is a tele-visit, not only will you receive reminder phone calls or text messages, however you had chosen, however, you will also receive a link emailed 15 minutes prior to the appointment exactly.",
+      "ReceiverContent": "And for that is where you would connect using that link, okay?",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq15": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Yes, ma'am.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq16": {
+      "CallerContent": "Just that, because I know you were stating like you hadn't received it. So, I just kind of wanted to go ahead and let you know. I do know that.",
+      "ReceiverContent": "But besides that, though, ma'am, I do definitely believe that everything else is all set, except we need to get you scheduled. Did you want to give us a call back to reschedule, or would you like to do that now? Do that now.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq17": {
+      "CallerContent": "Okay, yeah, no problem.",
+      "ReceiverContent": "We got, I'm sorry, this is Juliana's mom. She just turned 18, so I'm still monitoring. We got the clinical email from Crofton Family to contact.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq18": {
+      "CallerContent": "I got that. So, that's why we thought it was virtual.",
+      "ReceiverContent": "Right. Okay. Yes, ma'am. Yeah. I'm a little confused. So, you got an email from them, but it probably wasn't a link.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq19": {
+      "CallerContent": "The link is what connects you to the video visit itself, but it was probably just an email that was welcome you to the Halo, to the Helo or whatever.",
+      "ReceiverContent": "I'm sorry, portal, because that way you're set up to be able to visit the portal, to see your lab results, to see your upcoming appointments, things of that nature.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq20": {
+      "CallerContent": "Gotcha.",
+      "ReceiverContent": "Gotcha. Thank you. Yes, ma'am.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq21": {
+      "CallerContent": "No problem. No worries whatsoever. Like I said, we already got you cleared off the schedule for today.",
+      "ReceiverContent": "When did you want to go ahead and come back in, and did you want to do a tele-visit, or do you want to do an in-office visit?",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq22": {
+      "CallerContent": "In-office.",
+      "ReceiverContent": "In-office. Yeah. Okay. Okay. Okay. Okay. So, Tuesday, December 19th at 1030 a.m.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq23": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Yes, ma'am. December 19th. It'll be an in-office visit, meaning that you'll come here to Crofton Family Practice. And Dr. Williams will see you at 1030 a.m. that day.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq24": {
+      "CallerContent": "1030 a.m. Okay.",
+      "ReceiverContent": "Yes, ma'am. And how do I? You said, is it F-E-I-R-R?",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq25": {
+      "CallerContent": "F-E-R-R-E-I-R-A.",
+      "ReceiverContent": "F-E-I-I?",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq26": {
+      "CallerContent": "F-E-I-I?",
+      "ReceiverContent": "R-R. F-E-R-R. Okay. There we go. It's Juliana. Yep, I got you right there. And what's your reason for your visit coming in on December 19th?",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq27": {
+      "CallerContent": "It's just, you know, regular.",
+      "ReceiverContent": "Like a regular. Regular checkup.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq28": {
+      "CallerContent": "Yes, regular checkup.",
+      "ReceiverContent": "Yes, ma'am. General.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq29": {
+      "CallerContent": "December 19th at what time?",
+      "ReceiverContent": "Yes, ma'am. December 19th. It'll be an in-office visit, meaning that you'll come here to Crofton Family Practice. And Dr. Williams will see you at 1030 a.m. that day.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq30": {
+      "CallerContent": "1030 a.m. Okay.",
+      "ReceiverContent": "Yes, ma'am. And how do I? You said, is it F-E-I-R-R?",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq31": {
+      "CallerContent": "Yes, ma'am. Y'all have a great afternoon, and thanks for calling in today to let me know, okay?",
+      "ReceiverContent": "Thank you so much. I appreciate that.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq32": {
+      "CallerContent": "Bye.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2023-11-06 10:10:42"
+    },
+    "Seq33": {
+      "CallerContent": "Bye.",
+      "ReceiverContent": "",
+      "Timestamp": "2023-11-06 10:10:42"
+    }
+  }
+}

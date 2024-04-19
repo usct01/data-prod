@@ -1,0 +1,78 @@
+{
+  "Metadata": "value",
+  "Caller": "Siobhan Johnson",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-12-04 13:43:04",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, this is Siobhan Johnson. How are you?",
+      "ReceiverContent": "Good afternoon. Thanks for calling Crofton Family Practice. This is Kumar from the SSG today.",
+      "Timestamp": "2023-12-04 13:43:04"
+    },
+    "Seq2": {
+      "CallerContent": "I'm fine. I'm trying to see if I could schedule, I guess, a new... I'm a patient of Dr. Williams, but my daughter would be a new patient for Dr. Williams. I was trying to see if she had anything available.",
+      "ReceiverContent": "Yes, sure.",
+      "Timestamp": "2023-12-04 13:43:14"
+    },
+    "Seq3": {
+      "CallerContent": "Okay. Yes. So my daughter actually just turned 21, so of course now she's no longer covered under her pediatrician.",
+      "ReceiverContent": "Yeah, sure. But for the new patient, she has to pre-register with Crofton Family Practice, and then she could... Make an appointment with Dr. Alison Williams.",
+      "Timestamp": "2023-12-04 13:43:30"
+    },
+    "Seq4": {
+      "CallerContent": "Okay, so what should we do now?",
+      "ReceiverContent": "Yeah, we will send an email link to the patient's email address, and she could register, and the first appointment would be a televisage. Would that be okay with you? What is the date?",
+      "Timestamp": "2023-12-04 13:43:56"
+    },
+    "Seq5": {
+      "CallerContent": "What was the developer date?",
+      "ReceiverContent": "No, first you have to pre-register, and then you can call me back. Okay, okay, okay. Yeah, it will take a few working days to show up your name here, so after completing the registration, you can call me back on Wednesday. Then we can make up an appointment.",
+      "Timestamp": "2023-12-04 13:44:56"
+    },
+    "Seq6": {
+      "CallerContent": "Okay, okay.",
+      "ReceiverContent": "So could you spell out the patient's email ID?",
+      "Timestamp": "2023-12-04 13:45:46"
+    },
+    "Seq7": {
+      "CallerContent": "Is it possible I can give you mine, or would it have to be with her? I guess I'm just saying, because I know she has spinals and everything.",
+      "ReceiverContent": "Yeah, she can register with you only later.",
+      "Timestamp": "2023-12-04 13:46:16"
+    },
+    "Seq8": {
+      "CallerContent": "Okay, mine is J-S-H-O-J-U-A-N at gmail.com.",
+      "ReceiverContent": "I'll repeat again. It's J is for James, S is for Sandra, it is an N for Henry.",
+      "Timestamp": "2023-12-04 13:46:46"
+    },
+    "Seq9": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Okay. Oscar, J is for James, U is for Umbrella, A is for Allison, Y is for Nancy. Am I correct?",
+      "Timestamp": "2023-12-04 13:47:55"
+    },
+    "Seq10": {
+      "CallerContent": "You're correct.",
+      "ReceiverContent": "Okay, I will send an email link to this email address, and she could register now. And you have to take a picture of the patient's insurance, front side and back side, and she has to attach with the email.",
+      "Timestamp": "2023-12-04 13:49:00"
+    },
+    "Seq11": {
+      "CallerContent": "Okay, sounds good.",
+      "ReceiverContent": "Is there anything else that I may assist you with?",
+      "Timestamp": "2023-12-04 13:49:27"
+    },
+    "Seq12": {
+      "CallerContent": "Nope, that would be it. I'm going to get on this mail and get with her right now and try to figure out as quickly as possible.",
+      "ReceiverContent": "Sure, you can make up an appointment as soon as possible, but yeah, after completing the registration, you can call me back on Wednesday. Then I can make up an appointment.",
+      "Timestamp": "2023-12-04 13:49:39"
+    },
+    "Seq13": {
+      "CallerContent": "Okay, sounds good. Thank you, I appreciate it.",
+      "ReceiverContent": "Yeah, thank you for calling Crofton Family Practice. Have a great day. Take care.",
+      "Timestamp": "2023-12-04 13:50:53"
+    },
+    "Seq14": {
+      "CallerContent": "You do the same. Thanks again.",
+      "ReceiverContent": "Thank you. Bye-bye.",
+      "Timestamp": "2023-12-04 13:51:59"
+    }
+  }
+}

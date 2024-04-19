@@ -1,0 +1,32 @@
+{
+  "Timestamp": "2023-11-06 16:20:46",
+  "Caller": "Sapna",
+  "Receiver": "Dominic & Satish",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hey, hi, Dominic. I had called earlier to see if she could see me today, Dr. Binion. I did speak to Sati. She said he's going to check with her. I just want to know if she can see me today, then I'll wait. I'm meeting her outside in the car.",
+      "ReceiverContent": "Yep, got it. Regarding that, I'll transfer the call to Friendless. They'll help you out with this, ma'am. Can I list you online?",
+      "Timestamp": "2023-11-06 16:20:46"
+    },
+    "Seq2": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Yep. Let me transfer the call, honey. Have a great day.",
+      "Timestamp": "2023-11-06 16:20:46"
+    },
+    "Seq3": {
+      "CallerContent": "She closed the door. Okay. No problem. So then today, if she's booked fully, then Sati shall just text her at night, and then maybe she can see me in the morning tomorrow.",
+      "ReceiverContent": "Hey, Sapna, she's still with the patient. She's just finishing up. Okay.",
+      "Timestamp": "2023-11-06 16:20:46"
+    },
+    "Seq4": {
+      "CallerContent": "Oh, yeah. I'm sounding bad. Okay. You want to go to this, what do you call it, first, what do you call it, patient first or something?",
+      "ReceiverContent": "I'll see. If it gets really bad, then that's what I'll do. Yeah, that would be the easiest. Yeah. If not, then I'll see if she can see me in the morning. Yeah, sure. Okay. All right. Thanks.",
+      "Timestamp": "2023-11-06 16:20:46"
+    },
+    "Seq5": {
+      "CallerContent": "All right. Bye.",
+      "ReceiverContent": null,
+      "Timestamp": "2023-11-06 16:20:46"
+    }
+  }
+}

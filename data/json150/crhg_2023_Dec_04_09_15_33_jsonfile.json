@@ -1,0 +1,98 @@
+{
+  "Metadata": "value",
+  "Caller": "Carol Julian",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-12-04 09:15:33",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, my name is Carol Julian, and I was discharged from the hospital yesterday, and they said to make a follow-up with the doctor within a week.",
+      "ReceiverContent": "Good morning. Thank you for calling Crofton Family Practice. This is Tom Nikom, your assistive for the day.",
+      "Timestamp": "2023-12-04 09:15:33"
+    },
+    "Seq2": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Let me check the next available slot for you, ma'am.",
+      "Timestamp": "2023-12-04 09:15:36"
+    },
+    "Seq3": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Also, slots are already booked for the month of December. We have an earlier slot by, I think, the 21st of December at 2 p.m., and that's a television appointment. Will that be okay with you?",
+      "Timestamp": "2023-12-04 09:15:43"
+    },
+    "Seq4": {
+      "CallerContent": "No. Okay, they want me to follow up within a week.",
+      "ReceiverContent": "Okay, regarding that, I need to transfer you to the friend desk. Kindly give me a minute. Let me transfer the call, and you have a great day.",
+      "Timestamp": "2023-12-04 09:15:59"
+    },
+    "Seq5": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Hi, there, and thank you for contacting Crofton Family Practice. Please hold a moment. Thank you.",
+      "Timestamp": "2023-12-04 09:16:35"
+    },
+    "Seq6": {
+      "CallerContent": "My name is Carol Julian, and I had a really bad allergy reaction to sulfur. I broke out from head to toe, and I've been in the hospital for two days. They told me to follow up with Dr. Williams within a week.",
+      "ReceiverContent": "Okay, no problem. Let me take a look on our schedule and see what I can do to get you in, especially being that you were just now getting out of the hospital.",
+      "Timestamp": "2023-12-04 09:16:49"
+    },
+    "Seq7": {
+      "CallerContent": "Okay, thank you.",
+      "ReceiverContent": "Yes, ma'am, absolutely.",
+      "Timestamp": "2023-12-04 09:17:00"
+    },
+    "Seq8": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "The only other appointment that I have right now, ma'am, is on Thursday, December 7th at 4.15 p.m., and that one there is going to be a telehealth visit.",
+      "Timestamp": "2023-12-04 09:17:14"
+    },
+    "Seq9": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "The only other, I'm trying to look and see, the only, there may be another option, but bear with me here.",
+      "Timestamp": "2023-12-04 09:17:15"
+    },
+    "Seq10": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-12-04 09:17:29"
+    },
+    "Seq11": {
+      "CallerContent": "I think, why is this in there like this?",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-12-04 09:17:42"
+    },
+    "Seq12": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-12-04 09:17:49"
+    },
+    "Seq13": {
+      "CallerContent": "Okay, this one is a follow-up. And I feel, okay, shall we move it?",
+      "ReceiverContent": "Hi there, I'll be right there with you, ma'am. Give me just one moment, if you don't mind. Thank you, honey.",
+      "Timestamp": "2023-12-04 09:17:57"
+    },
+    "Seq14": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-12-04 09:18:25"
+    },
+    "Seq15": {
+      "CallerContent": "We are slammed. Good gravy.",
+      "ReceiverContent": "So, we're going to do a quick take a look at the options that I'm probably looking at here. If you wanted, I could do something on Friday, which would be this Friday, December 8th. We could definitely get you in.",
+      "Timestamp": "2023-12-04 09:18:47"
+    },
+    "Seq16": {
+      "CallerContent": "That's perfect, yeah. Okay. So that's Friday?",
+      "ReceiverContent": "Yes, ma'am. That'll be Friday, December 8th. That'll be this Friday coming up. So, you know, we're on Monday, obviously, it'll be this Friday.",
+      "Timestamp": "2023-12-04 09:19:58"
+    },
+    "Seq17": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "No problem. You have a great day now.",
+      "Timestamp": "2023-12-04 09:21:00"
+    },
+    "Seq18": {
+      "CallerContent": "You too.",
+      "ReceiverContent": "Yes, ma'am. Bye-bye. Bye-bye. Bye-bye.",
+      "Timestamp": "2023-12-04 09:21:03"
+    }
+  }
+}

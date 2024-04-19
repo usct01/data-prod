@@ -1,0 +1,42 @@
+{
+  "Metadata": "value",
+  "Receiver": "Kumar",
+  "Caller": "Jim Neiman",
+  "Timestamp": "2023-12-04 08:32:34",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. Thank you for calling Crofton's Family Practice. This is Kumar. How may I assist you today?",
+      "CallerContent": "Yeah, Kumar. This is Jim Neiman. I believe my wife has an appointment tomorrow morning. Could you verify that for me, Christine Neiman?",
+      "Timestamp": "2023-12-04 08:32:34"
+    },
+    "Seq2": {
+      "ReceiverContent": "Sure. One moment. Let me check on it. Yes, she has an appointment tomorrow at 10.30 a.m. for an annual visit.",
+      "CallerContent": "Yeah, 10.30 tomorrow morning.",
+      "Timestamp": "2023-12-04 08:32:44"
+    },
+    "Seq3": {
+      "ReceiverContent": "Yes, that's right.",
+      "CallerContent": "Okay. Thank you.",
+      "Timestamp": "2023-12-04 08:32:52"
+    },
+    "Seq4": {
+      "ReceiverContent": "Is there anything else that I may assist you with?",
+      "CallerContent": "No, that's it. I just wanted to verify because we hadn't received a notice. Usually we get emails and texts and I didn't see one.",
+      "Timestamp": "2023-12-04 08:32:57"
+    },
+    "Seq5": {
+      "ReceiverContent": "Okay. Yes, she has an appointment tomorrow.",
+      "CallerContent": "Okay. Very good. Thank you.",
+      "Timestamp": "2023-12-04 08:33:00"
+    },
+    "Seq6": {
+      "ReceiverContent": "Thank you for calling Crofton's Family Practice and you have a great day.",
+      "CallerContent": "Thanks. Bye.",
+      "Timestamp": "2023-12-04 08:33:59"
+    },
+    "Seq7": {
+      "ReceiverContent": "Thank you.",
+      "Timestamp": "2023-12-04 08:34:00"
+    }
+  }
+}

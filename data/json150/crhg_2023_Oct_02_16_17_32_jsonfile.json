@@ -1,0 +1,39 @@
+{
+  "Metadata": "value",
+  "Receiver": "Dominic from Crofton Family Practice",
+  "Timestamp": "2023-10-02 16:17:32",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thank you for calling Crofton Family Practice. This is Dominic. I'll be assisting you for the day.",
+      "Timestamp": "2023-10-02 16:17:38"
+    },
+    "Seq2": {
+      "CallerContent": "Hi. Can I talk to the front desk, please?",
+      "ReceiverContent": "Sure, ma'am. Kindly give me a minute. Let me transfer the call. Have a great day.",
+      "Timestamp": "2023-10-02 16:17:46"
+    },
+    "Seq3": {
+      "CallerContent": "Thank you. Bye-bye.",
+      "ReceiverContent": "Hello. You have reached the receptionist at Crofton Family Practice. Please leave your name, reason for calling, and your number so we can call you back as soon as we can.",
+      "Timestamp": "2023-10-02 16:18:12"
+    },
+    "Seq4": {
+      "ReceiverContent": "If you are experiencing a medical emergency, please hang up and dial 911. If you are calling after hours or on weekends, we have an answering service that you can call.",
+      "Timestamp": "2023-10-02 16:18:20"
+    },
+    "Seq5": {
+      "ReceiverContent": "If you think this is an urgent matter that the physician needs to address, you can call that answering service number at 443-481-1000. Thanks for calling.",
+      "Timestamp": "2023-10-02 16:18:33"
+    },
+    "Seq6": {
+      "CallerContent": "Hi. This is Catherine Gillis at 443-375-8416. My husband, James Gillis, his birthday is 7549, has an appointment, a telepathy, and he's going to be at Crofton Family Practice.",
+      "ReceiverContent": "He will visit on Thursday, and I'm going to cancel that. We're going to make a decision to go to the urgent care. I feel like he needs to be seen before Thursday.",
+      "Timestamp": "2023-10-02 16:18:48"
+    },
+    "Seq7": {
+      "CallerContent": "So thanks anyway, and again, my number is 443-375-8416. Thank you.",
+      "ReceiverContent": "Yes, sure. That sounds great.",
+      "Timestamp": "2023-10-02 16:19:03"
+    }
+  }
+}

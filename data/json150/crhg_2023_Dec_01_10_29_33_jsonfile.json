@@ -1,0 +1,13 @@
+{
+  "Metadata": "value",
+  "Caller": "No Name",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-12-01 10:29:33",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, hi. My husband has a telehealth appointment today at 1130.",
+      "ReceiverContent": "Okay, regarding that, I need to transfer you to the front desk. Can you give me a minute? Okay, thank you. Let me transfer the call. Yeah, and you have a great day.",
+      "Timestamp": "2023-12-01 10:29:06"
+    }
+  }
+}

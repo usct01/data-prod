@@ -1,0 +1,33 @@
+{
+  "Metadata": "value",
+  "Caller": "Rosemary",
+  "Receiver": "Kroft Family Practice (Kumar)",
+  "Timestamp": "2023-11-06 10:43:55",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Good morning, this is Kroft Family Practice. How may I assist you today?",
+      "ReceiverContent": "Hi, this is Rosemary Welch. I was just over there for a flu shot. Did I leave my Kindle book over there?",
+      "Timestamp": "2023-11-06 10:43:55"
+    },
+    "Seq2": {
+      "CallerContent": "Okay, one moment. Let me check for you and channel you to Francesca. They could help you out with the lost item.",
+      "ReceiverContent": "Your conversation is being recorded. Hi there, thank you for contacting Kroft Family Practice. This is Brandy here in the front office. How can we help you today?",
+      "Timestamp": "2023-11-06 10:43:55"
+    },
+    "Seq3": {
+      "CallerContent": "Hey Brandy, it's Rosemary Welch. I was just there for my flu shot. Did I leave my Kindle book?",
+      "ReceiverContent": "I'm not sure there, Miss Welch. Bear with me. Yes, is it pink? Yes. Yep, I got it right here. You're lucky it was sitting right here for you. Yep. I took it back and put it behind the counter, okay?",
+      "Timestamp": "2023-11-06 10:43:55"
+    },
+    "Seq4": {
+      "CallerContent": "Thank you. I'm so stupid. I'll be right over.",
+      "ReceiverContent": "No problem, sweetie. Got it covered. Just come whenever you come in. It's right here at the front, okay?",
+      "Timestamp": "2023-11-06 10:43:55"
+    },
+    "Seq5": {
+      "CallerContent": "Thank you, love.",
+      "ReceiverContent": "Yes, ma'am. Bye-bye.",
+      "Timestamp": "2023-11-06 10:43:55"
+    }
+  }
+}

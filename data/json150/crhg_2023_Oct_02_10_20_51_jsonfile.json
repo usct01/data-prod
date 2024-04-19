@@ -1,0 +1,43 @@
+{
+  "Metadata": "value",
+  "Caller": "Jarvis Blake",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-10-02 10:20:51",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "How are you doing, Dominic? I'm calling to schedule an appointment. I just recently became a new patient there.",
+      "ReceiverContent": "Good morning. Thank you for calling CrossFit Family Practice. This is Dominic, home assistant for the day.",
+      "Timestamp": "2023-10-02 10:20:51"
+    },
+    "Seq2": {
+      "CallerContent": "Yep, it's been over 21 days.",
+      "ReceiverContent": "Okay, yep. So let me make a televised appointment for you. Kind of give me a minute.",
+      "Timestamp": "2023-10-02 10:25:25"
+    },
+    "Seq3": {
+      "CallerContent": "What date?",
+      "ReceiverContent": "It's 20th of October, 2-0.",
+      "Timestamp": "2023-10-02 10:36:52"
+    },
+    "Seq4": {
+      "CallerContent": "Oh, right. No, I'll be out of town then.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-10-02 10:50:58"
+    },
+    "Seq5": {
+      "CallerContent": "Yes, yeah, yeah, that works.",
+      "ReceiverContent": "Okay, so is it okay with 17th of October at 3.15 p.m.?",
+      "Timestamp": "2023-10-02 10:56:20"
+    },
+    "Seq6": {
+      "CallerContent": "Yes, that works.",
+      "ReceiverContent": "May I have your date of birth, please?",
+      "Timestamp": "2023-10-02 10:59:49"
+    },
+    "Seq7": {
+      "CallerContent": "Sure, it's November 4th, 1978.",
+      "ReceiverContent": "Okay, it's Jarvis Blake. Jarvis Blake, is that correct?",
+      "Timestamp": "2023-10-02 11:01:50"
+    }
+  }
+}

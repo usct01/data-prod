@@ -1,0 +1,30 @@
+{
+  "Metadata": "value",
+  "Receiver": "Kroger from Family Practice (Kumar)",
+  "Timestamp": "2023-11-06 10:07:00",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. Thank you for calling Kroger from Family Practice. This is Kumar. How may I assist you today?",
+      "Timestamp": "2023-11-06 10:07:00"
+    },
+    "Seq2": {
+      "CallerContent": "Hello, can you hear me now?",
+      "ReceiverContent": "Hello.",
+      "Timestamp": "2023-11-06 10:07:00"
+    },
+    "Seq3": {
+      "CallerContent": "Can you hear me now?",
+      "ReceiverContent": "Yes, hello.",
+      "Timestamp": "2023-11-06 10:07:00"
+    },
+    "Seq4": {
+      "CallerContent": "Hi, this is Kroger from Family Practice.",
+      "ReceiverContent": "Hello, Kroger. Hi, Nick.",
+      "Timestamp": "2023-11-06 10:07:00"
+    },
+    "Seq5": {
+      "ReceiverContent": "How may I assist you today?",
+      "Timestamp": "2023-11-06 10:07:00"
+    }
+  }
+}

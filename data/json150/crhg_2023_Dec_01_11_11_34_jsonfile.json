@@ -1,0 +1,78 @@
+{
+  "Metadata": "value",
+  "Caller": "Christina",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-12-01 11:11:34",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, Dominic. I have been recently assigned to your practice with TRICARE. Could I book an appointment to establish care, please?",
+      "ReceiverContent": "Can you repeat that once again for me, ma'am? Your voice is breaking.",
+      "Timestamp": "2023-12-01 11:11:06"
+    },
+    "Seq2": {
+      "CallerContent": "I have been assigned to your practice through TRICARE. Could I please book an appointment?",
+      "ReceiverContent": "Sure. Is this your first appointment, ma'am, in Crofton Family Practice?",
+      "Timestamp": "2023-12-01 11:11:21"
+    },
+    "Seq3": {
+      "CallerContent": "Yes. Establishing care appointment.",
+      "ReceiverContent": "Okay. Let me fix up an appointment for you.",
+      "Timestamp": "2023-12-01 11:11:27"
+    },
+    "Seq4": {
+      "CallerContent": "The 18th of December?",
+      "ReceiverContent": "Yes, that's correct.",
+      "Timestamp": "2023-12-01 11:11:30"
+    },
+    "Seq5": {
+      "CallerContent": "At 1.30? Not really. Do you have anything in the morning anywhere?",
+      "ReceiverContent": "Give me a minute. All the slots are already booked. Kindly give me a minute. Let me transfer the call to a friend. They'll help you out with this. Can I see you online?",
+      "Timestamp": "2023-12-01 11:11:32"
+    },
+    "Seq6": {
+      "CallerContent": "Sure.",
+      "ReceiverContent": "Okay, I'll repeat again. It's C-H-R-I-S-T-N-A, and what do you mean by period?",
+      "Timestamp": "2023-12-01 11:11:54"
+    },
+    "Seq7": {
+      "CallerContent": "You don't have the first name right. It's Christina. C-H-R-I-S-T-I-N-A.",
+      "ReceiverContent": "Yes, that's right. T is a term, I-N-A, the first name. And then?",
+      "Timestamp": "2023-12-01 11:12:07"
+    },
+    "Seq8": {
+      "CallerContent": "Yes, then a period.",
+      "ReceiverContent": "Period means, what do you mean by period?",
+      "Timestamp": "2023-12-01 11:12:13"
+    },
+    "Seq9": {
+      "CallerContent": "A dot. Could you spell it out? A dot.",
+      "ReceiverContent": "A dot. I got it. I'm really sorry for the inconvenience. So, Christina.M-I-C-H-O-L-F at gmail.com, am I correct?",
+      "Timestamp": "2023-12-01 11:12:20"
+    },
+    "Seq10": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Okay, sure. We will send an email link to email address now, and you can register now. And do you want to... Attach with the email.",
+      "Timestamp": "2023-12-01 11:12:34"
+    },
+    "Seq11": {
+      "CallerContent": "No, I'm going to do that because my insurance is a social security number, so I won't be doing a picture and sending that through email, but I'm happy to do it over the phone. It's tri-familial.",
+      "ReceiverContent": "Okay, yes, we are accepting tri-familial. Okay, then you can register with Crosswind Family Practice. So, give me a minute, I will send an email link through email address.",
+      "Timestamp": "2023-12-01 11:12:45"
+    },
+    "Seq12": {
+      "CallerContent": "Can you book the appointment?",
+      "ReceiverContent": "Yes, we can make an appointment. I can make it, but before making an appointment, you have to pre-register with Crosswind Family Practice, and it will take a few days to show up your name here.",
+      "Timestamp": "2023-12-01 11:13:01"
+    },
+    "Seq13": {
+      "CallerContent": "Okay, this is an incredibly painful 15 minutes to do this, so thank you for your time.",
+      "ReceiverContent": "Okay, is there anything else that I may assist you with?",
+      "Timestamp": "2023-12-01 11:13:12"
+    },
+    "Seq14": {
+      "CallerContent": "No, I haven't gotten the email yet, so did you send it?",
+      "ReceiverContent": "Yeah, sure, I will send it now. Thank you for calling Crosswind Family Practice, and you have a great day.",
+      "Timestamp": "2023-12-01 11:13:20"
+    }
+  }
+}

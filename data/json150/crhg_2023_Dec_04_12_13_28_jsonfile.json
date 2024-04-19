@@ -1,0 +1,48 @@
+{
+  "Metadata": "value",
+  "Caller": "Devin Burrow",
+  "Receiver": "Brandy",
+  "Timestamp": "2023-12-04 12:13:28",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hello. I was there earlier today. My name is Devin Burrow.",
+      "ReceiverContent": "Good morning. Thanks for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-12-04 12:13:28"
+    },
+    "Seq2": {
+      "CallerContent": "I got an imaging request from Dr. Williams, and I was scheduling my MRI that she requested I had, and the company for the MRI is asking if I need the MRI with or without contrast. I don't think Dr. Williams indicated if the MRI needed was with or without contrast.",
+      "ReceiverContent": "Okay. Regarding that, I need to transfer you to the friend desk. Kindly give me a minute. Let me transfer the call, and you have a great day. Yes, sir. You're welcome. Yep.",
+      "Timestamp": "2023-12-04 12:13:37"
+    },
+    "Seq3": {
+      "CallerContent": "Your conversation is being recorded. Hey there. This is Brandy in the front office for Crofton Family Practice. How can we help you today?",
+      "ReceiverContent": "Hello. My name is Devin Burrow. I was earlier there today. Yes, sir, Mr. Devin. Hi there. Hello. Dr. Williams gave me an imaging request form for my abdomen.",
+      "Timestamp": "2023-12-04 12:13:52"
+    },
+    "Seq4": {
+      "CallerContent": "Community, yes, sir. She didn't indicate if the MRI needed to be with or without contrast.",
+      "ReceiverContent": "Without contrast. Okay. Yep. I'll have to ask her. She is in with a patient right now. Are you already at the facility, or do you just... Do you just need me to find out and then let you know?",
+      "Timestamp": "2023-12-04 12:14:18"
+    },
+    "Seq5": {
+      "CallerContent": "I'm not at the facility right now, so if you can just find out and let me know, that'd be perfect.",
+      "ReceiverContent": "Yeah, no problem. So what I'll have to do is I might have to have her fill out an entire new form to check off with or without contrast. I'm not sure. You know what I mean? And then if she does, then what I'll have to do is send you the new form by email. Is that okay with you?",
+      "Timestamp": "2023-12-04 12:14:36"
+    },
+    "Seq6": {
+      "CallerContent": "That is okay by me.",
+      "ReceiverContent": "All righty. Well, I will let you know something. Let me just make myself a quick note here. I'll be here for it, and then, of course, when she comes out from being with this patient, I'll be able to check with her as well.",
+      "Timestamp": "2023-12-04 12:14:58"
+    },
+    "Seq7": {
+      "CallerContent": "All right. Thank you very much.",
+      "ReceiverContent": "No problem there, Mr. Devon. You have yourself a great day.",
+      "Timestamp": "2023-12-04 12:15:09"
+    },
+    "Seq8": {
+      "CallerContent": "You as well. Bye-bye.",
+      "ReceiverContent": "Yes, sir. Bye-bye.",
+      "Timestamp": "2023-12-04 12:15:12"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Metadata": "value",
+  "Caller": "Cindy Raz",
+  "Receiver": "Crofton Family Practice (Dominic)",
+  "Timestamp": "2023-11-01 12:28:05",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "I'm sorry? I didn't understand what you said.",
+      "ReceiverContent": "Good morning. Thanks for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-11-01 12:28:05"
+    },
+    "Seq2": {
+      "CallerContent": "I wanted to get a message to the nurse so she doesn't spend a lot of time looking.",
+      "ReceiverContent": "Good morning. Thanks for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-11-01 12:28:17"
+    },
+    "Seq3": {
+      "CallerContent": "All right, you too.",
+      "ReceiverContent": "Sure. Yeah, can you give me a minute? Let me transfer the call. Honey, have a great day, ma'am.",
+      "Timestamp": "2023-11-01 12:28:29"
+    },
+    "Seq4": {
+      "CallerContent": "Your conversation is being recorded.",
+      "ReceiverContent": "Hi, this is the nurse. Amy, how can I help you?",
+      "Timestamp": "2023-11-01 12:28:47"
+    },
+    "Seq5": {
+      "CallerContent": "Hi, Amy, I don't know if you got the message, but this is Cindy Raz. I left a message. I was looking for Jim's shot record yesterday.",
+      "ReceiverContent": "Yeah, I did try calling you back. Yeah. But I found it. Okay, good, good, good, good. I was going to say it looks like you had one in 2022.",
+      "Timestamp": "2023-11-01 12:50:50"
+    },
+    "Seq6": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "That's what we have on our record.",
+      "Timestamp": "2023-11-01 12:51:09"
+    },
+    "Seq7": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "All right. All right, dear. I'm glad you found it. All right, have a good day.",
+      "Timestamp": "2023-11-01 12:51:14"
+    },
+    "Seq8": {
+      "CallerContent": "Yeah, thanks.",
+      "ReceiverContent": "You're welcome. Bye-bye.",
+      "Timestamp": "2023-11-01 12:51:16"
+    }
+  }
+}

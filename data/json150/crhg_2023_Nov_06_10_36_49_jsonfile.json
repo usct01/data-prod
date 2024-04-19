@@ -1,0 +1,58 @@
+{
+  "Metadata": "value",
+  "Caller": "Brenda Kidwell",
+  "Receiver": "Carole from Family Practice (Kumar)",
+  "Timestamp": "2023-11-06 10:36:49",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, this is Brenda Kidwell, and Dr. Williams gave me two prescriptions last week that I've been on, but I don't feel any better.",
+      "ReceiverContent": "Good morning. Thanks for calling Carole from Family Practice. This is Kumar. How may I assist you today?",
+      "Timestamp": "2023-11-06 10:36:49"
+    },
+    "Seq2": {
+      "CallerContent": "I think I may have pneumonia. Is it a possibility she can see me today?",
+      "ReceiverContent": "Today? One moment, ma'am. Let me check on it.",
+      "Timestamp": "2023-11-06 10:36:49"
+    },
+    "Seq3": {
+      "CallerContent": "Okay. Can you come to the office at 11.30?",
+      "ReceiverContent": "I can, yes. Yeah, then I can make up an appointment for you. One moment. Okay, thank you. Could they take your date of birth?",
+      "Timestamp": "2023-11-06 10:36:49"
+    },
+    "Seq4": {
+      "CallerContent": "12-26-41.",
+      "ReceiverContent": "So just confirm I have fixed an appointment today at 11.30 a.m. to meet Dr. Williams.",
+      "Timestamp": "2023-11-06 10:36:49"
+    },
+    "Seq5": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "I will be there in person for prescriptions.",
+      "Timestamp": "2023-11-06 10:36:49"
+    },
+    "Seq6": {
+      "CallerContent": "Pardon?",
+      "ReceiverContent": "For prescriptions.",
+      "Timestamp": "2023-11-06 10:36:49"
+    },
+    "Seq7": {
+      "CallerContent": "I will be there in person.",
+      "ReceiverContent": "Sure, yes. You have to meet in person.",
+      "Timestamp": "2023-11-06 10:36:49"
+    },
+    "Seq8": {
+      "CallerContent": "Okay, I will. Thank you.",
+      "ReceiverContent": "Is there anything else that they may assist you with?",
+      "Timestamp": "2023-11-06 10:36:49"
+    },
+    "Seq9": {
+      "CallerContent": "No, that's it. I will see you at 11.30.",
+      "ReceiverContent": "Thank you for calling Carole from Family Practice. Thank you. Bye-bye.",
+      "Timestamp": "2023-11-06 10:36:49"
+    },
+    "Seq10": {
+      "CallerContent": "Bye-bye.",
+      "ReceiverContent": "",
+      "Timestamp": "2023-11-06 10:36:49"
+    }
+  }
+}

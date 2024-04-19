@@ -1,0 +1,47 @@
+{
+  "Timestamp": "2023-11-02 09:16:02",
+  "Caller": "Julie Gable",
+  "Receiver": "Kathy",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "So I'm at work right now. Is there another time that I could make the tele-visit appointment?",
+      "ReceiverContent": "We have slots available from 9th of November to 27th of November, and the appointments could be made only on Monday, Tuesday, and Thursday. Okay. May I know your desired date and time for the virtual appointment?",
+      "Timestamp": "2023-11-02 09:16:02"
+    },
+    "Seq2": {
+      "CallerContent": "I could do Thursday the 9th after 3 o'clock.",
+      "ReceiverContent": "Yes, we do have a slot available on 9th of November at 3.30 p.m. Will that be okay with you?",
+      "Timestamp": "2023-11-02 09:16:02"
+    },
+    "Seq3": {
+      "CallerContent": "Yes, that would be fine.",
+      "ReceiverContent": "So just to confirm, I have fixed your appointment on 9th of November at 3.30 p.m. for tele-visit.",
+      "Timestamp": "2023-11-02 09:16:02"
+    },
+    "Seq4": {
+      "CallerContent": "Okay, and will you send me a link to join?",
+      "ReceiverContent": "Yes, you will receive a link to your e-mail address before 15 minutes of the appointment.",
+      "Timestamp": "2023-11-02 09:16:02"
+    },
+    "Seq5": {
+      "CallerContent": "Okay, wonderful. Wonderful.",
+      "ReceiverContent": "Is there anything else that I may assist you with?",
+      "Timestamp": "2023-11-02 09:16:02"
+    },
+    "Seq6": {
+      "CallerContent": "Nope, that's it right now. And from that tele-visit, I can make an in-person visit appointment?",
+      "ReceiverContent": "Yes, the first visit would always be a tele-visit, but after that you can make an appointment to meet the doctor in person.",
+      "Timestamp": "2023-11-02 09:16:02"
+    },
+    "Seq7": {
+      "CallerContent": "Okay, wonderful. And I'll be meeting, the tele-visit will be with Dr. Williams or?",
+      "ReceiverContent": "Yes, ma'am. This will be with Dr. Allison Williams.",
+      "Timestamp": "2023-11-02 09:16:02"
+    },
+    "Seq8": {
+      "CallerContent": "Okay, wonderful. Thank you very much, Kathy. I appreciate your help.",
+      "ReceiverContent": "Thank you for the information and have a great day.",
+      "Timestamp": "2023-11-02 09:16:02"
+    }
+  }
+}

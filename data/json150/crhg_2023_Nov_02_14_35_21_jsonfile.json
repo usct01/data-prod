@@ -1,0 +1,101 @@
+{
+  "Metadata": "value",
+  "Receiver": "Kumar from Family Practice",
+  "Timestamp": "2023-11-02 14:35:21",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. Thank you for calling Kroger from Family Practice. This is Kumar. How may I assist you today?",
+      "Timestamp": "2023-11-02 14:35:21"
+    },
+    "Seq2": {
+      "CallerContent": "Hello, can you hear me now?",
+      "ReceiverContent": "Hello.",
+      "Timestamp": "2023-11-02 14:35:21"
+    },
+    "Seq3": {
+      "CallerContent": "Can you hear me now?",
+      "ReceiverContent": "Yes, hello.",
+      "Timestamp": "2023-11-02 14:35:21"
+    },
+    "Seq4": {
+      "CallerContent": "Hi, this is Kroger from Family Practice.",
+      "ReceiverContent": "Hello, Kroger. Hi, Nick.",
+      "Timestamp": "2023-11-02 14:35:21"
+    },
+    "Seq5": {
+      "ReceiverContent": "How may I assist you today?",
+      "Timestamp": "2023-11-02 14:35:21"
+    },
+    "Seq6": {
+      "ReceiverContent": "Thanks for calling Crofton Family Practice. How may I assist you today?",
+      "Timestamp": "2023-11-02 14:35:25"
+    },
+    "Seq7": {
+      "OtherSpeakerContent": "Hi again.",
+      "Timestamp": "2023-11-02 14:35:29"
+    },
+    "Seq8": {
+      "CallerContent": "I think we spoke. I need to speak to Brandy, please.",
+      "ReceiverContent": "One moment. Please stay online.",
+      "Timestamp": "2023-11-02 14:35:30"
+    },
+    "Seq9": {
+      "OtherSpeakerContent": "Mm-hmm.",
+      "Timestamp": "2023-11-02 14:35:32"
+    },
+    "Seq10": {
+      "ReceiverContent": "Thanks.",
+      "Timestamp": "2023-11-02 14:35:36"
+    },
+    "Seq11": {
+      "OtherSpeakerContent": "Your conversation is being recorded. Thank you for contacting Crofton Family Practice. Please hold one moment. Thank you.",
+      "Timestamp": "2023-11-02 14:36:02"
+    },
+    "Seq12": {
+      "OtherSpeakerContent": "Hi, there. Thank you so much for holding. How can I help you today?",
+      "Timestamp": "2023-11-02 14:36:36"
+    },
+    "Seq13": {
+      "ReceiverContent": "Over that didn't have the start date.",
+      "Timestamp": "2023-11-02 14:36:39"
+    },
+    "Seq14": {
+      "CallerContent": "Yes, ma'am. Yeah, I spoke with somebody there earlier today about that. And I went ahead and I re-sent that same referral not too long ago.",
+      "ReceiverContent": "So it looks like we didn't get it. How long ago did you send it?",
+      "Timestamp": "2023-11-02 14:36:47"
+    },
+    "Seq15": {
+      "CallerContent": "I went ahead and I printed it off. I re-scanned it in. But that's okay. Let me try one more time. I'm not too sure how long ago it was sent. I had a lot going on at the moment, to be honest.",
+      "ReceiverContent": "Okay. Or by chance, would it be easier if you e-mailed? Would you have e-mailed it to us?",
+      "Timestamp": "2023-11-02 14:37:00"
+    },
+    "Seq16": {
+      "CallerContent": "I can try to, yes, ma'am. Yeah, I mean, either which way I can, you know, I can go for it that way. What's your e-mail address?",
+      "ReceiverContent": "It's Saverna Park.",
+      "Timestamp": "2023-11-02 14:37:12"
+    },
+    "Seq17": {
+      "CallerContent": "Saverna Park.",
+      "ReceiverContent": "At Core Life.",
+      "Timestamp": "2023-11-02 14:37:16"
+    },
+    "Seq18": {
+      "ReceiverContent": "MD, as in Marilyn, dot com.",
+      "Timestamp": "2023-11-02 14:37:22"
+    },
+    "Seq19": {
+      "CallerContent": "There you go. All right, my friend.",
+      "ReceiverContent": "Yep.",
+      "Timestamp": "2023-11-02 14:37:24"
+    },
+    "Seq20": {
+      "CallerContent": "So I'll either send it by fax or I will send it by e-mail, either which one, but it will be coming back over to you, okay?",
+      "ReceiverContent": "Okay, thank you so much.",
+      "Timestamp": "2023-11-02 14:37:45"
+    },
+    "Seq21": {
+      "CallerContent": "Yes, ma'am, thank you.",
+      "Timestamp": "2023-11-02 14:37:53"
+    }
+  }
+}

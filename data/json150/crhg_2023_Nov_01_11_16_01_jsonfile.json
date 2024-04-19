@@ -1,0 +1,78 @@
+{
+  "Metadata": "value",
+  "Caller": "Christopher Pitts",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-11-01 11:16:01",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, Dominic. My name is Christopher Pitts. How are you?",
+      "ReceiverContent": "Good morning. Thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-11-01 11:16:01"
+    },
+    "Seq2": {
+      "CallerContent": "I'm doing well. Are you working in the front office there at Family Practice?",
+      "ReceiverContent": "Yeah, I'm doing good, sir. Thank you for asking. How are you doing today?",
+      "Timestamp": "2023-11-01 11:16:08"
+    },
+    "Seq3": {
+      "CallerContent": "No, I'm an answering service and appointment booking service, sir. If you want to talk to Friend Desk, I can transfer you to Friend Desk.",
+      "ReceiverContent": "No, I'm an answering service and appointment booking service, sir. If you want to talk to Friend Desk, I can transfer you to Friend Desk.",
+      "Timestamp": "2023-11-01 11:16:17"
+    },
+    "Seq4": {
+      "CallerContent": "If you don't mind, please, yes.",
+      "ReceiverContent": "Yeah, sure. Kindly give me a minute. Let me transfer the call, and you have a great day.",
+      "Timestamp": "2023-11-01 11:16:23"
+    },
+    "Seq5": {
+      "CallerContent": "Your conversation is being recorded. Hi there. Thank you for contacting Crofton Family Practice. This is Brandi here within the front office. How can we help you today?",
+      "ReceiverContent": "Thank you.",
+      "Timestamp": "2023-11-01 11:16:42"
+    },
+    "Seq6": {
+      "CallerContent": "Yes, Brandi. My name is Christopher Pitts. I have a scheduled appointment for a physical tomorrow. Absolutely, Mr. Pitts.",
+      "ReceiverContent": "I actually saw you on the schedule. I was just getting your paperwork ready for tomorrow.",
+      "Timestamp": "2023-11-01 11:16:50"
+    },
+    "Seq7": {
+      "CallerContent": "Unfortunately, my work is not going to allow me to do this.",
+      "ReceiverContent": "Oh, don't do this to me, honey. No, I'm kidding. I can't.",
+      "Timestamp": "2023-11-01 11:17:03"
+    },
+    "Seq8": {
+      "CallerContent": "But I have a solution for you. Okay.",
+      "ReceiverContent": "But I have a solution for you. Okay.",
+      "Timestamp": "2023-11-01 11:17:11"
+    },
+    "Seq9": {
+      "CallerContent": "I will be gone next week.",
+      "ReceiverContent": "But I have a solution for you. Okay.",
+      "Timestamp": "2023-11-01 11:17:15"
+    },
+    "Seq10": {
+      "CallerContent": "Okay. I have to work, and this is starting tomorrow. All right.",
+      "ReceiverContent": "But I have a solution for you. Okay.",
+      "Timestamp": "2023-11-01 11:17:18"
+    },
+    "Seq11": {
+      "CallerContent": "But I am back on November the 13th, and I am free any day that week you want. Okay.",
+      "ReceiverContent": "Well, the only issue that I think we're going to have, just being honest with you, is that Dr. Williams is actually not going to be in the office for a good two weeks.",
+      "Timestamp": "2023-11-01 11:17:22"
+    },
+    "Seq12": {
+      "CallerContent": "Well, the only issue that I think we're going to have, just being honest with you, is that Dr. Williams is actually not going to be in the office for a good two weeks.",
+      "ReceiverContent": "But I have a solution for you. Okay.",
+      "Timestamp": "2023-11-01 11:17:30"
+    },
+    "Seq13": {
+      "CallerContent": "So with that being said, unfortunately, though, even though your schedule might match up to it, it might not be available at the time. But we can do what we can here. Let me just go through the schedule, and let me take a look here, okay?",
+      "ReceiverContent": "Work comes through it. You know what I mean? You've got to make it happen, man. Completely understandable. Give me just one or so moments here. Bear with me. Just a sec. Sorry about that.",
+      "Timestamp": "2023-11-01 11:17:41"
+    },
+    "Seq14": {
+      "CallerContent": "Yes, sir. Bye-bye. Bye-bye.",
+      "ReceiverContent": "Yes, sir. Bye-bye. Bye-bye.",
+      "Timestamp": "2023-11-01 11:18:17"
+    }
+  }
+}

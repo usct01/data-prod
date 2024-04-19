@@ -1,0 +1,91 @@
+{
+  "Metadata": "value",
+  "Receiver": "Dominic from Crofton Family Practice",
+  "Timestamp": "2023-10-02 15:36:33",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thank you for calling Crofton Family Practice. This is Dominic. I'll message you for the day.",
+      "Timestamp": "2023-10-02 15:36:33"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, Doctor. Williams just told me to make an appointment for a couple of weeks now.",
+      "ReceiverContent": "Okay. So you want to make an appointment, ma'am? Yeah, I can do that for you. So you want to meet the doctor in person or you want to make a television appointment?",
+      "Timestamp": "2023-10-02 15:37:00"
+    },
+    "Seq3": {
+      "CallerContent": "Well, I just did the telly and she said I needed to come in.",
+      "ReceiverContent": "Okay. So we do have a slot available by the 17th of October at 2:45 p.m. Is it okay with you, ma'am?",
+      "Timestamp": "2023-10-02 15:37:15"
+    },
+    "Seq4": {
+      "CallerContent": "Can you tell me what day of the week it is?",
+      "ReceiverContent": "It's on Tuesday.",
+      "Timestamp": "2023-10-02 15:37:30"
+    },
+    "Seq5": {
+      "CallerContent": "Okay. That's perfect.",
+      "Timestamp": "2023-10-02 15:37:35"
+    },
+    "Seq6": {
+      "ReceiverContent": "May I have your date of birth, please, ma'am?",
+      "Timestamp": "2023-10-02 15:38:00"
+    },
+    "Seq7": {
+      "CallerContent": "July 31st, 1960.",
+      "Timestamp": "2023-10-02 15:38:10"
+    },
+    "Seq8": {
+      "ReceiverContent": "Okay. It's Joni Crenshaw. Is that correct?",
+      "Timestamp": "2023-10-02 15:38:20"
+    },
+    "Seq9": {
+      "OtherSpeakerContent": "Yes.",
+      "Timestamp": "2023-10-02 15:38:25"
+    },
+    "Seq10": {
+      "ReceiverContent": "May I know the reason for the visit, ma'am? It's a follow-up?",
+      "Timestamp": "2023-10-02 15:38:40"
+    },
+    "Seq11": {
+      "CallerContent": "Well, I was telling her I had some chest pain. Okay. And a follow-up to the telly visit.",
+      "ReceiverContent": "Is she wanting a telly visit or you want an office visit, ma'am?",
+      "Timestamp": "2023-10-02 15:38:55"
+    },
+    "Seq12": {
+      "CallerContent": "No. The reason for the visit is a follow-up to the telly visit.",
+      "ReceiverContent": "Okay. Got it.",
+      "Timestamp": "2023-10-02 15:39:10"
+    },
+    "Seq13": {
+      "CallerContent": "And the other reason I just gave.",
+      "ReceiverContent": "So just to confirm, I fixed an appointment. 2:45 p.m., and it's an office visit. Is that okay with you, ma'am?",
+      "Timestamp": "2023-10-02 15:39:25"
+    },
+    "Seq14": {
+      "CallerContent": "Sounds good. Yeah. Is there anything else that I'm interested in, ma'am?",
+      "Timestamp": "2023-10-02 15:39:40"
+    },
+    "Seq15": {
+      "ReceiverContent": "So you want to cancel this appointment and you want to make the appointment rescheduled?",
+      "Timestamp": "2023-10-02 15:39:55"
+    },
+    "Seq16": {
+      "CallerContent": "Do you have a later in the day appointment the same day or later?",
+      "Timestamp": "2023-10-02 15:40:10"
+    },
+    "Seq17": {
+      "ReceiverContent": "Yeah, let me check. Why 18th of October at 1:45 p.m.",
+      "Timestamp": "2023-10-02 15:40:25"
+    },
+    "Seq18": {
+      "CallerContent": "That's not later. I meant later in the day, like 3 o'clock. I'm trying not to take off on work. It's hard for me to take off.",
+      "ReceiverContent": "Okay. Yes, I'm really sorry, ma'am. All the slots are already booked.",
+      "Timestamp": "2023-10-02 15:40:40"
+    },
+    "Seq19": {
+      "CallerContent": "Okay. Um, yeah, well, let's stick with the 2:45 then. Sure.",
+      "ReceiverContent": "Yep. Thanks for calling Crofton Family Practice and have a great day, ma'am. Bye-bye. Thank you.",
+      "Timestamp": "2023-10-02 15:40:55"
+    }
+  }
+}

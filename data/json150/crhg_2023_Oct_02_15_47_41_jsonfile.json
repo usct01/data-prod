@@ -1,0 +1,53 @@
+{
+  "Metadata": "value",
+  "Receiver": "Dominic from Crofton Family Practice",
+  "Timestamp": "2023-10-02 15:47:41",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thanks for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-10-02 15:47:41"
+    },
+    "Seq2": {
+      "CallerContent": "Yes, Dominic. I was just on the phone with someone at the front desk, and it got disconnected.",
+      "ReceiverContent": "Sure. Kindly give me a minute, ma'am. Let me transfer the call. And you have a great day.",
+      "Timestamp": "2023-10-02 15:47:56"
+    },
+    "Seq3": {
+      "OtherSpeakerContent": "Thank you. Your conversation is being recorded. Hello there and thank you for contacting Crofton Family Practice. This is Brandy here in the front office. How can we help you this afternoon?",
+      "Timestamp": "2023-10-02 15:48:10"
+    },
+    "Seq4": {
+      "CallerContent": "Hi. I was just on the phone with you, but the phone got disconnected.",
+      "ReceiverContent": "Oh, yes, ma'am. I'm sorry about that. Can you please refresh my memory as well as what it is we are speaking of, ma'am? Courtney Davis. Yes, ma'am. Ms. Davis, you were asking me to look for the referral form to check up the status, correct?",
+      "Timestamp": "2023-10-02 15:48:25"
+    },
+    "Seq5": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Okay. No problem. Give me just a moment or so. Let me just see if I can continue to pull that up, okay? I'm very sorry that the phone got disconnected on it, but I am glad that you got through so quickly.",
+      "Timestamp": "2023-10-02 15:48:40"
+    },
+    "Seq6": {
+      "CallerContent": "Yes. Thank you.",
+      "ReceiverContent": "Yeah, absolutely. No problem whatsoever, Sue. No problem. All right. I'm trying to pull it up.",
+      "Timestamp": "2023-10-02 15:48:55"
+    },
+    "Seq7": {
+      "OtherSpeakerContent": "now. Let me see. I don't think so. I'm not showing anything. Oh, bear with me. Oh, you've been approved to provide services, da, da, da, da. This one here is for, let's see. Let me see what the clinic is for. Sorry about that. Okay. All the services. Yeah, it looks like here is physical therapy, evaluational, and therapeutic procedure and such. Is that the one that you're looking for?",
+      "Timestamp": "2023-10-02 15:49:10"
+    },
+    "Seq8": {
+      "CallerContent": "Yes. Is that the pivot?",
+      "ReceiverContent": "Yes, ma'am. That is the one. You are absolutely correct. Okay. When does it start?",
+      "Timestamp": "2023-10-02 15:49:25"
+    },
+    "Seq9": {
+      "CallerContent": "Well, it's now. You can go ahead now and start planning because it says that it's already.",
+      "ReceiverContent": "It's already been authorized. So, and then, right. So, you should be good to go. All right. Great. Thank you.",
+      "Timestamp": "2023-10-02 15:49:40"
+    },
+    "Seq10": {
+      "CallerContent": "My pleasure. Help me. Have a great afternoon, ma'am. Bye-bye. Bye-bye.",
+      "Timestamp": "2023-10-02 15:49:55"
+    }
+  }
+}

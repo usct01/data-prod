@@ -1,0 +1,47 @@
+{
+  "Timestamp": "2023-11-02 09:03:01",
+  "Caller": "Daniel Nunez",
+  "Receiver": "Kumar from Crofton Family Practice",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, my name is Daniel Nunez and yesterday I received a call from Ms. Brandy from Crofton Family Practice and she sent me an email telling me to send a photo ID and medical insurance card. I was wondering if it reached you guys.",
+      "ReceiverContent": "Good morning, thanks for calling Crofton Family Practice. How may I assist you today?",
+      "Timestamp": "2023-11-02 09:03:01"
+    },
+    "Seq2": {
+      "CallerContent": "Alright, thank you.",
+      "ReceiverContent": "Sure, one moment, let me show you to Brandy and she could help you out with this. Please stay online.",
+      "Timestamp": "2023-11-02 09:03:24"
+    },
+    "Seq3": {
+      "CallerContent": "Hi Brandy, this is Daniel Nunez. You called me yesterday.",
+      "ReceiverContent": "Your conversation is being recorded. Thank you for contacting Crofton Family Practice. This is Brandy, how can I help you today?",
+      "Timestamp": "2023-11-02 09:03:31"
+    },
+    "Seq4": {
+      "CallerContent": "Okay, yeah, correct. The photo ID and the medical insurance is in there as well because it said to send photo ID.",
+      "ReceiverContent": "Oh yeah, Mr. Nunez, I talked to you about sending your insurance. I saw it that it was sent in. I haven't opened an email though, I just scanned over them.",
+      "Timestamp": "2023-11-02 09:03:48"
+    },
+    "Seq5": {
+      "CallerContent": "Okay, and I have one more question about the telehealth. Will it automatically send me to the video call or do I have to do patient portal?",
+      "ReceiverContent": "Yeah, if it hasn't been then I will definitely give you a call back here within the next, say, half hour or so. I'm literally just sitting down now getting ready to go through emails and voicemails, things of that nature. I always do them in the morning.",
+      "Timestamp": "2023-11-02 09:04:38"
+    },
+    "Seq6": {
+      "CallerContent": "Okay, and I just have one more question about the patient portal. I've never set up the patient portal, and then I tried setting it up yesterday, and, I don't know, it was being a little weird.",
+      "ReceiverContent": "Yeah, unfortunately what I can do is I'll go into your chart and make sure that you're web enabled. It should be, though, because you have an appointment coming up this afternoon.",
+      "Timestamp": "2023-11-02 09:05:31"
+    },
+    "Seq7": {
+      "CallerContent": "Okay, okay.",
+      "ReceiverContent": "Yeah, but give me a little bit, and I'll give you a call back. I can guarantee you that, sir.",
+      "Timestamp": "2023-11-02 09:06:10"
+    },
+    "Seq8": {
+      "CallerContent": "Okay, thank you very much.",
+      "ReceiverContent": "No problem, Mr. Nunez. Thank you for calling in this morning, and you have a great afternoon.",
+      "Timestamp": "2023-11-02 09:06:16"
+    }
+  }
+}

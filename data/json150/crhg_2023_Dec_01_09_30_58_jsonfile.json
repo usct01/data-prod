@@ -1,0 +1,53 @@
+{
+  "Metadata": "value",
+  "Caller": "Rosa Maria Smith",
+  "Receiver": "Crofton Family Practice (Kumar)",
+  "Timestamp": "2023-12-01 09:30:58",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, I need to talk to the front office to check on a referral.",
+      "ReceiverContent": "Okay, yes. Her name is Brandy. Apart from this, is there anything else that I may assist you with?",
+      "Timestamp": "2023-12-01 09:31:04"
+    },
+    "Seq2": {
+      "CallerContent": "Nope, that's it. Thank you.",
+      "ReceiverContent": "Okay, kindly stay online. I'm going to transfer your call to Brandy and she could help you out with this.",
+      "Timestamp": "2023-12-01 09:31:19"
+    },
+    "Seq3": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Can you stay online and you have a great day.",
+      "Timestamp": "2023-12-01 09:31:28"
+    },
+    "Seq4": {
+      "CallerContent": null,
+      "ReceiverContent": "Your conversation is being recorded. Hi there. Thank you for contacting Crofton Family Practice. This is Brandy in the front office. How can we help you today?",
+      "Timestamp": "2023-12-01 09:32:00"
+    },
+    "Seq5": {
+      "CallerContent": "Yes, Brandy. You had sent me a template to do the TRICARE referral and I had sent it back to you earlier this week and I just wanted to make sure you have all the information to send the referral out to TRICARE.",
+      "ReceiverContent": "What's your name, ma'am?",
+      "Timestamp": "2023-12-01 09:32:09"
+    },
+    "Seq6": {
+      "CallerContent": "Rosa Maria Smith.",
+      "ReceiverContent": "Yes, ma'am, Ms. Smith. I actually did get it. I just haven't had a chance to do your referral and I do apologize.",
+      "Timestamp": "2023-12-01 09:32:24"
+    },
+    "Seq7": {
+      "CallerContent": "Okay, so some of the information I didn't have, like the tax ID of the doctor and that stuff, is that stuff you fill out?",
+      "ReceiverContent": "No, so actually, like the NPI number and such, you usually can go right online and either look it up or you can give the doctor's office a call.",
+      "Timestamp": "2023-12-01 09:33:03"
+    },
+    "Seq8": {
+      "CallerContent": "Okay. Thank you.",
+      "ReceiverContent": "My pleasure, Ms. Smith. Thank you for calling in for the update.",
+      "Timestamp": "2023-12-01 09:33:30"
+    },
+    "Seq9": {
+      "CallerContent": null,
+      "ReceiverContent": "Bye-bye. Yes, ma'am. Bye-bye.",
+      "Timestamp": "2023-12-01 09:33:35"
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "Metadata": "value",
+  "Caller": "Ashley",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-10-02 13:46:03",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi Dominic. My name is Ashley. I'm calling from Clearway Pain Solutions. I had scheduled a lunch with you guys for this Thursday with Dash. I did text him, but I haven't heard back. I needed to reschedule that.",
+      "ReceiverContent": "Good morning. Thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-10-02 13:46:03"
+    },
+    "Seq2": {
+      "CallerContent": "Reschedule the lunch.",
+      "ReceiverContent": "Okay, so you want to reschedule the appointment, ma'am?",
+      "Timestamp": "2023-10-02 13:46:19"
+    },
+    "Seq3": {
+      "CallerContent": "Hey Brandy. This is Ashley. I'm calling from Clearway Pain Solutions.",
+      "ReceiverContent": "Thank you for contacting Crofton Family Practice. This is Brandy here in the front office. How can we help you today?",
+      "Timestamp": "2023-10-02 13:46:44"
+    },
+    "Seq4": {
+      "CallerContent": "Yeah, I had scheduled a lunch with Dash a while back for this coming Thursday. But I unfortunately rescheduled. I have to go to a funeral.",
+      "ReceiverContent": "We need to talk to you, Ms. Ashley. How can we help you today?",
+      "Timestamp": "2023-10-02 13:46:53"
+    },
+    "Seq5": {
+      "CallerContent": "Thank you. I appreciate it. It's my grandfather. It's okay. It's been a long time coming. We had... He's been sitting in a freezer in a funeral home for almost a year now because they were still backed up on military funerals at home.",
+      "ReceiverContent": "Oh, honey. I'm very, very sorry. You know that for that for sure. Okay, and you said that you had some... Bear with me. Hold on one moment.",
+      "Timestamp": "2023-10-02 13:47:39"
+    },
+    "Seq6": {
+      "CallerContent": "Thank you. I appreciate it. It's my grandfather. It's okay. It's been a long time coming. We had... He's been sitting in a freezer in a funeral home for almost a year now because they were still backed up on military funerals at home.",
+      "ReceiverContent": "Oh, honey. I'm very, very sorry. You know that for that for sure. Okay, and you said that you had some... Bear with me. Hold on one moment.",
+      "Timestamp": "2023-10-02 13:47:39"
+    },
+    "Seq7": {
+      "CallerContent": "It should only take, say, another moment or so. That's all. It typically... Because it's already been going. So, it typically should, you know, give it access here in just another moment.",
+      "ReceiverContent": "It should only take, say, another moment or so. That's all. It typically... Because it's already been going. So, it typically should, you know, give it access here in just another moment.",
+      "Timestamp": "2023-10-02 13:50:21"
+    },
+    "Seq8": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-10-02 13:50:32"
+    },
+    "Seq9": {
+      "CallerContent": "Yep.",
+      "ReceiverContent": "Yep.",
+      "Timestamp": "2023-10-02 13:50:32"
+    },
+    "Seq10": {
+      "CallerContent": "Very good. And I'm sorry, what was the name of the management company again?",
+      "ReceiverContent": "Clearway Pain Management, right? Perfect.",
+      "Timestamp": "2023-10-02 13:50:47"
+    },
+    "Seq11": {
+      "CallerContent": "It's Ashley with Clearway Paintings.",
+      "ReceiverContent": "Clearway Pain Management, right? Perfect.",
+      "Timestamp": "2023-10-02 13:51:04"
+    },
+    "Seq12": {
+      "CallerContent": "Yeah.",
+      "ReceiverContent": "Clearway Pain Management, right? Perfect.",
+      "Timestamp": "2023-10-02 13:51:12"
+    },
+    "Seq13": {
+      "CallerContent": "Yes, ma'am. Absolutely. Would you like to reschedule now? Or would you like to go ahead and maybe say reschedule after the time period has passed? How would you prefer to?",
+      "ReceiverContent": "Yes, ma'am. Absolutely. Would you like to reschedule now? Or would you like to go ahead and maybe say reschedule after the time period has passed? How would you prefer to?",
+      "Timestamp": "2023-10-02 13:51:38"
+    },
+    "Seq14": {
+      "CallerContent": "I'm going to go ahead and reschedule it now.",
+      "ReceiverContent": "I'm going to go ahead and reschedule it now.",
+      "Timestamp": "2023-10-02 13:51:45"
+    },
+    "Seq15": {
+      "CallerContent": "Do you think you might have Thursday, November 2nd? It is possible. Yes, ma'am. Okay.",
+      "ReceiverContent": "Do you think you might have Thursday, November 2nd? It is possible. Yes, ma'am. Okay.",
+      "Timestamp": "2023-10-02 13:52:24"
+    },
+    "Seq16": {
+      "CallerContent": "It is possible. Yes, ma'am. Okay.",
+      "ReceiverContent": "Do you think you might have Thursday, November 2nd? It is possible. Yes, ma'am. Okay.",
+      "Timestamp": "2023-10-02 13:52:26"
+    },
+    "Seq17": {
+      "CallerContent": "Perfect for me. And if you just don't mind moving me over to that, that would be perfectly great.",
+      "ReceiverContent": "Perfect for me. And if you just don't mind moving me over to that, that would be perfectly great.",
+      "Timestamp": "2023-10-02 13:52:31"
+    },
+    "Seq18": {
+      "CallerContent": "Yeah, most definitely. Let me just go ahead here. And can you give me your phone number again, please?",
+      "ReceiverContent": "Yeah, most definitely. Let me just go ahead here. And can you give me your phone number again, please?",
+      "Timestamp": "2023-10-02 13:53:36"
+    },
+    "Seq19": {
+      "CallerContent": "Sure. It's 410-60-4032.",
+      "ReceiverContent": "I'm sorry to do this to you, honey, but all I heard was a 410. It kind of cut out.",
+      "Timestamp": "2023-10-02 13:53:42"
+    },
+    "Seq20": {
+      "CallerContent": "603-4032.",
+      "ReceiverContent": "I'm sorry to do this to you, honey, but all I heard was a 410. It kind of cut out.",
+      "Timestamp": "2023-10-02 13:53:56"
+    },
+    "Seq21": {
+      "CallerContent": "Very good. And I'm sorry, what was the name of the management company again?",
+      "ReceiverContent": "Clearway Pain Management, right? Perfect.",
+      "Timestamp": "2023-10-02 13:54:07"
+    },
+    "Seq22": {
+      "CallerContent": "It's Ashley with Clearway Paintings.",
+      "ReceiverContent": "Clearway Pain Management, right? Perfect.",
+      "Timestamp": "2023-10-02 13:54:13"
+    },
+    "Seq23": {
+      "CallerContent": "Clearway Pain Management, right? Perfect.",
+      "ReceiverContent": "Clearway Pain Management, right? Perfect.",
+      "Timestamp": "2023-10-02 13:54:21"
+    },
+    "Seq24": {
+      "CallerContent": "Sounds great. Thank you. Thank you so much.",
+      "ReceiverContent": "My pleasure, sweetie. Have a great one now. Bye-bye. Bye.",
+      "Timestamp": "2023-10-02 13:56:35"
+    }
+  }
+}

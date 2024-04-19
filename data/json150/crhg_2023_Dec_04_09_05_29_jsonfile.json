@@ -1,0 +1,33 @@
+{
+  "Metadata": "value",
+  "Caller": "Mary Yonkey",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-12-04 09:05:29",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Well, this is Mary Yonkey. First of all, I wanted to know if Dr. Williams had an open appointment today.",
+      "ReceiverContent": "Good morning. Thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-12-04 09:05:29"
+    },
+    "Seq2": {
+      "CallerContent": "Okay. She left two messages on my phone. Somebody left two messages on my phone on Friday, I think it was. And I didn't see him until that evening. So, I don't know, you know, what she was calling about.",
+      "ReceiverContent": "Okay. Regarding that, let me transfer the call to the friend desk. They'll help you out with this.",
+      "Timestamp": "2023-12-04 09:05:40"
+    },
+    "Seq3": {
+      "CallerContent": "Maybe the, is the nurse in?",
+      "ReceiverContent": "Yeah, sure. She's there. If you want to transfer to the nurse.",
+      "Timestamp": "2023-12-04 09:05:46"
+    },
+    "Seq4": {
+      "CallerContent": "Please call the nurse because I've got to see her anyway.",
+      "ReceiverContent": "Sure. Finally, give me a minute. Let me transfer the call and you have a great day.",
+      "Timestamp": "2023-12-04 09:05:52"
+    },
+    "Seq5": {
+      "CallerContent": "Hi, this is Mary Yonke and I was in to see Dr. Williams for a pre-op and I need to come in for an EKG. You had gone home sick, so we couldn't do that. So, I, she said I didn't need an appointment just to schedule it with you. So, you can give me a call at 410-322-9804 and let me know when to come in. Okay.",
+      "ReceiverContent": "Hi, you have reached the nurse line. Please, if this is a medical emergency, please hang up and dial 9-1-1.",
+      "Timestamp": "2023-12-04 09:06:07"
+    }
+  }
+}

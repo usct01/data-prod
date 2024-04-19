@@ -1,0 +1,72 @@
+{
+  "Timestamp": "2023-10-02 09:41:02",
+  "Receiver": "Kumar",
+  "Caller": "Nia Ray",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning, this is Crawl from Tiny Practice. How are we as you see today?",
+      "CallerContent": "Yes, I got a phone call from you guys saying I have an appointment Tuesday. My appointment is on Thursday.",
+      "Timestamp": "2023-10-02 09:41:02"
+    },
+    "Seq2": {
+      "ReceiverContent": "Would you like to reschedule it?",
+      "CallerContent": "No, I'm saying you called me saying it's Tuesday. My appointment is on Thursday.",
+      "Timestamp": "2023-10-02 09:41:14"
+    },
+    "Seq3": {
+      "ReceiverContent": "Okay, one moment. Yes, could you help me with your date of birth, please?",
+      "CallerContent": "125.60.",
+      "Timestamp": "2023-10-02 09:41:21"
+    },
+    "Seq4": {
+      "ReceiverContent": "Your name is Nia Ray, am I correct?",
+      "CallerContent": "No, we changed it. Remember when I talked to the guys, they said I can only do my blood work on Thursday, so they changed it to Thursday. Unless you can do blood work on Tuesday, they said Thursday you can only do blood work. So they made it Thursday.",
+      "Timestamp": "2023-10-02 09:41:31"
+    },
+    "Seq5": {
+      "ReceiverContent": "Okay, one moment.",
+      "CallerContent": "Can you see if they have it down for Thursday?",
+      "Timestamp": "2023-10-02 09:41:48"
+    },
+    "Seq6": {
+      "ReceiverContent": "No, ma'am. Okay, I will change the appointment to Thursday.",
+      "CallerContent": "No, why are you changing it? I already have it for Thursday.",
+      "Timestamp": "2023-10-02 09:42:01"
+    },
+    "Seq7": {
+      "ReceiverContent": "Yes, correct. One moment. Electrocardium EKG. Yes, correct. Yes, you have made an appointment. Yes, correct. You have an appointment on Thursday at 10.30am. Am I correct?",
+      "CallerContent": "Yes.",
+      "Timestamp": "2023-10-02 09:42:16"
+    },
+    "Seq8": {
+      "ReceiverContent": "Okay, yes. I see your appointment here on Thursday.",
+      "CallerContent": "Yeah, I'm going to have it down for Tuesday.",
+      "Timestamp": "2023-10-02 09:42:33"
+    },
+    "Seq9": {
+      "ReceiverContent": "Okay, I will cancel your appointment on Tuesday.",
+      "CallerContent": "Okay.",
+      "Timestamp": "2023-10-02 09:42:49"
+    },
+    "Seq10": {
+      "ReceiverContent": "Yeah. Is there anything else that they message to it?",
+      "CallerContent": "No, I just want to make sure they have it down for it.",
+      "Timestamp": "2023-10-02 09:43:05"
+    },
+    "Seq11": {
+      "ReceiverContent": "So just to confirm, I have canceled your appointment on Tuesday and your appointment is going to be on Thursday at 10.30am for an office visit.",
+      "CallerContent": "Yes, that's what I had.",
+      "Timestamp": "2023-10-02 09:43:23"
+    },
+    "Seq12": {
+      "ReceiverContent": "Okay. Is there anything else that they message to it?",
+      "CallerContent": "No.",
+      "Timestamp": "2023-10-02 09:43:34"
+    },
+    "Seq13": {
+      "ReceiverContent": "Thank you for calling Crawford Family Practice. You have a great day. Bye. Bye.",
+      "CallerContent": "",
+      "Timestamp": "2023-10-02 09:43:38"
+    }
+  }
+}

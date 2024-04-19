@@ -1,0 +1,27 @@
+{
+  "Timestamp": "2023-11-02 09:39:10",
+  "Caller": "Iron Eamon",
+  "Receiver": "Dominic",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Good morning. This is Iron Eamon again. My wife just threw up a second time or a third time, and I'm waiting for the call back.",
+      "ReceiverContent": "I'd like to call for the nurse. Your voice is breaking, sir.",
+      "Timestamp": "2023-11-02 09:39:10"
+    },
+    "Seq2": {
+      "CallerContent": "What I'd like to do is call for the nurse. No, sir. I've been a patient there for 30 years.",
+      "ReceiverContent": "Okay. Kindly give me a minute. Let me transfer the call to the nurse, and you have a great day.",
+      "Timestamp": "2023-11-02 09:39:10"
+    },
+    "Seq3": {
+      "CallerContent": "I kindly do this on an answering machine so that I have to leave another message. I need to speak with somebody. If you could put me on hold for a live nurse or Dr. Williams, that would be helpful.",
+      "ReceiverContent": "Yeah, yeah. I'll transfer the call to the nurse. Right now. Kindly give me a minute. All right. Yeah. Let me transfer the call, and you have a great day. And I'm really sorry for the convenience of having, sir.",
+      "Timestamp": "2023-11-02 09:39:10"
+    },
+    "Seq4": {
+      "CallerContent": "That's all right. Thank you.",
+      "ReceiverContent": "Hello. You have reached the nurse line. If this is an emergency, please hang up and dial 9-1-1.",
+      "Timestamp": "2023-11-02 09:39:10"
+    }
+  }
+}

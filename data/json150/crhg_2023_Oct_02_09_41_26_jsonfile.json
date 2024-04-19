@@ -1,0 +1,33 @@
+{
+  "Metadata": "value",
+  "Caller": "Frankie",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-10-02 09:41:26",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hey, Tony. My name is Frankie. Do I need to speak with the nurse or somebody? I ran out of one prescription.",
+      "ReceiverContent": "Good morning. Thanks for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-10-02 09:41:26"
+    },
+    "Seq2": {
+      "CallerContent": "You too.",
+      "ReceiverContent": "Sure, ma'am. Kindly give me a minute. Let me transfer the call, and you have a great day.",
+      "Timestamp": "2023-10-02 09:41:32"
+    },
+    "Seq3": {
+      "CallerContent": "Hello. You have reached the nurse line. If this is an emergency, please hang up and dial NOM11.",
+      "ReceiverContent": "Sure, ma'am. Kindly give me a minute. Let me transfer the call, and you have a great day.",
+      "Timestamp": "2023-10-02 09:41:51"
+    },
+    "Seq4": {
+      "CallerContent": "If you're calling for a prescription refill, please leave a detailed message with the drug name, the milligrams, and your pharmacy information.",
+      "ReceiverContent": "Sure, ma'am. Kindly give me a minute. Let me transfer the call, and you have a great day.",
+      "Timestamp": "2023-10-02 09:41:56"
+    },
+    "Seq5": {
+      "CallerContent": "Please allow 72 hours for your refills to be processed. Leave us a message, and we'll get back to you as soon as we can. Thank you.",
+      "ReceiverContent": "Sure, ma'am. Kindly give me a minute. Let me transfer the call, and you have a great day.",
+      "Timestamp": "2023-10-02 09:42:07"
+    }
+  }
+}

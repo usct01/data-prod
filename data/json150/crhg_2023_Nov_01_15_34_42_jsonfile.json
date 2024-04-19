@@ -1,0 +1,128 @@
+{
+  "Metadata": "value",
+  "Caller": "Ford",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-11-01 15:34:42",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, how are you doing, my name is Mr. Ford. I have a question. I just, you still there?",
+      "ReceiverContent": "Good afternoon, this is Carl from Family Practice, home ASST today.",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq2": {
+      "CallerContent": "Yeah, yeah, I just retired from the military and TRICARE has given me Dr. Williams, Alison Williams as my assigned as to my primary doctor.",
+      "ReceiverContent": "Yes, I'm here.",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq3": {
+      "CallerContent": "And like I said, for me and my wife, because both of us have TRICARE. Okay. So, we have in TRICARE, I wanted to see as far as pretty much to see the doctor, you know, to get a checkup, you know, to see, to meet the doctor, me and my wife.",
+      "ReceiverContent": "Yes, sure. Are you a new patient, you both?",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq4": {
+      "CallerContent": "Yeah, yeah, we're both new patients. I can say TRICARE.",
+      "ReceiverContent": "Yes, yes, yes, we accept TRICARE. And for the new patients. We will take care of them. and you can register now and you can and after completing registration",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq5": {
+      "CallerContent": "you just give us a call back on Friday, then we can make up an appointment for you and the first appointment would be a televisage for sure. Is that what you said?",
+      "ReceiverContent": "you just give us a call back on Friday, then we can make up an appointment for you and the first appointment would be a televisage for sure. Is that what you said?",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq6": {
+      "CallerContent": "No, no, televisage. It could be a televisage, the first appointment and then you can make up an appointment to meet the doctor in person.",
+      "ReceiverContent": "Yes, yes, yes, we accept TRICARE. And for the new patients. We will take care of them. and you can register now and you can and after completing registration",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq7": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "No, no, televisage. It could be a televisage, the first appointment and then you can make up an appointment to meet the doctor in person.",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq8": {
+      "CallerContent": "Okay, so now could you help me with your email ID?",
+      "ReceiverContent": "Okay, so now could you help me with your email ID?",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq9": {
+      "CallerContent": "D as in David the number 41 you know like 41, your age and then the year, like the year 2005 2005 at yahoo.com",
+      "ReceiverContent": "I'll repeat again. It's Daniel41 it is an injury 2005 2005 at yahoo.com, am I correct?",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq10": {
+      "CallerContent": "You did get D and the number 41, right?",
+      "ReceiverContent": "I'll repeat again. It's Daniel41 it is an injury 2005 2005 at yahoo.com, am I correct?",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq11": {
+      "CallerContent": "Yes, right.",
+      "ReceiverContent": "You did get D and the number 41, right?",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq12": {
+      "CallerContent": "Yep, and then 2005.",
+      "ReceiverContent": "Okay, so there is no H between No. Okay, so D412005 at yahoo.com am I correct?",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq13": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Okay, so there is no H between No. Okay, so D412005 at yahoo.com am I correct?",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq14": {
+      "CallerContent": "Okay, we will send an email link and you can register now.",
+      "ReceiverContent": "Okay, we will send an email link and you can register now.",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq15": {
+      "CallerContent": "So once I've registered, I'll call you guys back?",
+      "ReceiverContent": "So once I've registered, I'll call you guys back?",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq16": {
+      "CallerContent": "Sure, you can call me back on Friday. We will send an email right now. Yes, and just do one thing. Take a picture of your insurance front side and back side and attach with an email.",
+      "ReceiverContent": "Sure, you can call me back on Friday. We will send an email right now. Yes, and just do one thing. Take a picture of your insurance front side and back side and attach with an email.",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq17": {
+      "CallerContent": "So when you say that, sure, that we use military ID cards.",
+      "ReceiverContent": "Sure, you can call me back on Friday. We will send an email right now. Yes, and just do one thing. Take a picture of your insurance front side and back side and attach with an email.",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq18": {
+      "CallerContent": "Yes, you can use it.",
+      "ReceiverContent": "Sure, you can call me back on Friday. We will send an email right now. Yes, and just do one thing. Take a picture of your insurance front side and back side and attach with an email.",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq19": {
+      "CallerContent": "Okay, all right. Well, my wife, huh?",
+      "ReceiverContent": "Sure, you can call me back on Friday. We will send an email right now. Yes, and just do one thing. Take a picture of your insurance front side and back side and attach with an email.",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq20": {
+      "CallerContent": "Yes, for you both.",
+      "ReceiverContent": "Sure, you can call me back on Friday. We will send an email right now. Yes, and just do one thing. Take a picture of your insurance front side and back side and attach with an email.",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq21": {
+      "CallerContent": "Okay, both for the ID cards, okay. Yes.",
+      "ReceiverContent": "Sure, you can call me back on Friday. We will send an email right now. Yes, and just do one thing. Take a picture of your insurance front side and back side and attach with an email.",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq22": {
+      "CallerContent": "Is there anything else that I missed?",
+      "ReceiverContent": "Sure, you can call me back on Friday. We will send an email right now. Yes, and just do one thing. Take a picture of your insurance front side and back side and attach with an email.",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq23": {
+      "CallerContent": "No, no, no. And you said I'll call you back on Friday once I send it?",
+      "ReceiverContent": "Yes, yes, correct. All right, sir. Thank you. Okay. Thank you for calling Crofton. You have a great day. Take care.",
+      "Timestamp": "2023-11-01 15:34:42"
+    },
+    "Seq24": {
+      "CallerContent": "Bye bye.",
+      "ReceiverContent": "Bye bye.",
+      "Timestamp": "2023-11-01 15:34:42"
+    }
+  }
+}

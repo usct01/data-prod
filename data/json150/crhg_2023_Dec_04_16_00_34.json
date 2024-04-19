@@ -1,0 +1,71 @@
+{
+  "Metadata": "value",
+  "Caller": "Mary Keller",
+  "Receiver": "Dominic (Crossroads Family Practice)",
+  "Timestamp": "2023_Dec_04_16:00:34",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Good afternoon, is Brandi there? This is Mary Keller. I was there this morning and she had left a message. May I speak to her?",
+      "ReceiverContent": "Good afternoon. Thank you for calling Crossroads Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023_Dec_04_16:00:34"
+    },
+    "Seq2": {
+      "CallerContent": "I'm sorry to bother you. I have two quick things.",
+      "ReceiverContent": "Yes, sure. I'll leave you a minute. Let me transfer the call and you have a great day. Thank you. You too.",
+      "Timestamp": "2023_Dec_04_16:00:34"
+    },
+    "Seq3": {
+      "CallerContent": "This is Mary Keller. I will I was the one that walked off this.",
+      "ReceiverContent": "Hi there. Thank you for contacting Crofton family practice. I'm sorry to do this to you, but please hold one moment. Sure. Thank you.",
+      "Timestamp": "2023_Dec_04_16:00:34"
+    },
+    "Seq4": {
+      "CallerContent": "Yes, ma'am. No problem. I walked out and I had somewhere else I had to go and it struck me this afternoon. So I appreciate that I printed it out. The other thing was...",
+      "ReceiverContent": "I'm so very sorry there for the hold but this is Brandi. How can I help you today? That's okay.",
+      "Timestamp": "2023_Dec_04_16:00:34"
+    },
+    "Seq5": {
+      "CallerContent": "I'm going to have a sonogram of my thyroid, but Doctor, we weren't sure when I was talking to Dr. Williams where it was done if it was with Luminous or some other place.",
+      "ReceiverContent": "Yes, I tried to reach you. So I wanted to let you know. I actually sent you by email.",
+      "Timestamp": "2023_Dec_04_16:00:34"
+    },
+    "Seq6": {
+      "CallerContent": "Was with Luminous. Okay, so you need another referral for Luminous for a sonogram of thyroid, right?",
+      "ReceiverContent": null,
+      "Timestamp": "2023_Dec_04_16:00:34"
+    },
+    "Seq7": {
+      "CallerContent": "Okay. Yeah, that's fine. And I know it's late in the day, you know, no hurry, you know, whenever you get to it. That that's fine.",
+      "ReceiverContent": null,
+      "Timestamp": "2023_Dec_04_16:00:34"
+    },
+    "Seq8": {
+      "CallerContent": "Let me just make myself a little note to make sure I have everything on here. Correct for you. Okay. Okay.",
+      "ReceiverContent": null,
+      "Timestamp": "2023_Dec_04_16:00:34"
+    },
+    "Seq9": {
+      "CallerContent": "So this is Mary Keller, correct, right?",
+      "ReceiverContent": null,
+      "Timestamp": "2023_Dec_04_16:00:34"
+    },
+    "Seq10": {
+      "CallerContent": "Right. And then we're going to do needs a Luminous health imaging referral form. Yes for thyroid sonogram of thyroid. Got it. Yes.",
+      "ReceiverContent": null,
+      "Timestamp": "2023_Dec_04_16:00:34"
+    },
+    "Seq11": {
+      "CallerContent": "Okay, got it. Yes. Okay. Alrighty.",
+      "ReceiverContent": null,
+      "Timestamp": "2023_Dec_04_16:00:34"
+    },
+    "Seq12": {
+      "CallerContent": "And then as soon as she tells me what I'm allowed to do on that part I'll basically if she just does it on another Luminous health form. I'll just email it to you.",
+      "ReceiverContent": null,
+      "Timestamp": "2023_Dec_04_16:00:34"
+    },
+    "Seq13": {
+      "CallerContent": "Okay, if I need to contact you I'll just reach out by phone, you know, in order to get any sort of information that I need. Okay. Thank you very much. I appreciate your help. You got it.",
+      "ReceiverContent": null,
+      "Timestamp": "2023_Dec_04_16:00:34"
+   

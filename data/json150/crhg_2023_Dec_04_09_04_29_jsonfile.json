@@ -1,0 +1,53 @@
+{
+  "Metadata": "value",
+  "Caller": "Joni Crunch",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-12-04 09:04:29",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi Kumar. This is Joni Crunch. I just want to make sure you got my message about that I didn't need to come today.",
+      "ReceiverContent": "Good morning. Thanks for calling Crofton Family Practice. This is Kumar. Show me SSG today.",
+      "Timestamp": "2023-12-04 09:04:29"
+    },
+    "Seq2": {
+      "CallerContent": "Well, it was a follow-up, so I did what the doctor said and I'm okay now, so I don't think so.",
+      "ReceiverContent": "Would you like to make up an appointment?",
+      "Timestamp": "2023-12-04 09:04:15"
+    },
+    "Seq3": {
+      "CallerContent": "Not right now. You don't have what?",
+      "ReceiverContent": "I'll just watch all the books for today. So, would you like to make up an appointment in any of the day? In upcoming days?",
+      "Timestamp": "2023-12-04 09:04:32"
+    },
+    "Seq4": {
+      "CallerContent": "Oh, okay. But then you have mine that I'm not coming to, so he gets that one to somebody else at 345.",
+      "ReceiverContent": "Oh, you have already made an appointment, am I correct?",
+      "Timestamp": "2023-12-04 09:04:52"
+    },
+    "Seq5": {
+      "CallerContent": "Yes, that's what I'm saying. I called and left a message saying my husband confirmed. He didn't come for me, but I wasn't intending on coming. So, I called to say I wasn't coming.",
+      "ReceiverContent": "Okay. Your name is Joni Crunch, am I correct?",
+      "Timestamp": "2023-12-04 09:05:55"
+    },
+    "Seq6": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "You have made an appointment for a tele-visit. So, would you like to cancel it?",
+      "Timestamp": "2023-12-04 09:06:09"
+    },
+    "Seq7": {
+      "CallerContent": "One moment. So, just confirm, I have canceled your appointment today at 345 PM. If you want to reschedule it again, you can call me back again.",
+      "ReceiverContent": "Okay. Thank you so much.",
+      "Timestamp": "2023-12-04 09:16:16"
+    },
+    "Seq8": {
+      "CallerContent": "Um, I have, I don't know. I have to call back. It's about a prescription. I'll call back.",
+      "ReceiverContent": "Sure. Sure, you can call me back again. Okay. Thanks for calling Corruption Family Practice and you have a great day.",
+      "Timestamp": "2023-12-04 09:16:45"
+    },
+    "Seq9": {
+      "CallerContent": "You too. Thank you. Bye-bye. Thank you. Bye-bye.",
+      "ReceiverContent": "Thank you. Bye-bye.",
+      "Timestamp": "2023-12-04 09:17:51"
+    }
+  }
+}
