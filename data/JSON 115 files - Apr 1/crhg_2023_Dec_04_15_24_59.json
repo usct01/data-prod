@@ -1,0 +1,70 @@
+{
+  "Metadata": "value",
+  "Caller": "Brian Fryer",
+  "Receiver": "Kumaran (Grafton Family Practice)",
+  "Timestamp": "2023_Dec_04_15:24:59",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "I'd like to speak out with the front office about a referral.",
+      "ReceiverContent": "Good afternoon. Thanks for calling Grafton Family Practice. How may I assist you today?",
+      "Timestamp": "2023_Dec_04_15:24:59"
+    },
+    "Seq2": {
+      "CallerContent": "Okay, thank you.",
+      "ReceiverContent": "Okay, one moment. Let me shout for you to the front desk. Please stay online. Thank you. You have a great day.",
+      "Timestamp": "2023_Dec_04_15:24:59"
+    },
+    "Seq3": {
+      "CallerContent": "Hi, this is Brian Fryer. I'm calling to find out if my wife's referral has been processed into TRICARE.",
+      "ReceiverContent": "Hi there, and thank you for contacting Grafton Family Practice. This is Brandy here in the front office. How can we help you today?",
+      "Timestamp": "2023_Dec_04_15:24:59"
+    },
+    "Seq4": {
+      "CallerContent": "Okay, thank you.",
+      "ReceiverContent": "Sir, I understand this is for Ms. Hillary. I told Ms. Hillary today that I would try to have it finished up by lunch, but it's not that I would get it done by the end of the day. I'm actually right now working on it.",
+      "Timestamp": "2023_Dec_04_15:24:59"
+    },
+    "Seq5": {
+      "CallerContent": "Yes, sir. I can go ahead and I can, well, I mean, not really. No, I can just tell you right now I'm getting ready to finish it. I'm about halfway through it as we speak.",
+      "ReceiverContent": "Last time I spoke with you, you said you would be sending us an email for confirming that it's been submitted. Is that still true?",
+      "Timestamp": "2023_Dec_04_15:24:59"
+    },
+    "Seq6": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Yes, sir. I can go ahead and I can, well, I mean, not really. No, I can just tell you right now I'm getting ready to finish it. I'm about halfway through it as we speak.",
+      "Timestamp": "2023_Dec_04_15:24:59"
+    },
+    "Seq7": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "So, you know, I'm getting ready to finish it up, and then I'm going to get it sent off to TRICARE.",
+      "Timestamp": "2023_Dec_04_15:24:59"
+    },
+    "Seq8": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "So, after that, it will be in our system for her here, and then, of course, it will be in TRICARE's hands from that point on.",
+      "Timestamp": "2023_Dec_04_15:24:59"
+    },
+    "Seq9": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "And so, basically, say in about the next hour to an hour and a half, you should be able to call TRICARE to find out and let them know that it has been submitted.",
+      "Timestamp": "2023_Dec_04_15:24:59"
+    },
+    "Seq10": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "And whether or not, you know, the approval can be pushed through somehow or not.",
+      "Timestamp": "2023_Dec_04_15:24:59"
+    },
+    "Seq11": {
+      "CallerContent": "Okay. Thank you.",
+      "ReceiverContent": "My absolute pleasure. I'm sorry, guys. We've just been incredibly busy, but I'm doing the absolute best I can to get it through for her.",
+      "Timestamp": "2023_Dec_04_15:24:59"
+    },
+    "Seq12": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "You got it, sir.",
+      "Timestamp": "2023_Dec_04_15:24:59"
+    },
+    "Seq13": {
+      "CallerContent": "All right. Bye-bye.",
+      "ReceiverContent": "How'd it go?",
+      "Timestamp": "2023_Dec_04_15:24:59"

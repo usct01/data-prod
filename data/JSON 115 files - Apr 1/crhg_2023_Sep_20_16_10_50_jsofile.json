@@ -1,0 +1,58 @@
+{
+  "Metadata": "value",
+  "Caller": "No Name (Beverly Cantor)",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-09-20 16:10:50",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thanks for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-09-20 16:10:50"
+    },
+    "Seq2": {
+      "CallerContent": "Hey, this is, I just called. I need to talk to somebody on the front desk.",
+      "ReceiverContent": "Yeah, kindly give me a minute, ma'am. Let me transfer the call and you have a great day.",
+      "Timestamp": "2023-09-20 16:10:56"
+    },
+    "Seq3": {
+      "ReceiverContent": "Thank you for contacting Crofton Family Practice.",
+      "Timestamp": "2023-09-20 16:11:00"
+    },
+    "Seq4": {
+      "CallerContent": "Hi there. This is Beverly Cantor. I was just in there a few minutes ago. Dr. Williams had sent a nitro prescription to Target, but they said they haven't gotten it.",
+      "ReceiverContent": "Yes, ma'am. And unfortunately, though, Ms. Cantor, today the only thing I'd be able to do is transfer you on into the nurse's number. She has already left for the day and so has the provider due to an emergency that happened. However, what I can do is I can send it on into the nurse's voicemail. You can leave a detailed voicemail, and she checks them first thing in the morning when she appears in the office. So I can definitely tell you that she would notify you back immediately. However, it wouldn't be handled until the morning, though.",
+      "Timestamp": "2023-09-20 16:11:05"
+    },
+    "Seq5": {
+      "CallerContent": "Oh, I thought Dr. Williams is not, she's gone?",
+      "ReceiverContent": "She's already gone for the day, honey. I'm very sorry. She had to leave due to an emergency status.",
+      "Timestamp": "2023-09-20 16:11:22"
+    },
+    "Seq6": {
+      "CallerContent": "Okay. Yeah, because she told me to pick it up ASAP.",
+      "ReceiverContent": "Yes, indeed. Yes, indeed.",
+      "Timestamp": "2023-09-20 16:11:34"
+    },
+    "Seq7": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "But I will send, I'm going to send you an in to Amy's voicemail. That's our nurse. Go ahead and leave her a voicemail, okay? And then that way she knows to give you a call back and reference to everything, okay?",
+      "Timestamp": "2023-09-20 16:11:47"
+    },
+    "Seq8": {
+      "CallerContent": "Okay. Thank you.",
+      "ReceiverContent": "All right, sweetie. I'm going to send you now.",
+      "Timestamp": "2023-09-20 16:01:48"
+    },
+    "Seq9": {
+      "ReceiverContent": "Hello.",
+      "Timestamp": "2023-09-20 16:12:28"
+    },
+    "Seq10": {
+      "ReceiverContent": "You have reached the nurse line. If this is an emergency, please hang up and dial 911. If you're calling for a prescription refill, please leave a detailed message with the drug name, the milligrams, and your pharmacy information. Please allow 72 hours for your refills to be processed. Leave us a message and we'll get back to you as soon as we can. Thank you and have a good day.",
+      "Timestamp": "2023-09-20 16:12:28"
+    },
+    "Seq11": {
+      "CallerContent": "Hi, this is Beverly Cantor and I was just in there today and the doctor wanted to tell me to go pick up a prescription for nitroglycerin. Okay. So Target Pharmacy and they said they haven't gotten it. So I was just calling to see if it could be reset. This is Beverly Cantor, 4357. Thank you.",
+      "Timestamp": "2023-09-20 16:12:58"
+    }
+  }
+}

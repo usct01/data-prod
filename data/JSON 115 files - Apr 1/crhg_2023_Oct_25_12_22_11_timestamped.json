@@ -1,0 +1,55 @@
+crhg_2023_Oct_25_12_22_11_timestamped
+```json
+{
+  "Caller": "Nathaniel James",
+  "Receiver": "Brandy",
+  "Timestamp": "2024-02-12",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, Brandy. My name is Nathaniel James.",
+      "ReceiverContent": "Hi there, Mr. James. Yeah, I know exactly who you are. How are you doing today?",
+      "Timestamp": "2024-02-12 00:41:00"
+    },
+    "Seq2": {
+      "CallerContent": "I'm good. A few days ago, I put in an approval for a referral for you guys, and I'm checking Tricare right now, and it says you guys made it to the wrong place.",
+      "ReceiverContent": "Let me go into your chart and take a look just to verify, because I would have been the one to do that. So. Let me just take a look and see what it is that I have it listed as. Bear with me.",
+      "Timestamp": "2024-02-12 00:48:00"
+    },
+    "Seq3": {
+      "CallerContent": "It's for dermatology. You referred me to the Fort Meade office.",
+      "ReceiverContent": "Like the Dockside Dermatology? Yep.",
+      "Timestamp": "2024-02-12 01:24:00"
+    },
+    "Seq4": {
+      "CallerContent": "Yeah, that's not the one that's in Tricare, so I don't know how that happened.",
+      "ReceiverContent": "Yeah, I actually do. Yeah, it is the one that was in Tricare, actually. I have it here. It's in the referral notes.",
+      "Timestamp": "2024-02-12 01:32:00"
+    },
+    "Seq5": {
+      "CallerContent": "It's so weird that it's... Yeah. It's saying Fort Meade in Tricare.",
+      "ReceiverContent": "I'm so very sorry. I'm really not sure as to why that is, you know.",
+      "Timestamp": "2024-02-12 02:09:00"
+    },
+    "Seq6": {
+      "CallerContent": "Would you mind emailing me a copy of your referral that you've made for me?",
+      "ReceiverContent": "Yeah, for sure. That's no problem whatsoever. Actually, let me just go back in right now. I'm sorry I clicked out. Let me just go back in.",
+      "Timestamp": "2024-02-12 03:00:00"
+    },
+    "Seq7": {
+      "CallerContent": "NTJains.gmail, yes.",
+      "ReceiverContent": "Yep, that's the one I have. And I will go ahead and send you over a copy.",
+      "Timestamp": "2024-02-12 03:13:00"
+    },
+    "Seq8": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "All righty. No problem. Well, I'll get that off to you here in the next few moments or so.",
+      "Timestamp": "2024-02-12 03:37:00"
+    },
+    "Seq9": {
+      "CallerContent": "All right. Thank you. Yes, sir.",
+      "ReceiverContent": "But, yeah, no worries. If I told you, I'll take care of it. So, I'll definitely do my best to help you out here, okay?",
+      "Timestamp": "2024-02-12 04:08:00"
+    }
+  }
+}
+```

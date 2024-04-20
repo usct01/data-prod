@@ -1,0 +1,58 @@
+{
+  "Metadata": "value",
+  "Caller": "Allison",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-10-26 10:04:16",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, yes. I'd like to make an appointment with Dr. Allison Williams.",
+      "ReceiverContent": "Good morning. Thanks for calling Carlson Family Practice. This is Kumar from ESSG Today.",
+      "Timestamp": "2023-10-26 10:04:16"
+    },
+    "Seq2": {
+      "CallerContent": "A televisit would be fine.",
+      "ReceiverContent": "Would you like to meet the doctor in person or would you like to make a televisit?",
+      "Timestamp": "2023-10-26 10:04:25"
+    },
+    "Seq3": {
+      "CallerContent": "Yes, sir.",
+      "ReceiverContent": "Okay, well, let me check on the next available slot for you.",
+      "Timestamp": "2023-10-26 10:04:38"
+    },
+    "Seq4": {
+      "CallerContent": "No, sir.",
+      "ReceiverContent": "Okay. Could I take your date of birth?",
+      "Timestamp": "2023-10-26 10:04:44"
+    },
+    "Seq5": {
+      "CallerContent": "8-14-1966.",
+      "ReceiverContent": "Your first name is Patricia, am I correct?",
+      "Timestamp": "2023-10-26 10:04:49"
+    },
+    "Seq6": {
+      "CallerContent": "That is correct. Okay.",
+      "ReceiverContent": "May I know the reason of the appointment?",
+      "Timestamp": "2023-10-26 10:04:58"
+    },
+    "Seq7": {
+      "CallerContent": "It's a follow-up on medication and a status quo fall, emergency room visit from a fall. Okay.",
+      "ReceiverContent": "That's confirmed. I have an appointment on 31st of October at 3.15. I have an appointment on 3.15 p.m. for a televisit.",
+      "Timestamp": "2023-10-26 10:05:05"
+    },
+    "Seq8": {
+      "CallerContent": "Yes, sir.",
+      "ReceiverContent": "Is there anything else that I may ask a steward?",
+      "Timestamp": "2023-10-26 10:05:36"
+    },
+    "Seq9": {
+      "CallerContent": "No, sir.",
+      "ReceiverContent": "Thank you for calling Crawford Family Practice. You have a great day.",
+      "Timestamp": "2023-10-26 10:05:41"
+    },
+    "Seq10": {
+      "CallerContent": "Thank you. Bye-bye.",
+      "ReceiverContent": "Okay. Hey! Thank you.",
+      "Timestamp": "2023-10-26 10:05:45"
+    }
+  }
+}

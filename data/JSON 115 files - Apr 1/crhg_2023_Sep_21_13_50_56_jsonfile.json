@@ -1,0 +1,238 @@
+{
+  "Metadata": "value",
+  "Receiver": "Kumar from Crofton Family Practice",
+  "Timestamp": "2023-09-21 13:50:56",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thank you for calling Crofton Family Practice. This is Kumar. How may I assist you today?",
+      "Timestamp": "2023-09-21 00:00:00"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, I'm calling to talk to Brandy. This is Carissa with Allidade.",
+      "ReceiverContent": "Okay, let me transfer you to Brandy, and she can assist you with this. If the call is not answered, kindly leave a voice message, and she'll get back to you as soon as possible. Please stay online. Have a great day.",
+      "Timestamp": "2023-09-21 00:05:00"
+    },
+    "Seq3": {
+      "ReceiverContent": "Your conversation is being recorded. Thank you for contacting Crofton Family Practice. This is Brandy here in the front office.",
+      "Timestamp": "2023-09-21 00:29:00"
+    },
+    "Seq4": {
+      "ReceiverContent": "How can we help you today?",
+      "Timestamp": "2023-09-21 00:36:00"
+    },
+    "Seq5": {
+      "CallerContent": "Hey, Brandy. It's Carissa with Allidade.",
+      "ReceiverContent": "Hey there, TMSI. Carissa, I was actually just getting ready to contact you.",
+      "Timestamp": "2023-09-21 00:38:00"
+    },
+    "Seq6": {
+      "ReceiverContent": "I actually had patients in the office here with me that just came in, so I'm glad that you had called. What can I help you with? I know you were looking for me earlier today, if I'm correct.",
+      "Timestamp": "2023-09-21 00:44:00"
+    },
+    "Seq7": {
+      "CallerContent": "Yeah, I just wanted to make sure we can get you into the app because Dr. Williams told me you still never got the email, so I want to figure out how we can get you in.",
+      "ReceiverContent": "No problem. Bear with me just one moment. If you don't mind, I'm going to give this to Dr. Williams, and I'll be right back on the line with you, okay?",
+      "Timestamp": "2023-09-21 00:53:00"
+    },
+    "Seq8": {
+      "CallerContent": "Sounds good.",
+      "ReceiverContent": "Thank you, ma'am.",
+      "Timestamp": "2023-09-21 01:09:00"
+    },
+    "Seq9": {
+      "ReceiverContent": "Chris, I'm still here with you.",
+      "Timestamp": "2023-09-21 02:43:00"
+    },
+    "Seq10": {
+      "ReceiverContent": "I'm so sorry. I'm just scheduling an appointment for somebody, and I'll be right back on the line with you, okay?",
+      "Timestamp": "2023-09-21 02:45:00"
+    },
+    "Seq11": {
+      "CallerContent": "No problem.",
+      "ReceiverContent": "Thank you.",
+      "Timestamp": "2023-09-21 02:50:00"
+    },
+    "Seq12": {
+      "ReceiverContent": "All right, TMSI. Chris, I'm so very sorry about that. Are you still on the line with me?",
+      "Timestamp": "2023-09-21 05:12:00"
+    },
+    "Seq13": {
+      "CallerContent": "Yeah, yeah. You're fine. Gotcha.",
+      "ReceiverContent": "Thank you very much.",
+      "Timestamp": "2023-09-21 05:16:00"
+    },
+    "Seq14": {
+      "ReceiverContent": "Thank you very so much. All righty. What am I doing first here?",
+      "Timestamp": "2023-09-21 05:18:00"
+    },
+    "Seq15": {
+      "CallerContent": "I sent you an email. It was two steps in it. So tell me if you got that to reception at Village Green.",
+      "ReceiverContent": "Okay. Let me go ahead through, and let me just pull it up and see what I can take a look at here.",
+      "Timestamp": "2023-09-21 05:22:00"
+    },
+    "Seq16": {
+      "ReceiverContent": "Okay. Ow. And there we go. Bear with me.",
+      "Timestamp": "2023-09-21 05:49:00"
+    },
+    "Seq17": {
+      "ReceiverContent": "Anybody doesn't mind? I'm sorry, Suzanne.",
+      "Timestamp": "2023-09-21 06:11:00"
+    },
+    "Seq18": {
+      "ReceiverContent": "Let me go ahead and get into the email over here for you. And, da, da, da, da. All right.",
+      "Timestamp": "2023-09-21 06:19:00"
+    },
+    "Seq19": {
+      "ReceiverContent": "Hold with me here.",
+      "Timestamp": "2023-09-21 06:40:00"
+    },
+    "Seq20": {
+      "ReceiverContent": "Okay, Chris. You still there with me? Yeah. All right. Wonderful. Sorry. Like I said, a little bit swamped here. Okay. I'm pulling it up. I don't see anything yet that has came in.",
+      "Timestamp": "2023-09-21 06:54:00"
+    },
+    "Seq21": {
+      "ReceiverContent": "Let me go down and check our spam as well, though.",
+      "Timestamp": "2023-09-21 07:06:00"
+    },
+    "Seq22": {
+      "ReceiverContent": "Okay. Hi, there. You have a package for us? Let me take a look here. Yup. 1684 Village Green.",
+      "Timestamp": "2023-09-21 07:08:00"
+    },
+    "Seq23": {
+      "ReceiverContent": "Satisha, he works here. Yes, sir. Yup. You can take a picture of it. Go right ahead.",
+      "Timestamp": "2023-09-21 07:20:00"
+    },
+    "Seq24": {
+      "ReceiverContent": "It didn't go through. Didn't go through. I was going to say, yeah, I'm looking at it. Thank you, Swirty. Have a great afternoon.",
+      "Timestamp": "2023-09-21 07:33:00"
+    },
+    "Seq25": {
+      "ReceiverContent": "I'm looking at it now.",
+      "Timestamp": "2023-09-21 07:34:00"
+    },
+    "Seq26": {
+      "CallerContent": "What email is again?",
+      "ReceiverContent": "Reception at VillageGreenMD.com. Okay.",
+      "Timestamp": "2023-09-21 07:37:00"
+    },
+    "Seq27": {
+      "ReceiverContent": "Yes, ma'am.",
+      "Timestamp": "2023-09-21 07:42:00"
+    },
+    "Seq28": {
+      "ReceiverContent": "Hi.",
+      "Timestamp": "2023-09-21 07:44:00"
+    },
+    "Seq29": {
+      "CallerContent": "I forgot this. All right. Wonderful. How does this work?",
+      "ReceiverContent": "Nice to meet you there, Mr. Bergman. I'm Brandy. Hi, there. You look very nice, sir. Absolutely. So we started this here. It's a little something new, but we do have you checking in, of course.",
+      "Timestamp": "2023-09-21 07:53:00"
+    },
+    "Seq30": {
+      "ReceiverContent": "If you don't mind, you're just going to start out here. There we are. You're going to hit the check-in button there, sir.",
+      "Timestamp": "2023-09-21 08:03:00"
+    },
+    "Seq31": {
+      "ReceiverContent": "Oh, there we go.",
+      "Timestamp": "2023-09-21 08:11:00"
+    },
+    "Seq32": {
+      "ReceiverContent": "Yup. And then you're going to start typing in if you can there. You're going to share each box for me. And then just let me know, please, of any questions along the way, and I'll be happy to help you, of course.",
+      "Timestamp": "2023-09-21 08:13:00"
+    },
+    "Seq33": {
+      "ReceiverContent": "Yes, sir. I'm sorry about that, Chris.",
+      "Timestamp": "2023-09-21 08:23:00"
+    },
+    "Seq34": {
+      "ReceiverContent": "I'm the only one up front, so. That's my usual, girl. That's my usual. I am usually rolling through it as is.",
+      "Timestamp": "2023-09-21 08:26:00"
+    },
+    "Seq35": {
+      "ReceiverContent": "And Mr. Bergman, by any chance, sir, do you have any interest in getting a flu shot today? Not today. Too early. No, too early for you. I got you covered. Waiting for the nighttime to hit right now. Okay.",
+      "Timestamp": "2023-09-21 08:34:00"
+    },
+    "Seq36": {
+      "ReceiverContent": "You got it, right?",
+      "Timestamp": "2023-09-21 08:47:00"
+    },
+    "Seq37": {
+      "ReceiverContent": "Now it's, I got it from you now. It says to get into the app, correct?",
+      "Timestamp": "2023-09-21 08:55:00"
+    },
+    "Seq38": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Yeah, perfect. It just came through here. I got it, Raoul.",
+      "Timestamp": "2023-09-21 08:59:00"
+    },
+    "Seq39": {
+      "ReceiverContent": "Gotcha.",
+      "Timestamp": "2023-09-21 09:03:00"
+    },
+    "Seq40": {
+      "CallerContent": "So I was going to tell you, I gave you two instructions. So the first thing to do is I want you to add an email to your contact.",
+      "ReceiverContent": "Okay. Mm-hmm. And let me go ahead here and bear with me. Let's get this one in here. Okay.",
+      "Timestamp": "2023-09-21 09:04:00"
+    },
+    "Seq41": {
+      "ReceiverContent": "Yep. So it says add noreplyatalliday to your email contacts.",
+      "Timestamp": "2023-09-21 09:27:00"
+    },
+    "Seq42": {
+      "ReceiverContent": "Gotcha.",
+      "Timestamp": "2023-09-21 09:31:00"
+    },
+    "Seq43": {
+      "CallerContent": "So the app account has the wrong email, which is why it didn't come through. So I just emailed them to change it.",
+      "ReceiverContent": "Gotcha.",
+      "Timestamp": "2023-09-21 09:42:00"
+    },
+    "Seq44": {
+      "ReceiverContent": "Yes, ma'am. And I don't mean to interrupt you or even sound a little odd here by any means, but for some reason, as I'm selecting it to go and try to add, of course, to any part of",
+      "Timestamp": "2023-09-21 10:15:00"
+    },
+    "Seq45": {
+      "ReceiverContent": "I'm the only one up front, so. That's my usual, girl. That's my usual. I am usually rolling through it as is.",
+      "Timestamp": "2023-09-21 08:26:00"
+    },
+    "Seq46": {
+      "ReceiverContent": "And Mr. Bergman, by any chance, sir, do you have any interest in getting a flu shot today? Not today. Too early. No, too early for you. I got you covered. Waiting for the nighttime to hit right now. Okay.",
+      "Timestamp": "2023-09-21 08:34:00"
+    },
+    "Seq47": {
+      "ReceiverContent": "You got it, right?",
+      "Timestamp": "2023-09-21 08:47:00"
+    },
+    "Seq48": {
+      "ReceiverContent": "Now it's, I got it from you now. It says to get into the app, correct?",
+      "Timestamp": "2023-09-21 08:55:00"
+    },
+    "Seq49": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Yeah, perfect. It just came through here. I got it, Raoul.",
+      "Timestamp": "2023-09-21 08:59:00"
+    },
+    "Seq50": {
+      "ReceiverContent": "Gotcha.",
+      "Timestamp": "2023-09-21 09:03:00"
+    },
+    "Seq51": {
+      "CallerContent": "So I was going to tell you, I gave you two instructions. So the first thing to do is I want you to add an email to your contact.",
+      "ReceiverContent": "Okay. Mm-hmm. And let me go ahead here and bear with me. Let's get this one in here. Okay.",
+      "Timestamp": "2023-09-21 09:04:00"
+    },
+    "Seq52": {
+      "ReceiverContent": "Yep. So it says add noreplyatalliday to your email contacts.",
+      "Timestamp": "2023-09-21 09:27:00"
+    },
+    "Seq53": {
+      "ReceiverContent": "Gotcha.",
+      "Timestamp": "2023-09-21 09:31:00"
+    },
+    "Seq54": {
+      "CallerContent": "So the app account has the wrong email, which is why it didn't come through. So I just emailed them to change it.",
+      "ReceiverContent": "Gotcha.",
+      "Timestamp": "2023-09-21 09:42:00"
+    }
+  }
+}

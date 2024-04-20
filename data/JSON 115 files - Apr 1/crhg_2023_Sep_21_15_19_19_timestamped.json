@@ -1,0 +1,63 @@
+{
+  "Metadata": "value",
+  "Caller": "Judith",
+  "Receiver": "Brandi",
+  "Timestamp": "2023-11-01 14:29:13",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, Brandi. This is Judith. I'm calling from Dr. Michael Damiano's office on a mutual patient.",
+      "ReceiverContent": "Yes, ma'am.",
+      "Timestamp": "2023-11-01 14:29:13"
+    },
+    "Seq2": {
+      "CallerContent": "Her name is Yvonne Kuhn.",
+      "ReceiverContent": "Yes, ma'am.",
+      "Timestamp": "2023-11-01 14:29:16"
+    },
+    "Seq3": {
+      "CallerContent": "8-19-37. Yes. Dr. Damiano is looking for a list of medications.",
+      "ReceiverContent": "Okay. Bear with me. I have to take a look and see if I have that listed within her chart. Give me just a moment, okay?",
+      "Timestamp": "2023-11-01 14:29:24"
+    },
+    "Seq4": {
+      "CallerContent": "Okay. No problem.",
+      "ReceiverContent": "Yes, ma'am.",
+      "Timestamp": "2023-11-01 14:29:29"
+    },
+    "Seq5": {
+      "CallerContent": "Yes, ma'am.",
+      "ReceiverContent": "Hi there.",
+      "Timestamp": "2023-11-01 14:29:30"
+    },
+    "Seq6": {
+      "CallerContent": "Are you still on the line with me?",
+      "ReceiverContent": "Yes.",
+      "Timestamp": "2023-11-01 14:29:32"
+    },
+    "Seq7": {
+      "CallerContent": "Yes, ma'am. So I do have a list of medications. However, the list of medications that I'm showing is actually dated from 2021. Let me see here.",
+      "ReceiverContent": "Yes, ma'am.",
+      "Timestamp": "2023-11-01 14:29:34"
+    },
+    "Seq8": {
+      "CallerContent": "Yes, sir, Mr. Damiano. Hi there. How are you doing today?",
+      "ReceiverContent": "I'm okay.",
+      "Timestamp": "2023-11-01 14:29:46"
+    },
+    "Seq9": {
+      "CallerContent": "Very good.",
+      "ReceiverContent": "Can you send that list over for me?",
+      "Timestamp": "2023-11-01 14:29:49"
+    },
+    "Seq10": {
+      "CallerContent": "Yes, sir. I absolutely can. It looks like here, to be honest, while I was taking a look a little further into her patient documents, I am showing that I not only have that list, but I do believe that I have one other as well.",
+      "ReceiverContent": "Yes, sir. If you would, please.",
+      "Timestamp": "2023-11-01 14:29:51"
+    },
+    "Seq11": {
+      "CallerContent": "Yes, sir. Can I please have a good fax number for you? 301-414-8559. 4-8-5-9. No problem, sir. I'll get those over to you immediately. Thank you. Bye-bye. Thank you as well.",
+      "ReceiverContent": "Thank you. Bye-bye. Bye-bye. Bye-bye.",
+      "Timestamp": "2023-11-01 14:29:53"
+    }
+  }
+}

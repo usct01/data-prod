@@ -1,0 +1,44 @@
+crhg_2023_Oct_25_13_36_46_timestamped
+{
+  "Caller": "Wanda",
+  "Receiver": "Brandy",
+  "Timestamp": "2023-11-15",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Good afternoon. My name is Wanda Johnson. I don't remember the girl's name. She's due to referral.",
+      "ReceiverContent": "Okay, well, I appreciate it. For you to the constant person who could help you out with this, please stay online.",
+      "Timestamp": "2023-11-15 00:04:00"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, Brandy. How are you?",
+      "ReceiverContent": "I'm doing very well, but thank you so much for asking, ma'am. What can I help you with?",
+      "Timestamp": "2023-11-15 00:48:00"
+    },
+    "Seq3": {
+      "CallerContent": "My name is Wanda Johnson.",
+      "ReceiverContent": "Oh, hi there, Ms. Johnson. Yep, I know exactly who you are. How are you doing?",
+      "Timestamp": "2023-11-15 00:53:00"
+    },
+    "Seq4": {
+      "CallerContent": "That's funny. So I'm calling today to see if I can get a referral to see the hand surgeon for my carpal tunnel.",
+      "ReceiverContent": "I would have to take a look. Bear with me just a moment or so. Let me pull up into your file here and see what I can find, okay?",
+      "Timestamp": "2023-11-15 00:59:00"
+    },
+    "Seq5": {
+      "CallerContent": "Yeah, that's not even listed here as well.",
+      "ReceiverContent": "I'm sorry. No, I understand. Okay. I'm looking into your referrals right now. Bear with me here.",
+      "Timestamp": "2023-11-15 05:55:00"
+    },
+    "Seq6": {
+      "CallerContent": "You want me to forward them to you so you can see?",
+      "ReceiverContent": "Yeah. Right. I was going to say, if you don't mind, could you mind sending them over an email? That way I can put them in your chart, and that way we have them here.",
+      "Timestamp": "2023-11-15 08:52:00"
+    },
+    "Seq7": {
+      "CallerContent": "Okay. Can you just send me one just in case they claim they don't get it?",
+      "ReceiverContent": "No, absolutely. I'll send you one in the email and then of course send them one else. Okay.",
+      "Timestamp": "2023-11-15 11:19:00"
+    }
+  }
+}
+

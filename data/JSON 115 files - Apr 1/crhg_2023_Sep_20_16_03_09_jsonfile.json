@@ -1,0 +1,67 @@
+{
+  "Metadata": "value",
+  "Caller": "Chris",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-09-20 16:03:09",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thanks for calling Crofton Family Practice. This is Dominic, home assistive for the day.",
+      "Timestamp": "2023-09-20 16:03:09"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, my name's Chris. I work with Dr. Sayan. I'm looking to get a patient's physical, the note, and blood work for her surgery on Monday.",
+      "ReceiverContent": "Yeah, can I give you a minute, ma'am? Let me transfer the call to the concerned person who can help you out with this. Can I see you online? I'm transferring the call, and you have a great day.",
+      "Timestamp": "2023-09-20 16:03:15"
+    },
+    "Seq3": {
+      "CallerContent": "You too. Thanks. Your conversation is being recorded.",
+      "Timestamp": "2023-09-20 16:03:30"
+    },
+    "Seq4": {
+      "ReceiverContent": "For contacting Crofton Family Practice, what can I do for you this afternoon?",
+      "Timestamp": "2023-09-20 16:03:30"
+    },
+    "Seq5": {
+      "CallerContent": "Hi, Chris with Dr. Sayan's office. We have a mutual patient with Dr. Williams, and she's having surgery Monday morning. I need to get the office note clearance and blood work.",
+      "ReceiverContent": "Okay, Dr. Sayan, you said? Yeah. Okay, and you need, what is that, the office note clearance for a pre-op?",
+      "Timestamp": "2023-09-20 16:03:34"
+    },
+    "Seq6": {
+      "CallerContent": "Yeah. And blood work.",
+      "ReceiverContent": "Office note clearance and a pre-op paperwork and the blood work, lab work, okay? Yes, ma'am, no problem. Let me go ahead and get on it. What's the fax number you'd like that sent to, ma'am?",
+      "Timestamp": "2023-09-20 16:03:53"
+    },
+    "Seq7": {
+      "CallerContent": "Wait a minute. Who do you know I'm talking about?",
+      "ReceiverContent": "Well, that's why I said let me go ahead and get the fax number first, and then I was going to ask you patient information.",
+      "Timestamp": "2023-09-20 16:04:05"
+    },
+    "Seq8": {
+      "CallerContent": "Oh, that's in my head. I'm like, freaking good. Oh, I wish it. Because, you know, some offices you call and you say, I need it. They're like, yeah, I know.",
+      "ReceiverContent": "Oh, yes, ma'am. I like it. And what's the patient's name?",
+      "Timestamp": "2023-09-20 16:04:13"
+    },
+    "Seq9": {
+      "CallerContent": "Oh, all right. All right. It's 410-224-2675. You've made my day.",
+      "ReceiverContent": "Bambi.",
+      "Timestamp": "2023-09-20 16:04:26"
+    },
+    "Seq10": {
+      "ReceiverContent": "Bambi Jensen. Yep. Yep. Got it covered. No problem. All righty, my dear. I am on point. And yes, ma'am, we are working it together today, okay?",
+      "Timestamp": "2023-09-20 16:04:40"
+    },
+    "Seq11": {
+      "CallerContent": "Awesome. Again, thank you, thank you, thank you, because I really needed that chuckle.",
+      "ReceiverContent": "No problem. I'm glad I got it covered, baby. I'm on it. Okay. Have fun. Yes, ma'am. Bye.",
+      "Timestamp": "2023-09-20 16:04:56"
+    },
+    "Seq12": {
+      "CallerContent": "Bye-bye. Bye-bye.",
+      "Timestamp": "2023-09-20 16:05:02"
+    },
+    "Seq13": {
+      "ReceiverContent": "Bye-bye. Bye-bye.",
+      "Timestamp": "2023-09-20 16:05:04"
+    }
+  }
+}

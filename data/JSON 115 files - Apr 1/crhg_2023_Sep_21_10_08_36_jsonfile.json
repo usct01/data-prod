@@ -1,0 +1,36 @@
+{
+  "Metadata": "value",
+  "Caller": "Ellen",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-09-21 10:08:36",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. Thanks for calling Robson Family Practice. This is Dominic. I'm the assistee for the day.",
+      "Timestamp": "2023-09-21 10:08:36"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, Dominic. Good morning. My name is Ellen D'Argenzio. I have an appointment with Dr. Allison Williams at 1030.\nI went to go outside to get in my car, and I have a flat tire. So, unfortunately, I am not going to be able to make it.\nBut is there any way that I could get in sometime later today or just like as soon as the available appointment?\nBecause I have somebody coming to fix it. Luckily, it happened at the house.",
+      "ReceiverContent": "Okay. I'm really sorry, my mom. The slots are already booked today. So, for the further information, let me transfer the call to a friend desk. They'll help you out with this. If the call is not answered, I'm going to leave a voice message, and they'll get back to you as soon as possible.",
+      "Timestamp": "2023-09-21 10:08:37"
+    },
+    "Seq3": {
+      "CallerContent": "Thank you so much.",
+      "ReceiverContent": "Yeah. I'm transferring the call, and you have a great day.",
+      "Timestamp": "2023-09-21 10:00:51"
+    },
+    "Seq4": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Thank you for contacting Robson Family Practice. This is Brandi here in the front. Can you please hold for just a moment?",
+      "Timestamp": "2023-09-21 10:01:10"
+    },
+    "Seq5": {
+      "CallerContent": "Sure. Thank you.",
+      "ReceiverContent": "Sure. Thank you.",
+      "Timestamp": "2023-09-21 10:01:18"
+    },
+    "Seq6": {
+      "ReceiverContent": "Your conversation is being recorded.",
+      "Timestamp": "2023-09-21 10:01:12"
+    }
+  }
+}

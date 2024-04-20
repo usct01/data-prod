@@ -1,0 +1,44 @@
+crhg_2023_Sep_21_15_33_19_timestamped
+{
+  "Metadata": "value",
+  "Caller": "Latoya",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-11-01 14:29:13",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, this is Latoya with Centerwell Home Health. We have a mutual patient and I just wanted to leave a message for the doctor.",
+      "ReceiverContent": "Yeah, I got you. Can you give me a minute, ma'am? Let me transfer the call. You have a great day.",
+      "Timestamp": "2023-11-01 14:29:05"
+    },
+    "Seq2": {
+      "CallerContent": "Your conversation is being recorded.",
+      "ReceiverContent": "Good afternoon. This is Nurse Amy. How can I help you?",
+      "Timestamp": "2023-11-01 14:29:27"
+    },
+    "Seq3": {
+      "CallerContent": "Hi, Amy. This is Latoya with Centerwell. We're taking care of one. We have a mutual patient, Ms. Mary Artis.",
+      "ReceiverContent": "Okay. I will make note of that. Thank you so much. All right. Thank you. Have a great afternoon.",
+      "Timestamp": "2023-11-01 14:29:30"
+    },
+    "Seq4": {
+      "CallerContent": "I'm sorry. One more thing. I forgot. I just left her.",
+      "ReceiverContent": "I just wanted to... She... So, her daughter thinks it's related to her, like, after dialysis, but she's been having, like, some itching. But she says...",
+      "Timestamp": "2023-11-01 14:29:51"
+    },
+    "Seq5": {
+      "CallerContent": "Right.",
+      "ReceiverContent": "But, um... Because she said, like... And it's not even, like, for a long time. She said when she's, like, cleaning her up, you know, she'll put it on her left side to start cleaning and put it on her right side to finish off. Okay.",
+      "Timestamp": "2023-11-01 14:29:26"
+    },
+    "Seq6": {
+      "CallerContent": "Okay. To let you know. All right. Yeah. And I'll reach out.",
+      "ReceiverContent": "I'll maybe give the daughter a call tomorrow and see how she's doing and kind of do a follow-up. Okay. Thank you so much. Thank you. Have a good day.",
+      "Timestamp": "2023-11-01 14:29:43"
+    },
+    "Seq7": {
+      "CallerContent": "You too. Thanks.",
+      "ReceiverContent": "Bye-bye. Mm-hmm.",
+      "Timestamp": "2023-11-01 14:29:52"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Metadata": "value",
+  "Caller": "Anonymous",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-09-20 16:19:49",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thanks for calling Crofton Family Practice. This is Dominic. How may I assist you for the day? Dominic, how are you? Good afternoon. Is Andy there?",
+      "Timestamp": "2023-09-20 16:19:49"
+    },
+    "Seq2": {
+      "CallerContent": "Yes, sir. Can I give him a minute? Yeah, of course. You can speak to her. She's available. Let me transfer the call and you have a great day. Yeah. Yeah.",
+      "ReceiverContent": "",
+      "Timestamp": "2023-09-20 16:19:57"
+    },
+    "Seq3": {
+      "ReceiverContent": "Hello. You have reached the nurse line. If this is an emergency, please hang up and dial 9-1-1.",
+      "Timestamp": "2023-09-20 16:20:51"
+    },
+    "Seq4": {
+      "ReceiverContent": "If you're calling for a prescription refill, please leave a detailed message with the drug name, the milligrams, and your pharmacy information.",
+      "Timestamp": "2023-09-20 16:20:56"
+    },
+    "Seq5": {
+      "ReceiverContent": "Please allow 72 hours for your refills to be processed. Leave us a message and we'll get back to you as soon as we can. Thank you and have a good day.",
+      "Timestamp": "2023-09-20 16:21:07"
+    }
+  }
+}

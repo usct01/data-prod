@@ -1,0 +1,102 @@
+{
+  "Metadata": "value",
+  "Receiver": "Dominic from Crofton Family Practice",
+  "Timestamp": "2023-09-21 12:29:57",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thanks for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-09-21 00:00:00"
+    },
+    "Seq2": {
+      "CallerContent": "Hello. I'm sorry, sir. I didn't get your name.",
+      "ReceiverContent": "Yeah. My name is Dominic, ma'am.",
+      "Timestamp": "2023-09-21 00:11:00"
+    },
+    "Seq3": {
+      "CallerContent": "Oh, Dominic. Hi, Dominic. My name is Ann. Hi. My name is Ann Knudson. Is it possible for me to speak to Betty? Is she in the office today?",
+      "ReceiverContent": "Yes, ma'am. Call me again in a minute. Let me transfer the call to a concerned person who can help you out with this. If the call is not answered, kindly leave a voice message. They'll get back to you as soon as possible. Okay. Kindly stay on line. I'm transferring the call, and you have a great day.",
+      "Timestamp": "2023-09-21 00:14:00"
+    },
+    "Seq4": {
+      "CallerContent": "To Betty, correct? Right there in the front office next to you?",
+      "ReceiverContent": "Yes, that's correct.",
+      "Timestamp": "2023-09-21 00:41:00"
+    },
+    "Seq5": {
+      "ReceiverContent": "Thank you for contacting Crofton Family Practice. Can you please hold for a moment as I'm on another line?",
+      "Timestamp": "2023-09-21 00:56:00"
+    },
+    "Seq6": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "All righty. Thank you, ma'am.",
+      "Timestamp": "2023-09-21 00:56:00"
+    },
+    "Seq7": {
+      "ReceiverContent": "Ma'am, are you still there with me?",
+      "CallerContent": "Yes.",
+      "Timestamp": "2023-09-21 10:58:00"
+    },
+    "Seq8": {
+      "ReceiverContent": "I'm so very sorry to keep you waiting like that. I'm by myself here in the front office, and I had quite a bit going on at once. What can I help you with today?",
+      "CallerContent": "Is this Amy?",
+      "Timestamp": "2023-09-21 11:01:00"
+    },
+    "Seq9": {
+      "ReceiverContent": "No, ma'am. This is not Amy. This is Brandy. I work here in the front office.",
+      "CallerContent": "Oh, okay. Hi, Brandy. Okay. I don't know if I've met you yet. I'm Ann Knudson.",
+      "Timestamp": "2023-09-21 11:12:00"
+    },
+    "Seq10": {
+      "CallerContent": "I'm a patient of Dr. Williams, and I had a physical with her in July, and she wrote up all this lab work that, well, that got printed out, that I was to go to LabCorp and get.",
+      "ReceiverContent": "I'm going to this special not-to-develop physical therapy for this brain injury, and they deal with your visual, vestibular, and sensory mattery system. Okay.",
+      "Timestamp": "2023-09-21 11:23:00"
+    },
+    "Seq11": {
+      "ReceiverContent": "And mine are very mismatched. Okay. So one session, they had me have my eyes closed the entire time.",
+      "Timestamp": "2023-09-21 12:12:00"
+    },
+    "Seq12": {
+      "CallerContent": "I'm going to this special not-to-develop physical therapy for this brain injury, and they deal with your visual, vestibular, and sensory mattery system. Okay.",
+      "ReceiverContent": "And mine are very mismatched. Okay. So one session, they had me have my eyes closed the entire time.",
+      "Timestamp": "2023-09-21 12:23:00"
+    },
+    "Seq13": {
+      "CallerContent": "I'm going to this special not-to-develop physical therapy for this brain injury, and they deal with your visual, vestibular, and sensory mattery system. Okay.",
+      "ReceiverContent": "And mine are very mismatched. Okay. So one session, they had me have my eyes closed the entire time.",
+      "Timestamp": "2023-09-21 12:33:00"
+    },
+    "Seq14": {
+      "ReceiverContent": "Ma'am, are you still there with me?",
+      "CallerContent": "Yes.",
+      "Timestamp": "2023-09-21 14:48:00"
+    },
+    "Seq15": {
+      "ReceiverContent": "See, typically, they're only good for at least six months. Okay. Okay? Okay. When did you have it? When is it dated?",
+      "Timestamp": "2023-09-21 15:08:00"
+    },
+    "Seq16": {
+      "CallerContent": "July 5th.",
+      "ReceiverContent": "Yes, ma'am. So if it was dated on July 5th, I think you should still be okay, because we're not into December yet. So I think you should still be okay, but I would definitely make a point to try to get",
+      "Timestamp": "2023-09-21 15:18:00"
+    },
+    "Seq17": {
+      "CallerContent": "Yes. And I have a few more questions, please. Thank you. Thank you. Thank you. Thank you. Thank you.",
+      "ReceiverContent": "No problem. Let me go ahead and transfer you on in there to her now.",
+      "Timestamp": "2023-09-21 15:47:00"
+    },
+    "Seq18": {
+      "CallerContent": "Okay. Thank you.",
+      "ReceiverContent": "No problem. Let me go ahead and transfer you on in there to her now.",
+      "Timestamp": "2023-09-21 17:51:00"
+    },
+    "Seq19": {
+      "ReceiverContent": "Hello. You have reached the nurse line. If this is an emergency, please hang up and dial 911. If you're calling for a prescription refill, please leave a detailed message",
+      "Timestamp": "2023-09-21 18:26:00"
+    },
+    "Seq20": {
+      "CallerContent": "Hi, Amy. This is Ann Knudson. It's 2-15 on, I think it's Thursday. And I was calling originally because I didn't get in to get my lab work done at LabCorp.",
+      "ReceiverContent": "No, ma'am. I do greatly apologize. I can transfer you into Amy to see if there's, the nurse, to see if there's any questions that she could fulfill for you. Okay. Because personally, I know for a fact I do not know that answer.",
+      "Timestamp": "2023-09-21 18:56:00"
+    }
+  }
+}

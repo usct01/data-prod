@@ -1,0 +1,83 @@
+{
+  "Metadata": "value",
+  "Caller": "Alan Smith",
+  "Receiver": "Kathy",
+  "Timestamp": "2023-09-20 15:14:12",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yeah, this is Alan Smith. I'm still trying to get some medicine.",
+      "ReceiverContent": "Okay, I got you.",
+      "Timestamp": "2023-09-20 15:14:12"
+    },
+    "Seq2": {
+      "CallerContent": "What's the story here? Have they sent the prescription to a CVS yet?",
+      "ReceiverContent": "Yeah, I'll stay online. I'll transfer the call to the nurse and she could help you with this. Yes, if the call is not answered, kindly leave a voice message and she'll get back to you as soon as possible.",
+      "Timestamp": "2023-09-20 15:14:14"
+    },
+    "Seq3": {
+      "CallerContent": "Ma'am, I can't. Wait, I'm just not understanding you.",
+      "ReceiverContent": "Yeah, kindly stay online. Let me transfer the call to the nurse and she could help you with this. If the call is not answered, kindly leave a voice message and she'll get back to you as soon as possible.",
+      "Timestamp": "2023-09-20 15:14:31"
+    },
+    "Seq4": {
+      "CallerContent": "All right, you're an answering service, right?",
+      "ReceiverContent": "Yes, sir. We are the answering service. Okay.",
+      "Timestamp": "2023-09-20 15:14:48"
+    },
+    "Seq5": {
+      "CallerContent": "All right, all right. I understand. There's no way I can get into the office right now. There's no way I can talk to the front office.",
+      "ReceiverContent": "Yes, yeah, kindly stay online. I'm transferring the call to the friend desk and kindly stay online and have a great day. If they doesn't pick the call, you can call me back again. I'll transfer to the friend desk again.",
+      "Timestamp": "2023-09-20 15:14:52"
+    },
+    "Seq6": {
+      "CallerContent": "Yeah, transfer it, please.",
+      "ReceiverContent": "Kindly stay online.",
+      "Timestamp": "2023-09-20 15:15:22"
+    },
+    "Seq7": {
+      "CallerContent": "Your conversation is being recorded. Thank you for contacting Crofton Family Practice. This is Brandy here in the front office. How can we help you today?",
+      "ReceiverContent": "Brandy, this is Alan Smith and I really need to get this medicine prescribed.",
+      "Timestamp": "2023-09-20 15:16:36"
+    },
+    "Seq8": {
+      "CallerContent": "No, but let's do that and then let's, for heaven's sakes, if she's authorized it, let's get the prescription over there, okay?",
+      "ReceiverContent": "But listen, your blood work is showing you don't have gout. It came back normal. It's not gout. It's something else. The gout medicine, I can send that gout medicine over, but it's not going to help that foot because your blood work came back. That's why she wants to see you because your blood work came back and we checked your uric acid. And that's how we check for gout. And it was normal.",
+      "Timestamp": "2023-09-20 15:17:51"
+    },
+    "Seq9": {
+      "CallerContent": "Holy smoke. So there's something else. I know. It sure feels like Scout to me. I know. All right.",
+      "ReceiverContent": "Let me ask you this. Does the blood work show that I could take the medicine without any excessive danger to my kidneys, which was the original idea?",
+      "Timestamp": "2023-09-20 15:19:16"
+    },
+    "Seq10": {
+      "CallerContent": "So it could. So that's the thing. If this medicine isn't needed, it could do something to your kidneys. So here's the thing. On your blood work, there is showing there's some inflammation here. Your SED rate is a little bit elevated. So something's going to happen. There's something going on in that foot. Okay. You need to be evaluated by Dr. Williams. So let's get you in as soon as we can. She needs to see you. She needs to go over the blood work. There's a lot of things here. I mean, your cholesterol, your blood sugar, all that. It's really the main thing is your SED rate.",
+      "ReceiverContent": "All right. Let's make an appointment. Let's do that.",
+      "Timestamp": "2023-09-20 15:28:28"
+    },
+    "Seq11": {
+      "CallerContent": "Yeah. Let's do that, and then she can kind of go over things. We don't want to put you on that medicine if it's not gout, okay? Because it could do something to your kidneys.",
+      "ReceiverContent": "Hey, Mr. Smith, can you come in at 1130 tomorrow?",
+      "Timestamp": "2023-09-20 15:29:22"
+    },
+    "Seq12": {
+      "CallerContent": "I sure can.",
+      "ReceiverContent": "Okay. We're going to work you in. We are double booking you, so it might be a little bit of a wait, but we'll work you in, and we'll see you as soon as we can. But we will get you seen tomorrow at 1130.",
+      "Timestamp": "2023-09-20 15:30:20"
+    },
+    "Seq13": {
+      "CallerContent": "All right. Then I just woke up from a nap, so it's Thursday is tomorrow, right?",
+      "ReceiverContent": "Correct. Yeah. Yeah, the 21st, Thursday at 1130.",
+      "Timestamp": "2023-09-20 15:30:36"
+    },
+    "Seq14": {
+      "CallerContent": "All right. I'll be in there tomorrow at 1130 a.m. Thank you.",
+      "ReceiverContent": "Very welcome. We'll see you then. Bye-bye.",
+      "Timestamp": "2023-09-20 15:30:43"
+    },
+    "Seq15": {
+      "CallerContent": "Bye. Bye-bye.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2023-09-20 15:30:45"
+    }
+  }
+}

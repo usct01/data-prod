@@ -1,0 +1,46 @@
+{
+  "Metadata": "value",
+  "Caller": "Alan",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-09-21 09:05:10",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. Thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-09-21 09:05:10"
+    },
+    "Seq2": {
+      "CallerContent": "Yeah, this is Alan Smith again. Listen, you were kind enough to make an appointment for me this morning, but I think I will let you.",
+      "ReceiverContent": "Okay. So can you please help me with your appointment date, sir?",
+      "Timestamp": "2023-09-21 09:05:14"
+    },
+    "Seq3": {
+      "CallerContent": "I'm sorry. They were going to work me in about 11 o'clock.",
+      "ReceiverContent": "Okay. Today at 11 o'clock?",
+      "Timestamp": "2023-09-21 09:05:35"
+    },
+    "Seq4": {
+      "CallerContent": "Yeah, I don't know if she even put it down. They were just going to try to work me in between your already full schedule. So just tell them Alan Smith isn't going to come today.",
+      "ReceiverContent": "Alan Smith. Is that correct?",
+      "Timestamp": "2023-09-21 09:05:44"
+    },
+    "Seq5": {
+      "CallerContent": "Right. Okay.",
+      "ReceiverContent": "So may I have your name? And may I have your date of birth, sir?",
+      "Timestamp": "2023-09-21 09:05:58"
+    },
+    "Seq6": {
+      "CallerContent": "Yeah, 12-23-36.",
+      "ReceiverContent": "12-23-36. Yeah, kind of give me a minute. Let me cancel this appointment.",
+      "Timestamp": "2023-09-21 09:07:03"
+    },
+    "Seq7": {
+      "CallerContent": "Yeah. Tell Amy, thank me. Thank Amy for me, for trying to get me in there.",
+      "ReceiverContent": "Sure, sir. I'll do that for you.",
+      "Timestamp": "2023-09-21 09:12:12"
+    },
+    "Seq8": {
+      "ReceiverContent": "Yeah. Thank you for calling Crofton Family Practice, and have a great day, sir. Bye-bye.",
+      "Timestamp": "2023-09-21 09:12:24"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+crhg_2023_Oct_30_09_35_17_timestamped
+```json
+{
+  "Caller": "Unnamed",
+  "Receiver": "Kumar",
+  "Timestamp": "2024-03-27",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yeah, I'm trying to get a hold of the doctor.",
+      "ReceiverContent": "Would you like to make up any appointment?",
+      "Timestamp": "2024-03-27 00:04:00"
+    },
+    "Seq2": {
+      "CallerContent": "I have an appointment. Or if I can get one today. I have a sciatic nerve. Okay. Down my leg.",
+      "ReceiverContent": "Oh, would you like to verify your appointment?",
+      "Timestamp": "2024-03-27 00:14:00"
+    },
+    "Seq3": {
+      "CallerContent": "What time? What time? What time? No.",
+      "ReceiverContent": "Have you already made an appointment?",
+      "Timestamp": "2024-03-27 00:33:00"
+    },
+    "Seq4": {
+      "CallerContent": "He wants an appointment with the doctor. His sciatic nerve is bothering him. It has been for a week. Is there any way he can be seen today?",
+      "ReceiverContent": "Today, one moment.",
+      "Timestamp": "2024-03-27 00:38:00"
+    },
+    "Seq5": {
+      "CallerContent": "His leg hurts. He needs to see a doctor.",
+      "ReceiverContent": "Sure. Let me check on the available slot for you, one moment.",
+      "Timestamp": "2024-03-27 01:26:00"
+    },
+    "Seq6": {
+      "CallerContent": "We do have a slot available at 2.15 p.m. in the afternoon. Will that be okay with you?",
+      "ReceiverContent": "But this is only to meet the doctor in person.",
+      "Timestamp": "2024-03-27 01:33:00"
+    },
+    "Seq7": {
+      "CallerContent": "In person, right?",
+      "ReceiverContent": "Yes, correct.",
+      "Timestamp": "2024-03-27 01:47:00"
+    },
+    "Seq8": {
+      "CallerContent": "Okay, perfect. Yes. You don't have anything later, right?",
+      "ReceiverContent": "No, we do have only one slot available today.",
+      "Timestamp": "2024-03-27 01:54:00"
+    },
+    "Seq9": {
+      "CallerContent": "2 February 25th, 1963.",
+      "ReceiverContent": "Patient's first name is James Patrick, am I correct?",
+      "Timestamp": "2024-03-27 02:22:00"
+    },
+    "Seq10": {
+      "CallerContent": "Correct.",
+      "ReceiverContent": "Just confirm, I have an appointment today at 2.15 p.m. to meet the doctor in person?",
+      "Timestamp": "2024-03-27 02:31:00"
+    },
+    "Seq11": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Is there anything else that I may assist to do with?",
+      "Timestamp": "2024-03-27 02:40:00"
+    },
+    "Seq12": {
+      "CallerContent": "That's all we're going to need. He'll be there at 2.15 p.m. or 2.10 p.m.",
+      "ReceiverContent": "2.15 p.m.",
+      "Timestamp": "2024-03-27 02:44:00"
+    }
+  }
+}
+```

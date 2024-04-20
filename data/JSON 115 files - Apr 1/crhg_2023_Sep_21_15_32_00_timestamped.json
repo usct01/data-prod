@@ -1,0 +1,52 @@
+crhg_2023_Sep_21_15_32_00_timestamped
+{
+  "Metadata": "value",
+  "Caller": "Judith",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-11-01 14:29:13",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, good afternoon. This is Judith again. Can I speak to Brandy, please?",
+      "ReceiverContent": "Yeah, sure. One moment. If the call is not answered, kindly leave a voice message. She'll get back to you as soon as possible. Please stay online. You have a great day.",
+      "Timestamp": "2023-11-01 14:29:03"
+    },
+    "Seq2": {
+      "CallerContent": "No problem.",
+      "ReceiverContent": "Your conversation is being recorded. Thank you for contacting Crofton Family Practice. Can you please hold for one moment?",
+      "Timestamp": "2023-11-01 14:29:17"
+    },
+    "Seq3": {
+      "CallerContent": "Hi, ma'am. I'm so sorry to keep you waiting. Again, my name is Brandy. How can I help you out?",
+      "ReceiverContent": "Yes, ma'am. Actually, they sent us Mr. Williams' list of medications. We were asking for Yvonne Kuhn.",
+      "Timestamp": "2023-11-01 14:29:32"
+    },
+    "Seq4": {
+      "CallerContent": "Oh, I do greatly apologize, ma'am. Those were the ones that they had listed in her chart. I did not even, yeah, I'm so very sorry. I just went on, and that was what somebody had, I'm assuming, then had scanned into the chart. I greatly apologize.",
+      "ReceiverContent": "No worries. I just wanted to have that. Is that correct?",
+      "Timestamp": "2023-11-01 14:29:54"
+    },
+    "Seq5": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "No, no problem. Let me go in, and let me just take another look here. And it's C-O-O-N. Is that correct?",
+      "Timestamp": "2023-11-01 14:30:06"
+    },
+    "Seq6": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Yes, ma'am. And what is her date of birth?",
+      "Timestamp": "2023-11-01 14:30:15"
+    },
+    "Seq7": {
+      "CallerContent": "Her date of birth is 8-19-37.",
+      "ReceiverContent": "Let me just go ahead here. Yep, I just pulled her up again. And let me just go in back to her documents and see what's listed, because that is not okay that they have those listed in there. But thank you very much for bringing it to our attention. Okay. Okay. Bear with me, Harry.",
+      "Timestamp": "2023-11-01 14:30:19"
+    },
+    "Seq8": {
+      "CallerContent": "",
+      "ReceiverContent": "All righty. Yes, ma'am. So sorry to keep you waiting there. I'm taking a look now, again, just through anything here for Ms. Kuhn.",
+      "Timestamp": "2023-11-01 14:30:52"
+    },
+    "Seq9": {
+      "CallerContent": "And now that I am reviewing over the documents here, let me just see. It says, yep. Okay. So I do have some from December of 2021 for her as well.",
+      "ReceiverContent": "So let me just click here. Yep, I have hers right here. Let me go ahead. I'm faxing these over to the same number, if I'm correct here. Let me just get this over to you, of course. And that's 301-441-4859, correct?",
+      "Timestamp": "2023-11-01 14:31:18"
+   

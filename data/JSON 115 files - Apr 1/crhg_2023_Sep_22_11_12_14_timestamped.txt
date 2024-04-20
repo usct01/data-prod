@@ -1,0 +1,78 @@
+Receiver - Dominic
+[00:01 - 00:05] Good afternoon, thank you for calling Crops and Facts Practice. This is Dominic, how may I assist you for the day?
+
+Caller - Barrett Coates
+[00:06 - 00:08] Hi Dominic, yes, I would like to schedule an appointment for my son.
+
+Receiver - Dominic
+[00:10 - 00:13] Sure, sir, can I give you a minute? Let me check the next available slot for you.
+
+Caller - Barrett Coates
+[00:14 - 00:14] Okay.
+
+Receiver - Dominic
+[00:14 - 00:24] I do have a slot available by 27th of September at 9am. Is it okay with you, sir?
+
+Caller - Barrett Coates
+[00:26 - 00:30] 27th of September. Can we do like the next day?
+
+Receiver - Dominic
+[00:31 - 00:43] Yeah. I'm really sorry, sir, all the slots are already booked. This is the only slot we have. If you want a future slot, we can do that for the month of October. Is it okay with you?
+
+Caller - Barrett Coates
+[00:44 - 00:45] What day in October?
+
+Receiver - Dominic
+[00:46 - 00:48] Can you give me a minute?
+
+Caller - Barrett Coates
+[00:49 - 00:49] Okay.
+
+Receiver - Dominic
+[00:53 - 00:58] The 6th of October at 11am. Is that okay with you, sir?
+
+Caller - Barrett Coates
+[00:59 - 01:00] 6th of October.
+
+Receiver - Dominic
+[01:02 - 01:02] It's on Friday.
+
+Caller - Barrett Coates
+[01:04 - 01:07] It's a Friday? Yeah, that sounds good.
+
+Receiver - Dominic
+[01:08 - 01:12] Okay, can I give you a minute? Can you please help me with your kids' data first?
+
+Caller - Barrett Coates
+[01:13 - 01:17] Yep, it's February 11th, 2022.
+
+Receiver - Dominic
+[01:26 - 01:28] Okay. Barrett Coates?
+
+Caller - Barrett Coates
+[01:29 - 01:29] Yes.
+
+Receiver - Dominic
+[01:30 - 01:33] I got you. So, may I know the reason for the visit, sir?
+
+Caller - Barrett Coates
+[01:35 - 01:38] Just a checkup. A well visit.
+
+Receiver - Dominic
+[01:41 - 01:50] Okay. Okay, I got you. I'm going to give me a minute. Thanks for an office visit. Yep, I'm done.
+[01:50 - 01:59] So, just to confirm, I've fixed an appointment on Friday, which is 6th of October at 11am. Is it okay with you, sir?
+
+Caller - Barrett Coates
+[02:00 - 02:01] Yes, sir. Absolutely. Okay.
+
+Receiver - Dominic
+[02:02 - 02:04] Sure. Is there anything else that I missed you with, sir?
+
+Caller - Barrett Coates
+[02:05 - 02:07] Nope, that'll be it. Appreciate it.
+
+Receiver - Dominic
+[02:07 - 02:11] Okay, sure. Thank you for calling Crofton Family Practice and have a great day, sir. Bye-bye.
+
+Caller - Barrett Coates
+[02:11 - 02:12] Bye. Thank you, you too. Bye-bye.

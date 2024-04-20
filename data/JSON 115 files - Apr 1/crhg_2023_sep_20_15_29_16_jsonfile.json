@@ -1,0 +1,164 @@
+{
+  "Metadata": "value",
+  "Caller": "Mr. Leatherman",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-09-20 15:29:16",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thanks for calling Crosstown Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-09-20 15:29:16"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, yes. Could I speak to Brandy at the front desk? It's about a referral she put in for me.",
+      "ReceiverContent": "Sure. Sir, if only you give me a minute. Let me transfer the call, and you have a great day.",
+      "Timestamp": "2023-09-20 15:29:16"
+    },
+    "Seq3": {
+      "CallerContent": "Thanks.",
+      "Timestamp": "2023-09-20 15:29:17"
+    },
+    "Seq4": {
+      "ReceiverContent": "Your conversation is being recorded. Thank you for contacting Crosstown Family Practice. This is Brandy here on the front. Is this Mr. Leatherman?",
+      "Timestamp": "2023-09-20 15:29:31"
+    },
+    "Seq5": {
+      "CallerContent": "Yes, ma'am, it is. How are you doing?",
+      "ReceiverContent": "I'm doing great. I actually saw your number came up. I was getting ready to contact you back because I just listened to your voicemail. It said that you think that you figured out the issue that was going on. What was it?",
+      "Timestamp": "2023-09-20 15:29:42"
+    },
+    "Seq6": {
+      "CallerContent": "Yeah, so on the actual referral for my subscriber ID and later on in the patient referral authorization form, the TRICARE ID, it looks like you used my DOD ID from my – Okay. My government ID card, and I think – actually, I know I confirmed with my wife in TRICARE that that needs to be the actual benefits number.",
+      "ReceiverContent": "Right. I don't know. No, don't get me wrong. I don't know who put it in. I was – yeah, I had just read what was already put into our system. So, yes, indeed, you are correct. We typically only use the benefits number, so you're absolutely correct. I think that's why they're not able to find you then, you know, because we are supposed to only use the benefits number, and that is the – you know, the benefits number. That's typical of what we do. So, yes, indeed, sir. If I – you know, if they were listed the wrong information in the computer system, then I have no problem going in and fixing it for you. Let me go in while I have you on the line real quick. Give me one minute, and I'm going to change it while I have you on the phone, okay?",
+      "Timestamp": "2023-09-20 15:29:52"
+    },
+    "Seq7": {
+      "CallerContent": "Okay. Awesome. I appreciate it. Yes, sir.",
+      "Timestamp": "2023-09-20 15:29:59"
+    },
+    "Seq8": {
+      "ReceiverContent": "Give me just a moment.",
+      "Timestamp": "2023-09-20 15:29:59"
+    },
+    "Seq9": {
+      "ReceiverContent": "Sorry about that there, Mr. Leatherman. I do greatly apologize. I'm just wrapping up a few other little things here. That way I can get you situated, okay?",
+      "Timestamp": "2023-09-20 15:30:11"
+    },
+    "Seq10": {
+      "CallerContent": "Okay. Sounds good. Thank you. No problem, sweetie.",
+      "Timestamp": "2023-09-20 15:30:19"
+    },
+    "Seq11": {
+      "ReceiverContent": "Give me just one sec here, and we'll get you done, done, done.",
+      "Timestamp": "2023-09-20 15:30:21"
+    },
+    "Seq12": {
+      "ReceiverContent": "There we go. Alrighty. Perfect. That's exactly what I was looking to do there. Wonderful, wonderful, wonderful. Okay.",
+      "Timestamp": "2023-09-20 15:30:26"
+    },
+    "Seq13": {
+      "ReceiverContent": "Alrighty. That is done and taken care of now. Okay. Hang on just a sec.",
+      "Timestamp": "2023-09-20 15:30:40"
+    },
+    "Seq14": {
+      "ReceiverContent": "Update insurance info. For today.",
+      "Timestamp": "2023-09-20 15:30:49"
+    },
+    "Seq15": {
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-09-20 15:30:58"
+    },
+    "Seq16": {
+      "CallerContent": "And...",
+      "Timestamp": "2023-09-20 15:31:09"
+    },
+    "Seq17": {
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-09-20 15:31:14"
+    },
+    "Seq18": {
+      "CallerContent": "We'll see you later.",
+      "Timestamp": "2023-09-20 15:31:15"
+    },
+    "Seq19": {
+      "ReceiverContent": "Yep.",
+      "Timestamp": "2023-09-20 15:31:20"
+    },
+    "Seq20": {
+      "ReceiverContent": "Yes.",
+      "Timestamp": "2023-09-20 15:31:36"
+    },
+    "Seq21": {
+      "ReceiverContent": "Yes.",
+      "Timestamp": "2023-09-20 15:31:58"
+    },
+    "Seq22": {
+      "CallerContent": "Are you still there? Sorry.",
+      "Timestamp": "2023-09-20 15:32:06"
+    },
+    "Seq23": {
+      "ReceiverContent": "What did you say, Dr. or Mr. Leatherman?",
+      "Timestamp": "2023-09-20 15:32:08"
+    },
+    "Seq24": {
+      "CallerContent": "Oh, no, no, I was just making sure you were still there.",
+      "Timestamp": "2023-09-20 15:32:11"
+    },
+    "Seq25": {
+      "ReceiverContent": "No, no problem. I'm still here. Sorry, I was just finishing up my last little bit here. I am getting you wrapped up on this little part. I'm so sorry to keep you waiting that long. There we go. All right, now we're in the works. Okay.",
+      "Timestamp": "2023-09-20 15:32:13"
+    },
+    "Seq26": {
+      "ReceiverContent": "Now, let me go ahead into your form here, and let me get this one pulled up, because you said that it was something about your benefits number, which is going to be a succeeding effort in trying to find all this out. So let me go in here. So currently they have the subscriber number showing, which basically would have been your benefits number. It should be we have 1380019724. Is that not correct?",
+      "Timestamp": "2023-09-20 15:32:25"
+    },
+    "Seq27": {
+      "CallerContent": "Yeah, that's not correct. That's my DOD ID number. That's your DOD number.",
+      "ReceiverContent": "Yep. What's your benefit number?",
+      "Timestamp": "2023-09-20 15:32:57"
+    },
+    "Seq28": {
+      "CallerContent": "So it's 0117.",
+      "ReceiverContent": "0117? Yep. 681.",
+      "Timestamp": "2023-09-20 15:33:04"
+    },
+    "Seq29": {
+      "CallerContent": "Okay. 4849.",
+      "ReceiverContent": "Got it. Perfect. Okay. So I'm actually, I just went ahead and updated everything in there for you. That is now being saved on there for you. I am going to print out the TRICARE referral again, send it off with the new number on, and we'll call it a day, okay?",
+      "Timestamp": "2023-09-20 15:33:13"
+    },
+    "Seq30": {
+      "CallerContent": "All right. That sounds good. Is there any way to, so I've been, I'm wondering if they were billing, so since I've seen Dr. Williams like two or three times now, I'm wondering if that was wrong in the system, if my billing has been getting paid? Like has TRICARE been paying off?",
+      "ReceiverContent": "I don't.",
+      "Timestamp": "2023-09-20 15:33:37"
+    },
+    "Seq31": {
+      "CallerContent": "Paying off on my previous system.",
+      "ReceiverContent": "Let me see real quick. Let me pull up your name again.",
+      "Timestamp": "2023-09-20 15:33:55"
+    },
+    "Seq32": {
+      "CallerContent": "I haven't received anything about it.",
+      "ReceiverContent": "Yeah. I was going to say, because I haven't seen anything coming through on my end, like, you know, and we call typically if there's anybody that has like a significant balance.",
+      "Timestamp": "2023-09-20 15:34:00"
+    },
+    "Seq33": {
+      "ReceiverContent": "And you know, sir, I'm showing $0 account balance and $0 patient balance, which means that not only does your insurance not owe anything, but you owe nothing as well.",
+      "Timestamp": "2023-09-20 15:34:11"
+    },
+    "Seq34": {
+      "CallerContent": "Okay. Cool. Yeah. Yep. I just wanted to check while we were doing it.",
+      "ReceiverContent": "No problem. So I'm making a note in here now that I adjusted from your, you adjusted from the VOB number, of course, you know, and then having it actually listed with your benefit number listed. And then of course we'll be good to go. Okay. And I'm going to get this sent back off right away here for you.",
+      "Timestamp": "2023-09-20 15:34:23"
+    },
+    "Seq35": {
+      "CallerContent": "Awesome. Thank you so much.",
+      "ReceiverContent": "No problem. Let me know when it comes through on it, because I'm really, I'm eager to know now.",
+      "Timestamp": "2023-09-20 15:34:45"
+    },
+    "Seq36": {
+      "CallerContent": "Yeah. Yeah. I'll definitely be in constant contact with them.",
+      "ReceiverContent": "Oh, sorry. Yep. All right. No problem, sir. All right. Thank you. You're good. Yes, sir. Mr. Leatherman, you as well. Bye-bye.",
+      "Timestamp": "2023-09-20 15:34:56"
+    }
+  }
+}

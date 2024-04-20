@@ -1,0 +1,82 @@
+```json
+{
+  "Conversation": {
+    "Participants": [
+      {
+        "Role": "Receiver",
+        "Name": "Kumaran",
+        "Position": "Front Office Staff",
+        "Organization": "Crawford Family Practice"
+      },
+      {
+        "Role": "Caller",
+        "Name": "Berth Hall",
+        "Position": "Staff Member",
+        "Organization": "Dr. Bernstein's Office (Pulmonology)"
+      },
+      {
+        "Role": "Brandy",
+        "Position": "Front Office Staff",
+        "Organization": "Crawford Family Practice"
+      }
+    ],
+    "Messages": [
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "[2023_Nov_01_09:35:32]",
+        "Content": "Good morning, thank you for calling Crawford Family Practice. How may I assist you today?"
+      },
+      {
+        "Sender": "Berth Hall",
+        "Timestamp": "[2023_Nov_01_09:35:36]",
+        "Content": "Yes, I'm calling from Dr. Bernstein's office. We have a patient of yours in our office. I was just checking to see if she's had a recent checkup with you guys. And then she also said she had a recent x-ray of her chest. I was wondering if we can get that sent to her."
+      },
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "[2023_Nov_01_09:35:39]",
+        "Content": "Okay, one moment. Let me transfer you to the consent person who could help you out with this. Please stay online."
+      },
+      {
+        "Sender": "Brandy",
+        "Timestamp": "[2023_Nov_01_09:35:45]",
+        "Content": "Thank you for contacting Crawford Family Practice. This is Brandy here within the front office. How can I help you today?"
+      },
+      {
+        "Sender": "Berth Hall",
+        "Timestamp": "[2023_Nov_01_09:35:51]",
+        "Content": "Yes, I'm calling from Dr. Bernstein's office. We have a patient of yours in the office right now. She said she had a chest x-ray with you guys. I was wondering if I could get a copy of that for Dr. Bernstein."
+      },
+      {
+        "Sender": "Brandy",
+        "Timestamp": "[2023_Nov_01_09:35:56]",
+        "Content": "Yeah, I can definitely take a look. Bear with me just a moment or so. Let me just go ahead here. What's the patient's last name, ma'am? ... And it does look like here that she had a chest CT with IV contrast on August 1, 2012. ... Okay, perfect. And let me just get a fax number in one moment here from you."
+      },
+      {
+        "Sender": "Berth Hall",
+        "Timestamp": "[2023_Nov_01_09:36:01]",
+        "Content": "Okay, yeah, because she said they found one of the nodules, so that's what we wanted to see."
+      },
+      {
+        "Sender": "Brandy",
+        "Timestamp": "[2023_Nov_01_09:36:03]",
+        "Content": "Yeah, this is the one that says that they had several nodules on both lungs. ... And then let me just take a look here and see if we have an annual wellness for you. ... So, yes, ma'am, she is actually on our list for that way when she does make an appointment, you know, we can have her come on in and take care of that."
+      },
+      {
+        "Sender": "Berth Hall",
+        "Timestamp": "[2023_Nov_01_09:36:56]",
+        "Content": "Yeah. Okay. All right. Well, thank you for checking on that and I'll look forward to seeing that CT."
+      },
+      {
+        "Sender": "Brandy",
+        "Timestamp": "[2023_Nov_01_09:37:49]",
+        "Content": "Okay. Yes, ma'am. Did you want me to send over the progress notes from that annual wellness? I didn't know if you wanted it being so long ago."
+      },
+      {
+        "Sender": "Berth Hall",
+        "Timestamp": "[2023_Nov_01_09:37:56]",
+        "Content": "No, that should be good. ... All right. Bye-bye."
+      }
+    ]
+  }
+}
+```

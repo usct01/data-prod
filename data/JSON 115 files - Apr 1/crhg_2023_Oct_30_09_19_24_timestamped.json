@@ -1,0 +1,45 @@
+crhg_2023_Oct_30_09_19_24_timestamped
+```json
+{
+  "Caller": "Marlene Delaney",
+  "Receiver": "Kumar",
+  "Timestamp": "2024-03-27",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Good morning, my name is Marlene Delaney. To see if I could have someone give me a call. Problem, and I want to know if they could send me an antibiotic for my sinus issue.",
+      "ReceiverContent": "Okay, one moment. I'm going to transfer you to the front desk and they will help you out with this. Please stay online.",
+      "Timestamp": "2024-03-27 00:16:00"
+    },
+    "Seq2": {
+      "CallerContent": "Thank you for contacting Crawford Family Practice. Please hold one moment.",
+      "ReceiverContent": "I'm sorry about that and thank you so much for holding. How can I help you today? Yes, ma'am, this is Brandy. How you doing? What I'm calling for was wondering if anyone could call in a prescription for me to have an antibiotic for a sinus infection.",
+      "Timestamp": "2024-03-27 00:41:00"
+    },
+    "Seq3": {
+      "CallerContent": "Let me send you on in there to Amy because unfortunately I can't handle the prescription purpose of it. But let me get you on in there to Amy, our nurse. If Amy does not answer the phone, if she doesn't answer the phone by any means possible, just leave her a message because she will call you back first thing, okay?",
+      "ReceiverContent": "Yes, ma'am, Ms. Delaney, I hope you're feeling better, honey. Seems like one thing just leaked or not. Well, you know what? My daughter, believe it or not, I know a difference in everything, but my daughter, she suffers from a lot of sinus problems.",
+      "Timestamp": "2024-03-27 02:52:00"
+    },
+    "Seq4": {
+      "CallerContent": "And with this big change in weather that we've been having lately, she's had a lot of difficulty in breathing. So I understand. I understand it fully.",
+      "ReceiverContent": "And it's getting me frightened because I'm proud of you to have these issues. I get it. Right. It just makes you get a little bit, eh, you know? All right.",
+      "Timestamp": "2024-03-27 03:41:00"
+    },
+    "Seq5": {
+      "CallerContent": "All right, my mama. Transfer you on in there to Amy now. And then, like I said, just leave her a message if she's not there to answer, okay? All right. Thank you. Yes, ma'am. Bye-bye.",
+      "ReceiverContent": "Hello.",
+      "Timestamp": "2024-03-27 04:53:00"
+    },
+    "Seq6": {
+      "CallerContent": "You have reached the nurse line. If this is an emergency, please hang up and dial 911. If you're calling for a prescription, please leave a detailed message with the drug name, the milligrams, and your pharmacy information. Please allow 72 hours for your refills to be processed. Leave us a message, and we'll get back to you as soon as we can. Thank you, and have a good day.",
+      "ReceiverContent": "Good morning, Amy.",
+      "Timestamp": "2024-03-27 05:22:00"
+    },
+    "Seq7": {
+      "CallerContent": "This is Marlene Delaney. And what I'm calling for today is, I have a sinus infection, and I'm calling to see if someone could call in a prescription for me to get something for my sinus infection. And the place to pick up is Fairwood in Bowie, Maryland. And you all have the telephone number on file. And again, I'm having issues with my sinuses, and I do believe it's a sinus infection. And I hope you all can call if I can get on it as soon as I can. Bye-bye. Have a good day. Thank you.",
+      "ReceiverContent": "Thank you, ma'am. We'll take care of that for you. Have a good day. Bye-bye.",
+      "Timestamp": "2024-03-27 05:24:00"
+    }
+  }
+}
+```

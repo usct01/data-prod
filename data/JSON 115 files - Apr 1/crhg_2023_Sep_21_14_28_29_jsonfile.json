@@ -1,0 +1,105 @@
+{
+  "Metadata": "value",
+  "Receiver": "Dominic from Robson Family Practice",
+  "Timestamp": "2023-09-21 14:28:29",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thank you for calling Robson Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-09-21 00:00:00"
+    },
+    "Seq2": {
+      "OtherSpeakerContent": "Hi.",
+      "Timestamp": "2023-09-21 00:05:00"
+    },
+    "Seq3": {
+      "CallerContent": "You said Dominic, right?",
+      "ReceiverContent": "Yes, that's correct. Hi.",
+      "Timestamp": "2023-09-21 00:08:00"
+    },
+    "Seq4": {
+      "CallerContent": "Yeah, this is Michelle calling from Dr. Michael Damiano's office for Ear, Nose, and Throat. We've got a mutual patient here today, and she's having trouble finding her Medicare card. I wanted to know, she gave me your or Dr. Allison Williams' name as her primary care. I wanted to know if you guys could fax over her insurance information.",
+      "ReceiverContent": "Sure. Can I give you a minute, ma'am? Yes. Let me transfer the call to the person who can help you out with this. Can I list you online? Let me transfer the call, and you have a great day.",
+      "Timestamp": "2023-09-21 00:09:00"
+    },
+    "Seq5": {
+      "OtherSpeakerContent": "Thank you. Yeah.",
+      "Timestamp": "2023-09-21 00:37:00"
+    },
+    "Seq6": {
+      "OtherSpeakerContent": "Your conversation is being recorded. Thank you for contacting Robson Family Practice. This is Brandy here in the front office. How can we help you today?",
+      "Timestamp": "2023-09-21 00:42:00"
+    },
+    "Seq7": {
+      "CallerContent": "Hi, Brandy. This is Michelle calling from Dr. Michael Damiano's office, Ear, Nose, and Throat. We've got a mutual patient here today, and she cannot locate her Medicare card. She gave me your name or Dr. Allison Williams' name as her primary care. I wanted to know if you guys had her insurance information you could fax to us.",
+      "ReceiverContent": "Let me go ahead and take a look. What is the fax number, ma'am?",
+      "Timestamp": "2023-09-21 00:50:00"
+    },
+    "Seq8": {
+      "CallerContent": "My fax number is 301-441-4859.",
+      "ReceiverContent": "4859?",
+      "Timestamp": "2023-09-21 01:10:00"
+    },
+    "Seq9": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Let me just go ahead, and I'm pretty sure I recently just got her insurance card, but let me just verify, okay?",
+      "Timestamp": "2023-09-21 01:21:00"
+    },
+    "Seq10": {
+      "CallerContent": "Okay. Yeah.",
+      "ReceiverContent": "Yep. I actually did. I recently got it from her. I knew I did. I remember that last name. I was like... Yep. It's her military ID. Now, she does have TRICARE as her primary and whatnot, so I have her military ID of the front and back copy of it. Okay. Okay. Okay. So, I can send over that to you, or I could simply give you her information needed over the phone vocally if you'd prefer.",
+      "Timestamp": "2023-09-21 01:44:00"
+    },
+    "Seq11": {
+      "CallerContent": "So, you're telling me TRICARE is primary for her, not Medicare?",
+      "ReceiverContent": "Let me take a look. Let me look. I'm sorry. There's another folder listed underneath of here. Yeah. I was going to say, let me see. Oh, no, ma'am. She has Medicare as well. Yes, indeed. She does. She has Medicare listed here, and they... Let me just make sure in her info part here. I'm sorry. I just wanted to verify that they didn't have somebody... Let me see. Yeah. Okay. I'm sorry. No, they do have Medicare listed as primary, and then TRICARE is listed as secondary, and then, of course, tertiary is CARE First Blue Cross Blue Shield Maryland is what it looks like here.",
+      "Timestamp": "2023-09-21 02:07:00"
+    },
+    "Seq12": {
+      "CallerContent": "Can you fax me copies of those cards? Is that possible?",
+      "ReceiverContent": "Yes, ma'am. Let me go ahead here, and let me just take a look. And with that being said, I do believe that I should be able to with no problem. I'm not sure if I need to have some sort of a release or anything signed by her. I don't believe so. But let me just... Let me just double check. I'm sorry. Bear with me here.",
+      "Timestamp": "2023-09-21 02:42:00"
+    },
+    "Seq13": {
+      "CallerContent": "Okay. Because she's here in the office, I can put her on the phone to you.",
+      "ReceiverContent": "Yep. Give me just a moment. Let me just answer this other line if you don't mind. Thank you. Thank you.",
+      "Timestamp": "2023-09-21 03:06:00"
+    },
+    "Seq14": {
+      "OtherSpeakerContent": "Yes, ma'am. Are you still there with me?",
+      "Timestamp": "2023-09-21 04:53:00"
+    },
+    "Seq15": {
+      "CallerContent": "Yeah, I'm here.",
+      "OtherSpeakerContent": "Wonderful.",
+      "Timestamp": "2023-09-21 04:56:00"
+    },
+    "Seq16": {
+      "ReceiverContent": "No problem whatsoever, ma'am. I'm actually printing out copies of these right now, and I'm going to go ahead and send them over to you as soon as possible. Now, let me see. Just to verify. It looks like here.",
+      "Timestamp": "2023-09-21 04:56:00"
+    },
+    "Seq17": {
+      "CallerContent": "I don't have...",
+      "ReceiverContent": "I happen to have that Blue Cross Blue Shield card that was listed. I do have the TRICARE and Medicare cards, though.",
+      "Timestamp": "2023-09-21 05:09:00"
+    },
+    "Seq18": {
+      "CallerContent": "Okay. Do you have the Blue Cross Blue Shield ID number?",
+      "ReceiverContent": "I do believe so. Yes, ma'am.",
+      "Timestamp": "2023-09-21 05:15:00"
+    },
+    "Seq19": {
+      "CallerContent": "Okay. Maybe if you could just write it on the bottom of the other ones, that would be fine.",
+      "ReceiverContent": "I can definitely do that for you. No problem whatsoever.",
+      "Timestamp": "2023-09-21 05:20:00"
+    },
+    "Seq20": {
+      "CallerContent": "All right. Thank you so much for your help. I appreciate it.",
+      "ReceiverContent": "Absolutely. You have a great afternoon, and thank you again for calling in.",
+      "Timestamp": "2023-09-21 05:29:00"
+    },
+    "Seq21": {
+      "CallerContent": "All right. Bye-bye. Bye-bye now.",
+      "Timestamp": "2023-09-21 05:34:00"
+    }
+  }
+}

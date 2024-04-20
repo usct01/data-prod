@@ -1,0 +1,24 @@
+{
+  "Metadata": "value",
+  "Receiver": "Dominic from Crofton Family Practice",
+  "Timestamp": "2023-09-21 10:13:22",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. Thanks for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-09-21 00:00:00"
+    },
+    "Seq2": {
+      "CallerContent": "Yeah, I need to get a prescription called in for just the needles for my insulin injections. I tried to get it refilled, but Giant wouldn't fill it because it came from the emergency room. So I've got 90 days worth of insulin, but only a month worth of injector needles. So I need those called in to Giant so I can take my four times a day insulin.",
+      "ReceiverContent": "Sure, I got you. So kindly give me a minute. Let me transfer the call to the nurse. She'll help you out with this. Kindly stay online. I'm transferring the call, and you have a great day.",
+      "Timestamp": "2023-09-21 00:00:34"
+    },
+    "Seq3": {
+      "ReceiverContent": "Hello, you have reached the nurse line. If this is an emergency, please hang up and dial 9-1-1. If you're calling for a prescription refill, please leave a detailed message with the address on the screen. Your drug name, the milligrams, and your pharmacy information. Please allow 72 hours for your refills to be processed. Leave us a message, and we'll get back to you as soon as we can. Thank you, and have a good day.",
+      "Timestamp": "2023-09-21 00:01:15"
+    },
+    "Seq4": {
+      "CallerContent": "Yeah, this is Ron Remillard. I need a prescription called in to the Giant in Crofton for just the Care One Unified Pen Dermatology. I have 32G by 4 millimeter injector pens for my insulin. I only had like a month's worth of supply, but I went to call it in to get it redone, but it came from the emergency room, which they wouldn't fill, so I need to have my primary care in it. So I had 90 days' worth of insulin, but only a month's worth of injector needles. So can I get that called in to Giant in Crofton? It'd be nice to get like, you know, three months' worth, but I need, I do four injections a day, so that's probably a couple hundred of them. Please give me a call back if there's any problems with it to my cell phone. Thanks.",
+      "Timestamp": "2023-09-21 00:01:45"
+    }
+  }
+}

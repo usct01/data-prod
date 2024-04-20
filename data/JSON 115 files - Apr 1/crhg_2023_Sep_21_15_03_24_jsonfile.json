@@ -1,0 +1,64 @@
+{
+  "Metadata": "value",
+  "Receiver": "No Name",
+  "Timestamp": "2023-09-21 15:03:24",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon, thanks for calling CrossFit Family Practice. How may I assist you today?",
+      "Timestamp": "2023-09-21 15:03:24"
+    },
+    "Seq2": {
+      "CallerContent": "Hello, how are you?",
+      "ReceiverContent": "I'm good. Can I speak to Amy? Yeah, sure. This is Mambalam, right?",
+      "Timestamp": "2023-09-21 15:03:30"
+    },
+    "Seq3": {
+      "CallerContent": "Yeah, you gave me two times, but she hasn't responded.",
+      "ReceiverContent": "Okay, I think she might be busy on that time. Okay, I'll transfer you now. She could help you out.",
+      "Timestamp": "2023-09-21 15:03:38"
+    },
+    "Seq4": {
+      "CallerContent": "No, no, no. When you have time to come to the front desk, can I talk to her?",
+      "ReceiverContent": "Yeah, sure. One moment.",
+      "Timestamp": "2023-09-21 15:03:25"
+    },
+    "Seq5": {
+      "ReceiverContent": "Your conversation is being recorded. Thank you for contacting CrossFit Family Practice. This is Brandy here in the front office. How can we help you today?",
+      "Timestamp": "2023-09-21 15:03:38"
+    },
+    "Seq6": {
+      "CallerContent": "Not Brandy. Brandy, did you speak to Amy? This is Mohan.",
+      "ReceiverContent": "Oh, Mr. Mohan, how you doing today?",
+      "Timestamp": "2023-09-21 15:03:47"
+    },
+    "Seq7": {
+      "CallerContent": "Good.",
+      "ReceiverContent": "Nice to speak to you again. What can I help you with today?",
+      "Timestamp": "2023-09-21 15:03:56"
+    },
+    "Seq8": {
+      "CallerContent": "Good afternoon.",
+      "ReceiverContent": "Yes, sir. Good afternoon to you as well. I spoke to Amy. Yes, sir. I know we spoke this morning. Yes, sir.",
+      "Timestamp": "2023-09-21 15:04:01"
+    },
+    "Seq9": {
+      "CallerContent": "Can I please speak to Amy?",
+      "ReceiverContent": "Can you please speak to Amy, you said?",
+      "Timestamp": "2023-09-21 15:04:08"
+    },
+    "Seq10": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Yes, sir. No problem. Let me go ahead and transfer you in there to her, okay? I believe she's with a patient, but let me go ahead and see, okay?",
+      "Timestamp": "2023-09-21 15:04:14"
+    },
+    "Seq11": {
+      "CallerContent": "She's supposed to call me, but she never called.",
+      "ReceiverContent": "I'm so very sorry, Mr. Mohan. Yes, we've been incredible. She's incredibly busy today, sir. So usually she might do her callbacks before the end of the day roundup. So no biggie, though. We'll go right ahead here and we'll see what we can do, okay?",
+      "Timestamp": "2023-09-21 15:04:23"
+    },
+    "Seq12": {
+      "ReceiverContent": "Hello. You have reached the nurse line. If this is an emergency, please hang up and dial 9-1-1. If you're calling for a prescription refill...",
+      "Timestamp": "2023-09-21 15:05:23"
+    }
+  }
+}

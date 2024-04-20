@@ -1,0 +1,17 @@
+{
+  "Metadata": "value",
+  "Caller": "Ms. Watson",
+  "Receiver": "Dominique",
+  "Timestamp": "2023-09-20 15:18:51",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, Dominique. My name is Ms. Watson. I'm calling in regard to an outstanding invoice. I keep getting this invoice, and the office says that they're corrected, and they haven't.",
+      "ReceiverContent": "Okay, I got you, ma'am. Come on, give me a minute. Let me transfer the call to a concerned person who can help you out with this. Thanks. I'll miss you online. I'm transferring the call, and you have a great day.",
+      "Timestamp": "2023-09-20 15:18:51"
+    },
+    "Seq2": {
+      "ReceiverContent": "Thank you. Thanks for calling.",
+      "Timestamp": "2023-09-20 15:21:28"
+    }
+  }
+}

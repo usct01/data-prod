@@ -1,0 +1,39 @@
+{
+  "Receiver": "Dominic from Coffin Family Practice",
+  "Timestamp": "2023-09-21 11:01:33",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. Thank you for calling Coffin Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-09-21 11:01:33"
+    },
+    "Seq2": {
+      "CallerContent": "Good morning. This is Nancy Briani, and I'd like to make an appointment with Dr. Williams.",
+      "ReceiverContent": "Sure. May I come again in a minute? Let me check the next available slot for you.",
+      "Timestamp": "2023-09-21 11:01:33"
+    },
+    "Seq3": {
+      "ReceiverContent": "We do have slots available by 5th of October at 11:30 a.m. It's on Thursday.",
+      "CallerContent": "What day? October 5th, 11 a.m.? Yes, 11:30. 11:30. Okay, I'll take that one.",
+      "Timestamp": "2023-09-21 11:01:38"
+    },
+    "Seq4": {
+      "ReceiverContent": "Sure. Can you give me a minute?",
+      "CallerContent": "Sure.",
+      "Timestamp": "2023-09-21 11:01:50"
+    },
+    "Seq5": {
+      "CallerContent": "May I have your date of birth, ma'am? 9-13-47. Okay. Nancy Briani. Correct.",
+      "ReceiverContent": "May I have the reason for the visit, ma'am?",
+      "Timestamp": "2023-09-21 11:01:54"
+    },
+    "Seq6": {
+      "ReceiverContent": "I'm glad to hear that. So, just to confirm, I fixed an appointment on Thursday, which is 5th of October at 11:30 a.m.",
+      "CallerContent": "Is that okay with you, ma'am? Yes. What day of the week is that? You said Thursday? Yeah, it's on Thursday. Thursday. Okay. That's fine.",
+      "Timestamp": "2023-09-21 11:01:58"
+    },
+    "Seq7": {
+      "ReceiverContent": "Is there anything else that I may assist you with, ma'am? Nope. That's it. Thank you very much. Okay. Bye-bye. Thank you for coming to Austin Family Practice, and you have a great day. Bye-bye. You too. Bye. Bye. Thank you.",
+      "Timestamp": "2023-09-21 11:02:10"
+    }
+  }
+}

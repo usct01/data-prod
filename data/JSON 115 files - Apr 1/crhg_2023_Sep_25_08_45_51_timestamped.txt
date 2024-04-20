@@ -1,0 +1,43 @@
+receiver - Dominic
+[00:00 - 00:04] Good morning. Thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?
+
+caller
+[00:05 - 00:10] Yes, good morning. I need to see if I can get an appointment as soon as possible.
+
+receiver - Dominic
+[00:12 - 00:13] Sure, ma'am. Kindly give me a minute.
+
+caller
+[00:14 - 00:19] No worries. Yeah, even if it's telehealth.
+
+receiver - Dominic
+[00:22 - 00:34] Telehealth. Yeah, I got you. Kindly give me a minute, ma'am. Let me pull up the records. Records. Okay. I didn't see any television slot for this month. I'm really sorry.
+[00:34 - 00:44] So let me have for the month of October. Okay. Here's for...
+[00:52 - 01:00] Yep. We do have a slot available by 5th of October at 3.45 p.m. It's a television appointment.
+
+caller
+[01:01 - 01:10] Yeah, I need something sooner than that. I... I have a really bad infection, and so I need to get something. I don't know.
+[01:11 - 01:26] So I tested positive for COVID on September the 19th, and I'm over that, but I just have lots of mucus and congestion, so I need to get something immediately.
+[01:26 - 01:28] So I'm just going to have to go to urgent care.
+
+receiver - Dominic
+[01:30 - 01:32] Yeah, kindly give me a minute, ma'am.
+
+caller
+[01:32 - 01:33] Thank you.
+
+receiver - Dominic
+[01:33 - 01:44] We have it for... Let me check the month of September. I think the patient is not available that day.
+[01:54 - 02:06] I'm really sorry, ma'am. All the slots are already booked. We do have a sooner slot available by the month of October 5th at 3.45. That's the earliest slot here.
+
+caller
+[02:07 - 02:11] Okay. No worries. I'll make an appointment at the urgent care. Thank you.
+
+receiver - Dominic
+[02:12 - 02:15] Yep. Thank you for calling Crofton Family Practice, and you have a great day. Bye-bye.
+
+caller
+[02:15 - 02:16] You too. Bye-bye. Bye-bye.
+
+Other speaker
+[02:18 - 02:18] Bye-bye.

@@ -1,0 +1,80 @@
+{
+  "Metadata": "value",
+  "Caller": "Joe",
+  "Receiver": "Kathy",
+  "Timestamp": "2023-10-26 10:04:16",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi. Good afternoon. My name is Joe Gonzalez, and I'm actually new in the area and looking for a physician of primary care. Would you happen to know if Dr. Williams is still accepting new patients?",
+      "ReceiverContent": "Good afternoon. Thank you for calling Crofton Family Practice. This is Kathy. How may I assist you today?",
+      "Timestamp": "2023-10-26 10:04:06"
+    },
+    "Seq2": {
+      "CallerContent": "Yes, we are accepting new patients. Regarding the new patients, we will send a link to your mail ID. You have to register, and just you have to wait for 21 days to make an appointment. And the first visit would be a tele-visit for sure. Will that be okay with you?",
+      "ReceiverContent": "Did you say 21 days for an appointment?",
+      "Timestamp": "2023-10-26 10:04:24"
+    },
+    "Seq3": {
+      "CallerContent": "Oh, to make an appointment.",
+      "ReceiverContent": "Yes. After registration, you just have to wait for 21 days to make an appointment.",
+      "Timestamp": "2023-10-26 10:04:51"
+    },
+    "Seq4": {
+      "CallerContent": "Okay. I will register and then go from there. Is that okay?",
+      "ReceiverContent": "Yes. So kindly give me a minute.",
+      "Timestamp": "2023-10-26 10:05:02"
+    },
+    "Seq5": {
+      "CallerContent": "Sure. Thank you. And any doctor in your office would be fine. It's just that I just needed a new PCP.",
+      "ReceiverContent": "So could you please spell out your email address?",
+      "Timestamp": "2023-10-26 10:05:06"
+    },
+    "Seq6": {
+      "CallerContent": "Jay.",
+      "ReceiverContent": "Jay?",
+      "Timestamp": "2023-10-26 10:05:17"
+    },
+    "Seq7": {
+      "CallerContent": "Gonzalez. That's J-G-O-N-Z-A-L-E-S.",
+      "ReceiverContent": "L-E-S or F?",
+      "Timestamp": "2023-10-26 10:05:21"
+    },
+    "Seq8": {
+      "CallerContent": "L-E-S.",
+      "ReceiverContent": "S?",
+crhg_2023_Oct_25_15_18_05_timestamped    
+  "Timestamp": "2023-10-26 10:05:33"
+    },
+    "Seq9": {
+      "CallerContent": "Uh-huh. S as in Sam. Right. 05 at gmail.com.",
+      "ReceiverContent": "gmail.com. So it's J-G-O-N-Z-A-L-E-S.",
+      "Timestamp": "2023-10-26 10:05:35"
+    },
+    "Seq10": {
+      "CallerContent": "I actually changed the V into a Z as in zebra. It's Gonzalez.",
+      "ReceiverContent": "Yes. It's J-G-O-N-Z-Z for zebra.",
+      "Timestamp": "2023-10-26 10:05:50"
+    },
+    "Seq11": {
+      "CallerContent": "Yes. Correct.",
+      "ReceiverContent": "Y-L-E-S-0-5 at gmail.com.",
+      "Timestamp": "2023-10-26 10:05:58"
+    },
+    "Seq12": {
+      "CallerContent": "Correct. Thank you.",
+      "ReceiverContent": "So we will send a link to your email address. And along with that email, you just have to attach the photocopy of your insurance, both front and back side.",
+      "Timestamp": "2023-10-26 10:06:22"
+    },
+    "Seq13": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "And we would make an appointment for you after 21 days of registration.",
+      "Timestamp": "2023-10-26 10:06:36"
+    },
+    "Seq14": {
+      "CallerContent": "Okay. So it could be... Is this a very busy office?",
+      "ReceiverContent": "I hope so. The first visit will be a tele-visit for sure.",
+      "Timestamp": "2023-10-26 10:06:45"
+    },
+    "Seq15": {
+      "CallerContent": "Yeah. But I do really need an appointment within 21 days. But we'll see. I'll register just the same. Okay?",
+      "ReceiverContent": "So is there anything else that I missed, Steven?",

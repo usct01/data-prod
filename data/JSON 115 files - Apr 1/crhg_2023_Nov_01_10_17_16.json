@@ -1,0 +1,136 @@
+```json
+{
+  "Conversation": {
+    "Participants": [
+      {
+        "Role": "Receiver",
+        "Name": "Kumaran",
+        "Position": "Front Office Staff",
+        "Organization": "Crosswind Family Practice"
+      },
+      {
+        "Role": "Caller",
+        "Name": "Noname mentioned",
+        "Gender": "Unknown",
+        "Position": "Patient",
+        "Organization": "N/A"
+      },
+      {
+        "Role": "Brandy",
+        "Name": "Brandy",
+        "Gender": "Female",
+        "Position": "Front Office Staff",
+        "Organization": "Crosswind Family Practice"
+      },
+      {
+        "Role": "Other Speaker",
+        "Name": "Unknown",
+        "Position": "Unknown",
+        "Organization": "Unknown"
+      }
+    ],
+    "Messages": [
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "2023_Nov_01_10:17:16",
+        "Content": "Good morning. Thanks for calling Crosswind Family Practice. How may I assist you today?"
+      },
+      {
+        "Sender": "Noname mentioned",
+        "Timestamp": "2023_Nov_01_10:17:17",
+        "Content": "Hi, I'm calling because Dr. Williams referred me to an endocrine geologist, but they're currently full. So I was wondering if she had any other recommendations, avenues that I could take."
+      },
+      {
+        "Sender": "Kumaran",
+        "Timestamp": "2023_Nov_01_10:17:18",
+        "Content": "Sure. One moment. Let me transfer you to the constant person who could help you out with this. Please stay online."
+      },
+      {
+        "Sender": "Noname mentioned",
+        "Timestamp": "2023_Nov_01_10:17:19",
+        "Content": "Thank you."
+      },
+      {
+        "Sender": "Brandy",
+        "Timestamp": "2023_Nov_01_10:17:20",
+        "Content": "Your conversation is being recorded."
+      },
+      {
+        "Sender": "Brandy",
+        "Timestamp": "2023_Nov_01_10:17:21",
+        "Content": "Thank you for contacting Crosswind Family Practice. This is Brandy. Can you please hold for just a moment?"
+      },
+      {
+        "Sender": "Noname mentioned",
+        "Timestamp": "2023_Nov_01_10:17:22",
+        "Content": "Yes, I can."
+      },
+      {
+        "Sender": "Brandy",
+        "Timestamp": "2023_Nov_01_10:17:23",
+        "Content": "Thank you, ma'am."
+      },
+      {
+        "Sender": "Brandy",
+        "Timestamp": "2023_Nov_01_10:17:24",
+        "Content": "Hi there. This is Brandy, and thank you for holding."
+      },
+      {
+        "Sender": "Noname mentioned",
+        "Timestamp": "2023_Nov_01_10:17:25",
+        "Content": "Hi, Brandy."
+      },
+      {
+        "Sender": "Brandy",
+        "Timestamp": "2023_Nov_01_10:17:26",
+        "Content": "Hi there to you. How can I help you today, ma'am?"
+      },
+      {
+        "Sender": "Noname mentioned",
+        "Timestamp": "2023_Nov_01_10:17:27",
+        "Content": "So Dr. Williams referred me to an endocrine geologist, but the one that she referred me to can't see me till May. So I was wondering, like, what other avenues I need to take, if there's another doctor that she recommends?"
+      },
+      {
+        "Sender": "Brandy",
+        "Timestamp": "2023_Nov_01_10:17:28",
+        "Content": "No, ma'am. I do apologize. At this point in time, what you'll have to do is contact your insurance. And then from there, they would have to ask them for any of the physicians that are endocrinologists, and that would be covered underneath of the umbrella of coverage in the area, I want to say, or however far it is that you're looking to travel for their coverage."
+      },
+      {
+        "Sender": "Noname mentioned",
+        "Timestamp": "2023_Nov_01_10:17:29",
+        "Content": "Okay. So I would just have to call my insurance and figure all that out."
+      },
+      {
+        "Sender": "Unknown",
+        "Timestamp": "2023_Nov_01_10:17:30",
+        "Content": "Yes, ma'am. That would be my best advice on that,"
+      },
+      {
+        "Sender": "Brandy",
+        "Timestamp": "2023_Nov_01_10:17:31",
+        "Content": "because, yes, Dr. Williams, she tries to recommend certain people, you know, based upon her knowledge of their experience and whatnot. But also, you know, she just does it, of course, in order to try to help you as well, in order for, like, say, your location, you know, in their physician status, things of that nature."
+      },
+      {
+        "Sender": "Noname mentioned",
+        "Timestamp": "2023_Nov_01_10:17:32",
+        "Content": "Got it. Okay. Thank you."
+      },
+      {
+        "Sender": "Brandy",
+        "Timestamp": "2023_Nov_01_10:17:33",
+        "Content": "My pleasure to help. Have a great afternoon."
+      },
+      {
+        "Sender": "Noname mentioned",
+        "Timestamp": "2023_Nov_01_10:17:34",
+        "Content": "You too. Bye-bye."
+      },
+      {
+        "Sender": "Brandy",
+        "Timestamp": "2023_Nov_01_10:17:35",
+        "Content": "Yes, ma'am."
+      }
+    ]
+  }
+}
+```

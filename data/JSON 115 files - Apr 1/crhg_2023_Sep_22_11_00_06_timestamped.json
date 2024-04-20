@@ -1,0 +1,60 @@
+crhg_2023_Sep_22_11_00_06_timestamped
+```json
+{
+  "Receiver": "Dominic",
+  "Caller": "No name",
+  "Timestamp": "Unknown",
+  "Content": [
+    {
+      "Speaker": "Receiver",
+      "Utterance": "Good afternoon. Thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Time": "00:01 - 00:05"
+    },
+    {
+      "Speaker": "No name",
+      "Utterance": "Hi, I need you to transfer me to Amy in the office.",
+      "Time": "00:06 - 00:09"
+    },
+    {
+      "Speaker": "Receiver",
+      "Utterance": "Sure, ma'am. Can you give me a minute? Let me transfer the call and you have a great day.",
+      "Time": "00:10 - 00:13"
+    },
+    {
+      "Speaker": "No name",
+      "Utterance": "Thank you.",
+      "Time": "00:14 - 00:14"
+    },
+    {
+      "Speaker": "Receiver",
+      "Utterance": "Your conversation is being recorded.",
+      "Time": "00:29 - 00:31"
+    },
+    {
+      "Speaker": "Speaker A",
+      "Utterance": "Hi, this is Nurse Amy. How can I help you?",
+      "Time": "00:31 - 00:32"
+    },
+    {
+      "Speaker": "No name",
+      "Utterance": "Hi, Amy. I hate to bother you. This is Leslie Buchalo. Hey! Hi, I know you guys leave early. So the lady checking the faxes said they still didn't get the fax.",
+      "Time": "00:33 - 00:43"
+    },
+    {
+      "Speaker": "No name",
+      "Utterance": "Betty just faxed it. Betty, can you confirm the fax number? She just faxed it. Okay, 443-451-1619.",
+      "Time": "00:44 - 00:54"
+    },
+    {
+      "Speaker": "Speaker A",
+      "Utterance": "443-451-1619. 1619. Okay, all right. I will just confirm that she sent that. I'll have her send it again, but she just sent it, okay?",
+      "Time": "00:56 - 01:04"
+    },
+    {
+      "Speaker": "No name",
+      "Utterance": "Okay, thank you. You're welcome. Bye-bye. All right, bye.",
+      "Time": "01:05 - 01:08"
+    }
+  ]
+}
+```

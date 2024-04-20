@@ -1,0 +1,57 @@
+{
+  "Metadata": "value",
+  "Caller": "No Name",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-09-20 15:10:46",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes. Can I speak to Amy, please?",
+      "ReceiverContent": "Sure. Sir, can I give you a minute? Let me transfer the call, and you have a great day.",
+      "Timestamp": "2023-09-20 15:10:46"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, Amy. This is Dave Weinzimmer.",
+      "ReceiverContent": "This is Nurse Amy. How can I help you?",
+      "Timestamp": "2023-09-20 15:10:56"
+    },
+    "Seq3": {
+      "CallerContent": "Yesterday.",
+      "ReceiverContent": "Yeah. She was supposed to get that emailed to you. Hold on. Let me ask Brandy. Hold on one second, okay?",
+      "Timestamp": "2023-09-20 15:11:00"
+    },
+    "Seq4": {
+      "CallerContent": "Hold on.",
+      "ReceiverContent": "Hey, David. I'm going to transfer you to Brandy because she said she sent it, so just confirm the email address with her, and she can resend for you, okay?",
+      "Timestamp": "2023-09-20 15:11:24"
+    },
+    "Seq5": {
+      "CallerContent": "Alright. Hold on.",
+      "ReceiverContent": "All right. Hold on.",
+      "Timestamp": "2023-09-20 15:11:32"
+    },
+    "Seq6": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Thank you for contacting Crops and Family Practice. This is Brandy here in the front office. How can we help you today?",
+      "Timestamp": "2023-09-20 15:11:44"
+    },
+    "Seq7": {
+      "CallerContent": "Hi, Brandy. This is Dave Weinzimmer. You just got transferred from Amy for me.",
+      "ReceiverContent": "Hi, Brandy. This is Dave Weinzimmer. You just got transferred from Amy for me.",
+      "Timestamp": "2023-09-20 15:12:23"
+    },
+    "Seq8": {
+      "CallerContent": "Yes, ma'am. My email address?",
+      "ReceiverContent": "Absolutely. Let me go ahead and take a look, and let me pull up everything first, and then I'll go right back on the line here, and we'll get you going, okay?",
+      "Timestamp": "2023-09-20 15:12:27"
+    },
+    "Seq9": {
+      "CallerContent": "9-5 to 9-22, every 22, Allison Williams, 9-19. Okay, super. Thank you so much for doing this.",
+      "ReceiverContent": "You're welcome. Thank you. I'm glad we got it to you. Have a good evening, sweetie.",
+      "Timestamp": "2023-09-20 15:13:38"
+    },
+    "Seq10": {
+      "CallerContent": "All right. Bye-bye.",
+      "Timestamp": "2023-09-20 15:13:49"
+    }
+  }
+}

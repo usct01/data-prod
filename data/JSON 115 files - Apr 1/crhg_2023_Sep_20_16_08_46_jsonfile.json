@@ -1,0 +1,21 @@
+{
+  "Metadata": "value",
+  "Caller": "Dr. Williams",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-09-20 16:08:46",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thanks for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-09-20 16:08:46"
+    },
+    "Seq2": {
+      "CallerContent": "Hi there. I was just in to see Dr. Williams and she wanted me to pick up a prescription at Target that she sent in, but they said they haven't gotten it.",
+      "ReceiverContent": "Okay. Regarding that, let me transfer the call to a friend this month. They'll help you out with this. Kindly stay online. You have a great day.",
+      "Timestamp": "2023-09-20 16:08:54"
+    },
+    "Seq3": {
+      "ReceiverContent": "Hello. You have reached the nurse line. If this is an emergency, please hang up and dial 9-1-1.\nIf you're calling for a prescription refill, please leave a detailed message with the drug name, the milligrams, and your pharmacy information.\nPlease allow 72 hours for your refills to be processed. Leave us a message and we'll get back to you as soon as we can. Thank you and have a good day.",
+      "Timestamp": "2023-09-20 16:09:00"
+    }
+  }
+}

@@ -1,0 +1,148 @@
+crhg_2023_Sep_22_09_18_04_timestamped (1)
+{
+  "Receiver": "Dominic",
+  "Caller": "No name",
+  "Timestamp": "2024-03-19 09:00:00",
+  "Content": [
+    {
+      "Speaker": "Receiver",
+      "Utterance": "Good morning. Thanks for calling Crofton Family Practice. This is Dominic, home assistant for the day.",
+      "Time": "00:00 - 00:04"
+    },
+    {
+      "Speaker": "No name",
+      "Utterance": "Dominic, is Kumar not there? Good morning. How are you?",
+      "Time": "00:06 - 00:11"
+    },
+    {
+      "Speaker": "Receiver",
+      "Utterance": "Yeah, I'm doing good, sir. How are you? Yeah, I'm doing good. Thanks for asking.",
+      "Time": "00:12 - 00:16"
+    },
+    {
+      "Speaker": "No name",
+      "Utterance": "Is your office open today?",
+      "Time": "00:17 - 00:19"
+    },
+    {
+      "Speaker": "Receiver",
+      "Utterance": "Yes, it's open today.",
+      "Time": "00:20 - 00:21"
+    },
+    {
+      "Speaker": "No name",
+      "Utterance": "Until what time?",
+      "Time": "00:22 - 00:23"
+    },
+    {
+      "Speaker": "Receiver",
+      "Utterance": "Until, yeah, kindly give me a minute. Let me check that for you, sir. Sir, yeah, kindly give me a minute. I'm checking on it, sir. Until 3.30 p.m.?",
+      "Time": "00:26 - 00:37"
+    },
+    {
+      "Speaker": "No name",
+      "Utterance": "3.30 p.m. Okay.",
+      "Time": "00:37 - 00:38"
+    },
+    {
+      "Speaker": "Receiver",
+      "Utterance": "3.30.",
+      "Time": "00:39 - 00:39"
+    },
+    {
+      "Speaker": "No name",
+      "Utterance": "Is Lab Tech available today?",
+      "Time": "00:40 - 00:44"
+    },
+    {
+      "Speaker": "Receiver",
+      "Utterance": "No, sir. She's not available today. Lab is closed today.",
+      "Time": "00:44 - 00:49"
+    },
+    {
+      "Speaker": "No name",
+      "Utterance": "Lab is closed. Tomorrow is a holiday or still you open?",
+      "Time": "00:51 - 00:55"
+    },
+    {
+      "Speaker": "Receiver",
+      "Utterance": "Yeah, tomorrow is a holiday. Saturday and Sunday is a holiday.",
+      "Time": "00:56 - 00:59"
+    },
+    {
+      "Speaker": "No name",
+      "Utterance": "But the office is open for patients, Saturday?",
+      "Time": "01:02 - 01:06"
+    },
+    {
+      "Speaker": "Receiver",
+      "Utterance": "No, sir.",
+      "Time": "01:07 - 01:08"
+    },
+    {
+      "Speaker": "No name",
+      "Utterance": "You don't see patients today?",
+      "Time": "01:09 - 01:11"
+    },
+    {
+      "Speaker": "Receiver",
+      "Utterance": "No. Saturday is closed, sir. Saturday and Sunday is closed.",
+      "Time": "01:12 - 01:18"
+    },
+    {
+      "Speaker": "No name",
+      "Utterance": "Is Satish there?",
+      "Time": "01:19 - 01:20"
+    },
+    {
+      "Speaker": "Receiver",
+      "Utterance": "No, sir. He's out of town.",
+      "Time": "01:23 - 01:25"
+    },
+    {
+      "Speaker": "No name",
+      "Utterance": "He's out of town.",
+      "Time": "01:27 - 01:28"
+    },
+    {
+      "Speaker": "Receiver",
+      "Utterance": "If you want to...",
+      "Time": "01:28 - 01:28"
+    },
+    {
+      "Speaker": "No name",
+      "Utterance": "When is he coming?",
+      "Time": "01:28 - 01:29"
+    },
+    {
+      "Speaker": "Receiver",
+      "Utterance": "I think... Probably on Monday.",
+      "Time": "01:31 - 01:33"
+    },
+    {
+      "Speaker": "No name",
+      "Utterance": "Monday. Okay.",
+      "Time": "01:35 - 01:35"
+    },
+    {
+      "Speaker": "Receiver",
+      "Utterance": "Yes, sir.",
+      "Time": "01:36 - 01:36"
+    },
+    {
+      "Speaker": "No name",
+      "Utterance": "Okay, bye.",
+      "Time": "01:37 - 01:39"
+    },
+    {
+      "Speaker": "Receiver",
+      "Utterance": "Yeah, sure.",
+      "Time": "01:40 - 01:45"
+    },
+    {
+      "Speaker": "Other speaker",
+      "Utterance": "Bye.",
+      "Time": "01:46 - 01:46"
+    }
+  ]
+}

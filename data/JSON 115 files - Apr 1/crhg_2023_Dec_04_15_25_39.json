@@ -1,0 +1,23 @@
+{
+  "Metadata": "value",
+  "Caller": "Aquanetta Delaney",
+  "Receiver": "Kumaran (Robson Family Practice)",
+  "Timestamp": "2023_Dec_04_15:25:39",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, I need to speak with someone regarding a referral to have a mammogram in January.",
+      "ReceiverContent": "Good afternoon. Thank you for calling Robson Family Practice. How may I assist you today?",
+      "Timestamp": "2023_Dec_04_15:25:39"
+    },
+    "Seq2": {
+      "CallerContent": "You too. Bye-bye.",
+      "ReceiverContent": "Okay, for the referral, one moment. I need to transfer you to the franchise. Can they could help you out with this? And if the call is not answered, kindly leave a voice message. They'll get back to you as soon as possible. Kindly stay online and you'll have a great day. Bye-bye.",
+      "Timestamp": "2023_Dec_04_15:25:39"
+    },
+    "Seq3": {
+      "CallerContent": "Hi, this is Aquanetta Delaney, and I was calling to request a referral so that I could schedule for a mammogram in January. I need to do it with like the next week or so because they usually fill up, and I don't know what your schedule is, but I could stop by and pick it up. Thank you again. The name is Aquanetta Delaney, and I'm requesting a referral to have a mammogram done in January. Thank you. Bye-bye.",
+      "ReceiverContent": "Hello, you have reached the receptionist at Robson Family Practice. Please leave your name, reason for calling, and your number so we can call you back as soon as we can. If you are experiencing a medical emergency, please hang up and dial 911. If you are calling after hours or on weekends, we have an answering service that you can call if you think this is an urgent matter that the physician needs to address. You can call that answering service number at 443-481-1000. Thanks for calling.",
+      "Timestamp": "2023_Dec_04_15:25:39"
+    }
+  }
+}

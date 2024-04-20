@@ -1,0 +1,70 @@
+{
+  "Metadata": "value",
+  "Receiver": "Dominic from Crofton Family Practice",
+  "Timestamp": "2023-09-21 11:28:56",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. Thank you for calling Crofton Family Practice. This is Dominic from your assistive for the day.",
+      "Timestamp": "2023-09-21 00:00:00"
+    },
+    "Seq2": {
+      "CallerContent": "Oh, hi. My name is Leslie Bucallo, and I had talked to Amy yesterday, and she said that the doctor was going to reprint my lab order for – she originally did it for Quest, but it has to be LabCorp, and that somebody at the front desk would email it to me.",
+      "ReceiverContent": "Okay. Okay, regarding that, let me transfer the call to the front desk. They'll help you out with this, ma'am. Can I see your line? Thank you. I'm transferring the call, and you have a great day.",
+      "Timestamp": "2023-09-21 11:28:56"
+    },
+    "Seq3": {
+      "ReceiverContent": "Your conversation is being recorded. Thank you for contacting Crofton Family Practice. This is Brandi here in the front office. How can we help you this morning?",
+      "Timestamp": "2023-09-21 11:31:27"
+    },
+    "Seq4": {
+      "CallerContent": "Hi, Brandi. This is Leslie Bucallo calling. I had seen Dr. Williams, and I talked to Amy. I talked to Amy yesterday. Originally, Dr. Williams wanted me to have some blood tests done, but she put it on a Quest requisition, and I talked to Amy yesterday telling her it had to be on LabCorp. LabCorp.",
+      "ReceiverContent": "Okay, yes, ma'am. Yep.",
+      "Timestamp": "2023-09-21 11:33:00"
+    },
+    "Seq5": {
+      "CallerContent": "So I need it today because I want to have my bloods drawn tomorrow. So either I need you to fax me over the requisition that says LabCorp.",
+      "ReceiverContent": "Let me – if you don't mind, because nobody has told me anything, or showed me any kind of printouts, and usually they do, especially when they're a new lab order. So let me go into your chart, though, and see if anybody had maybe scanned one in, and then I can just email it to you. But let me just double check. What's your date of birth?",
+      "Timestamp": "2023-09-21 11:36:08"
+    },
+    "Seq6": {
+      "CallerContent": "6-21-55.",
+      "ReceiverContent": "Okay, let me see here. Yes, sir. Okay, let's see. Let's see. Let's see. Okay. And, yep, so I see here Leslie Bocolo. And then, of course, I'm taking a look at your labs right now. Yeah, all of them here say transmitted to Quest. So you were looking to have them to LabCorp. Is that right?",
+      "Timestamp": "2023-09-21 11:37:52"
+    },
+    "Seq7": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Yes, ma'am. So I don't see any new orders in the system. And I haven't saw – You talked to Amy yesterday. Yes, ma'am. Yeah, Amy is here. She's currently with the patient, though. So then what I have to do is take down your name and number. And, of course, I can give it to Amy, though, in order to have her call you back. And then, like I said, that way we can try to get you some new lab orders put in and get them sent over there to LabCorp and then, of course, send you a copy as well. Once she has the new lab orders, what I'll do is just send you an email. And then, of course, like I said, I'll also have her give you a call, okay? I'll be back.",
+      "Timestamp": "2023-09-21 11:39:45"
+    },
+    "Seq8": {
+      "CallerContent": "Yeah. Okay. Because you said it would be done yesterday. Yes, ma'am. Until I read it all. So I don't see it.",
+      "ReceiverContent": "No, I understand completely. I know we just – yesterday we were quite busy yesterday. Don't get me wrong. We were very busy. So I'm not – no excuse on that part, just saying, though. I know. I work in a doctor's office. I know how it gets. Yes, ma'am. Yeah.",
+      "Timestamp": "2023-09-21 11:41:24"
+    },
+    "Seq9": {
+      "CallerContent": "All right. You have my number?",
+      "ReceiverContent": "443-451-160.",
+      "Timestamp": "2023-09-21 11:43:00"
+    },
+    "Seq10": {
+      "CallerContent": "Okay. This is work. My cell is 301-535. 8504. And you have my email, I assume.",
+      "ReceiverContent": "Let me just go ahead and verify it real quick. Bear with me just another moment or so. And I'm sorry, what was the date of birth again?",
+      "Timestamp": "2023-09-21 11:43:26"
+    },
+    "Seq11": {
+      "CallerContent": "6-21-55.",
+      "ReceiverContent": "Very good. There we are. And yes, ma'am, I'm showing it as BucaloMoms at Yahoo.com? Correct. All right. Wonderful there. Yep. I'm going to go ahead and pass that off to her right now, okay?",
+      "Timestamp": "2023-09-21 11:44:52"
+    },
+    "Seq12": {
+      "CallerContent": "Thank you so much because I want to try to do it tomorrow because I'm seeing a surgeon next week, and he might need the results.",
+      "ReceiverContent": "Yes, ma'am. I'll do the best that I can. If not, you know, we can always go ahead from there. And even, like I said, you know, typically it takes only about 48 to 72 hours for the blood results to come back. So hopefully we'll have them prior to that, okay?",
+      "Timestamp": "2023-09-21 11:46:09"
+    },
+    "Seq13": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "All right. Yes, ma'am, Ms. BucaloMoms. Have a good day. Thank you. Bye. Bye-bye.",
+      "Timestamp": "2023-09-21 11:46:28"
+    }
+  }
+}

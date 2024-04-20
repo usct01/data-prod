@@ -1,0 +1,63 @@
+{
+  "Metadata": "value",
+  "Caller": "Roberta Nelson",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-09-20 15:13:31",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yeah, this is Roberta Nelson. I need to reschedule my wellness checkup since I canceled because I was sick.",
+      "ReceiverContent": "Okay, so you want to reschedule the appointment, ma'am? Yeah, I'll do that for you.",
+      "Timestamp": "2023-09-20 15:13:31"
+    },
+    "Seq2": {
+      "CallerContent": "Yes, and I'd like it next month. And if you could please find your first appointment of the day, if possible.",
+      "ReceiverContent": "Yeah, I got you. So may I have your date of birth, ma'am? 5-28-49. How are you doing?",
+      "Timestamp": "2023-09-20 15:13:35"
+    },
+    "Seq3": {
+      "CallerContent": "Yeah, I'm doing good, ma'am. Thanks for asking. You're welcome. Okay, so I don't have any appointment in the future. So let me make it one for you.",
+      "ReceiverContent": "It's by 9-10-20. 9-10-20. Yeah, I'm, oh my God, all the slots are already booked. Can I make it for 16th of October at 10 a.m.? Is that okay with you, ma'am?",
+      "Timestamp": "2023-09-20 15:13:41"
+    },
+    "Seq4": {
+      "CallerContent": "How many people are ahead of me?",
+      "ReceiverContent": "Can you repeat that once again for me? I'm sorry?",
+      "Timestamp": "2023-09-20 15:13:55"
+    },
+    "Seq5": {
+      "CallerContent": "I said, how many people are ahead of me on that appointment? I mean, what's it, because I'd like your earliest, do you have anything earlier? Like if you go further down, like maybe the end of October, beginning of November?",
+      "ReceiverContent": "Yeah. Yes, we do have a slot available by 10th of October at 10-30 a.m.",
+      "Timestamp": "2023-09-20 15:13:58"
+    },
+    "Seq6": {
+      "CallerContent": "No, I want the earliest.",
+      "ReceiverContent": "No, no, not the earliest date. I want the earliest time in the morning. So it could be later in the month. I just, I want earlier in the morning so I could be one of her first patients.",
+      "Timestamp": "2023-09-20 15:14:12"
+    },
+    "Seq7": {
+      "CallerContent": "Okay, so we do have a slot available by 12th of October at 9 a.m. Okay. Okay, I'll take that.",
+      "ReceiverContent": "Okay, October 12th at 9.",
+      "Timestamp": "2023-09-20 15:14:21"
+    },
+    "Seq8": {
+      "CallerContent": "At 9 a.m. Yeah. Okay. Can you repeat the date of birth once again?",
+      "ReceiverContent": "5-28-49.",
+      "Timestamp": "2023-09-20 15:14:31"
+    },
+    "Seq9": {
+      "CallerContent": "Okay, yep. And it's for a physical, ma'am?",
+      "ReceiverContent": "It's for my annual, yeah, just the checkup thing.",
+      "Timestamp": "2023-09-20 15:14:39"
+    },
+    "Seq10": {
+      "CallerContent": "Okay, I'm done. So just to confirm, I fixed an appointment on Thursday, which is 12th of October at 9 a.m.",
+      "ReceiverContent": "Okay, thank you so much.",
+      "Timestamp": "2023-09-20 15:14:45"
+    },
+    "Seq11": {
+      "CallerContent": "Bye-bye. No, that's it. Thank you.",
+      "ReceiverContent": "Bye-bye. Thank you for going across from Sunday practice.",
+      "Timestamp": "2023-09-20 15:14:52"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Metadata": "value",
+  "Receiver": "Kumar from Crawford Family Practice",
+  "Timestamp": "2023-09-21 13:58:36",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon, thank you for calling Crawford Family Practice. This is Kumar from ASG today.",
+      "Timestamp": "2023-09-21 00:00:00"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, I wanted to schedule an appointment for the month of November to have a physical exam and lab testing.",
+      "ReceiverContent": "Okay, is this your annual visit?",
+      "Timestamp": "2023-09-21 00:05:00"
+    },
+    "Seq3": {
+      "CallerContent": "No, it's a pre-op physical exam.",
+      "ReceiverContent": "Okay, yeah. One moment. Yes, let me check on the next available slot for you in November. One moment.",
+      "Timestamp": "2023-09-21 00:20:00"
+    },
+    "Seq4": {
+      "ReceiverContent": "We do have a slot available on November 1st at 9 a.m. Will that be okay with you?",
+      "Timestamp": "2023-09-21 00:37:00"
+    },
+    "Seq5": {
+      "CallerContent": "Yeah, that should work.",
+      "ReceiverContent": "It's Wednesday. Okay. So lab works on Monday, Wednesday, and Thursday. You can go to the lab on the same day. Okay. Now, could you help? Could you help me with your date of birth, please?",
+      "Timestamp": "2023-09-21 00:45:00"
+    },
+    "Seq6": {
+      "CallerContent": "June 8th, 1996.",
+      "ReceiverContent": "June 8th, 1996.",
+      "Timestamp": "2023-09-21 01:01:00"
+    },
+    "Seq7": {
+      "ReceiverContent": "Your name is Arla Graham, am I correct?",
+      "Timestamp": "2023-09-21 01:17:00"
+    },
+    "Seq8": {
+      "CallerContent": "Yeah.",
+      "ReceiverContent": "Okay. So just to confirm, I have fixed an appointment on November 1st at 9 a.m. for an office visit.",
+      "Timestamp": "2023-09-21 01:21:00"
+    },
+    "Seq9": {
+      "CallerContent": "Yeah.",
+      "ReceiverContent": "Is there anything else that they may ask us to do with?",
+      "Timestamp": "2023-09-21 01:35:00"
+    },
+    "Seq10": {
+      "CallerContent": "So that would be, like, that would cover the physical exam and the lab work, and then she could just, like, fill the medical clearance form on that day?",
+      "ReceiverContent": "Yeah, sure. Okay. Yeah, let me transfer you to Frontex. Can they could help you out with this? Okay. Yeah, you can ask anything to them. Please stay online. But it is scheduled? Yeah, yeah. I just confirmed. All right. We have 16 appointments for you on 1st of November at 9 a.m. Okay, thank you. So for the further inquiries, I will transfer you to Francesc, and they could help you out with this. If the call is not answered, kindly leave a voice message. They'll get back to you as soon as possible. Please stay online. You have a great day.",
+      "Timestamp": "2023-09-21 01:39:00"
+    },
+    "Seq11": {
+      "ReceiverContent": "Hello, you have reached the receptionist at Crofton Family Practice. Please leave your name, reason for calling, and your number so we can call you back as soon as we can. If you are experiencing a medical emergency, please hang up and dial 911. If you are calling after hours or on weekends, we have an answering service that you can call if you think this is an urgent matter that the physician needs to address. You can call that answering service number at 443-481-1000. Thanks for calling.",
+      "Timestamp": "2023-09-21 02:54:00"
+    },
+    "Seq12": {
+      "CallerContent": "Hi, this is Francesc. This is Aurelia Graham. I was just calling because I scheduled an appointment for November 1st, and I wanted to confirm that if I bring in a pre-op physical form, that Dr. Williams would be able to sign the medical clearance form at the appointment when she does the physical exam and lab work, and I just wanted to confirm that information. You can give me a call back at 386-225-9485.",
+      "Timestamp": "2023-09-21 03:27:00"
+    }
+  }
+}

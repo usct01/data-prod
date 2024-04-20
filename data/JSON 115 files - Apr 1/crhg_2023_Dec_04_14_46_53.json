@@ -1,0 +1,23 @@
+{
+"Metadata": "value",
+"Caller": "no_name",
+"Receiver": "Crafton Family Practice (dominic)",
+"Timestamp": "2023_Dec_04_14:46:53",
+"CallContent": {
+"Seq1": {
+"CallerContent": "last known thanks for calling corruption from the practice this is Dominic home",
+"ReceiverContent": "is this you for the day hi I was wondering if dr. Williams had any appointments open on Thursday Thursday you can give me a minute",
+"Timestamp": "2023_Dec_04_14:46:53"
+},
+"Seq2": {
+"CallerContent": "pardon me yeah can you give me a minute let me check the next video okay sure",
+"ReceiverContent": "sure I'm sorry yeah I'm really sorry mom all the slots are all did it but we have an opening by 27th of December that's another slot available um do you know 27",
+"Timestamp": "2023_Dec_04_14:46:53"
+},
+"Seq3": {
+"CallerContent": "that's that's ridiculous um yeah I gotta figure out something else then all right thanks",
+"ReceiverContent": null,
+"Timestamp": "2023_Dec_04_14:46:53"
+}
+}
+}

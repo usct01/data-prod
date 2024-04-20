@@ -1,0 +1,54 @@
+crhg_2023_Sep_22_08_50_21_timestamped
+{
+  "Metadata": "value",
+  "Caller": "William Taylor",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-09-20 10:00:00",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, this is William Taylor, and I need, and I've been out of town all week, and I need an emergency room follow-up with Dr. Williams for as early as possible next week.",
+      "ReceiverContent": "For next week, you have kind of give me a minute, sir. Let me check that for you.",
+      "Timestamp": "2023-09-20 10:00:06"
+    },
+    "Seq2": {
+      "CallerContent": "I'm sorry?",
+      "ReceiverContent": "All the slots are already booked for next week, sir, if it's possible. For the whole week?",
+      "Timestamp": "2023-09-20 10:00:40"
+    },
+    "Seq3": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Including for an emergency room follow-up? Yes. We do have a slot available by 27th of September at 9 a.m. Is that okay?",
+      "Timestamp": "2023-09-20 10:00:50"
+    },
+    "Seq4": {
+      "CallerContent": "I'm sorry, what time?",
+      "ReceiverContent": "At 9 a.m. Can you hear me, sir?",
+      "Timestamp": "2023-09-20 10:00:59"
+    },
+    "Seq5": {
+      "CallerContent": "Unfortunately, yes. You were breaking up. Unfortunately, 9 a.m. on the 27th is not going to work because I have an appointment at Washington Hospital Center at that time.",
+      "ReceiverContent": "Okay. Apart from that, we don't have any slots here. We don't have any slots for the... We don't have any slots for the next week of September.",
+      "Timestamp": "2023-09-20 10:01:08"
+    },
+    "Seq6": {
+      "CallerContent": "Well, write me down for that, but please put a note that I'd like to get in with a follow-up next week because it was an emergency room visit. Okay. It's a nasty abrasion on my left leg.",
+      "ReceiverContent": "Oh, my God. I'm really sorry to hear that, sir. So, we can make an emergency appointment. So, let me make it for... Oh, my God. Just now we got an appointment clearance. Yep.",
+      "Timestamp": "2023-09-20 10:01:46"
+    },
+    "Seq7": {
+      "CallerContent": "Uh... It's on Monday. How does that work? Okay. Can you give me a minute? So, can you please help me with your date of birth, sir?",
+      "ReceiverContent": "Just to confirm, I've fixed an appointment on Monday, which is 25th of September at 2.30 p.m. Is that okay with you, sir? Okay. Okay.",
+      "Timestamp": "2023-09-20 10:02:18"
+    },
+    "Seq8": {
+      "CallerContent": "Is there anything else that I may assist you with, sir?",
+      "ReceiverContent": "I fixed an appointment by 25th of September at 2.30 p.m. And it's an office visit. Is that okay with you, sir? Okay. Yes.",
+      "Timestamp": "2023-09-20 10:03:38"
+    },
+    "Seq9": {
+      "CallerContent": "I'm sorry. You just broke up. Hello? I didn't understand what you said. I'm here. I just didn't understand what you said.",
+      "ReceiverContent": "Thank you for calling Crofts and Family Practice. And you have a great day. Bye-bye, sir.",
+      "Timestamp": "2023-09-20 10:03:43"
+    }
+  }
+}

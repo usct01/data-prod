@@ -1,0 +1,38 @@
+crhg_2023_Sep_22_09_06_25_timestamped (1)
+{
+  "Caller": "Marilyn Hardy",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-09-20 10:00:00",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "You sent me to the front office. She put me on voicemail and referred me to the answering service. So listen, if you all don't want my business, say so.",
+      "ReceiverContent": "No, ma'am. It's not like that. Yes, she was on another call. Let me transfer you again.",
+      "Timestamp": "2023-09-20 10:03:04"
+    },
+    "Seq2": {
+      "CallerContent": "Who am I speaking with? I'm calling because Brandy told me that she would send some paperwork in to Humana as a referral from Dr. Williams so the doctors at the eye care could be paid. She promised me that.",
+      "ReceiverContent": "Okay. Let me see what's going on. I'll try to research this.",
+      "Timestamp": "2023-09-20 10:03:45"
+    },
+    "Seq3": {
+      "CallerContent": "Do you have the phone number for this glaucoma place?",
+      "ReceiverContent": "Yes, I do. Okay. If you'll hold this, I will get it to you.",
+      "Timestamp": "2023-09-20 10:04:07"
+    },
+    "Seq4": {
+      "CallerContent": "The number is 410-741-9706.",
+      "ReceiverContent": "Okay. Let me pull this other thing up here. Let me check your insurance in here, if they've even got that in there.",
+      "Timestamp": "2023-09-20 10:04:51"
+    },
+    "Seq5": {
+      "CallerContent": "May I give you the other number?",
+      "ReceiverContent": "The other number for the glaucoma center?",
+      "Timestamp": "2023-09-20 10:05:35"
+    },
+    "Seq6": {
+      "CallerContent": "301-860-1090.",
+      "ReceiverContent": "Okay. Alright. Let me check to see, and I'll try to get back to you, Marilyn. Okay?",
+      "Timestamp": "2023-09-20 10:06:04"
+    }
+  }
+}

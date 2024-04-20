@@ -1,0 +1,57 @@
+receiver - kumar
+[00:00 - 00:03] Thank you for calling Crofton Family Practice. Hey, hi.
+
+caller - Suzanne Barthold
+[00:03 - 00:08] It's Suzanne Barthold. I got a notice that I'm due for a flu shot. Can I make an appointment?
+
+receiver - kumar
+[00:10 - 00:18] Sure, ma'am. Can I give you a minute? Can I make an appointment, please? Okay. It's not here.
+[00:20 - 00:27] We do have a spot available by 25th of September at 915. Is it okay with you, ma'am?
+
+caller - Suzanne Barthold
+[00:28 - 00:30] You're talking about Tuesday the 26th?
+
+receiver - kumar
+[00:32 - 00:34] No, the 25th. It's on Monday.
+
+caller - Suzanne Barthold
+[00:35 - 00:36] Oh, okay. At what time?
+
+receiver - kumar
+[00:37 - 00:38] At 915.
+
+caller - Suzanne Barthold
+[00:39 - 00:42] 915? Okay. Should I get a COVID shot also?
+
+receiver - kumar
+[00:43 - 00:52] A COVID shot is not available here, ma'am. I'm sorry. Will you have it, or should I get it somewhere else? Yeah, you need to get somewhere else.
+
+caller - Suzanne Barthold
+[00:52 - 00:53] Okay, all right.
+
+receiver - kumar
+[00:54 - 00:56] May I have your date of birth, ma'am?
+
+caller - Suzanne Barthold
+[00:56 - 00:59] June 25, 1936.
+
+Other speaker
+[01:02 - 01:02] Okay.
+
+receiver - kumar
+[01:05 - 01:07] It's Susan Barthol?
+
+caller - Suzanne Barthold
+[01:07 - 01:08] Yes, correct.
+
+receiver - kumar
+[01:09 - 01:18] Yeah, I got you. Okay. For a flu shot. Yep, so just to confirm, I fixed an appointment on Monday, which is 25th of September at 915 a.m.
+
+caller - Suzanne Barthold
+[01:18 - 01:19] That'd be fine. Thank you.
+
+receiver - kumar
+[01:20 - 01:24] Okay. Thank you for calling Robson Family Practice, and have a great day, ma'am. Bye-bye. Thank you.
+
+Other speaker
+[01:24 - 01:24] Bye-bye.

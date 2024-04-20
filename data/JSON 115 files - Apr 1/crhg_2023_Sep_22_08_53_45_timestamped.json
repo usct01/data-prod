@@ -1,0 +1,38 @@
+crhg_2023_Sep_22_08_53_45_timestamped
+{
+  "Caller": "John Hopkins Imaging",
+  "Receiver": "Brandi",
+  "Timestamp": "2023-09-20 09:00:00",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "I'm calling because we have a mutual patient who is coming to see us and we need that order faxed to us.",
+      "ReceiverContent": "Okay. So let me transfer you to Francesca and they could share the address. Thank you.",
+      "Timestamp": "2023-09-20 09:00:06"
+    },
+    "Seq2": {
+      "CallerContent": "Good morning, Crofton Family Practice.",
+      "ReceiverContent": "Good morning. I'm calling from John Hopkins Imaging. I'm trying to get a mutual patient order faxed to us, please.",
+      "Timestamp": "2023-09-20 09:00:32"
+    },
+    "Seq3": {
+      "CallerContent": "And the patient's name?",
+      "ReceiverContent": "Her name is Nadine and last name is S-O-G-A.",
+      "Timestamp": "2023-09-20 09:00:40"
+    },
+    "Seq4": {
+      "CallerContent": "What is it that you're asking for? She's coming to see us for a diagnostic mammogram and breast ultrasound.",
+      "ReceiverContent": "Let me check and make sure I have it in the system while I have you on the phone. Okay. Hold on.",
+      "Timestamp": "2023-09-20 09:00:48"
+    },
+    "Seq5": {
+      "CallerContent": "Can I have your fax number?",
+      "ReceiverContent": "My fax number is 301-896-6948.",
+      "Timestamp": "2023-09-20 09:01:42"
+    },
+    "Seq6": {
+      "CallerContent": "Okay. All right. I'll send it over. Thank you so much.",
+      "ReceiverContent": "Okay. All right. I'll send it over. Thank you so much.",
+      "Timestamp": "2023-09-20 09:01:49"
+    }
+  }
+}

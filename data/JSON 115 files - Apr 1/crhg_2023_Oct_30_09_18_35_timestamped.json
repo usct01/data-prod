@@ -1,0 +1,70 @@
+crhg_2023_Oct_30_09_18_35_timestamped
+```json
+{
+  "Caller": "Rhoda",
+  "Receiver": "Dominic",
+  "Timestamp": "2024-03-27",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, this is Rhoda in Mizena. I'm a patient of Dr. Williams. I would like for you guys to send an order for my needle for my ozine disc.",
+      "ReceiverContent": "Yes, I got you, ma'am. Call me, give me a minute. Let me transfer the call to the consent person who can help you out with this. Kindly stay online. Let me transfer the call and you have a great day.",
+      "Timestamp": "2024-03-27 00:14:00"
+    },
+    "Seq2": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Hi there, thank you for contacting Croftsons Family Practice. This is Brandy here in the front office. How can I help you today?",
+      "Timestamp": "2024-03-27 00:47:00"
+    },
+    "Seq3": {
+      "CallerContent": "My name is Rhoda. Hi there, good morning. Yes, this is Rhoda in Mizena. I'm one of Dr. Williams' patients. Can you guys call in a refill for my ozine disc needle?",
+      "ReceiverContent": "Let me go ahead and send you on in there to Amy, our nurse, because she handles all patient medication and refills, okay?",
+      "Timestamp": "2024-03-27 00:53:00"
+    },
+    "Seq4": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Yes, indeed. Thank you.",
+      "Timestamp": "2024-03-27 01:13:00"
+    },
+    "Seq5": {
+      "CallerContent": "Hi, this is Nurse Amy. How can I help you?",
+      "ReceiverContent": "Hey, Miss Amy, good morning.",
+      "Timestamp": "2024-03-27 01:30:00"
+    },
+    "Seq6": {
+      "CallerContent": "This is Rhoda in Mizena. Can you guys call in? I'm on a refill for my ozine disc needle. I ran out last week.",
+      "ReceiverContent": "All right, and you said that's your ozine disc?",
+      "Timestamp": "2024-03-27 01:32:00"
+    },
+    "Seq7": {
+      "CallerContent": "Yes, the needle.",
+      "ReceiverContent": "And are you still doing, what is the dosage you're doing right now?",
+      "Timestamp": "2024-03-27 01:51:00"
+    },
+    "Seq8": {
+      "CallerContent": "It's 0.25.",
+      "ReceiverContent": "0.25, 0.25, the pin. Okay, are we still sending that to CVS?",
+      "Timestamp": "2024-03-27 01:59:00"
+    },
+    "Seq9": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "All right, I'll get that sent over today for you, okay?",
+      "Timestamp": "2024-03-27 02:08:00"
+    },
+    "Seq10": {
+      "CallerContent": "I appreciate it.",
+      "ReceiverContent": "All right. Have a good day.",
+      "Timestamp": "2024-03-27 02:12:00"
+    },
+    "Seq11": {
+      "CallerContent": "You too. Thank you. Bye-bye.",
+      "ReceiverContent": "You're welcome, hon. Bye-bye.",
+      "Timestamp": "2024-03-27 02:17:00"
+    },
+    "Seq12": {
+      "CallerContent": "Bye. Bye.",
+      "ReceiverContent": "Bye. Bye.",
+      "Timestamp": "2024-03-27 02:18:00"
+    }
+  }
+}
+```

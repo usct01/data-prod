@@ -1,0 +1,40 @@
+crhg_2023_Oct_30_09_07_15_timestamped
+```json
+{
+  "Caller": "Cheryl Naiman",
+  "Receiver": "Kumar",
+  "Timestamp": "2024-03-27",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, Kumar. This is Cheryl Naiman. I just scheduled an appointment for tomorrow at 10.30, and I don't want that changed, but I just, I'm driving, and I think I missed a call from you, so I wanted to make sure you weren't canceling it.",
+      "ReceiverContent": "Let me check on it. May I know your last name, please?",
+      "Timestamp": "2024-03-27 00:05:00"
+    },
+    "Seq2": {
+      "CallerContent": "Naiman. N-A-I-M-A-I-N. Naiman.",
+      "ReceiverContent": "Yes, I am the one who made an appointment for you.",
+      "Timestamp": "2024-03-27 00:22:00"
+    },
+    "Seq3": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Yes, you have made an appointment at 10.30 a.m. to meet the doctor in person, and the reason of the appointment is, yes, correct.",
+      "Timestamp": "2024-03-27 00:43:00"
+    },
+    "Seq4": {
+      "CallerContent": "Bronchitis.",
+      "ReceiverContent": "Yes, correct.",
+      "Timestamp": "2024-03-27 00:55:00"
+    },
+    "Seq5": {
+      "CallerContent": "You can hear me. Yes. Okay, I just got it. I just got a call from your office, so I just wanted to make sure. Thank you.",
+      "ReceiverContent": "Yes, thanks for calling, Carole, and you have a great day.",
+      "Timestamp": "2024-03-27 01:12:00"
+    },
+    "Seq6": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2024-03-27 01:15:00"
+    }
+  }
+}
+```

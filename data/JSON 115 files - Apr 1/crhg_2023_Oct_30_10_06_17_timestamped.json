@@ -1,0 +1,30 @@
+crhg_2023_Oct_30_10_06_17_timestamped
+```json
+{
+  "Caller": "Michael",
+  "Receiver": "Kumar",
+  "Timestamp": "2024-03-27",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Good morning. I'd like to schedule a physical appointment for me and my wife.",
+      "ReceiverContent": "For you both. One moment. Could I take your date of birth?",
+      "Timestamp": "2024-03-27 00:10:00"
+    },
+    "Seq2": {
+      "CallerContent": "I think last year's was in December.",
+      "ReceiverContent": "You have made your previous physical. It was on 7th of September, 2023, am I correct?",
+      "Timestamp": "2024-03-27 00:40:00"
+    },
+    "Seq3": {
+      "CallerContent": "Well, yes, because I believe we're both due for a flu shot.",
+      "ReceiverContent": "Okay, would you like to make... And maybe COVID? No, other than flu shots, we don't provide any shots here. If you want to make up an appointment for a flu shot, we can make an appointment for you.",
+      "Timestamp": "2024-03-27 04:01:00"
+    },
+    "Seq4": {
+      "CallerContent": "I do have one question. Is this flu shot a senior flu shot or is it just a regular flu shot?",
+      "ReceiverContent": "I don't know. I don't know exactly what it is.",
+      "Timestamp": "2024-03-27 06:29:00"
+    }
+  }
+}
+```

@@ -1,0 +1,40 @@
+crhg_2023_Oct_30_09_20_27_timestamped
+```json
+{
+  "Caller": "Arundel Michael",
+  "Receiver": "Dominic",
+  "Timestamp": "2024-03-27",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Good morning. I'm calling from Anne Arundel Medical Center, and I need to get a copy of preoperative clearance for a patient, please.",
+      "ReceiverContent": "Okay, one moment. Let me transfer you to the franchise. Can they get you out of this? Please stay online. Thank you. And if the call is not answered, kindly leave a voice message. We'll get back to you as soon as possible. Okay, because he is scheduled today, and we had expected to receive it on Friday, so I just want to make sure we're able to get it urgently. Sure. Please stay online. I'm going to transfer you, and if you don't receive any call back after some time, you can call me back again. Okay, thank you. Stay online. Bye-bye.",
+      "Timestamp": "2024-03-27 00:04:00"
+    },
+    "Seq2": {
+      "CallerContent": "Hi there. I'm calling from Anne Arundel Medical Center, and I need to get a copy of preoperative clearance for a patient, please.",
+      "ReceiverContent": "Please hold for a moment. Thank you. Hi there. Thank you again for holding. This is Brandy here in the front office. How can I help you today?",
+      "Timestamp": "2024-03-27 00:56:00"
+    },
+    "Seq3": {
+      "CallerContent": "I need to get a copy of preoperative clearance for a patient, please.",
+      "ReceiverContent": "Yeah, most definitely. What is the patient's name?",
+      "Timestamp": "2024-03-27 01:06:00"
+    },
+    "Seq4": {
+      "CallerContent": "Clarence Buchanan.",
+      "ReceiverContent": "Buchanan? Yep, absolutely. We actually just had him in the other day. Let me just go ahead, and I'll get that over to you. What's the fax number, ma'am?",
+      "Timestamp": "2024-03-27 01:10:00"
+    },
+    "Seq5": {
+      "CallerContent": "866-202-3446.",
+      "ReceiverContent": "Very good, and I will definitely go ahead and send over all the information that we currently have that was through the preop clearance, okay?",
+      "Timestamp": "2024-03-27 01:23:00"
+    },
+    "Seq6": {
+      "CallerContent": "Thank you so much.",
+      "ReceiverContent": "No problem. Have a great afternoon.",
+      "Timestamp": "2024-03-27 01:34:00"
+    }
+  }
+}
+```

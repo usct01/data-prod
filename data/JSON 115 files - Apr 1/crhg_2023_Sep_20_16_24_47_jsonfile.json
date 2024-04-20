@@ -1,0 +1,60 @@
+{
+  "Metadata": "value",
+  "Caller": "Anonymous",
+  "Receiver": "Kathy",
+  "Timestamp": "2023-09-20 16:24:47",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thank you for calling Crosstown Family Practice. This is Kathy from SST Today.",
+      "Timestamp": "2023-09-20 16:24:47"
+    },
+    "Seq2": {
+      "CallerContent": "Kathy? Yes. Is Brandy there? Would you like to speak to Brandy? Yeah. Is Brandy there?",
+      "ReceiverContent": "Yeah. Kindly stay online. Let me transfer the call to her and have a great day.",
+      "Timestamp": "2023-09-20 16:24:52"
+    },
+    "Seq3": {
+      "ReceiverContent": "Thank you for contacting Crosstown Family Practice. This is Brandy here in the front. How can we help you today?",
+      "Timestamp": "2023-09-20 16:25:38"
+    },
+    "Seq4": {
+      "CallerContent": "Brandy, how are you? I'm doing wonderful, but thank you so much for asking. How can I help you, sir?",
+      "ReceiverContent": "Good afternoon. This is Mohan Mambalam. You sent my lab results? Yes, sir. I sure did.",
+      "Timestamp": "2023-09-20 16:25:55"
+    },
+    "Seq5": {
+      "ReceiverContent": "You didn't see what now, sir? I'm sorry? Liquid profile.",
+      "Timestamp": "2023-09-20 16:26:02"
+    },
+    "Seq6": {
+      "CallerContent": "I'm not sure. I just sent whatever was tested for was on there. I wouldn't know anything further until tomorrow when I could ask the nurse and also ask our lab tech, but they've both already left for the day-to-day, sir.",
+      "ReceiverContent": "Okay. Thank you. I will call you tomorrow.",
+      "Timestamp": "2023-09-20 16:26:34"
+    },
+    "Seq7": {
+      "ReceiverContent": "Okay, honey. I'll hear from you tomorrow, okay?",
+      "Timestamp": "2023-09-20 16:26:36"
+    },
+    "Seq8": {
+      "ReceiverContent": "Yeah. Thank you. All right. Bye-bye. I'm sorry, ma'am, because I want to know what is my cholesterol and liquid.",
+      "Timestamp": "2023-09-20 16:26:39"
+    },
+    "Seq9": {
+      "CallerContent": "Yes, sir. No, I completely understand. Yeah. And like I said, I do sincerely apologize for that note, though. It's just I'm not sure myself unless it was something that was tested for and listed on there. Then, of course, I'd have to ask the nurse why it wasn't ordered.",
+      "ReceiverContent": "Yeah. Thank you.",
+      "Timestamp": "2023-09-20 16:26:46"
+    },
+    "Seq10": {
+      "ReceiverContent": "You're welcome. No problem, sir. You have a great day.",
+      "Timestamp": "2023-09-20 16:27:05"
+    },
+    "Seq11": {
+      "ReceiverContent": "Bye.",
+      "Timestamp": "2023-09-20 16:27:08"
+    },
+    "Seq12": {
+      "ReceiverContent": "Bye. Bye.",
+      "Timestamp": "2023-09-20 16:27:09"
+    }
+  }
+}

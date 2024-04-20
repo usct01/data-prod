@@ -1,0 +1,65 @@
+crhg_2023_Oct_30_08_40_55_timestamped
+```json
+{
+  "Caller": "Cheryl Naiman",
+  "Receiver": "Kumar",
+  "Timestamp": "2024-03-27",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi Kumar. This is Cheryl Naiman. You just transferred me to the nurse and I really want to schedule an appointment. I don't need to talk to the nurse.",
+      "ReceiverContent": "Okay. Would you like to... Sorry. Go ahead.",
+      "Timestamp": "2024-03-27 00:05:00"
+    },
+    "Seq2": {
+      "CallerContent": "That's okay. I just want to schedule an appointment with Dr. Williams. Does the nurse do that?",
+      "ReceiverContent": "Would you like to meet the doctor in person or would you like to make a tele-visit?",
+      "Timestamp": "2024-03-27 00:22:00"
+    },
+    "Seq3": {
+      "CallerContent": "I want the first available.",
+      "ReceiverContent": "Okay. One moment. Let me check on it. We do have a slot available tomorrow at 10.30 a.m. Will that be okay with you? To meet the doctor in person?",
+      "Timestamp": "2024-03-27 00:37:00"
+    },
+    "Seq4": {
+      "CallerContent": "Is that in person?",
+      "ReceiverContent": "Yes. Correct. Only in person.",
+      "Timestamp": "2024-03-27 00:58:00"
+    },
+    "Seq5": {
+      "CallerContent": "That's perfect. Tomorrow at 10.30 is perfect.",
+      "ReceiverContent": "Would you like to make it? Yes. Okay. Could I take your date of birth?",
+      "Timestamp": "2024-03-27 01:03:00"
+    },
+    "Seq6": {
+      "CallerContent": "3-1-63.",
+      "ReceiverContent": "Your last name is Naiman, am I correct?",
+      "Timestamp": "2024-03-27 01:15:00"
+    },
+    "Seq7": {
+      "CallerContent": "Yes. N-A-I-M-A-N.",
+      "ReceiverContent": "Yes. I got you. And may I know the reason of the appointment?",
+      "Timestamp": "2024-03-27 01:24:00"
+    },
+    "Seq8": {
+      "CallerContent": "Bronchitis.",
+      "ReceiverContent": "What did you say? Could you say that again?",
+      "Timestamp": "2024-03-27 01:35:00"
+    },
+    "Seq9": {
+      "CallerContent": "Bronchitis.",
+      "ReceiverContent": "So just to confirm, I have... An appointment tomorrow at 10.30 a.m. to meet the doctor in person.",
+      "Timestamp": "2024-03-27 01:42:00"
+    },
+    "Seq10": {
+      "CallerContent": "Perfect. Thank you.",
+      "ReceiverContent": "Is there anything else that I may ask the students?",
+      "Timestamp": "2024-03-27 01:53:00"
+    },
+    "Seq11": {
+      "CallerContent": "No. I appreciate your doing this.",
+      "ReceiverContent": "Thank you for calling CrossFit Summer Practice. You have a great day. Bye-bye.",
+      "Timestamp": "2024-03-27 02:01:00"
+    }
+  }
+}
+```

@@ -1,0 +1,28 @@
+{
+  "Metadata": "value",
+  "Receiver": "Dominic from Crofton Family Practice",
+  "Timestamp": "2023-09-21 11:39:01",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Daphne, thanks for calling Crofton Family Practice. This is Dominic from the SEC.",
+      "Timestamp": "2023-09-21 11:39:01"
+    },
+    "Seq2": {
+      "OtherSpeakerContent": "Yes, I'll be again.",
+      "Timestamp": "2023-09-21 11:39:07"
+    },
+    "Seq3": {
+      "CallerContent": "Looks like I call you every day. But anyway, so can you connect me to the nurse, please? Sure. Yeah, for the medication.",
+      "ReceiverContent": "Yeah, let me transfer the call, and you have a great day.",
+      "Timestamp": "2023-09-21 11:39:14"
+    },
+    "Seq4": {
+      "BrandiContent": "Hello, you have reached the nurse line. If this is an emergency, please hang up and dial 911. If you're calling for a prescription refill, please leave a detailed message with the drug name, the milligrams, and your pharmacy information. Please allow 72 hours for your refills to be processed. Leave us a message, and we'll get back to you as soon as we can. Thank you, and have a good day.",
+      "Timestamp": "2023-09-21 11:39:55"
+    },
+    "Seq5": {
+      "CallerContent": "Hi, this is Daphne. I'm calling from my mom. Hi. Hi, Pam. For her insulin medication, they don't sell the needle until you guys have to get them the prescription. The pharmacy, they won't sell to me the needle. So the insulin doesn't have the needle come with that. Can you give me a call? My phone number is 443-990-2106. Again. My phone number is 443-990-2106. Thank you. Bye-bye. Bye-bye.",
+      "Timestamp": "2023-09-21 11:40:24"
+    }
+  }
+}

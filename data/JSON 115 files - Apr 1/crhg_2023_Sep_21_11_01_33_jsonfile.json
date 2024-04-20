@@ -1,0 +1,61 @@
+{
+  "Metadata": "value",
+  "Receiver": "Kathy from Crofton Family Practice",
+  "Timestamp": "2023-09-21 11:01:33",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. Thank you for calling Crofton Family Practice. This is Kathy. How may I assist you today?",
+      "Timestamp": "2023-09-21 00:00:00"
+    },
+    "Seq2": {
+      "CallerContent": "Is it Brandy? You are Brandy?",
+      "ReceiverContent": "So would you like to speak to Brandy? Yes. Good morning. I'm going to stay online. I'm transferring the call and have a great day.",
+      "Timestamp": "2023-09-21 00:00:10"
+    },
+    "Seq3": {
+      "ReceiverContent": "Your conversation is being recorded.",
+      "Timestamp": "2023-09-21 00:00:23"
+    },
+    "Seq4": {
+      "ReceiverContent": "Thank you for contacting Crofton Family Practice. This is Brandy here in the front office. How can we help you today?",
+      "Timestamp": "2023-09-21 00:00:26"
+    },
+    "Seq5": {
+      "CallerContent": "Brandy, how are you? Good morning first.",
+      "ReceiverContent": "Good morning there to you. Actually, I'm doing very well, but thank you so much for asking. What can I do for you today, sir?",
+      "Timestamp": "2023-09-21 00:00:33"
+    },
+    "Seq6": {
+      "CallerContent": "Do you remember I called you about my labs for a month ago?",
+      "ReceiverContent": "Yes, sir. Yep. I had sent them over there to you.",
+      "Timestamp": "2023-09-21 00:00:42"
+    },
+    "Seq7": {
+      "CallerContent": "Huh?",
+      "ReceiverContent": "Yes, sir. I'm saying, are you asking if I had sent them to you?",
+      "Timestamp": "2023-09-21 00:00:48"
+    },
+    "Seq8": {
+      "CallerContent": "No, no, no. You sent me, but I didn't see the liquid profile. Can you please transfer to the lab lady?",
+      "ReceiverContent": "Yeah, I can definitely go ahead and transfer you in there. Remember, that's what I was going to say. We spoke about whether or not I wasn't sure if they were going to draw that or not. So, yes, indeed, sir. Let me go ahead and send you in to our lab coordinator, Lori, okay?",
+      "Timestamp": "2023-09-21 00:01:06"
+    },
+    "Seq9": {
+      "CallerContent": "Yeah.",
+      "ReceiverContent": "Yes, sir. No problem, Mr. M. Blum. Here we go.",
+      "Timestamp": "2023-09-21 00:01:21"
+    },
+    "Seq10": {
+      "CallerContent": "Sorry, I can't come to the phone right now. I'm either with a patient or away from my desk. Leave your name and number and a brief message, and I will get back to you as soon as possible. Thank you.",
+      "Timestamp": "2023-09-21 00:02:01"
+    },
+    "Seq11": {
+      "CallerContent": "Bori, this is Dr. M. Blum. You took my lab on 14th of September. I wonder, I did not get the liquid profile results. Could you please check whether you have sent the liquid profile? Thank you. And please call me, 301-455-9004. Thank you.",
+      "Timestamp": "2023-09-21 00:02:20"
+    },
+    "Seq12": {
+      "ReceiverContent": "Please enter your extension. Press pound when done. Press star to cancel.",
+      "Timestamp": "2023-09-21 00:02:58"
+    }
+  }
+}

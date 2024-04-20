@@ -1,0 +1,28 @@
+crhg_2023_Sep_22_09_01_16_timestamped
+{
+  "Caller": "Marilyn Hardy",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-09-20 10:00:00",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "I'm calling to find out if the referral was sent to Humana on my behalf. Brandy told me she was in the process of sending it if she had not already sent it.",
+      "ReceiverContent": "Let me transfer you to Brandy, and she could help you out with this.",
+      "Timestamp": "2023-09-20 10:00:04"
+    },
+    "Seq2": {
+      "CallerContent": "No, I want to speak with Dr. Williams if she's there.",
+      "ReceiverContent": "I need to transfer you to Brandy because the doctor might be busy with another patient.",
+      "Timestamp": "2023-09-20 10:00:47"
+    },
+    "Seq3": {
+      "CallerContent": "Can I talk to the office manager?",
+      "ReceiverContent": "Sure, I will transfer you to reception, and they could help you out with this.",
+      "Timestamp": "2023-09-20 10:01:40"
+    },
+    "Seq4": {
+      "CallerContent": "Randy, this is Marilyn Hardy reminding you that you have not sent the document to Humana, and I have not received the referral for my care.",
+      "ReceiverContent": "Hello, you have reached the receptionist at Crofton Family Practice.",
+      "Timestamp": "2023-09-20 10:03:04"
+    }
+  }
+}

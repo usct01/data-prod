@@ -1,0 +1,108 @@
+{
+  "Metadata": "value",
+  "Caller": "Unknown",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-09-21 10:05:14",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. Thank you for calling Crosswind Family Practice. This is Kumar. How may I assist you today?",
+      "Timestamp": "2023-09-21 10:05:14"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, yes. Good morning. I received a bill in the mail for my daughter's statement worth August 7th, and I paid it, but I keep getting a bill saying that it's unpaid.",
+      "ReceiverContent": "Oh, okay. Can I give you a mail ID?",
+      "Timestamp": "2023-09-21 10:05:18"
+    },
+    "Seq3": {
+      "CallerContent": "I'm sorry?",
+      "ReceiverContent": "Good. Let me give you a mail ID. You just mail them, and they could help you out with this.",
+      "Timestamp": "2023-09-21 10:05:26"
+    },
+    "Seq4": {
+      "CallerContent": "Okay, great. Thank you.",
+      "ReceiverContent": "Yeah, sure. Thank you. Please stay online, and if the call is not answered, kindly leave a voice message. They'll get back to you as soon as possible. Please stay online.",
+      "Timestamp": "2023-09-21 10:05:31"
+    },
+    "Seq5": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Your conversation is being recorded. Thank you for contacting Crosswind Family Practice. This is Brandy here in the front office. Can I please hold for just a moment? Sure. Thank you.",
+      "Timestamp": "2023-09-21 10:05:59"
+    },
+    "Seq6": {
+      "ReceiverContent": "Hello there, and thank you again for holding. How can I help you today?",
+      "Timestamp": "2023-09-21 10:06:44"
+    },
+    "Seq7": {
+      "CallerContent": "Yes, I got a bill back in August, and I ended up paying it the day. I have a bill right after that I received it, and I keep getting a bill stating that it's unpaid.",
+      "ReceiverContent": "Okay, no problem there, ma'am, and I do greatly apologize for that note. Let me go into my system particularly and see what it's saying, just that way we can make sure of it.\nAnd then, of course, if not, what I'll do is I have an email address for our billing company, and you will have to reach out to them. However, I can also submit another action on it.\nSo give me just a moment here, and we'll see what we can do, okay?",
+      "Timestamp": "2023-09-21 10:04:48"
+    },
+    "Seq8": {
+      "CallerContent": "Thank you. Thank you.",
+      "ReceiverContent": "Absolutely. Yes, ma'am. Definitely here to help, and I know money is tight for everyone lately, you know? And even if not, why waste it if it's already paid?",
+      "Timestamp": "2023-09-21 10:05:22"
+    },
+    "Seq9": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Yes, ma'am. All righty. Let me go ahead and just finish up this one last paper here, and then I got you covered.",
+      "Timestamp": "2023-09-21 10:05:33"
+    },
+    "Seq10": {
+      "CallerContent": "Give me one second, please. Yes, ma'am.",
+      "ReceiverContent": "No, it's quite okay. Go right ahead.",
+      "Timestamp": "2023-09-21 10:05:46"
+    },
+    "Seq11": {
+      "CallerContent": "Hello, ma'am.",
+      "ReceiverContent": "Yes, indeed, sir. I'm still here with you.",
+      "Timestamp": "2023-09-21 10:07:06"
+    },
+    "Seq12": {
+      "CallerContent": "Yes. Just give me one minute. I'm almost done. Okay?",
+      "ReceiverContent": "Okay, ma'am. Go right ahead.",
+      "Timestamp": "2023-09-21 10:07:10"
+    },
+    "Seq13": {
+      "ReceiverContent": "I'm sorry. Sorry about that, ma'am. How can we help you today?",
+      "Timestamp": "2023-09-21 10:08:41"
+    },
+    "Seq14": {
+      "CallerContent": "Okay. Okay. So, yeah, you said you were going to check the billing?",
+      "ReceiverContent": "Yes, ma'am. So let's go ahead here. And then what is the patient's name and date of birth?",
+      "Timestamp": "2023-09-21 10:08:45"
+    },
+    "Seq15": {
+      "CallerContent": "Taylin Davis, March 19, 2009.",
+      "ReceiverContent": "Okay. Very good. Yes, I have Taylin Davis right here. Let's go ahead here and take a look. I am showing that there is a bill for $24 that is owed through us right now.",
+      "Timestamp": "2023-09-21 10:08:53"
+    },
+    "Seq16": {
+      "CallerContent": "That's correct. And I actually paid that. The first bill was out August the 7th, and I paid it. I paid it over the phone, and it's on my billing statement. I mean, my banking statement.",
+      "ReceiverContent": "Okay, no problem. Bear with me here. Let me go ahead and send in the action to our billing company. Give me just a moment, okay? Thank you. Yes, ma'am.",
+      "Timestamp": "2023-09-21 10:09:08"
+    },
+    "Seq17": {
+      "ReceiverContent": "Yes, ma'am. Are you still there with me?",
+      "Timestamp": "2023-09-21 10:12:14"
+    },
+    "Seq18": {
+      "CallerContent": "Yeah.",
+      "ReceiverContent": "Wonderful.",
+      "Timestamp": "2023-09-21 10:12:17"
+    },
+    "Seq19": {
+      "ReceiverContent": "So what I did is I just went ahead and submitted a new action for our billing providers to take a look over the billing cycle and the actual bill itself. So what will happen is I did describe it a little bit, of course, that it's already been paid and that you do have proof of receipt for your payment. With that being said, you know, hopefully they'll go through it here shortly, and then, of course, you know, take off, you know, what exactly is the amount showing as owed.",
+      "Timestamp": "2023-09-21 10:12:46"
+    },
+    "Seq20": {
+      "CallerContent": "Okay. Thank you.",
+      "ReceiverContent": "My pleasure. You have a great afternoon.",
+      "Timestamp": "2023-09-21 10:12:42"
+    },
+    "Seq21": {
+      "CallerContent": "You too. Bye-bye. Yes, ma'am.",
+      "ReceiverContent": "Bye-bye now.",
+      "Timestamp": "2023-09-21 10:12:45"
+    }
+  }
+}

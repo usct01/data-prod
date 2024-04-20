@@ -1,0 +1,34 @@
+crhg_2023_Oct_26_09_05_48_timestamped
+{
+  "Metadata": "value",
+  "Caller": "Kim",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-10-26 10:04:16",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi Kumar. This is Kim Bussey. How are you?",
+      "ReceiverContent": "Good morning. Thank you for calling Garofalo Family Practice. This is Kumar from ASST today.",
+      "Timestamp": "2023-10-26 10:04:16"
+    },
+    "Seq2": {
+      "CallerContent": "Okay. Somebody just called me.",
+      "ReceiverContent": "I'm doing good. Thanks for asking. How are you today?",
+      "Timestamp": "2023-10-26 10:04:10"
+    },
+    "Seq3": {
+      "CallerContent": "Kim Bussey.",
+      "ReceiverContent": "Okay. One moment. I'm going to transfer you to the front desk and they could help you out with this. May I know your name please?",
+      "Timestamp": "2023-10-26 10:04:19"
+    },
+    "Seq4": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Okay. One moment. Please stay on line.",
+      "Timestamp": "2023-10-26 10:04:24"
+    },
+    "Seq5": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Thank you.",
+      "Timestamp": "2023-10-26 10:04:54"
+    }
+  }
+}

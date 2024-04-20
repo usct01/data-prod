@@ -1,0 +1,111 @@
+crhg_2023_Sep_21_16_02_14_timestamped
+```json
+{
+  "Metadata": "value",
+  "Caller": "Faith Van Lange",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-09-21 15:05:37",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi. My name is Faith Van Lange, and I'm not sure if I need to make an appointment with a doctor or not, but I need to get my blood pressure medicine refilled, and I would like to change the medication.",
+      "ReceiverContent": "Let me check on the next available slot for you. One moment.",
+      "Timestamp": "2023-09-21 15:05:40"
+    },
+    "Seq2": {
+      "CallerContent": "Okay. Thanks.",
+      "ReceiverContent": "The lab works on Mondays, Wednesdays, and Thursdays only, so I need to make an appointment on lab working days. One moment. Let me check on it.",
+      "Timestamp": "2023-09-21 15:05:48"
+    },
+    "Seq3": {
+      "CallerContent": "Okay. I do start chemotherapy on the 27th.",
+      "ReceiverContent": "September 27th?",
+      "Timestamp": "2023-09-21 15:06:35"
+    },
+    "Seq4": {
+      "CallerContent": "Yes. Uh-huh. So I kind of like to have it done before then.",
+      "ReceiverContent": "Mm-hmm. One moment.",
+      "Timestamp": "2023-09-21 15:06:51"
+    },
+    "Seq5": {
+      "CallerContent": "Thanks.",
+      "ReceiverContent": "",
+      "Timestamp": "2023-09-21 15:07:11"
+    },
+    "Seq6": {
+      "CallerContent": "We do have a slot available on 28th of September at 10 a.m. Would that be okay with you?",
+      "ReceiverContent": "I think it'll work. I'm not sure how I'll be feeling after chemo.",
+      "Timestamp": "2023-09-21 15:07:17"
+    },
+    "Seq7": {
+      "CallerContent": "Okay. Very good.",
+      "ReceiverContent": "Thank you. Okay. And if the call is not answered, kindly leave a voice message. She'll get back to you as soon as possible. If you don't receive any call back after some time, you can call me back. I'll call you back again. Okay, that sounds good. Stay online. You have a great day. Bye-bye.",
+      "Timestamp": "2023-09-21 15:07:25"
+    },
+    "Seq8": {
+      "CallerContent": "You too. Thank you.",
+      "ReceiverContent": "Thank you, Bubba.",
+      "Timestamp": "2023-09-21 15:07:45"
+    },
+    "Seq9": {
+      "CallerContent": "Your conversation is being recorded.",
+      "ReceiverContent": "Hi, this is Nurse Amy. How can I help you?",
+      "Timestamp": "2023-09-21 15:09:40"
+    },
+    "Seq10": {
+      "CallerContent": "Hi, this is Faith Van Linde. Um, I'm just wondering what to do. Um, I think I'm going to need to refill my, um, blood pressure medicine.",
+      "ReceiverContent": "Okay.",
+      "Timestamp": "2023-09-21 15:09:45"
+    },
+    "Seq11": {
+      "CallerContent": "And I had an episode at the hospital I was getting, um. A lung biopsy, and my blood pressure shot up, and I couldn't do it.",
+      "ReceiverContent": "Oh, goodness.",
+      "Timestamp": "2023-09-21 15:09:55"
+    },
+    "Seq12": {
+      "CallerContent": "Yeah.",
+      "ReceiverContent": "So you're still doing the – which blood pressure medication? Your lisinopril, 10 milligrams?",
+      "Timestamp": "2023-09-21 15:10:08"
+    },
+    "Seq13": {
+      "CallerContent": "Yes, uh-huh. Okay. Have you been taking that? Yes. Yeah, I have. Okay. All right.",
+      "ReceiverContent": "Do you want me to send over a refill for you?",
+      "Timestamp": "2023-09-21 15:10:19"
+    },
+    "Seq14": {
+      "CallerContent": "Well, I have enough right now. What I need to do is they kind of told me I need to go back to the doctor. They told you to change it. Yeah.",
+      "ReceiverContent": "Let's see if we can get you on the schedule, because it might be – she'll want to have an appointment to do that. She might want to change it. How has your blood pressure been since you left there?",
+      "Timestamp": "2023-09-21 15:10:33"
+    },
+    "Seq15": {
+      "CallerContent": "Pretty good.",
+      "ReceiverContent": "",
+      "Timestamp": "2023-09-21 15:10:47"
+    },
+    "Seq16": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "So it's just that –",
+      "Timestamp": "2023-09-21 15:10:50"
+    },
+    "Seq17": {
+      "CallerContent": "I mean, it's like 160, but, I mean, for me, it's pretty decent now. Okay.",
+      "ReceiverContent": "All right. You've had a lot going on.",
+      "Timestamp": "2023-09-21 15:11:00"
+    },
+    "Seq18": {
+      "CallerContent": "I really do. It's getting crazy.",
+      "ReceiverContent": "Yeah. So let's see if we can get you in maybe one day next week. Would that be okay?",
+      "Timestamp": "2023-09-21 15:11:06"
+    },
+    "Seq19": {
+      "CallerContent": "Yeah. The 26th of September, I have chemotherapy training. Yeah, teaching. Okay.",
+      "ReceiverContent": "So what I want you to do between now and then, I'm going to transfer you up front and see about when Brandy can get you on the schedule. Between now and then, when you can get in, I want you to just kind of keep an eye on your blood pressure.",
+      "Timestamp": "2023-09-21 15:11:24"
+    },
+    "Seq20": {
+      "CallerContent": "Okay. Thank you so much. Thank you.",
+      "ReceiverContent": "Okay, honey.",
+      "Timestamp": "2023-09-21 15:11:43"
+    },
+    "Seq21": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "We're still looking at

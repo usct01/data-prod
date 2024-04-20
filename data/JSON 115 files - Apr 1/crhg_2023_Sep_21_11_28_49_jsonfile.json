@@ -1,0 +1,24 @@
+{
+  "Metadata": "value",
+  "Receiver": "Kathy from Proud and Family Practice",
+  "Timestamp": "2023-09-21 11:28:49",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. Thank you for calling Proud and Family Practice. This is Kathy. How may I assist you today?",
+      "Timestamp": "2023-09-21 00:01:00"
+    },
+    "Seq2": {
+      "CallerContent": "Kathy, hi. I emailed my pre-op paperwork over on Monday to the email address that I was provided. I just want to make sure that you guys received the paperwork and it was given to the pre-op lady.",
+      "ReceiverContent": "Yeah, kindly give me a minute.",
+      "Timestamp": "2023-09-21 00:06:00"
+    },
+    "Seq3": {
+      "ReceiverContent": "Kindly stay online. Let me transfer the call to the front desk and they could help you with this. If the call is not answered, kindly leave a voice message and they'll get back to you as soon as possible. Kindly stay online. I'm transferring the call and have a great day.",
+      "Timestamp": "2023-09-21 00:34:00"
+    },
+    "Seq4": {
+      "ReceiverContent": "Hello. You have reached the receptionist at Proud and Family Practice. Please leave your name, reason for calling, and your number so we can call you back as soon as we can. If you are experiencing a medical emergency, please hang up and dial 9-",
+      "Timestamp": "2023-09-21 01:17:00"
+    }
+  }
+}

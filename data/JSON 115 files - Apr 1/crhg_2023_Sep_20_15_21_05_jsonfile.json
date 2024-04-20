@@ -1,0 +1,121 @@
+{
+  "Metadata": "value",
+  "Caller": "Camelia Watson",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-09-20 15:21:05",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, Dominic. I'm trying to reach the office and it went to a voicemail and I just left the office.",
+      "ReceiverContent": "Okay. Kindly give me a minute, ma'am. Let me transfer the call once again. Thank you. Okay. I'm really sorry for the inconvenience and you have a great day.",
+      "Timestamp": "2023-09-20 15:21:05"
+    },
+    "Seq2": {
+      "OtherSpeakerContent": "You too.",
+      "Timestamp": "2023-09-20 15:21:18"
+    },
+    "Seq3": {
+      "ReceiverContent": "Thank you for contacting Crofton Family Practice. This is Brandy here in the front office. How can we help you today?",
+      "Timestamp": "2023-09-20 15:21:26"
+    },
+    "Seq4": {
+      "CallerContent": "Hi, my name is Camelia Watson and I'm calling in regard to Jacqueline Watson. An invoice that we keep getting for $300. I've called and spoke to Betty. I've actually talked to you too and we resubmitted her information for her insurance, which is her father, who's TRICARE.",
+      "ReceiverContent": "Yes, ma'am. To be honest, I don't know. I don't know myself, ma'am. The only way... Yes, Betty is here.",
+      "Timestamp": "2023-09-20 15:21:31"
+    },
+    "Seq5": {
+      "CallerContent": "Okay. If I could talk to her because she's the one who's supposed to be helping me.",
+      "ReceiverContent": "Okay. No problem. Yes, ma'am. Let me go ahead and see, okay?",
+      "Timestamp": "2023-09-20 15:21:48"
+    },
+    "Seq6": {
+      "OtherSpeakerContent": "Okay.",
+      "Timestamp": "2023-09-20 15:21:54"
+    },
+    "Seq7": {
+      "OtherSpeakerContent": "Ms. Watson,",
+      "Timestamp": "2023-09-20 15:23:15"
+    },
+    "Seq8": {
+      "ReceiverContent": "are you still there with us?",
+      "Timestamp": "2023-09-20 15:23:17"
+    },
+    "Seq9": {
+      "CallerContent": "Yes, I am.",
+      "Timestamp": "2023-09-20 15:23:18"
+    },
+    "Seq10": {
+      "ReceiverContent": "Okay. No problem. Ms. Betty is here. She was currently with a patient. So if you don't mind, give me just a few moments. I do have to put you on hold, of course, but she will be able to speak with you.",
+      "Timestamp": "2023-09-20 15:23:19"
+    },
+    "Seq11": {
+      "CallerContent": "Wonderful. Thank you so much.",
+      "ReceiverContent": "Oh, here she comes. Hold on one second.",
+      "Timestamp": "2023-09-20 15:23:29"
+    },
+    "Seq12": {
+      "OtherSpeakerContent": "Hey, this is Betty. Don't tell me you got another bill. Yeah, Betty.",
+      "Timestamp": "2023-09-20 15:23:35"
+    },
+    "Seq13": {
+      "CallerContent": "They sent another $300 bill. I'm trying to look at the date on it, Betty, because I had my daughter scan it to me.",
+      "ReceiverContent": "Let me pull it up.",
+      "Timestamp": "2023-09-20 15:23:41"
+    },
+    "Seq14": {
+      "OtherSpeakerContent": "I'm like, what the freak?",
+      "Timestamp": "2023-09-20 15:23:53"
+    },
+    "Seq15": {
+      "OtherSpeakerContent": "I know. I mean, this is ridiculous. I paid a bill on my own. Last week, and I got a bill on the mail yesterday. So I thought, no, no, I work here.",
+      "Timestamp": "2023-09-20 15:23:53"
+    },
+    "Seq16": {
+      "CallerContent": "Yeah, they dated it for 9-8, and yeah, $300.",
+      "ReceiverContent": "When did we talk? Do you remember?",
+      "Timestamp": "2023-09-20 15:24:05"
+    },
+    "Seq17": {
+      "CallerContent": "We talked, I want to say, two weeks ago.",
+      "ReceiverContent": "Okay. I'm going to send another action. What is her first name?",
+      "Timestamp": "2023-09-20 15:24:13"
+    },
+    "Seq18": {
+      "CallerContent": "Jacqueline J-A-C-L-Y-A-C.",
+      "ReceiverContent": "Same as your last name, Watson, right? Yes. All right, I'm going to send an action right now.",
+      "Timestamp": "2023-09-20 15:24:22"
+    },
+    "Seq19": {
+      "CallerContent": "Okay, and did you need the sponsor's TRICARE number?",
+      "ReceiverContent": "No, I wouldn't be calling them.",
+      "Timestamp": "2023-09-20 15:24:37"
+    },
+    "Seq20": {
+      "CallerContent": "No, no, no, what I'm saying is, at first I was told it's because the insurance is the problem, but they didn't have her insurance set up under her, and she should be under Kevin Watson, who's her dad, who's in the military.",
+      "ReceiverContent": "Yeah, it wouldn't make any difference",
+      "Timestamp": "2023-09-20 15:24:41"
+    },
+    "Seq21": {
+      "OtherSpeakerContent": "as long as you have the correct number.",
+      "Timestamp": "2023-09-20 15:24:55"
+    },
+    "Seq22": {
+      "CallerContent": "Oh, okay. Yeah, I don't know if they...",
+      "ReceiverContent": "And Kevin's not a patient here, right?",
+      "Timestamp": "2023-09-20 15:25:02"
+    },
+    "Seq23": {
+      "CallerContent": "Yes, well, I don't know if he is anymore, or it was, but he was a patient there. Yeah.",
+      "ReceiverContent": "All right, I've got one going here. Let me hurry up and do this for you, and I'm going to send another action, okay?",
+      "Timestamp": "2023-09-20 15:25:10"
+    },
+    "Seq24": {
+      "CallerContent": "Okay, all right, thank you.",
+      "ReceiverContent": "You're welcome. Bye-bye.",
+      "Timestamp": "2023-09-20 15:25:18"
+    },
+    "Seq25": {
+      "CallerContent": "Bye-bye. Bye-bye.",
+      "Timestamp": "2023-09-20 15:25:20"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+"Metadata": "value",
+"Caller": "Elizabeth",
+"Receiver": "Kumaran (Crofton Family Practice)",
+"Timestamp": "2023_12_04_14:51:12",
+"CallContent": {
+"Seq1": {
+"CallerContent": "Hello?",
+"ReceiverContent": "Good afternoon, this is Kumaran from Family Practice. How may I assist you today?",
+"Timestamp": "2023_12_04_14:51:12"
+},
+"Seq2": {
+"CallerContent": "Yes, I'd like to make an appointment for follow-up because I had a blood test last week and I need to make an appointment.",
+"ReceiverContent": "Sure. Would you like to meet the doctor in person?",
+"Timestamp": "2023_12_04_14:51:12"
+},
+"Seq3": {
+"CallerContent": "Yes.",
+"ReceiverContent": "Okay, one moment. Let me check on the next available slot for you.",
+"Timestamp": "2023_12_04_14:51:12"
+},
+"Seq4": {
+"CallerContent": "My name is Elizabeth Hope, H-O-P-E.",
+"ReceiverContent": "Okay, we do have a slot available on 22nd of December at 11 a.m. Will Dr. Yoke give it to you?",
+"Timestamp": "2023_12_04_14:51:12"
+},
+"Seq5": {
+"CallerContent": "Now, wait a minute. My hearing aid and all the words are going together. What did you say again, sir?",
+"ReceiverContent": "It's 22nd of December at 11 a.m. It's Friday.",
+"Timestamp": "2023_12_04_14:51:12"
+},
+"Seq6": {
+"CallerContent": "What was the date again?",
+"ReceiverContent": "22nd.",
+"Timestamp": "2023_12_04_14:51:12"
+},
+"Seq7": {
+"CallerContent": "Oh, 22nd. Oh, okay.",
+"ReceiverContent": "Yes.",
+"Timestamp": "2023_12_04_14:51:12"
+},
+"Seq8": {
+"CallerContent": "Gee, that's a long time. At 11 o'clock, right?",
+"ReceiverContent": "Yes, that's right. Would you like to make it?",
+"Timestamp": "2023_12_04_14:51:12"
+},
+"Seq9": {
+"CallerContent": "Okay.",
+"ReceiverContent": "Would you like to make it?",
+"Timestamp": "2023_12_04_14:51:12"
+},
+"Seq10": {
+"CallerContent": "Yeah, I'll take the 11 o'clock appointment for December the 22nd.",
+"ReceiverContent": "Okay, could I take your date of birth?",
+"Timestamp": "2023_12_04_14:51:12"
+},
+"Seq11": {
+"CallerContent": "8-8-34.",
+"ReceiverContent": "Just confirm. I have fixed an appointment on 22nd of December at 11 a.m. to meet the doctor in person.",
+"Timestamp": "2023_12_04_14:51:12"
+},
+"Seq12": {
+"CallerContent": "Yes, thank you.",
+"ReceiverContent": "Is there anything else that I may assist you with?",
+"Timestamp": "2023_12_04_14:51:12"
+},
+"Seq13": {
+"CallerContent": "No, that's it.",
+"ReceiverContent": "Okay, thank you for calling Crofton Family Practice, and you have a great day.",
+"Timestamp": "2023_12_04_14:51:12"
+}
+}
+}

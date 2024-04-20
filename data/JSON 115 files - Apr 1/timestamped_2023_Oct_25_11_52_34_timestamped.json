@@ -1,0 +1,80 @@
+crhg_2023_Oct_25_11_52_34_timestamped
+```json
+{
+  "Caller": "Mary Shealy",
+  "Receiver": "Carole",
+  "Timestamp": "2024-10-29",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Good morning. My name is Mary Shealy, and I need an appointment with Dr. Williams sometime in the middle of November.",
+      "ReceiverContent": "Would you like to meet the doctor in person, or would you like to make a tele-visit?",
+      "Timestamp": "2024-10-29 00:04:00"
+    },
+    "Seq2": {
+      "CallerContent": "I'd rather do it in person.",
+      "ReceiverContent": "Okay, one moment. Let me check on it.",
+      "Timestamp": "2024-10-29 00:16:00"
+    },
+    "Seq3": {
+      "CallerContent": "20th. That's a Monday. Yes, I could do that.",
+      "ReceiverContent": "No, 28th of November.",
+      "Timestamp": "2024-10-29 00:30:00"
+    },
+    "Seq4": {
+      "CallerContent": "Oh, 28th. Yes, 28th. No, my prescriptions will run out before then.",
+      "ReceiverContent": "Okay, and may I know the reason of the appointment?",
+      "Timestamp": "2024-10-29 00:39:00"
+    },
+    "Seq5": {
+      "CallerContent": "Well, it's six months, and I usually end up with some blood work, and I have to get all my prescriptions renewed, new prescriptions this time.",
+      "ReceiverContent": "Okay, so would you like to make it on 6th of November, Monday? Sorry?",
+      "Timestamp": "2024-10-29 00:51:00"
+    },
+    "Seq6": {
+      "CallerContent": "The 6th?",
+      "ReceiverContent": "Yes, correct. In the morning.",
+      "Timestamp": "2024-10-29 01:06:00"
+    },
+    "Seq7": {
+      "CallerContent": "Oh, okay, that would work.",
+      "ReceiverContent": "Okay, would you like to make it at 10 a.m.?",
+      "Timestamp": "2024-10-29 01:10:00"
+    },
+    "Seq8": {
+      "CallerContent": "10, 10.30, something like that, or even 11 would be a little better.",
+      "ReceiverContent": "Okay, I will make it at 11 a.m.",
+      "Timestamp": "2024-10-29 01:15:00"
+    },
+    "Seq9": {
+      "CallerContent": "2-18-1943.",
+      "ReceiverContent": "May I know your last name, please?",
+      "Timestamp": "2024-10-29 01:26:00"
+    },
+    "Seq10": {
+      "CallerContent": "Shealy, S-H-E-A-L-Y.",
+      "ReceiverContent": "And your first name is Mary? Mary, am I correct?",
+      "Timestamp": "2024-10-29 01:38:00"
+    },
+    "Seq11": {
+      "CallerContent": "That's correct.",
+      "ReceiverContent": "Okay, so just to confirm, I have an appointment on 6th of November at 11 a.m. to meet the doctor in person.",
+      "Timestamp": "2024-10-29 01:46:00"
+    },
+    "Seq12": {
+      "CallerContent": "Yes, thank you.",
+      "ReceiverContent": "Is there anything else to say, Mrs. Stewart?",
+      "Timestamp": "2024-10-29 01:54:00"
+    },
+    "Seq13": {
+      "CallerContent": "No, that will be all for now. Thanks.",
+      "ReceiverContent": "Thank you for calling for office and practice. You have a great day.",
+      "Timestamp": "2024-10-29 02:01:00"
+    },
+    "Seq14": {
+      "CallerContent": "You too. Bye-bye.",
+      "ReceiverContent": "Bye-bye.",
+      "Timestamp": "2024-10-29 02:04:00"
+    }
+  }
+}
+```

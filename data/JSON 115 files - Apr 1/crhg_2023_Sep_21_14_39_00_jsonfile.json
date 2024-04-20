@@ -1,0 +1,73 @@
+{
+  "Metadata": "value",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-09-21 14:39:00",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thanks for calling Crofton Family Practice. How may I assist you today?",
+      "Timestamp": "2023-09-21 14:39:00"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, my name is Paula Redmond. I'm a patient. And I was just calling to see if I should be getting any vaccinations.",
+      "ReceiverContent": "Vaccination? No, ma'am, we don't. Usually we don't provide any other than flu shots. We only provide flu shots. Would you like to make an appointment for flu shots?",
+      "Timestamp": "2023-09-21 14:39:04"
+    },
+    "Seq3": {
+      "CallerContent": "Okay, that's fine. I was just calling to see what you did provide. Yeah, I guess so. If now is the time I should be getting it, then absolutely.",
+      "ReceiverContent": "Okay, so would you like to make an appointment for flu shots?",
+      "Timestamp": "2023-09-21 14:39:30"
+    },
+    "Seq4": {
+      "CallerContent": "Sure.",
+      "ReceiverContent": "Okay, ma'am, now let me check on the next available slot for you.",
+      "Timestamp": "2023-09-21 14:39:44"
+    },
+    "Seq5": {
+      "ReceiverContent": "We do have a slot available on 25th of September at 9.30 a.m. Will that be okay with you? It's Monday.",
+      "Timestamp": "2023-09-21 14:39:46"
+    },
+    "Seq6": {
+      "CallerContent": "No. No, I can't do Monday. Do you have something Tuesday?",
+      "ReceiverContent": "Yes, we do have a slot available at 10 a.m. Will that be okay with you on 25th of September?",
+      "Timestamp": "2023-09-21 14:39:58"
+    },
+    "Seq7": {
+      "CallerContent": "Yeah, that's fine. Yep.",
+      "ReceiverContent": "Okay, so now could you help me with your rate of birth, please?",
+      "Timestamp": "2023-09-21 14:40:07"
+    },
+    "Seq8": {
+      "CallerContent": "11-452.",
+      "ReceiverContent": "For 1952. And your last name, please?",
+      "Timestamp": "2023-09-21 14:40:26"
+    },
+    "Seq9": {
+      "CallerContent": "Redmond.",
+      "ReceiverContent": "Redmond? Yes, your first name? Yes, Paula. Am I correct?",
+      "Timestamp": "2023-09-21 14:40:35"
+    },
+    "Seq10": {
+      "CallerContent": "Right. Yep.",
+      "ReceiverContent": "Okay, so just to confirm, I have an appointment on 26th of September at 10 a.m. for flu shots.",
+      "Timestamp": "2023-09-21 14:40:42"
+    },
+    "Seq11": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Is there anything else that the team has to do with?",
+      "Timestamp": "2023-09-21 14:40:51"
+    },
+    "Seq12": {
+      "CallerContent": "No.",
+      "ReceiverContent": "Thank you for calling Crosswind Family Practice. You have a great day.",
+      "Timestamp": "2023-09-21 14:41:52"
+    },
+    "Seq13": {
+      "CallerContent": "Thank you.",
+      "Timestamp": "2023-09-21 14:41:59"
+    },
+    "Seq14": {
+      "ReceiverContent": "Thank you.",
+      "Timestamp": "2023-09-21 14:42:01"
+    }
+  }
+}

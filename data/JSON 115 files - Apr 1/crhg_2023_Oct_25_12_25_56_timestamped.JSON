@@ -1,0 +1,48 @@
+crhg_2023_Oct_25_12_25_56_timestamped
+{
+  "Caller": "Wanda McKell",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-11-16",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Good morning. My name is Wanda McKell. Just filled out my new paper. I did the pre-registration. I'm calling back to make an appointment.",
+      "ReceiverContent": "Sure. Let me check on it. Could I take your date of birth?",
+      "Timestamp": "2023-11-16 00:03:00"
+    },
+    "Seq2": {
+      "CallerContent": "112-56.",
+      "ReceiverContent": "January 12, 1956. Am I correct? 5-6?",
+      "Timestamp": "2023-11-16 00:22:00"
+    },
+    "Seq3": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "No, I don't see your name here yet. When did you pre-register with Crawford Family Practice?",
+      "Timestamp": "2023-11-16 00:32:00"
+    },
+    "Seq4": {
+      "CallerContent": "I just did it twice.",
+      "ReceiverContent": "No, I'm asking when did you make it? The pre-registration process. When did you complete it?",
+      "Timestamp": "2023-11-16 00:40:00"
+    },
+    "Seq5": {
+      "CallerContent": "I just did it.",
+      "ReceiverContent": "Before, just now?",
+      "Timestamp": "2023-11-16 00:51:00"
+    },
+    "Seq6": {
+      "CallerContent": "Before calling you, yes.",
+      "ReceiverContent": "No, it will take a few working days to...",
+      "Timestamp": "2023-11-16 00:53:00"
+    },
+    "Seq7": {
+      "CallerContent": "To get in the system?",
+      "ReceiverContent": "Yes, it will take a few working days to see your name. I don't see your name here to make up an appointment, it will take a few working days.",
+      "Timestamp": "2023-11-16 00:57:00"
+    },
+    "Seq8": {
+      "CallerContent": "You too.",
+      "ReceiverContent": "Thank you.",
+      "Timestamp": "2023-11-16 01:21:00"
+    }
+  }
+}

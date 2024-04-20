@@ -1,0 +1,47 @@
+{
+  "Metadata": "value",
+  "Receiver": "Kathy from Crosswind Family Practice",
+  "Timestamp": "2023-09-21 12:29:57",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thank you for calling Crosswind Family Practice. This is Kathy. How may I assist you today?",
+      "Timestamp": "2023-09-21 00:00:00"
+    },
+    "Seq2": {
+      "CallerContent": "I'll tell you what it is. I just spoke to a lovely gentleman who set me up because I'm trying to become a new patient in your practice. And I'm to have a virtual telephone call from the doctor on the 25th. But I just realized something. I don't have a camera on my computer. So if she's going to call me, you have to have my cell phone number. And I am talking to you on a landline. So I know you don't have it.",
+      "ReceiverContent": "Yeah, kindly give me a minute.",
+      "Timestamp": "2023-09-21 00:05:00"
+    },
+    "Seq3": {
+      "ReceiverContent": "Kindly stay online. Let me transfer the call to the front desk and they could help you with this. If the call is not answered, kindly leave a voice message and they'll get back to you as soon as possible. Kindly stay online. If they're online, I'm transferring the call and you have a great day.",
+      "Timestamp": "2023-09-21 00:59:00"
+    },
+    "Seq4": {
+      "CallerContent": "Your conversation is being recorded.",
+      "ReceiverContent": "Thank you.",
+      "Timestamp": "2023-09-21 01:18:00"
+    },
+    "Seq5": {
+      "ReceiverContent": "Thank you for contacting Crosswind Family Practice. This is Brandy here in the front office. How can I help you today?",
+      "Timestamp": "2023-09-21 01:21:00"
+    },
+    "Seq6": {
+      "CallerContent": "Okay, I just talked to some lovely gentleman. I am trying to get in to see your doctor at your practice. So I'm having difficulty getting all the things. I had that discussion with him. But we finally concluded that the doctor will call me on Monday the 25th at 3.45. But I don't have a phone on my computer or laptop or whatever. I do all this through my cell phone. I realize that you don't have my cell phone number because I call only on landlines when I'm going. going to do this kind of. Okay. All right. So do you need me to add in your cell phone number, ma'am? Is that what you're asking for? Yes, that's exactly what I would like. Okay, no problem.",
+      "ReceiverContent": "What's your last name? Rubilotta, R-U-B-I-L-O-T-T-A. Very good. Yep. Ms. Dorothy, is that correct?",
+      "Timestamp": "2023-09-21 02:24:00"
+    },
+    "Seq7": {
+      "ReceiverContent": "That's me. All righty then, Ms. Dorothy, let me go ahead and take a look here. So as of right now, I do have a cell phone number, actually. I have 443-510-3381. Okay. I truly do want to talk to you people, so I just, I guess I didn't realize I had given it out. No, that's quite okay. As long as we have it, that's all that we wanted to make sure of. So that's a good thing that you called in just to verify. Yes. Yep. So you are all set then, and it looks like we are all good to go.",
+      "Timestamp": "2023-09-21 02:39:00"
+    },
+    "Seq8": {
+      "CallerContent": "Okay. Thank you so much, and thanks.",
+      "ReceiverContent": "Thank you, patient. Oh, absolutely. Thank you for being you. You have a great afternoon now.",
+      "Timestamp": "2023-09-21 03:09:00"
+    },
+    "Seq9": {
+      "CallerContent": "You too. Bye-bye. Yes, ma'am. Bye-bye now.",
+      "Timestamp": "2023-09-21 03:14:00"
+    }
+  }
+}

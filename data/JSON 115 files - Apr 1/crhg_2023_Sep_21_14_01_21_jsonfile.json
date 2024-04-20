@@ -1,0 +1,26 @@
+{
+  "Metadata": "value",
+  "Receiver": "Dominic from CrossFit Family Practice",
+  "Timestamp": "2023-09-21 14:01:21",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thanks for calling CrossFit Family Practice. This is Dominic. I'm your assistant for the day.",
+      "Timestamp": "2023-09-21 00:00:00"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, dear. I am trying to send you guys an email with all of my mother's health information. She's a potential new patient for you guys. She told me she needed a scan of all her insurance cards and her license and things. She wasn't wearing her hearing aid when she spoke to you this morning, so could you give me the email address I need to send it to, please?",
+      "ReceiverContent": "Sure. Can I give you a minute, ma'am?",
+      "Timestamp": "2023-09-21 00:05:00"
+    },
+    "Seq3": {
+      "ReceiverContent": "Yes. And the email ID is going to be reception at villagegreenmd.com.",
+      "CallerContent": "Reception at villagegreenmd.com.",
+      "Timestamp": "2023-09-21 00:58:00"
+    },
+    "Seq4": {
+      "CallerContent": "Okay. That's perfect. I'm sending it right now, so thank you, darling.",
+      "ReceiverContent": "Thank you for calling CrossFit Family Practice. Okay. You too. Bye-bye.",
+      "Timestamp": "2023-09-21 01:23:00"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Metadata": "value",
+  "Receiver": "Dominic from Grafton Family Practice",
+  "Timestamp": "2023-09-21 13:58:40",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon, thank you for calling Grafton Family Practice. This is Dominic from N64 Today.",
+      "Timestamp": "2023-09-21 00:00:00"
+    },
+    "Seq2": {
+      "CallerContent": "Can I speak to Brandy?",
+      "ReceiverContent": "Sure, so can I give you a minute? Let me transfer the call to a concerned person who can help you out with this.",
+      "Timestamp": "2023-09-21 00:05:00"
+    },
+    "Seq3": {
+      "ReceiverContent": "If the call is not answered, can I leave a voice message and they'll get back to you as soon as possible?",
+      "Timestamp": "2023-09-21 00:14:00"
+    },
+    "Seq4": {
+      "SpeakerContent": "I can't understand you.",
+      "Timestamp": "2023-09-21 00:19:00"
+    },
+    "Seq5": {
+      "ReceiverContent": "We have a great day.",
+      "Timestamp": "2023-09-21 00:22:00"
+    }
+  }
+}

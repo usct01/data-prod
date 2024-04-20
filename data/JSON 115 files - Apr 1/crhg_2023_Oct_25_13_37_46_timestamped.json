@@ -1,0 +1,38 @@
+crhg_2023_Oct_25_13_37_46_timestamped
+{
+  "Caller": "Robert",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-11-20 14:05:00",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, Dominic. My name is Robert Evans, and I do have an appointment set up with Dr. Williams for Monday morning. I was wondering if I could come in and get my blood taken so that – and I don't know how long it takes to get those tests back. But if I came in tomorrow morning, could they – I'm sorry, what?",
+      "ReceiverContent": "Good afternoon. Thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-11-20 14:00:05"
+    },
+    "Seq2": {
+      "CallerContent": "That's right. It's Robert Evans. I believe it's –",
+      "ReceiverContent": "You're having an appointment on Monday, is that correct?",
+      "Timestamp": "2023-11-20 14:00:31"
+    },
+    "Seq3": {
+      "CallerContent": "Yes, and the lab is opened on Monday, so you can take the blood work, sir.",
+      "ReceiverContent": "You're having an appointment on Monday, is that correct?",
+      "Timestamp": "2023-11-20 14:00:34"
+    },
+    "Seq4": {
+      "CallerContent": "Well, but if they take it then, she can't tell me what's going on if I have any, you know, to review it. Yes, sir. If I come in tomorrow morning, would it be back in time for her to review it while I have my appointment?",
+      "ReceiverContent": "You're having an appointment on Monday, is that correct?",
+      "Timestamp": "2023-11-20 14:00:41"
+    },
+    "Seq5": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": "Yeah. Let me transfer the call, honey. Have a great day, sir.",
+      "Timestamp": "2023-11-20 14:01:06"
+    },
+    "Seq6": {
+      "CallerContent": "This is Robert Evans. I have an appointment with Dr. Williams for Monday morning. I was wondering if I could come in either today or tomorrow and have my blood taken so she can give me the results of that on Monday. Okay. I have my appointment. Please call me back, 410-241-1277. Thank you. Thank you.",
+      "ReceiverContent": "Hello, you have reached the nurse line. If this is an emergency, please hang up and dial 9-1-1.",
+      "Timestamp": "2023-11-20 14:02:10"
+    }
+  }
+}

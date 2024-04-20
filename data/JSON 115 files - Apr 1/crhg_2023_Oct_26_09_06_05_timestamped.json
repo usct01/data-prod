@@ -1,0 +1,34 @@
+{
+  "Metadata": "value",
+  "Caller": "Ashley",
+  "Receiver": "Kathy",
+  "Timestamp": "2023-10-26 10:04:16",
+crhg_2023_Oct_26_09_06_05_timestamped  
+"CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, my name is Ashley Greenwood. I have an appointment this morning at 10. I had just spoken with someone and they let me know that I wouldn't be able to get my lab work done for my annual.",
+      "ReceiverContent": "Good morning. Thank you for calling Crofton Family Practice. This is Kathy. How may I assist you today?",
+      "Timestamp": "2023-10-26 10:04:16"
+    },
+    "Seq2": {
+      "CallerContent": "But I was trying to see if I still if I have to do like a urine test or not. I can't remember if that was part of it.",
+      "ReceiverContent": "Yeah. Kindly stay online. Let me try for the call to the concerned person who can help you out. If the call is not time to kindly leave a voice message and they'll get back to you as soon as possible.",
+      "Timestamp": "2023-10-26 10:04:50"
+    },
+    "Seq3": {
+      "CallerContent": "Your conversation is being recorded. Crofton Family Practice. Good morning to you. Good morning. My name's Ashley Greenwood. I have an appointment this morning at 10.",
+      "ReceiverContent": "I missed online. I'm transferring the call and have a great day. Thanks.",
+      "Timestamp": "2023-10-26 10:04:52"
+    },
+    "Seq4": {
+      "CallerContent": "I was just meeting with someone and they had called to let me know that when I come in for my annual that the lab person it won't be there so I don't need to do labs today but I was just trying to figure out a part of my annual do I normally have to do a urine test I couldn't remember I was just trying to figure out okay I would imagine you would but what we could do is we could",
+      "ReceiverContent": "figure out okay I would imagine you would but what we could do is we could give you a lab slip if you need to go to something okay so you could give the",
+      "Timestamp": "2023-10-26 10:04:54"
+    },
+    "Seq5": {
+      "CallerContent": "urine there okay gotcha that's helpful I'm trying to think of do I need a lot of water now or not okay and then I can go to the quest right that's one of the vendors you guys do it with okay all right that's helpful thank you you're",
+      "ReceiverContent": "most welcome",
+      "Timestamp": "2023-10-26 10:05:17"
+    }
+  }
+}

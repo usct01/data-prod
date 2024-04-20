@@ -1,0 +1,68 @@
+{
+  "Metadata": "value",
+  "Caller": "Anonymous",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-09-21 09:13:18",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. Thanks for calling Crosswinds Family Practice. How may I assist you today?",
+      "Timestamp": "2023-09-21 09:13:18"
+    },
+    "Seq2": {
+      "CallerContent": "Who am I speaking? Good morning.",
+      "ReceiverContent": "Hi, this is Kumar.",
+      "Timestamp": "2023-09-21 09:13:08"
+    },
+    "Seq3": {
+      "CallerContent": "Kumar? Yes, correct. How are you?",
+      "ReceiverContent": "You are Mambalaka, am I correct?",
+      "Timestamp": "2023-09-21 09:13:14"
+    },
+    "Seq4": {
+      "CallerContent": "Yeah, you speak Telugu?",
+      "ReceiverContent": "No, no, I don't speak Telugu.",
+      "Timestamp": "2023-09-21 09:13:19"
+    },
+    "Seq5": {
+      "CallerContent": "You are Tamilian Kumar or what? Hello?",
+      "ReceiverContent": "From India.",
+      "Timestamp": "2023-09-21 09:13:29"
+    },
+    "Seq6": {
+      "CallerContent": "Vanakkam, how are you?",
+      "ReceiverContent": "Actually, we... Born in America?",
+      "Timestamp": "2023-09-21 09:13:36"
+    },
+    "Seq7": {
+      "CallerContent": "Born in America?",
+      "ReceiverContent": "Actually, we shouldn't speak any other languages other than English so...",
+      "Timestamp": "2023-09-21 09:13:40"
+    },
+    "Seq8": {
+      "CallerContent": "Hey, boss. Anyway, let me stop there. Is Amy there?",
+      "ReceiverContent": "Amy?! Would you like to speak to Amy?",
+      "Timestamp": "2023-09-21 09:13:44"
+    },
+    "Seq9": {
+      "CallerContent": "Yeah?",
+      "ReceiverContent": "One moment. If she doesn't pick the call, please leave a voice message. She will get back to you as soon as possible. Please stay online and I am going to transfer you. Thank you. Bye bye.",
+      "Timestamp": "2023-09-21 09:13:48"
+    },
+    "Seq10": {
+      "CallerContent": "Thank you.",
+      "Timestamp": "2023-09-21 09:13:36"
+    },
+    "Seq11": {
+      "ReceiverContent": "Amy, please give me a call. This is Mambalam. I didn't see the lipid profile results. Please check with the lab whether she has sent it or not. Please give me a call.",
+      "Timestamp": "2023-09-21 09:13:39"
+    },
+    "Seq12": {
+      "ReceiverContent": "Amy, please give me a call. This is Mambalam. I didn't see the lipid profile results. Please check with the lab whether she has sent it. Please give me a call.",
+      "Timestamp": "2023-09-21 09:13:55"
+    },
+    "Seq13": {
+      "ReceiverContent": "Amy, please give me a call. This is Mambalam. I didn't see the lipid profile results. Please check with the lab whether she has sent it or not. Please give me a call.",
+      "Timestamp": "2023-09-21 09:14:00"
+    }
+  }
+}

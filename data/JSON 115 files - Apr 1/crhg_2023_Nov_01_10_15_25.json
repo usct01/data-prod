@@ -1,0 +1,124 @@
+```json
+{
+  "Conversation": {
+    "Participants": [
+      {
+        "Role": "Receiver",
+        "Name": "Dominic",
+        "Position": "Front Office Staff",
+        "Organization": "Crofton Family Practice"
+      },
+      {
+        "Role": "Caller",
+        "Name": "Oscar Wetzel",
+        "Gender": "Male",
+        "Position": "Patient",
+        "Organization": "N/A"
+      },
+      {
+        "Role": "Other Speaker",
+        "Name": "Unknown",
+        "Position": "Unknown",
+        "Organization": "Unknown"
+      }
+    ],
+    "Messages": [
+      {
+        "Sender": "Dominic",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "Good morning. Thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?"
+      },
+      {
+        "Sender": "Oscar Wetzel",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "Say again?"
+      },
+      {
+        "Sender": "Dominic",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "Yeah. Good morning. Thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?"
+      },
+      {
+        "Sender": "Oscar Wetzel",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "I need to make an appointment, please."
+      },
+      {
+        "Sender": "Dominic",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "Yeah, sure. So, you want to see the doctor in person or you want to make a tele-visit appointment, sir?"
+      },
+      {
+        "Sender": "Oscar Wetzel",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "I need to see him in person."
+      },
+      {
+        "Sender": "Dominic",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "Yeah. Let me check. Okay. I think we do have a slot by... Oh, my God. All the slots are already booked for office visit. So, may I know the reason for the visit, sir?"
+      },
+      {
+        "Sender": "Oscar Wetzel",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "Nothing. Chest pains and blood pressure."
+      },
+      {
+        "Sender": "Dominic",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "Okay. So, yep. We do have a slot by 7th of November. At 11 a.m. Is it okay with you, sir?"
+      },
+      {
+        "Sender": "Oscar Wetzel",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "At 11 a.m. Is it okay with you, sir? It's early."
+      },
+      {
+        "Sender": "Dominic",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "Yes. That's the earliest slot here."
+      },
+      {
+        "Sender": "Oscar Wetzel",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "All right. So, I'm having a... Is it okay with you, sir? Well, I'm having chest pains and dizziness. I was wondering if I can get in there sooner. But that's all you got. That's all you got."
+      },
+      {
+        "Sender": "Dominic",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "That's the sooner slot. Yeah. We have a slot by 2nd of November, which is tomorrow at 10 a.m.?"
+      },
+      {
+        "Sender": "Oscar Wetzel",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "That'll work great."
+      },
+      {
+        "Sender": "Dominic",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "Yeah. For emergency appointment. I'll make an emergency appointment for you. Okay. So, may I have your date of birth, please?"
+      },
+      {
+        "Sender": "Oscar Wetzel",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "10-18-1975."
+      },
+      {
+        "Sender": "Dominic",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "Great. Oscar Wetzel. That it? Yes. So, for chest pain?"
+      },
+      {
+        "Sender": "Unknown",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "Yes."
+      },
+      {
+        "Sender": "Dominic",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "Okay. For an office visit. So, just to confirm, I fixed your appointment on Thursday, which is 2nd of November at 10 a.m. for an office visit for chest pain. Is it okay with you, sir?"
+      },
+      {
+        "Sender": "Oscar Wetzel",
+        "Timestamp": "2023_Nov_01_10:15:25",
+        "Content": "That works great.

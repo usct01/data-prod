@@ -1,0 +1,123 @@
+{
+  "Metadata": "value",
+  "Receiver": "Kathy from Crosswind Family Practice",
+  "Timestamp": "2023-09-21 11:45:53",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. Thank you for calling Crosswind Family Practice. This is Kathy. How may I assist you today?",
+      "Timestamp": "2023-09-21 11:45:53"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, Kathy. Good morning. My name is Ellen D'Argenzio. I was headed to my appointment this morning with Dr. Allison Williams, and I got a flat tire. I had called in, and I got put on hold. I spoke to somebody, and I let them know what happened. And then I actually called. They put me through to the front desk, and AAA showed up. So I had to give you guys a call back, which is right now. So I wanted to reschedule my appointment with her.",
+      "ReceiverContent": "Yeah, kindly give me a minute.",
+      "Timestamp": "2023-09-21 11:46:04"
+    },
+    "Seq3": {
+      "ReceiverContent": "Could you please help me with the date of birth?",
+      "Timestamp": "2023-09-21 11:46:46"
+    },
+    "Seq4": {
+      "CallerContent": "10-19-1978.",
+      "ReceiverContent": "Could you repeat that again for me?",
+      "Timestamp": "2023-09-21 11:46:52"
+    },
+    "Seq5": {
+      "CallerContent": "10-19-1978.",
+      "ReceiverContent": "My name is Allison Williams. 10-19-1978.",
+      "Timestamp": "2023-09-21 11:47:08"
+    },
+    "Seq6": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Is your first name Ellen? Am I correct?",
+      "Timestamp": "2023-09-21 11:47:17"
+    },
+    "Seq7": {
+      "CallerContent": "Yes, Ellen D'Argenzio.",
+      "ReceiverContent": "Yeah, I'm going to stay online. I'm checking on it.",
+      "Timestamp": "2023-09-21 11:47:23"
+    },
+    "Seq8": {
+      "ReceiverContent": "So your appointment is on today at 10:30 a.m., am I correct?",
+      "Timestamp": "2023-09-21 11:47:45"
+    },
+    "Seq9": {
+      "CallerContent": "Yes, and I got a flat tire, and I called you guys beforehand.",
+      "ReceiverContent": "Yeah, I'm going to stay online.",
+      "Timestamp": "2023-09-21 11:47:55"
+    },
+    "Seq10": {
+      "OtherSpeakerContent": "I'm sorry to tell you that I'm not going to be able to make it.",
+      "Timestamp": "2023-09-21 11:49:59"
+    },
+    "Seq11": {
+      "ReceiverContent": "Can you please cancel this, ma'am? We are not authorized to cancel today's appointment.",
+      "Timestamp": "2023-09-21 11:50:42"
+    },
+    "Seq12": {
+      "OtherSpeakerContent": "That's okay. I mean, it is what it is.",
+      "Timestamp": "2023-09-21 11:50:45"
+    },
+    "Seq13": {
+      "CallerContent": "I had a flat tire, so I still need to reschedule a new one.",
+      "ReceiverContent": "Yeah, kindly give me a minute.",
+      "Timestamp": "2023-09-21 11:50:49"
+    },
+    "Seq14": {
+      "ReceiverContent": "Sorry, ma'am. I cannot cancel your appointment today. You could have called me yesterday to cancel this appointment.",
+      "Timestamp": "2023-09-21 11:52:54"
+    },
+    "Seq15": {
+      "OtherSpeakerContent": "I understand that.",
+      "Timestamp": "2023-09-21 11:53:24"
+    },
+    "Seq16": {
+      "CallerContent": "I already called to cancel it. It was canceled this morning. I need to reschedule an appointment. Can you put somebody on the phone? Someone on the phone that understands, please.",
+      "ReceiverContent": "Yeah, kindly stay online.",
+      "Timestamp": "2023-09-21 11:53:36"
+    },
+    "Seq17": {
+      "OtherSpeakerContent": "Yeah, kindly stay online.",
+      "Timestamp": "2023-09-21 11:54:32"
+    },
+    "Seq18": {
+      "ReceiverContent": "Let me transfer the call to the front desk, and they could help you with this. If the call is not answered, kindly leave a voice message, and I'll get back to you as soon as possible. Kindly stay online. I'm transferring the call, and have a great day.",
+      "Timestamp": "2023-09-21 11:54:33"
+    },
+    "Seq19": {
+      "OtherSpeakerContent": "Your conversation is being recorded. Thank you for contacting CrossFit Family Practice. This is Brandi here in the front office. How can we help you today? Hi, Brandi. Good morning.",
+      "Timestamp": "2023-09-21 11:55:52"
+    },
+    "Seq20": {
+      "CallerContent": "My name is Ellen D'Argenzio. I called this morning. Yes, ma'am. I had a flat tire, and AAA showed up, so I had to get off the phone.",
+      "OtherSpeakerContent": "Oh, gosh. That's why you didn't answer when I called you back. Understandable. Yes, ma'am. Because I was like, oh, I said, yeah, she was on hold, but we must have got disconnected. Because I noticed you had hung up, you know. But no big deal. I'm just, did you get your flat tire taken care of? Yes, I'm on my way to work now.",
+      "Timestamp": "2023-09-21 11:56:01"
+    },
+    "Seq21": {
+      "CallerContent": "I had called. It was around 10 o'clock. I was leaving. I talked to probably your answering service, and I let them know. Then they transferred me to you. Gotcha. And then I called again and rescheduled the appointment. And I swear, this woman at your answering service, she repeated herself 10 times. She's like, I can't cancel your appointment. I said, I realize that. I just need to reschedule it.",
+      "OtherSpeakerContent": "Good Lord almighty. Right. I don't know why she wouldn't. But no big deal. I got you right here. I'll take care of it in the system for you, okay? And I'll make my supervisor aware as well. You got it. No problem whatsoever. Thank you so much.",
+      "Timestamp": "2023-09-21 11:56:49"
+    },
+    "Seq22": {
+      "CallerContent": "And normally, wouldn't you? It doesn't be a big deal.",
+      "OtherSpeakerContent": "We have another vehicle, but it's out of inspection. And I'm like, you know what? This is my freaking luck.",
+      "Timestamp": "2023-09-21 11:57:52"
+    },
+    "Seq23": {
+      "OtherSpeakerContent": "Well, not only that, but you did try to give us a call and notify us, you know, which was extremely important, of course. And for that, you know, just saying. I mean, I know that it was an issue going on that's something that you can't avoid and whatnot. So I'm going to make a note right now. I'll go ahead and take it off of the schedule, and we'll see. Well, you know, I'll let my supervisor know there for you also, okay?",
+      "Timestamp": "2023-09-21 11:58:08"
+    },
+    "Seq24": {
+      "CallerContent": "Thank you so much. No problem. Everything coming through should be just fine for you. I don't think that there will be a charge or anything like that. Because, like I said, I'll let everybody know that everything happened. Yes, ma'am. Absolutely, Ms. Sargent. I got you covered. Thank you. I have things happen myself, like I said. It just goes the way it goes some days.",
+      "OtherSpeakerContent": "Oh, my God. And you know what? It's been like a month of things happening.",
+      "Timestamp": "2023-09-21 11:58:55"
+    },
+    "Seq25": {
+      "OtherSpeakerContent": "Thank you, ma'am. Yep. No problem. As long as you got that tire fixed up and you're getting to work okay, that's what matters to us most. Okay? Absolutely. All righty, sweetie. Well, you enjoy your ride to work as much as you can. Make sure you get yourself something to eat, and you all have a great afternoon now, okay?",
+      "Timestamp": "2023-09-21 11:59:55"
+    },
+    "Seq26": {
+      "CallerContent": "Thank you so much. Absolutely. Ms. Ellen, you as well. Thank you. Bye-bye. Bye.",
+      "Timestamp": "2023-09-21 12:00:14"
+    }
+  }
+}

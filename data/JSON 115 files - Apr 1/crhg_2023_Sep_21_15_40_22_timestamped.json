@@ -1,0 +1,34 @@
+crhg_2023_Sep_21_15_40_22_timestamped
+{
+  "Metadata": "value",
+  "Caller": "Ken Brown",
+  "Receiver": "Kumar",
+  "Timestamp": "2023-11-01 14:29:13",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yes, Kumar. This is Ken Brown calling. How are you?",
+      "ReceiverContent": "I'm doing good. Thanks for asking. How are you today?",
+      "Timestamp": "2023-11-01 14:29:05"
+    },
+    "Seq2": {
+      "CallerContent": "Good. I'm just following up. I have an appointment with Dr. Williams tomorrow at 11 o'clock, and it's going to be some blood work to check my status on where I am with my Lyme disease.",
+      "ReceiverContent": "Uh-huh. Usually, lab works on Monday, Wednesday, and Thursdays only. We cannot do any blood works on Fridays, but you can meet the doctor in person to discuss about the blood work. But if you want to give any blood drawn, lab doesn't work on",
+      "Timestamp": "2023-11-01 14:29:25"
+    },
+    "Seq3": {
+      "CallerContent": "Tuesdays and Fridays. So, tomorrow's appointment is just to talk to the doctor about where I am with Lyme disease? Okay. Yeah. All right.",
+      "ReceiverContent": "",
+      "Timestamp": "2023-11-01 14:29:45"
+    },
+    "Seq4": {
+      "CallerContent": "Okay. All right. Yeah. Is there anything else that they mentioned to you?",
+      "ReceiverContent": "Yeah. See you. Thanks for coming to the Family Practice. You have a great day. Bye-bye.",
+      "Timestamp": "2023-11-01 14:29:58"
+    },
+    "Seq5": {
+      "CallerContent": "All right. Bye-bye.",
+      "ReceiverContent": "",
+      "Timestamp": "2023-11-01 14:30:06"
+    }
+  }
+}

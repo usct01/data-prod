@@ -1,0 +1,28 @@
+{
+  "Metadata": "value",
+  "Caller": "Judith",
+  "Receiver": "Dominique",
+  "Timestamp": "2023-11-01 14:29:13",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, Dominique. This is Judith again. Can you transfer me again, please? Because nobody answered.",
+      "ReceiverContent": "Okay. Kindly give me a minute, ma'am. Let me transfer the call once again to the nurse. She'll help you out with the scan. Is she online? You have a great day.",
+      "Timestamp": "2023-11-01 14:29:13"
+    },
+    "Seq2": {
+      "CallerContent": "You too.",
+      "ReceiverContent": "Hello. You have reached the nurse line. If this is an emergency, please hang up and dial 9-1-1.",
+      "Timestamp": "2023-11-01 14:29:17"
+    },
+    "Seq3": {
+      "CallerContent": "",
+      "ReceiverContent": "If you're calling for a prescription refill, please leave a detailed message with the drug name, the milligrams, and your pharmacy information.",
+      "Timestamp": "2023-11-01 14:29:18"
+    },
+    "Seq4": {
+      "CallerContent": "",
+      "ReceiverContent": "Please allow 72 hours for your refills to be processed. Leave us a message and we'll get back to you as soon as we can. Thank you and have a good day.",
+      "Timestamp": "2023-11-01 14:29:57"
+    }
+  }
+}

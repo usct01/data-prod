@@ -1,0 +1,35 @@
+```json
+{
+  "Metadata": "value",
+  "Caller": "Dale Carnett",
+  "Receiver": "Kumaran (Crofton Family Practice)",
+  "Timestamp": "2023-11-01 08:50:15",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi. My name is Dale Carnett. I think my wife called a couple of times yesterday about an appointment that I have this week.",
+      "ReceiverContent": "Good morning. Thank you for calling Crofton Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-11-01 08:50:15"
+    },
+    "Seq2": {
+      "CallerContent": "So I had my annual physical two weeks ago, and when I left, I scheduled a follow-up televisit. And it was supposed to be for today at 3.15, but the email that we got indicated that it's now on Friday.",
+      "ReceiverContent": "Okay. So may I know your appointment date, sir?",
+      "Timestamp": "2023-11-01 08:50:15"
+    },
+    "Seq3": {
+      "CallerContent": "C-A-R-N-O-T.",
+      "ReceiverContent": "Yes, because the doctor is not available for the day. So may I have your last name, please?",
+      "Timestamp": "2023-11-01 08:50:15"
+    },
+    "Seq4": {
+      "CallerContent": "Okay. Okay. That'll be complicated for me, but I'll see if I can make that work.",
+      "ReceiverContent": "N-O-T. Yeah. Your appointment is on 3rd of Friday at 2.15 p.m. for a televisit appointment.",
+      "Timestamp": "2023-11-01 08:50:15"
+    },
+    "Seq5": {
+      "CallerContent": "All right. Thank you. All right. Bye-bye.",
+      "ReceiverContent": "Yeah, sure. If it's not working, just give me a call back, sir. Okay. Understood. We'll make it accordingly. Yeah, sure. Yeah.",
+      "Timestamp": "2023-11-01 08:50:15"
+    }
+  }
+}
+```

@@ -1,0 +1,37 @@
+{
+  "Metadata": "value",
+  "Caller": "Madonna Simon",
+  "Receiver": "Dominic",
+  "Timestamp": "2023-09-21 09:59:17",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good morning. Thank you for calling Clarkson Family Practice. This is Dominic. How may I assist you for the day?",
+      "Timestamp": "2023-09-21 09:59:17"
+    },
+    "Seq2": {
+      "CallerContent": "Good morning. It's Madonna Simon. I'm a patient of Dr. Williams.",
+      "ReceiverContent": "Okay. Regarding test results, I got you. Kindly give me a minute, ma'am. Let me transfer the call to the concerned person who can help you out with this. Kindly stay online. Let me transfer the call when you have a good day.",
+      "Timestamp": "2023-09-21 09:59:31"
+    },
+    "Seq3": {
+      "CallerContent": "You too.",
+      "Timestamp": "2023-09-21 09:59:42"
+    },
+    "Seq4": {
+      "ReceiverContent": "Hello. You have reached the nurse line. If this is an emergency, please hang up and dial 9-1-1.",
+      "Timestamp": "2023-09-21 09:59:14"
+    },
+    "Seq5": {
+      "ReceiverContent": "If you're calling for a prescription refill, please leave a detailed message with the drug name, the milligrams, and your pharmacy information.",
+      "Timestamp": "2023-09-21 09:59:20"
+    },
+    "Seq6": {
+      "ReceiverContent": "Please allow 72 hours for your refills to be processed. Leave us a message and we'll get back to you as soon as we can. Thank you and have a good day.",
+      "Timestamp": "2023-09-21 09:59:30"
+    },
+    "Seq7": {
+      "CallerContent": "Thank you. Thank you.",
+      "Timestamp": "2023-09-21 09:59:43"
+    }
+  }
+}

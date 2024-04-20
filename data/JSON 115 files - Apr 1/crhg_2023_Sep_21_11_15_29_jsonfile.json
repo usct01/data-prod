@@ -1,0 +1,41 @@
+{
+  "Metadata": "value",
+  "OtherSpeaker": {
+    "Content": "Good morning.",
+    "Timestamp": "2023-09-21 11:01:33"
+  },
+  "Receiver": "Kathy from Crofton Family Practice",
+  "Timestamp": "2023-09-21 11:01:33",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Thank you for calling Crofton Family Practice. This is Kathy. How may I assist you today?",
+      "Timestamp": "2023-09-21 11:01:33"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, this is Amanda from Luminous Health Imaging. I have a patient of Dr. Williams, Allison Williams here for a CT scan. We are unable to get IV access on her, and I wanted to know if they wanted us to just do it without contrast. Is the doctor there to speak with me or her?",
+      "ReceiverContent": "Would you like to speak to the nurse?",
+      "Timestamp": "2023-09-21 11:01:34"
+    },
+    "Seq3": {
+      "OtherSpeakerContent": "Sure.",
+      "Timestamp": "2023-09-21 11:01:35"
+    },
+    "Seq4": {
+      "ReceiverContent": "Yeah, kindly give me a minute. Let me transfer the call to her. If she doesn't pick the call, you can call me back again. I'll transfer you again.",
+      "Timestamp": "2023-09-21 11:01:36"
+    },
+    "Seq5": {
+      "CallerContent": "Okay, thanks.",
+      "ReceiverContent": "Kindly turn on. I'm transferring the call. And you have a great day.",
+      "Timestamp": "2023-09-21 11:01:37"
+    },
+    "Seq6": {
+      "CallerContent": "Thanks.",
+      "Timestamp": "2023-09-21 11:01:43"
+    },
+    "Seq7": {
+      "ReceiverContent": "Hello, you have reached the nurse line. If this is an emergency, please hang up and dial 911. If you're calling for a prescription refill, please leave a detailed message.",
+      "Timestamp": "2023-09-21 11:01:15"
+    }
+  }
+}

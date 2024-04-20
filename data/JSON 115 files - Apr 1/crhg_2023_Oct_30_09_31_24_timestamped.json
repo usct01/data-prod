@@ -1,0 +1,70 @@
+crhg_2023_Oct_30_09_31_24_timestamped
+```json
+{
+  "Caller": "Randy",
+  "Receiver": "Dominic",
+  "Timestamp": "2024-03-27",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, I'm a new patient and I'd like to schedule an appointment to see Dr. Williams.",
+      "ReceiverContent": "Have you registered with Crawford Family Practice?",
+      "Timestamp": "2024-03-27 00:04:00"
+    },
+    "Seq2": {
+      "CallerContent": "I do not think so. Well, I know I haven't.",
+      "ReceiverContent": "Yes. For new patients, we will send an email link to your email address, and you can register now. You just have to wait for 21 days to make an appointment, and the first appointment would be a tele-visit. Will that be okay with you?",
+      "Timestamp": "2024-03-27 00:18:00"
+    },
+    "Seq3": {
+      "CallerContent": "I'm sorry, the first appointment would be?",
+      "ReceiverContent": "A tele-visit, I mean a virtual visit.",
+      "Timestamp": "2024-03-27 00:32:00"
+    },
+    "Seq4": {
+      "CallerContent": "Oh, okay. So, the issue is that I need a new primary care doctor and I'm running low on my prescription. So, pretty much 21 days is too long.",
+      "ReceiverContent": "Okay, one moment. We will send an email link to your email address, and you can register now. And you don't have to wait for 21 days to make an appointment. But the first appointment would be a tele-visit for sure. Will that be okay with you?",
+      "Timestamp": "2024-03-27 00:36:00"
+    },
+    "Seq5": {
+      "CallerContent": "Okay, yeah.",
+      "ReceiverContent": "Sure. Could you spell out your email ID, please?",
+      "Timestamp": "2024-03-27 01:26:00"
+    },
+    "Seq6": {
+      "CallerContent": "Yes. It's going to be Crystal, just like a crystal. C-R-Y-S-T-A-L. Hmm. Z is in Victoria. Mm-hmm. Riley, R-I-L-E-Y. At Gmail.",
+      "ReceiverContent": "I'll repeat again. It's C is Kathy, R is Randy, Y is Nello, S is Sandra, T is Tom, A is Allison, L is Lori, V is Victor, R is Randy, I is India, L is Lori, E is Erickson, Y is Nello, at gmail.com. Am I correct?",
+      "Timestamp": "2024-03-27 01:33:00"
+    },
+    "Seq7": {
+      "CallerContent": "Yes.",
+      "ReceiverContent": "Okay, ma'am. We will send an email link to your email address. And you can register now. And do one thing. Just take a picture of your insurance front side and back side and attach it with an email.",
+      "Timestamp": "2024-03-27 02:14:00"
+    },
+    "Seq8": {
+      "CallerContent": "I'm sorry, a picture of?",
+      "ReceiverContent": "Your insurance. Copy of your insurance.",
+      "Timestamp": "2024-03-27 02:24:00"
+    },
+    "Seq9": {
+      "CallerContent": "Oh, insurance. Okay. Okay, no problem.",
+      "ReceiverContent": "Sure. We will send an email link to your email address, and you can register now.",
+      "Timestamp": "2024-03-27 02:34:00"
+    },
+    "Seq10": {
+      "CallerContent": "Great.",
+      "ReceiverContent": "Is there anything else that I may assist you with?",
+      "Timestamp": "2024-03-27 02:38:00"
+    },
+    "Seq11": {
+      "CallerContent": "About how long does it take to process the... It will take a few working days to make up an appointment.",
+      "ReceiverContent": "You just call us back on Wednesday, then we can make an appointment.",
+      "Timestamp": "2024-03-27 02:43:00"
+    },
+    "Seq12": {
+      "CallerContent": "Okay, great. I appreciate it.",
+      "ReceiverContent": "Thank you for calling Crawford Family Practice. You have a great day.",
+      "Timestamp": "2024-03-27 02:56:00"
+    }
+  }
+}
+```

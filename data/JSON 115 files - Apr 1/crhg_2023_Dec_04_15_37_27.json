@@ -1,0 +1,53 @@
+{
+  "Metadata": "value",
+  "Caller": "Lisa Cunningham",
+  "Receiver": "David (Crossroads Family Practice)",
+  "Timestamp": "2023_Dec_04_15:37:27",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Hi, David. My name is Lisa Cunningham. I came into the office today and I saw Dr. Williams, and she prescribed me a medication called Wagovi.",
+      "ReceiverContent": "Good afternoon. Thank you for calling Crossroads Family Practice. This is David. How can I assist you for the day?",
+      "Timestamp": "2023_Dec_04_15:37:27"
+    },
+    "Seq2": {
+      "CallerContent": "And when I spoke to my insurance company, they told me that she needs to submit an emergency prior authorization.",
+      "ReceiverContent": "Regarding that, let me transfer the call to the front desk. They could help you out with this. Kindly stay online. I'm transferring the call, and you have a great day.",
+      "Timestamp": "2023_Dec_04_15:37:27"
+    },
+    "Seq3": {
+      "CallerContent": "Thank you.",
+      "ReceiverContent": null,
+      "Timestamp": "2023_Dec_04_15:37:27"
+    },
+    "Seq4": {
+      "CallerContent": "Hi. Good afternoon. My name is Lisa Cunningham.",
+      "ReceiverContent": "Hello. You have reached the receptionist at Crossroads Family Practice. Please leave your name, reason for calling, and your number so we can call you back as soon as we can. If you are experiencing a medical emergency, please hang up and dial...",
+      "Timestamp": "2023_Dec_04_15:37:27"
+    },
+    "Seq5": {
+      "CallerContent": "Today is Monday, December the 4th, I believe.",
+      "ReceiverContent": null,
+      "Timestamp": "2023_Dec_04_15:37:27"
+    },
+    "Seq6": {
+      "CallerContent": "And she submitted a prescription for Regovi for me, and I just spoke with my insurance company.",
+      "ReceiverContent": null,
+      "Timestamp": "2023_Dec_04_15:37:27"
+    },
+    "Seq7": {
+      "CallerContent": "She needs to submit an emergency prior authorization in order for me to get the medication.",
+      "ReceiverContent": null,
+      "Timestamp": "2023_Dec_04_15:37:27"
+    },
+    "Seq8": {
+      "CallerContent": "If you have any questions, feel free to give me a phone call.",
+      "ReceiverContent": null,
+      "Timestamp": "2023_Dec_04_15:37:27"
+    },
+    "Seq9": {
+      "CallerContent": "My number is 301-232-4857. Thank you.",
+      "ReceiverContent": null,
+      "Timestamp": "2023_Dec_04_15:37:27"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "Metadata": "value",
+  "Caller": "Sandra Arrington",
+  "Receiver": "Dominique",
+  "Timestamp": "2023-09-20 16:08:10",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thank you for calling Crofton Family Practice. This is Dominique. How may I assist you for the day?",
+      "Timestamp": "2023-09-20 16:08:10"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, Dominique. This is Sandra Arrington. I just got a call from someone from your practice.",
+      "ReceiverContent": "Okay. Regarding that, let me transfer the call to Friend.com. They'll help you out with this. Can I see you online?",
+      "Timestamp": "2023-09-20 16:08:14"
+    },
+    "Seq3": {
+      "ReceiverContent": "Your conversation is being recorded. Hi, Dan. Thank you for contacting Crofton Family Practice. This is Brandy here in the front office. How can I help you today?",
+      "Timestamp": "2023-09-20 16:08:25"
+    },
+    "Seq4": {
+      "CallerContent": "Hi. This is Sandra Arrington. Someone just called me.",
+      "ReceiverContent": "Yes, ma'am. Ms. Arrington, I just left you a detailed voicemail. You don't have to pay attention to it now, however, being that I was able to get in contact with you.",
+      "Timestamp": "2023-09-20 16:08:34"
+    },
+    "Seq5": {
+      "ReceiverContent": "Our provider ended up actually having a severe experience that needed attention of herself. And in reference to that, ma'am, I do greatly apologize, but we are on air.",
+      "Timestamp": "2023-09-20 16:08:47"
+    },
+    "Seq6": {
+      "ReceiverContent": "I'm able to make the new patient appointment today, even though it's a telehealth. Okay. Is there any which way that I would be able to get you scheduled for tomorrow morning?",
+      "Timestamp": "2023-09-20 16:08:57"
+    },
+    "Seq7": {
+      "CallerContent": "What time tomorrow?",
+      "ReceiverContent": "Let me take a look at my schedule and see what I have available here, but I think for the most of the morning, I'm open. Let me just go in and take a quick look here, okay? Okay.",
+      "Timestamp": "2023-09-20 16:09:06"
+    },
+    "Seq8": {
+      "CallerContent": "So it's okay. That's fine.",
+      "ReceiverContent": "Thank you so much for understanding, ma'am.",
+      "Timestamp": "2023-09-20 16:09:26"
+    },
+    "Seq9": {
+      "ReceiverContent": "Okay. And yes, indeedy. So if you'd like, I can do something as early as 9-15, or I could do something a little later in the day at, say, like 11-15.",
+      "Timestamp": "2023-09-20 16:09:35"
+    },
+    "Seq10": {
+      "CallerContent": "9-15 is fine.",
+      "ReceiverContent": "No problem. I will list you in here for the 9-15 marking, of course. And what we'll do is we will go ahead, and it'll still be a telehealth visit. You will not be billed at all for the one today. Mm-hmm.",
+      "Timestamp": "2023-09-20 16:09:47"
+    },
+    "Seq11": {
+      "ReceiverContent": "And then, of course, tomorrow, 15 minutes exactly prior to the appointment, you will go ahead and get another link for you to be able to sign in and join the video visit, okay?",
+      "Timestamp": "2023-09-20 16:09:58"
+    },
+    "Seq12": {
+      "CallerContent": "Okay.",
+      "ReceiverContent": "Thank you again, ma'am.",
+      "Timestamp": "2023-09-20 16:10:10"
+    },
+    "Seq13": {
+      "CallerContent": "Sounds good.",
+      "ReceiverContent": "Yes, ma'am. Have a good day. Bye-bye.",
+      "Timestamp": "2023-09-20 16:10:13"
+    },
+    "Seq14": {
+      "CallerContent": "Bye. Bye.",
+      "Timestamp": "2023-09-20 16:10:16"
+    },
+    "Seq15": {
+      "ReceiverContent": "Bye.",
+      "Timestamp": "2023-09-20 16:10:17"
+    }
+  }
+}

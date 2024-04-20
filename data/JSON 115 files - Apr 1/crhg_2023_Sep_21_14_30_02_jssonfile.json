@@ -1,0 +1,83 @@
+{
+  "Metadata": "value",
+  "Receiver": "Dominic from Grobson Family Practice",
+  "Timestamp": "2023-09-21 14:30:02",
+  "CallContent": {
+    "Seq1": {
+      "ReceiverContent": "Good afternoon. Thank you for calling Grobson Family Practice. This is Dominic. I'll be assisting you for the day.",
+      "Timestamp": "2023-09-21 00:00:00"
+    },
+    "Seq2": {
+      "CallerContent": "Hi, this is Karen Sutton. I have an appointment at 2.45, and I'm just calling to check and make sure that she's on time. Is she behind at all?",
+      "Timestamp": "2023-09-21 00:06:00"
+    },
+    "Seq3": {
+      "ReceiverContent": "Okay, so your name is? Karen Sutton.",
+      "Timestamp": "2023-09-21 00:17:00"
+    },
+    "Seq4": {
+      "CallerContent": "Pardon?",
+      "ReceiverContent": "May I have your last name, ma'am?",
+      "Timestamp": "2023-09-21 00:27:00"
+    },
+    "Seq5": {
+      "CallerContent": "It's Sutton. My appointment is at 2.45.",
+      "ReceiverContent": "2.45 is Douglas Ketro. May I have your date of birth, ma'am?",
+      "Timestamp": "2023-09-21 00:30:00"
+    },
+    "Seq6": {
+      "CallerContent": "2.21.48.",
+      "ReceiverContent": "Karen Sutton.",
+      "Timestamp": "2023-09-21 00:54:00"
+    },
+    "Seq7": {
+      "ReceiverContent": "Yes, it's by 2.45.",
+      "Timestamp": "2023-09-21 01:06:00"
+    },
+    "Seq8": {
+      "CallerContent": "Would you have someone else down for 2.45 as well?",
+      "ReceiverContent": "No. Yes, you have the appointment here, and it's an office visit.",
+      "Timestamp": "2023-09-21 01:11:00"
+    },
+    "Seq9": {
+      "CallerContent": "Right.",
+      "ReceiverContent": "Okay, so for the further information, let me transfer the call to a friend. They'll help you out with this, ma'am. Kindly stay online. Let me transfer the call, and you have a great day.",
+      "Timestamp": "2023-09-21 01:26:00"
+    },
+    "Seq10": {
+      "CallerContent": "All right. Thank you.",
+      "ReceiverContent": "Your conversation is being recorded.",
+      "Timestamp": "2023-09-21 01:34:00"
+    },
+    "Seq11": {
+      "OtherSpeakerContent": "Thank you for contacting Grobson Family Practice. This is Brandy here in the front office. How can we help you today?",
+      "Timestamp": "2023-09-21 01:44:00"
+    },
+    "Seq12": {
+      "CallerContent": "Hey, Brandy. This is Karen Sutton. I have an appointment at 2.45, and I'm just calling to check and make sure that she's on time. Can you tell me if Dr. Williams is on time right now?",
+      "Timestamp": "2023-09-21 01:50:00"
+    },
+    "Seq13": {
+      "ReceiverContent": "Right now, she is on time. Yes, ma'am. So are you looking to be a little later, or?",
+      "Timestamp": "2023-09-21 02:00:00"
+    },
+    "Seq14": {
+      "CallerContent": "No, no. I can leave and come right now if she's on time.",
+      "ReceiverContent": "Yeah, she's actually right now. She's currently running on time, and nothing is backed up, anything of that nature. I would definitely say, in my eyes, I would say to be here on time because everything seems to be going as is for right now, ma'am.",
+      "Timestamp": "2023-09-21 02:06:00"
+    },
+    "Seq15": {
+      "OtherSpeakerContent": "Okay.",
+      "Timestamp": "2023-09-21 02:25:00"
+    },
+    "Seq16": {
+      "CallerContent": "Well, it takes me less than five minutes, so I'll be there. All righty. No problem. Thank you, honey.",
+      "ReceiverContent": "Yes, ma'am. No problem. Bye-bye.",
+      "Timestamp": "2023-09-21 02:26:00"
+    },
+    "Seq17": {
+      "CallerContent": "Bye-bye.",
+      "Timestamp": "2023-09-21 02:34:00"
+    }
+  }
+}

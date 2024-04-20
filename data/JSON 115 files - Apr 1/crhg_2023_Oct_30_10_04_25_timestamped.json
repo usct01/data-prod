@@ -1,0 +1,20 @@
+crhg_2023_Oct_30_10_04_25_timestamped
+```json
+{
+  "Caller": "William",
+  "Receiver": "Dominic",
+  "Timestamp": "2024-03-27",
+  "CallContent": {
+    "Seq1": {
+      "CallerContent": "Yeah, hi. My name is William Dar. I'm a patient of Dr. Allison Williams. And I had an appointment like a week or so ago, and she asked that if I needed a prescription just to let her know and she would call it in.",
+      "ReceiverContent": "Okay. Regarding prescription, I got you. So can you give me a minute? Let me transfer the call to the concerned person who can help you out with this. Thank you. Let me transfer the call, and you have a great day.",
+      "Timestamp": "2024-03-27 00:05:00"
+    },
+    "Seq2": {
+      "CallerContent": "Yeah, hi, my name is William Dar, patient of Allison Williams, and I was hoping, as per our conversation from our doctor appointment last week, I was hoping if Dr. Williams could call me in a prescription.",
+      "ReceiverContent": "Hello. You have reached the nurse line. If this is an emergency, please hang up and dial 911. If you're calling for a prescription refill, please leave a detailed message with the drug name, the milligrams, and your pharmacy information. Please allow 72 hours. For your refills to be processed, leave us a message, and we'll get back to you as soon as we can. Thank you and have a good day.",
+      "Timestamp": "2024-03-27 01:43:00"
+    }
+  }
+}
+```
