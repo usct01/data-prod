@@ -1,17 +1,29 @@
 # data-prod
 Key Insights
+
 Here are some insights that would be great to have
 Number of calls 
+
 Number of calls by week
+
 Number and % of calls by reciever
+
 Number and % of calls by sentiment
+
 Length of calls (based on word count) Average, Max and Min
+
 Length of call by call receiver
+
 Length of call by sentiment
+
 Call receiver by sentiment
+
 Calls by week by sentiment
+
 Calls by person making the call
+
 Sentiment by person making the call
+
 Politeness of the call receiver (for example if the reciever used “thanks” at the end of the conversation)
 
 
