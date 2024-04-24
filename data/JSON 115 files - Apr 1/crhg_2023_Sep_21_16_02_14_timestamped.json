@@ -1,5 +1,4 @@
-crhg_2023_Sep_21_16_02_14_timestamped
-```json
+
 {
   "Metadata": "value",
   "Caller": "Faith Van Lange",
@@ -108,4 +107,7 @@ crhg_2023_Sep_21_16_02_14_timestamped
     },
     "Seq21": {
       "CallerContent": "Okay.",
-      "ReceiverContent": "We're still looking at
+      "ReceiverContent": "We're still looking at it."
+    }
+  }
+}
