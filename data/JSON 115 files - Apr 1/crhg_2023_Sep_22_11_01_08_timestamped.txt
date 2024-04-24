@@ -1,83 +1,145 @@
-Receiver - Kathy
-[00:00 - 00:04] Good morning. Thank you for calling Craft and Convect Practice. This is Kathy. How may I assist you today?
-
-Caller - Kathy Scott
-[00:05 - 00:13] Yes, this is Kathy Scott. I wanted to make an appointment to discuss the results of my blood work and also have another issue I wanted to speak to Dr. Williams about.
-
-Receiver - Kathy
-[00:14 - 00:17] Would you like to meet the doctor in person or to tele-visit?
-
-Caller - Kathy Scott
-[00:18 - 00:19] No, in person.
-
-Receiver - Kathy
-[00:20 - 00:21] Can I stay online?
-
-Other speaker
-[00:22 - 00:22] Yes.
-
-Receiver - Kathy
-[00:55 - 01:01] We do have a slot available on 27th of September at 9.30 a.m. Will that be okay with you?
-
-Caller - Kathy Scott
-[01:02 - 01:04] That's this Wednesday? Yes, 9.30?
-
-Receiver - Kathy
-[01:06 - 01:09] Yes, this Wednesday, 9.30 a.m.
-
-Caller - Kathy Scott
-[01:09 - 01:11] That would be very good. That's Kathy Scott.
-
-Receiver - Kathy
-[01:12 - 01:20] Yeah, can you give me a minute? Could you please help me with the date of birth?
-
-Caller - Kathy Scott
-[01:21 - 01:22] 12-1-46.
-
-Receiver - Kathy
-[01:24 - 01:27] 12-1-46.
-
-Caller - Kathy Scott
-[01:28 - 01:28] Mm-hmm.
-
-Other speaker
-[01:30 - 01:33] Is your last name Scott? Yes. Yes.
-
-Receiver - Kathy
-[01:36 - 01:37] Can I stay online?
-
-Caller - Kathy Scott
-[01:38 - 01:38] Yes.
-
-Receiver - Kathy
-[01:39 - 01:47] So, just to confirm, I have an appointment on 27th of September at 9.30 a.m.
-
-Caller - Kathy Scott
-[01:47 - 01:48] Sounds good.
-
-Receiver - Kathy
-[01:50 - 01:54] For lab work. Is there anything else that I may assist you with?
-
-Caller - Kathy Scott
-[01:55 - 01:59] To discuss the lab work. Yes. Results, yeah.
-
-Receiver - Kathy
-[02:00 - 02:02] Is there anything else that I may assist you with?
-
-Caller - Kathy Scott
-[02:03 - 02:03] Excuse me?
-
-Receiver - Kathy
-[02:05 - 02:07] Is there anything else that I may assist you with?
-
-Caller - Kathy Scott
-[02:08 - 02:11] No, there's just another issue I wanted to speak with the doctor about, but that's all.
-
-Receiver - Kathy
-[02:12 - 02:15] Okay. Thank you for calling Kraftman Family Practice, and have a great day.
-
-Caller - Kathy Scott
-[02:15 - 02:16] Thank you. You too.
-
-Other speaker
-[02:16 - 02:17] Bye. Bye-bye.
+{
+    "Receiver": "Kathy",
+    "Messages": [
+        {
+            "Speaker": "Kathy",
+            "Utterance": "Good morning. Thank you for calling Craft and Convect Practice. This is Kathy. How may I assist you today?",
+            "Time": "[00:00 - 00:04]"
+        },
+        {
+            "Speaker": "Kathy Scott",
+            "Utterance": "Yes, this is Kathy Scott. I wanted to make an appointment to discuss the results of my blood work and also have another issue I wanted to speak to Dr. Williams about.",
+            "Time": "[00:05 - 00:13]"
+        },
+        {
+            "Speaker": "Kathy",
+            "Utterance": "Would you like to meet the doctor in person or to tele-visit?",
+            "Time": "[00:14 - 00:17]"
+        },
+        {
+            "Speaker": "Kathy Scott",
+            "Utterance": "No, in person.",
+            "Time": "[00:18 - 00:19]"
+        },
+        {
+            "Speaker": "Kathy",
+            "Utterance": "Can I stay online?",
+            "Time": "[00:20 - 00:21]"
+        },
+        {
+            "Speaker": "Other speaker",
+            "Utterance": "Yes.",
+            "Time": "[00:22 - 00:22]"
+        },
+        {
+            "Speaker": "Kathy",
+            "Utterance": "We do have a slot available on 27th of September at 9.30 a.m. Will that be okay with you?",
+            "Time": "[00:55 - 01:01]"
+        },
+        {
+            "Speaker": "Kathy Scott",
+            "Utterance": "That's this Wednesday? Yes, 9.30?",
+            "Time": "[01:02 - 01:04]"
+        },
+        {
+            "Speaker": "Kathy",
+            "Utterance": "Yes, this Wednesday, 9.30 a.m.",
+            "Time": "[01:06 - 01:09]"
+        },
+        {
+            "Speaker": "Kathy Scott",
+            "Utterance": "That would be very good. That's Kathy Scott.",
+            "Time": "[01:09 - 01:11]"
+        },
+        {
+            "Speaker": "Kathy",
+            "Utterance": "Yeah, can you give me a minute? Could you please help me with the date of birth?",
+            "Time": "[01:12 - 01:20]"
+        },
+        {
+            "Speaker": "Kathy Scott",
+            "Utterance": "12-1-46.",
+            "Time": "[01:21 - 01:22]"
+        },
+        {
+            "Speaker": "Kathy",
+            "Utterance": "12-1-46.",
+            "Time": "[01:24 - 01:27]"
+        },
+        {
+            "Speaker": "Kathy Scott",
+            "Utterance": "Mm-hmm.",
+            "Time": "[01:28 - 01:28]"
+        },
+        {
+            "Speaker": "Other speaker",
+            "Utterance": "Is your last name Scott? Yes. Yes.",
+            "Time": "[01:30 - 01:33]"
+        },
+        {
+            "Speaker": "Kathy",
+            "Utterance": "Can I stay online?",
+            "Time": "[01:36 - 01:37]"
+        },
+        {
+            "Speaker": "Kathy Scott",
+            "Utterance": "Yes.",
+            "Time": "[01:38 - 01:38]"
+        },
+        {
+            "Speaker": "Kathy",
+            "Utterance": "So, just to confirm, I have an appointment on 27th of September at 9.30 a.m.",
+            "Time": "[01:39 - 01:47]"
+        },
+        {
+            "Speaker": "Kathy Scott",
+            "Utterance": "Sounds good.",
+            "Time": "[01:47 - 01:48]"
+        },
+        {
+            "Speaker": "Kathy",
+            "Utterance": "For lab work. Is there anything else that I may assist you with?",
+            "Time": "[01:50 - 01:54]"
+        },
+        {
+            "Speaker": "Kathy Scott",
+            "Utterance": "To discuss the lab work. Yes. Results, yeah.",
+            "Time": "[01:55 - 01:59]"
+        },
+        {
+            "Speaker": "Kathy",
+            "Utterance": "Is there anything else that I may assist you with?",
+            "Time": "[02:00 - 02:02]"
+        },
+        {
+            "Speaker": "Kathy Scott",
+            "Utterance": "Excuse me?",
+            "Time": "[02:03 - 02:03]"
+        },
+        {
+            "Speaker": "Kathy",
+            "Utterance": "Is there anything else that I may assist you with?",
+            "Time": "[02:05 - 02:07]"
+        },
+        {
+            "Speaker": "Kathy Scott",
+            "Utterance": "No, there's just another issue I wanted to speak with the doctor about, but that's all.",
+            "Time": "[02:08 - 02:11]"
+        },
+        {
+            "Speaker": "Kathy",
+            "Utterance": "Okay. Thank you for calling Kraftman Family Practice, and have a great day.",
+            "Time": "[02:12 - 02:15]"
+        },
+        {
+            "Speaker": "Kathy Scott",
+            "Utterance": "Thank you. You too.",
+            "Time": "[02:15 - 02:16]"
+        },
+        {
+            "Speaker": "Other speaker",
+            "Utterance": "Bye. Bye-bye.",
+            "Time": "[02:16 - 02:17]"
+        }
+    ]
+}
